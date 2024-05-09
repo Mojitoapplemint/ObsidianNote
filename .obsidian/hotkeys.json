@@ -1,42 +1,4 @@
 {
-  "obsidian-git:pull": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Q"
-    }
-  ],
-  "switcher:open": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "O"
-    },
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Tab"
-    }
-  ],
-  "command-palette:open": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "P"
-    }
-  ],
-  "workspace:split-vertical": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "ArrowRight"
-    }
-  ],
   "obsidian-git:push": [
     {
       "modifiers": [

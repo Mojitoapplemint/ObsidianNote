@@ -1,14 +1,1 @@
-{
-  "newFileLocation": "root",
-  "newFileFolderPath": "Attached Files",
-  "tabSize": 5,
-  "strictLineBreaks": false,
-  "attachmentFolderPath": "Attached Files",
-  "alwaysUpdateLinks": true,
-  "pdfExportSettings": {
-    "pageSize": "A4",
-    "landscape": false,
-    "margin": "0",
-    "downscalePercent": 100
-  }
-}
+{}

@@ -1,9 +1,5 @@
 {
   "accentColor": "",
-  "cssTheme": "Obsidian Nord",
-  "baseFontSize": 19,
   "theme": "obsidian",
-  "interfaceFontFamily": "",
-  "textFontFamily": "HYGothic",
-  "nativeMenus": false
+  "cssTheme": "Obsidian Nord"
 }
