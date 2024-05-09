@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/0. Deep Learning Basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "504fa0d8ce14e088",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "asdasdasdasd.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/1. TensorFlow Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -110,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asdasdasdasd.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/1. TensorFlow Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "asdasdasdasd.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/1. TensorFlow Fundamentals.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "asdasdasdasd.md"
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/1. TensorFlow Fundamentals.md"
               }
             }
           },
@@ -175,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,12 +179,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "504fa0d8ce14e088",
+  "active": "ecc678aa69c9ae8a",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "Excalidraw/Drawing 2024-05-10 04.48.01.excalidraw.md",
     "AI & TensorFlow/TensorFlow Bootcamp/0. Deep Learning Basics.md",
+    "Untitled 1.md",
     "asdasdasdasd.md",
+    "Excalidraw/Drawing 2024-05-10 04.48.01.excalidraw.md",
     "remote",
     "Computer Science/Git & GitHub.md",
     "Origin",
