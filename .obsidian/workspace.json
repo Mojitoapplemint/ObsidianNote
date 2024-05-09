@@ -98,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/0. Deep Learning Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/0. Deep Learning Basics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/0. Deep Learning Basics.md"
               }
             }
           },
@@ -184,10 +186,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c0a9e7ff4e6bd264",
+  "active": "ecc678aa69c9ae8a",
   "lastOpenFiles": [
-    "AI & TensorFlow/TensorFlow Bootcamp/0. Deep Learning Basics.md",
     "Untitled 1.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/0. Deep Learning Basics.md",
     "remote",
     "Computer Science/Git & GitHub.md",
     "Origin",
