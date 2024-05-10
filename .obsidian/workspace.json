@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -181,6 +180,9 @@
   },
   "active": "ecc678aa69c9ae8a",
   "lastOpenFiles": [
+    "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/1. TensorFlow Fundamentals.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/Codes.md",
     "AI & TensorFlow/TensorFlow Bootcamp/0. Deep Learning Basics.md",
     "Untitled 1.md",
     "asdasdasdasd.md",
@@ -206,9 +208,6 @@
     "Mathematics/MATH3161/7. Liouville's Theorem and FTA.md",
     "Mathematics/MATH3161/6. Integration.md",
     "Mathematics/MATH3161/5. The Bestiary of Holomorphic Function.md",
-    "Mathematics/MATH3161/4. Derivative.md",
-    "Mathematics/MATH3161/3. Functions of a Complex Variable.md",
-    "Mathematics/MATH3161/1. Basics of Complex Numbers.md",
     "Mathematics/MATH2121",
     "Mathematics/MATH3161",
     "Mathematics",
