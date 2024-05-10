@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/1. TensorFlow Fundamentals.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/1. TensorFlow Fundamentals.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/1. TensorFlow Fundamentals.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/1. TensorFlow Fundamentals.md"
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md"
               }
             }
           },
@@ -181,8 +180,9 @@
   },
   "active": "ecc678aa69c9ae8a",
   "lastOpenFiles": [
+    "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/1. TensorFlow Fundamentals.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Codes.md",
     "AI & TensorFlow/TensorFlow Bootcamp/0. Deep Learning Basics.md",
     "Untitled 1.md",
@@ -208,7 +208,6 @@
     "Mathematics/MATH3161/9. Series.md",
     "Mathematics/MATH3161/7. Liouville's Theorem and FTA.md",
     "Mathematics/MATH3161/6. Integration.md",
-    "Mathematics/MATH3161/5. The Bestiary of Holomorphic Function.md",
     "Mathematics/MATH2121",
     "Mathematics/MATH3161",
     "Mathematics",
