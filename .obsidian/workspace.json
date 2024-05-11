@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md"
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md"
               }
             }
           },
@@ -181,8 +181,8 @@
   },
   "active": "ecc678aa69c9ae8a",
   "lastOpenFiles": [
-    "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
     "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Codes.md",
     "AI & TensorFlow/TensorFlow Bootcamp/0. Deep Learning Basics.md",
