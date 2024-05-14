@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Git & GitHub.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md"
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/Extras.md"
               }
             }
           },
@@ -178,15 +177,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ecc678aa69c9ae8a",
+  "active": "ef7677171ffcfe6e",
   "lastOpenFiles": [
-    "AI & TensorFlow/TensorFlow Bootcamp/Practice Codes/1. Insurance.md",
+    "Computer Science/Git & GitHub.md",
     "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/Practice Codes/1. Insurance.md",
     "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Practice Codes",
     "필리뚜랑 할 거.md",
-    "Computer Science/Git & GitHub.md",
     "Pasted image 20240514060648.png",
     "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Codes.md",
