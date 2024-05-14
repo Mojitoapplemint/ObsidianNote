@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md"
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md"
               }
             }
           },
@@ -181,12 +181,15 @@
   },
   "active": "ecc678aa69c9ae8a",
   "lastOpenFiles": [
-    "필리뚜랑 할 거.md",
     "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/Practice Codes/1. Insurance.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/Practice Codes",
+    "필리뚜랑 할 거.md",
     "Computer Science/Git & GitHub.md",
     "Pasted image 20240514060648.png",
     "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Codes.md",
     "AI & TensorFlow/TensorFlow Bootcamp/0. Deep Learning Basics.md",
     "Untitled 1.md",
@@ -208,8 +211,6 @@
     "Mathematics/MATH2121/1. Ordinary Differential Equation.md",
     "Mathematics/MATH3161/8. Morera's Theorem.md",
     "Mathematics/MATH2121/0. Differential Equation.md",
-    "Mathematics/MATH3161/9. Series.md",
-    "Mathematics/MATH3161/7. Liouville's Theorem and FTA.md",
     "Mathematics/MATH2121",
     "Mathematics/MATH3161",
     "Mathematics",
@@ -217,7 +218,6 @@
     "AI & TensorFlow/TensorFlow Bootcamp",
     "AI & TensorFlow",
     "git",
-    "Data Science/MATH1311",
     "Attached Files/Pasted image 20240505081919.png",
     "Attached Files/Pasted image 20240503020059.png",
     "Attached Files/Pasted image 20240503015926.png",
