@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "필리뚜랑 할 거.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "필리뚜랑 할 거.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "필리뚜랑 할 거.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "필리뚜랑 할 거.md"
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md"
               }
             }
           },
@@ -180,6 +181,7 @@
   },
   "active": "ecc678aa69c9ae8a",
   "lastOpenFiles": [
+    "필리뚜랑 할 거.md",
     "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
     "Computer Science/Git & GitHub.md",
     "Pasted image 20240514060648.png",
