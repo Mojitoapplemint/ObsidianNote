@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/Extras.md"
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md"
               }
             }
           },
@@ -173,20 +174,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ef7677171ffcfe6e",
+  "active": "ecc678aa69c9ae8a",
   "lastOpenFiles": [
+    "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
+    "Pasted image 20240514060648.png",
     "Computer Science/Git & GitHub.md",
     "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Practice Codes/1. Insurance.md",
     "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Practice Codes",
     "필리뚜랑 할 거.md",
-    "Pasted image 20240514060648.png",
     "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Codes.md",
     "AI & TensorFlow/TensorFlow Bootcamp/0. Deep Learning Basics.md",
@@ -208,7 +209,6 @@
     "Mathematics/MATH2121/10. Application of SOLDE.md",
     "Mathematics/MATH2121/1. Ordinary Differential Equation.md",
     "Mathematics/MATH3161/8. Morera's Theorem.md",
-    "Mathematics/MATH2121/0. Differential Equation.md",
     "Mathematics/MATH2121",
     "Mathematics/MATH3161",
     "Mathematics",
