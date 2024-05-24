@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/Extras.md"
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md"
               }
             }
           },
@@ -179,6 +180,7 @@
   },
   "active": "ecc678aa69c9ae8a",
   "lastOpenFiles": [
+    "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
     "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
     "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
     "필리뚜랑 할 거.md",
@@ -204,7 +206,6 @@
     "Mathematics/MATH3161/6. Integration.md",
     "Mathematics/MATH3161/7. Liouville's Theorem and FTA.md",
     "Mathematics/MATH3161/4. Derivative.md",
-    "Mathematics/MATH3161/2. Basic Topology in C.md",
     "Mathematics/MATH2121",
     "Mathematics/MATH3161",
     "Mathematics",
