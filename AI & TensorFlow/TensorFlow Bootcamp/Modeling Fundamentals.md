@@ -169,6 +169,15 @@ We can improve the model by altering the previous steps
 ## Finding an Ideal Learning Rate
 Specifying the learning rate dictates the model to improve for certain amount for each epoch
 
+### Learning Rate Callback
+- Extra functionality that can be added to model *while* its training
+```python
+
+```
+
+### Another Model
+
+### Modifying Loss Function
 
 # Comparing the results of different models
 Compare with `pandas` DataFrame
