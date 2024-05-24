@@ -168,16 +168,29 @@ We can improve the model by altering the previous steps
 
 ## Finding an Ideal Learning Rate
 Specifying the learning rate dictates the model to improve for certain amount for each epoch
+- Default learning rate usually works, so **try default first and modify it**
 
-### Learning Rate Callback
+Learning Rate Callback
 - Extra functionality that can be added to model *while* its training
 ```python
+# traverse a set of learning rate values starting from 1e-4, increasing by 10**(epoch/20) every epoch 
+lr_scheduler = tf.keras.callbacks.LearningRateScheduler(lambda epoch: 1e-4 * 10**(epoch/20))
 
+# Fit the model (passing the lr_scheduler callback) 
+history = model_9.fit(X_train, y_train, epochs=100, callbacks=[lr_scheduler])
+
+# Plot loss vs. lr
+plt.semilogx(lrs, history.history["loss"]) # we want the x-axis (learning rate) to be log scale 
+plt.xlabel("Learning Rate") 
+plt.ylabel("Loss") 
+plt.title("Learning rate vs. loss")
+plt.show()
 ```
+![[Pasted image 20240524170233.png|400]]
 
-### Another Model
-
-### Modifying Loss Function
+Rule of Thumb
+- Where the loss is *still decreasing but not quite flattened out*
+- Usually about *10x smaller than the bottom* of the curve
 
 # Comparing the results of different models
 Compare with `pandas` DataFrame
