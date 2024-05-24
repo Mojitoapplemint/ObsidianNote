@@ -166,6 +166,10 @@ We can improve the model by altering the previous steps
 	- If the model is over-trained by features, it can't predict from the input that it haven't seen before
 - Start with the small experiments and make sure they work and then increase their scale when necessary
 
+## Finding an Ideal Learning Rate
+Specifying the learning rate dictates the model to improve for certain amount for each epoch
+
+
 # Comparing the results of different models
 Compare with `pandas` DataFrame
 ```python
