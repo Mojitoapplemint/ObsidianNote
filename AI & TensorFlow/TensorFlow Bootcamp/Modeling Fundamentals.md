@@ -1,16 +1,15 @@
-
-## 0. Preprocessing Data
-### Normalization
+# 0. Preprocessing Data
+## Normalization
 Change the values of *numerical columns in the dataset to a common scale*, \[0,1\], without distorting the distribution
 - `sklearn.MinMaxScaler()`
 - Use as **default scaler** with neural networks
 
-### Standardization
+## Standardization
 Removes the mean and divides each value by the [[3. Spread and Variance#Standard Deviation|standard deviation]]; transform a feature to have close to [[5. Normal Distribution|normal distribution]]
 - `sklearn.StandardScaler()`
 - This **reduces the effect of outliers**
 
-### Using `sklearn` for Preprocessing
+## Using `sklearn` for Preprocessing
 When we are using the column transformer, we need to *fit the transformer* to the `training_data`, then use it to transform the `test_data`
 
 ```python
@@ -29,7 +28,31 @@ X_train_normal = ct.transform(X_train)
 X_test_normal = ct.transform(X_test)
 ```
 
-## 1. Creating a Model
+## Splitting Models into Train/Test Sets
+The total data set is divided into three sets
+- *To test the ability for a ML model to perform well on data it hasn't seen before*
+
+Training Set (Course Materials)
+- The model **learns** from this data
+- *70-80%* of the total data available
+- Features: `X_train` / Labels: `y_train`
+Validation Set (Practice Exam)
+- The model gets **tuned** on this data
+- *10-15%* of the data available
+Test Set (Final Exam)
+- The model gets **evaluated** on this data to test what is has learned
+- *10-15%* of the total data available
+- Features: `X_test` / Labels: `y_test`
+
+`train_test_split('features', 'labels', test_size, random_state)`
+- `test_size`: Between 0 to 1; represent the proportion of the test split
+- `random_state`: Work as `random_seed`
+```python
+from sklearn.model_selection import train_test_split
+X_train, X_test, y_train, y_test = train_test_split()
+```
+
+# 1. Creating a Model
 Define the input, output and hidden layers
 - `tf.keras.layers.Dense('number of neurons')`
 - Use **`tf.float32` as default**
@@ -51,7 +74,7 @@ mode = tf.keras.Sequential([tf.keras.layers.Dense(8), tf.keras...])
 
 ```
 
-## 2. Compiling a model
+# 2. Compiling a model
 Define 
 - A loss function 
 - Optimizer: Tells our model how to imporve the patterns its learning 
@@ -70,7 +93,7 @@ model.compile(loss=tf.keras.losses.mae,
  => optimizer="sgd"
 ```
 
-## 3. Fitting the model
+# 3. Fitting the model
 Letting the model try to find pattern
 ```python
 model.fit('features', 'labels', epochs='int') 
@@ -78,14 +101,14 @@ model.fit('features', 'labels', epochs='int')
 - `Epochs` refers to the number of opportunity for the model to find pattern
 - The `features` is required to be rank of higher than 1, thus, if the `features` is a vector, we need to [[AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals#Using `tf.expand_dims`|expand it]]
 
-### Make a Prediction from Model
+## Make a Prediction from Model
 To visualize the prediction, it is a good idea to plot them against the ground truth labels
 - `y_test / y_true` versus `y_pred` 
 ```python
 y_pred=model.predict(X_test)
 ```
 
-### Plot History
+## Plot History
 We can visualize "`loss` vs `epochs`"
 ```python
 history = model.fit('features', 'labels', epochs='int') 
@@ -95,42 +118,16 @@ plt.ylabel("loss")
 plt.show()
 ```
 
-### `tf.summary()`
-We can see the current status of the model
+## Checking Current Status
+`tf.summary()`
 - `Total Param`: Total number of parameters in the model
 - `Trainable Params`: Parameter that the model can update as it trains
 - `Non-Trainable Params`: Parameter that won't be updated; when trained model participates during transfer learning
 
 [Additional Video{MIT Introduction to Deep Learning)](https://www.youtube.com/watch?v=ErnWZxJovaM)
 
-## 4. Evaluating the Model
-The total data set is divided into three sets
-- *To test the ability for a ML model to perform well on data it hasn't seen before*
-
-Training Set (Course Materials)
-- The model **learns** from this data
-- *70-80%* of the total data available
-- Features: `X_train` / Labels: `y_train`
-Validation Set (Practice Exam)
-- The model gets **tuned** on this data
-- *10-15%* of the data available
-Test Set (Final Exam)
-- The model gets **evaluated** on this data to test what is has learned
-- *10-15%* of the total data available
-- Features: `X_test` / Labels: `y_test`
-
-### `train_test_split`
-Splits arrays or matrices into random train and test subsets
-- `train_test_split('features', 'labels', test_size, random_state)`
-- `test_size`: Between 0 to 1; represent the proportion of the test split
-- `random_state`: Work as `random_seed`
-
-```python
-from sklearn.model_selection import train_test_split
-X_train, X_test, y_train, y_test = train_test_split()
-```
-
-### Evaluating Model's Predictions with Regression Evaluation Metrics
+# 4. Evaluating the Model
+## Evaluating Model's Predictions with Regression Evaluation Metrics
 1. MAE (Mean Absolute Error)
 	- On average, how wrong is each of my model's prediction
 	- `tf.keras.losses.MAE()` or `tf.metrics.ean_absolute_error('true_label', 'prediction')`
@@ -149,7 +146,7 @@ X_train, X_test, y_train, y_test = train_test_split()
 `tf.evaluate(X_test, y_test)`
 - This will automatically use the evaluation metrics from the model
 
-## 4.5.1 Improve Model
+# 5. Improve Model
 We can improve the model by altering the previous steps
 
 1. Creating the model
@@ -169,7 +166,7 @@ We can improve the model by altering the previous steps
 	- If the model is over-trained by features, it can't predict from the input that it haven't seen before
 - Start with the small experiments and make sure they work and then increase their scale when necessary
 
-## 4.5.2 Comparing the results of different models
+# Comparing the results of different models
 Compare with `pandas` DataFrame
 ```python
 import pandas as pd
