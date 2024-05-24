@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fbc031b3b21f4552",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md"
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md"
               }
             }
           },
@@ -166,8 +179,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ecc678aa69c9ae8a",
+  "active": "fbc031b3b21f4552",
   "lastOpenFiles": [
+    "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
     "필리뚜랑 할 거.md",
     "방학 동안 하고 싶은 거.md",
     "듣고 싶은 강의.md",
@@ -192,11 +207,9 @@
     "Mathematics/MATH3161/7. Liouville's Theorem and FTA.md",
     "Mathematics/MATH3161/4. Derivative.md",
     "Mathematics/MATH3161/2. Basic Topology in C.md",
-    "Mathematics/MATH3161/1. Basics of Complex Numbers.md",
     "Mathematics/MATH2121",
     "Mathematics/MATH3161",
     "Mathematics",
-    "Excalidraw/Drawing 2024-04-18 15.37.00.excalidraw.md",
     "Excalidraw",
     "Data Science/MATH1311",
     "Data Science",
