@@ -169,6 +169,7 @@ We can improve the model by altering the previous steps
 ## Finding an Ideal Learning Rate
 Specifying the learning rate dictates the model to improve for certain amount for each epoch
 - Default learning rate usually works, so **try default first and modify it**
+- Ideal Learning Rate will let the model to improve faster(Require less epochs)
 
 Learning Rate Callback
 - Extra functionality that can be added to model *while* its training
