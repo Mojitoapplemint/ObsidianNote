@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/Activation Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,9 +179,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ecc678aa69c9ae8a",
+  "active": "fbc031b3b21f4552",
   "lastOpenFiles": [
     "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/Activation Functions.md",
+    "Attached Files/Pasted image 20240524161138.png",
+    "Attached Files/Pasted image 20240524161026.png",
+    "Attached Files/Pasted image 20240524160837.png",
     "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
     "필리뚜랑 할 거.md",
@@ -204,8 +209,6 @@
     "Mathematics/MATH3161/9. Series.md",
     "Mathematics/MATH3161/8. Morera's Theorem.md",
     "Mathematics/MATH3161/6. Integration.md",
-    "Mathematics/MATH3161/7. Liouville's Theorem and FTA.md",
-    "Mathematics/MATH3161/4. Derivative.md",
     "Mathematics/MATH2121",
     "Mathematics/MATH3161",
     "Mathematics",
@@ -223,9 +226,6 @@
     "Attached Files/Pasted image 20240418153019.png",
     "Attached Files/Pasted image 20240418152955.png",
     "Attached Files/Pasted image 20240415071751.png",
-    "Attached Files/Pasted image 20240331232454.png",
-    "Attached Files/Pasted image 20240331232424.png",
-    "Attached Files/Pasted image 20240331232220.png",
     "Untitled.canvas"
   ]
 }
