@@ -181,6 +181,7 @@ lr_scheduler = tf.keras.callbacks.LearningRateScheduler(lambda epoch: 1e-4 * 10*
 history = model_9.fit(X_train, y_train, epochs=100, callbacks=[lr_scheduler])
 
 # Plot loss vs. lr
+lrs = 1e-4 * 10**(tf.range(100)/20)
 plt.semilogx(lrs, history.history["loss"]) # we want the x-axis (learning rate) to be log scale 
 plt.xlabel("Learning Rate") 
 plt.ylabel("Loss") 
