@@ -205,11 +205,17 @@ model_results = [["model_1", mae_1.numpy(), mse_1.numpy()],
 all_results = pd.DataFrame(model_results, columns=["model", "mae", "mse"]) all_results
 ```
 
-**Note)**
+**Note:**
 - Tracking the result of experiment is important in ML modeling
 - Following can be helpful
 	- TensorBoard
 	- Weights & Biases
+
+**Note:**
+The same model with even *slightly* different data can produce *dramatically* different results. Thus, it is important to compare different model on the same criteria
+- Same architecture but different data
+- Same data but different architecture
+
 
 # Plotting Model
 ```python
