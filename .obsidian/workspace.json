@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md"
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/Extras.md"
               }
             }
           },
@@ -205,9 +204,10 @@
   },
   "active": "e6951b209122c0cd",
   "lastOpenFiles": [
+    "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
+    "Attached Files/Pasted image 20240527124337.png",
     "AI & TensorFlow/TensorFlow Bootcamp/Activation Functions.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Modeling Fundamentals.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
     "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
     "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
@@ -235,7 +235,6 @@
     "Mathematics/MATH2121/0. Differential Equation.md",
     "Mathematics/MATH3161/5. The Bestiary of Holomorphic Function.md",
     "Mathematics/MATH3161/9. Series.md",
-    "Mathematics/MATH3161/8. Morera's Theorem.md",
     "Mathematics/MATH2121",
     "Mathematics/MATH3161",
     "Mathematics",
@@ -250,7 +249,6 @@
     "Attached Files/Pasted image 20240505081919.png",
     "Attached Files/Pasted image 20240503015926.png",
     "Attached Files/Pasted image 20240418154041.png",
-    "Attached Files/Pasted image 20240418153019.png",
     "Untitled.canvas"
   ]
 }
