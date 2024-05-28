@@ -15,3 +15,5 @@ print(tf.config.list_physical_devices("GPU"))
 2. Copy the link
 3. Read it with `pandas` library
 	- `pd.read_csv('link')`
+
+# Visualize Random Image from Folder
