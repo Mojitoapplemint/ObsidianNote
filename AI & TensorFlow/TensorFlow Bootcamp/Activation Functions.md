@@ -17,4 +17,6 @@ $$\text{Sigmoid}=\frac{1}{1+e^{-x}}$$
 ![[Pasted image 20240524161138.png|400]]
 
 # Softmax
-$$\text{Softmax}(x_{i})=\frac{e^{x_{i}}}{\sum^{n}_{} }$$
+$$\text{Softmax}(x_{i})=\frac{e^{x_{i}}}{\sum^{n}_{j=1}e^{x_{j}} }$$
+- Making outputs **sum to 1**
+- 
