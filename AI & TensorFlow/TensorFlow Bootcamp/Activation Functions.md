@@ -13,6 +13,8 @@ def Relu(X):
 def sigmoid(X)
 	return 1/(1+exp(-X))
 ```
-$$\text{(Sigmoid)}=\frac{1}{1+e^{-x}}$$
+$$\text{Sigmoid}=\frac{1}{1+e^{-x}}$$
 ![[Pasted image 20240524161138.png|400]]
 
+# Softmax
+$$\text{Softmax}(x_{i})=\frac{e^{x_{i}}}{\sum^{n}_{} }$$
