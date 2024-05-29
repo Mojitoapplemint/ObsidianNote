@@ -101,3 +101,4 @@ y_pred=model.predict(X_test)
 - `Non-Trainable Params`: Parameter that won't be updated; when trained model participates during transfer learning
 
 [Additional Video{MIT Introduction to Deep Learning)](https://www.youtube.com/watch?v=ErnWZxJovaM)
+
