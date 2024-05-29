@@ -44,3 +44,60 @@ plt.legend()
 plt.show()
 ```
  
+# Comparing the results of different models
+Compare with `pandas` DataFrame
+```python
+import pandas as pd
+
+model_results = [["model_1", mae_1.numpy(), mse_1.numpy()], 
+				 ["model_2", mae_2.numpy(), mse_2.numpy()], 
+				 ["model_3", mae_3.numpy(), mse_3.numpy()]] 
+
+all_results = pd.DataFrame(model_results, columns=["model", "mae", "mse"]) all_results
+```
+
+**Note:**
+- Tracking the result of experiment is important in ML modeling
+- Following can be helpful
+	- TensorBoard
+	- Weights & Biases
+
+**Note:**
+The same model with even *slightly* different data can produce *dramatically* different results. Thus, it is important to compare different model on the same criteria
+- Same architecture but different data
+- Same data but different architecture
+
+# Plotting Model
+```python
+from tf.keras.utils import plot_model
+
+# Create a diagram of Neural Network
+plot_model(model='model', show_shape=True)
+
+```
+
+# Saving & Loading Model
+We can use our model outside of TF
+
+`model.save("filpath/filename")`
+- `SavedModel` format by default
+- `HDF5` format by adding `.h5` after the file name
+- Compatible with TF Server
+
+`tf.keras.models.load_model("filpath/filename")`
+- It still stores the pattern that the model already learned in both format
+
+# Make a Prediction from Model
+To visualize the prediction, it is a good idea to plot them against the ground truth labels
+- `y_test / y_true` versus `y_pred` 
+```python
+y_pred=model.predict(X_test)
+```
+
+# Checking Current Status
+`tf.summary()`
+- `Total Param`: Total number of parameters in the model
+- `Trainable Params`: Parameter that the model can update as it trains
+- `Non-Trainable Params`: Parameter that won't be updated; when trained model participates during transfer learning
+
+[Additional Video{MIT Introduction to Deep Learning)](https://www.youtube.com/watch?v=ErnWZxJovaM)
