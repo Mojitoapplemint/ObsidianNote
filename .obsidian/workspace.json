@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ecc678aa69c9ae8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/Activation Functions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fbc031b3b21f4552",
             "type": "leaf",
             "state": {
@@ -49,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -123,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md"
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md"
               }
             }
           },
@@ -205,13 +192,13 @@
   },
   "active": "f50b02bbfdd3b07a",
   "lastOpenFiles": [
-    "듣고 싶은 강의.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/Modeling Fundamentals.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Activation Functions.md",
     "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
+    "듣고 싶은 강의.md",
     "Attached Files/Pasted image 20240527124337.png",
-    "AI & TensorFlow/TensorFlow Bootcamp/Modeling Fundamentals.md",
     "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
     "Attached Files/Pasted image 20240525110501.png",
     "Attached Files/Pasted image 20240524170233.png",
