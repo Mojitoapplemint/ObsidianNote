@@ -102,3 +102,26 @@ y_pred=model.predict(X_test)
 
 [Additional Video{MIT Introduction to Deep Learning)](https://www.youtube.com/watch?v=ErnWZxJovaM)
 
+# Callbacks
+- Extra functionality that can be added to model *while* its training, evaluation or inference
+- `tf.keras.callbacks`
+
+TensorBoard
+- Log the performance of multiple models and then *view&compare them in a visual way*
+
+```python
+# Create tensorboard callback (functionized because need to create a new one for each model) 
+import datetime 
+def create_tensorboard_callback(dir_name, experiment_name): 
+	log_dir = dir_name + "/" + experiment_name + "/" + datetime.datetime.now().strftime("%Y%m%d-%H%M%S") 
+	tensorboard_callback = tf.keras.callbacks.TensorBoard( log_dir=log_dir ) 
+	print(f"Saving TensorBoard log files to: {log_dir}") 
+	return tensorboard_callback
+```
+
+Model Checkpointing
+- Save model as it trains 
+- Enable to stop while it's training and comeback later
+
+Early Stopping
+- Enable to stop earlier if the model stops improving
