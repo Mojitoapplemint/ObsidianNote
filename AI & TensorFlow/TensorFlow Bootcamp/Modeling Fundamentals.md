@@ -130,8 +130,7 @@ Specifying the learning rate dictates the model to improve for certain amount fo
 - Default learning rate usually works, so **try default first and modify it**
 - Ideal Learning Rate will let the model to improve faster(Require less epochs)
 
-Learning Rate Callback
-- Extra functionality that can be added to model *while* its training
+Learning Rate [[5. Transfer Learning with TF#Callbacks|Callback]]
 ```python
 # traverse a set of learning rate values starting from 1e-4, increasing by 10**(epoch/20) every epoch 
 lr_scheduler = tf.keras.callbacks.LearningRateScheduler(lambda epoch: 1e-4 * 10**(epoch/20))
