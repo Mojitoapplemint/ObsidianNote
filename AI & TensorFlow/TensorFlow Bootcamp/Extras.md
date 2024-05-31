@@ -106,8 +106,8 @@ y_pred=model.predict(X_test)
 - Extra functionality that can be added to model *while* its training, evaluation or inference
 - `tf.keras.callbacks`
 
-TensorBoard
-- Log the performance of multiple models and then *view&compare them in a visual way*
+## TensorBoard
+Log the performance of multiple models and then *view&compare them in a visual way*
 
 ```python
 # Create tensorboard callback (functionized because need to create a new one for each model) 
