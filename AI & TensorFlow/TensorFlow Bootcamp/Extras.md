@@ -108,7 +108,6 @@ y_pred=model.predict(X_test)
 
 ## TensorBoard
 Log the performance of multiple models and then *view&compare them in a visual way*
-
 ```python
 # Create tensorboard callback (functionized because need to create a new one for each model) 
 import datetime 
@@ -118,6 +117,11 @@ def create_tensorboard_callback(dir_name, experiment_name):
 	print(f"Saving TensorBoard log files to: {log_dir}") 
 	return tensorboard_callback
 ```
+
+**Steps**
+1. Pass the tensorboard callback while fitting
+2. Type `tensorboard --logdir "File_Path"`
+3. Go to `http://localhost:6006`
 
 Model Checkpointing
 - Save model as it trains 
