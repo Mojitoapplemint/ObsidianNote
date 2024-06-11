@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "92c6cb365d96a95e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -201,14 +187,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "92c6cb365d96a95e",
+  "active": "c0a9e7ff4e6bd264",
   "lastOpenFiles": [
+    "AI & TensorFlow/TensorFlow Bootcamp/TensorBoard.md",
     "Latex Suite Personal Setting.md",
     "Untitled 1.md",
     "Untitled.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
     "AI & TensorFlow/TensorFlow Bootcamp/5. Transfer Learning with TF.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/TensorBoard.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Modeling Fundamentals.md",
     "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
     "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
