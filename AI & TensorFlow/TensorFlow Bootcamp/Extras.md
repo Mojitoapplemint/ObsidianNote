@@ -132,6 +132,9 @@ tf.keras.callbacks.ModelCheckpoint(filepath="file_path",
 								  save_best_only=,
 								  save_freq="epochs", # save every epoch
 								  verbose=1
+
+# Saved weight can be loaded as follows:
+same_model.load_weights("file_path")
 ```
 
 Early Stopping
