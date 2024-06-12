@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/5. Transfer Learning with TF.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/5. Transfer Learning with TF.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/5. Transfer Learning with TF.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/5. Transfer Learning with TF.md"
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/Extras.md"
               }
             }
           },
@@ -204,9 +204,9 @@
   },
   "active": "e6951b209122c0cd",
   "lastOpenFiles": [
+    "AI & TensorFlow/TensorFlow Bootcamp/5. Transfer Learning with TF.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
     "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/5. Transfer Learning with TF.md",
     "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
     "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Keras Sequential API Modeling.md",
