@@ -124,9 +124,15 @@ def create_tensorboard_callback(dir_name, experiment_name):
 3. Go to `http://localhost:6006`
 
 ## Model Checkpointing
-- Save model as it trains (the full model or just the weights)
+Save model as it trains (the full model or just the weights)
 - Enable to stop while it's training and comeback later
-
+```python
+tf.keras.callbacks.ModelCheckpoint(filepath="file_path",
+								  save_weights_only=,)
+								  save_best_only=,
+								  save_freq="epochs", # save every epoch
+								  verbose=1
+```
 
 Early Stopping
 - Enable to stop earlier if the model stops improving
