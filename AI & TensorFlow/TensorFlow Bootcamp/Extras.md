@@ -130,7 +130,7 @@ Save model as it trains (the full model or just the weights)
 tf.keras.callbacks.ModelCheckpoint(filepath="file_path",
 								  save_weights_only=,)
 								  save_best_only=,
-								  save_freq="epochs", # save every epoch
+								  save_freq="epoch", # save every epoch
 								  verbose=1
 
 # Saved weight can be loaded as follows:
