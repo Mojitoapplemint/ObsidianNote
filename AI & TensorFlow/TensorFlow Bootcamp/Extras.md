@@ -123,7 +123,7 @@ def create_tensorboard_callback(dir_name, experiment_name):
 2. Type `tensorboard --logdir "File_Path"`
 3. Go to `http://localhost:6006`
 
-## Model Checkpointing
+## Model Checkpoint
 Save model as it trains (the full model or just the weights)
 - Enable to stop while it's training and comeback later
 ```python
