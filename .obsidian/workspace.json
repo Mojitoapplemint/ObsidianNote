@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/5. Transfer Learning with TF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/5. Transfer Learning with TF.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md"
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/5. Transfer Learning with TF.md"
               }
             }
           },
@@ -202,13 +202,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f50b02bbfdd3b07a",
+  "active": "607d77984db98835",
   "lastOpenFiles": [
+    "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
     "AI & TensorFlow/TensorFlow Bootcamp/5. Transfer Learning with TF.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Keras Functional API Modeling.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Keras Sequential API Modeling.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
     "AI & TensorFlow/TensorFlow Bootcamp/TensorBoard.md",
     "Latex Suite Personal Setting.md",
     "Untitled.md",
