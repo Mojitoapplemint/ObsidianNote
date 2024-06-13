@@ -141,4 +141,10 @@ Early Stopping
 - Enable to stop earlier if the model stops improving
 
 
-# 
+# `classification_report()`
+`classification_report()` function in `sklearn.metrics` provides [[AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF#Classification Evaluation Method|precision, recall and f1]] score per class
+```python
+from sklearn.metrics import classification_report()
+
+print(classification_report(y_true, y_preds))
+```

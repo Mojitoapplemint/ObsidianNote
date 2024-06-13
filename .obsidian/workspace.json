@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "734a2c948c2a42b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e6951b209122c0cd",
             "type": "leaf",
             "state": {
@@ -203,12 +215,12 @@
   },
   "active": "fbc031b3b21f4552",
   "lastOpenFiles": [
-    "AI & TensorFlow/TensorFlow Bootcamp/5. Transfer Learning with TF.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
-    "Attached Files/Pasted image 20240613091424.png",
-    "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
     "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/5. Transfer Learning with TF.md",
+    "Attached Files/Pasted image 20240613091424.png",
+    "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Keras Sequential API Modeling.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Keras Functional API Modeling.md",
     "AI & TensorFlow/TensorFlow Bootcamp/TensorBoard.md",
