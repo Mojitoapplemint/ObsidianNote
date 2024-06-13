@@ -139,3 +139,6 @@ same_model.load_weights("file_path")
 
 Early Stopping
 - Enable to stop earlier if the model stops improving
+
+
+# 
