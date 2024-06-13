@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/5. Transfer Learning with TF.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "aug",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -123,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/5. Transfer Learning with TF.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/5. Transfer Learning with TF.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/5. Transfer Learning with TF.md"
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md"
               }
             }
           },
@@ -204,9 +205,9 @@
   },
   "active": "e6951b209122c0cd",
   "lastOpenFiles": [
+    "AI & TensorFlow/TensorFlow Bootcamp/5. Transfer Learning with TF.md",
     "Attached Files/Pasted image 20240613091424.png",
     "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/5. Transfer Learning with TF.md",
     "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
     "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
     "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
@@ -249,7 +250,6 @@
     "Attached Files/Pasted image 20240503020059.png",
     "Attached Files/Pasted image 20240505081919.png",
     "Attached Files/Pasted image 20240503015926.png",
-    "Attached Files/Pasted image 20240418154041.png",
     "Untitled.canvas"
   ]
 }
