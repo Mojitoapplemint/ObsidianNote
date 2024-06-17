@@ -178,4 +178,5 @@ sample = train_data.take('number_of_sample')
 ## Preprocessing Data
 Dataset might not be in form that Neural Network prefers, thus preprocessing is often required
 - Data in `float32` dtype
-- Making all 
+- Making all tensors be same shape, size
+- Scaled/Normalized
