@@ -168,7 +168,9 @@ import tensorflow_datasets as tfds
 											 with_info=True)
 
 ```
-
+we can use `ds_info` to get information about dataset(e.g. class_names)
+- Require `with_info=True` parameter
+- 
 ## Taking Sample
 ```python
 sample = train_data.take('number_of_sample')
