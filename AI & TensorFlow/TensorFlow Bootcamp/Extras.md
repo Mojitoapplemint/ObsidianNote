@@ -151,4 +151,8 @@ print(classification_report(y_true, y_preds))
 
 # TensorFlow Dataset: `tf.data.DataSets`
 [API]([TensorFlow Datasets](https://www.tensorflow.org/datasets/overview))
-
+A place for prepared and ready to use machine laerning datastes
+- Data is already in **tensor format**
+- Well established: suit for practice
+- For experiment with different modelling techniques on a consisitent dataset
+- **Static**, do not change like real world datasets

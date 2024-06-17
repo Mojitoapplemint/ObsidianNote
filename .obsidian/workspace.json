@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aug",
+                "query": "datasets",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -217,6 +218,7 @@
   "active": "607d77984db98835",
   "lastOpenFiles": [
     "AI & TensorFlow/TensorFlow Bootcamp/5. Transfer Learning with TF.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/Activation Functions.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
     "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
     "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
@@ -228,7 +230,6 @@
     "Latex Suite Personal Setting.md",
     "Untitled.md",
     "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/Activation Functions.md",
     "듣고 싶은 강의.md",
     "Attached Files/Pasted image 20240527124337.png",
     "Attached Files/Pasted image 20240525110501.png",
