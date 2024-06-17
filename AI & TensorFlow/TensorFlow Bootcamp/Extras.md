@@ -156,3 +156,20 @@ A place for prepared and ready to use machine laerning datastes
 - Well established: suit for practice
 - For experiment with different modelling techniques on a consisitent dataset
 - **Static**, do not change like real world datasets
+
+## Loading Data
+```python
+import tensorflow_datasets as tfds
+
+(train_data, test_data), ds_info = tfds.load(name = "name",
+											 split = ["train", "validation", (or) "test"],
+											 shuffle_files=True,
+											 as_supervised=True,
+											 with_info=True)
+
+```
+
+## Taking Sample
+```python
+sample = train_data.take('number_of_sample')
+```
