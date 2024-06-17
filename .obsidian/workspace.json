@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/5. Transfer Learning with TF.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,8 +113,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -215,17 +213,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "607d77984db98835",
+  "active": "fbc031b3b21f4552",
   "lastOpenFiles": [
     "AI & TensorFlow/TensorFlow Bootcamp/5. Transfer Learning with TF.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/Activation Functions.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
-    "Attached Files/Pasted image 20240613091424.png",
     "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Keras Sequential API Modeling.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Keras Functional API Modeling.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/Activation Functions.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
+    "Attached Files/Pasted image 20240613091424.png",
     "AI & TensorFlow/TensorFlow Bootcamp/TensorBoard.md",
     "Latex Suite Personal Setting.md",
     "Untitled.md",

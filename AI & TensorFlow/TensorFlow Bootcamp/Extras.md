@@ -170,8 +170,12 @@ import tensorflow_datasets as tfds
 ```
 we can use `ds_info` to get information about dataset(e.g. class_names)
 - Require `with_info=True` parameter
-- 
 ## Taking Sample
 ```python
 sample = train_data.take('number_of_sample')
 ```
+
+## Preprocessing Data
+Dataset might not be in form that Neural Network prefers, thus preprocessing is often required
+- Data in `float32` dtype
+- Making all 
