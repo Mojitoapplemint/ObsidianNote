@@ -182,9 +182,17 @@ Dataset might not be in form that Neural Network prefers, thus preprocessing is 
 - Scaled/Normalized
 
 # Mixed Precision
-Use of both 16-bits and 32-bits floating point types in a model during training to make it run faster and use less memory
+[Additional Source]([Mixed precision  |  TensorFlow Core](https://www.tensorflow.org/guide/mixed_precision))
+Use of **both 16-bits and 32-bits** floating point types in a model during training to make it run faster and use less memory
 - Require GPU computing capability 7+
 
 ```python
-from keras import 
+from keras import mixed_precision
+mixed_precision.set_global_policy(mixed_floath32)
+```
+
+At the output layer, it is required to split **Dense and Softmax Activation layer** and specify `dtype=float32` to the softmax layer
+```python
+x = tf.keras.layers.Dense('num_class')(x)
+outputs = tf.keras.layer.Activation('softmax', dtype="float32")(x)
 ```
