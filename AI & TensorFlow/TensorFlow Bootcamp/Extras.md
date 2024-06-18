@@ -180,3 +180,11 @@ Dataset might not be in form that Neural Network prefers, thus preprocessing is 
 - Data in `float32` dtype
 - Making all tensors be same shape, size
 - Scaled/Normalized
+
+# Mixed Precision
+Use of both 16-bits and 32-bits floating point types in a model during training to make it run faster and use less memory
+- Require GPU computing capability 7+
+
+```python
+from keras import 
+```
