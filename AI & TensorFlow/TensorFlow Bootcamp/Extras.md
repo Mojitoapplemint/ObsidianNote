@@ -137,9 +137,11 @@ tf.keras.callbacks.ModelCheckpoint(filepath="file_path",
 same_model.load_weights("file_path")
 ```
 
-Early Stopping
+## Early Stopping
 - Enable to stop earlier if the model stops improving
 
+## ReduceRLOnPlateau
+- Monitors a specified metric and when that metric stops improving, it reduces the learning rate by a specified factor
 
 # `classification_report()`
 `classification_report()` function in `sklearn.metrics` provides [[AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF#Classification Evaluation Method|precision, recall and f1]] score per class
