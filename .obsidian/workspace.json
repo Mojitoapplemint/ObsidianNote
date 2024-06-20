@@ -11,8 +11,12 @@
             "id": "e43d231cc2347fae",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md"
+              }
             }
           },
           {
