@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/Natural Language Processing.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/Natural Language Processing and Recurrent Neural Network.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/Natural Language Processing.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/Natural Language Processing and Recurrent Neural Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/Natural Language Processing.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/Natural Language Processing and Recurrent Neural Network.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/Natural Language Processing.md"
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/Natural Language Processing and Recurrent Neural Network.md"
               }
             }
           },
@@ -181,7 +181,7 @@
   "active": "e43d231cc2347fae",
   "lastOpenFiles": [
     "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/Natural Language Processing.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/Natural Language Processing and Recurrent Neural Network.md",
     "AI & TensorFlow-DESKTOP-0RLC2B4/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
     "AI & TensorFlow-DESKTOP-0RLC2B4/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
     "AI & TensorFlow-DESKTOP-0RLC2B4/TensorFlow Bootcamp/0. Deep Learning Basics.md",
