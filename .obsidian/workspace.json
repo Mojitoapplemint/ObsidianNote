@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "bfa89596cf49afe5",
+        "id": "08fdc6d24d03e3c0",
         "type": "tabs",
         "children": [
           {
-            "id": "22ddc9747369209a",
+            "id": "e43d231cc2347fae",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -156,7 +156,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "22ddc9747369209a",
+  "active": "e43d231cc2347fae",
   "lastOpenFiles": [
     "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Input Data Pipeline.md",
