@@ -20,4 +20,5 @@ $$\text{Sigmoid}=\frac{1}{1+e^{-x}}$$
 $$\text{Softmax}(x_{i})=\frac{e^{x_{i}}}{\sum^{n}_{j=1}e^{x_{j}} }$$
 - Making outputs **sum to 1**
 - Useful to scale model outputs into probabilities
-- 
+
+# Tanh
