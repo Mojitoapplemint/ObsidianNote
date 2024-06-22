@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "argmax",
+                "query": "feature vec",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -190,14 +189,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e43d231cc2347fae",
+  "active": "c0a9e7ff4e6bd264",
   "lastOpenFiles": [
+    "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
     "듣고 싶은 강의.md",
     "Untitled.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
     "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Activation Functions.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
     "AI & TensorFlow-DESKTOP-0RLC2B4/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
     "AI & TensorFlow-DESKTOP-0RLC2B4/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
     "AI & TensorFlow-DESKTOP-0RLC2B4/TensorFlow Bootcamp/0. Deep Learning Basics.md",
