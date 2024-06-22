@@ -25,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed2e0b1d9eb9f522",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/Activation Functions.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -189,13 +178,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c0a9e7ff4e6bd264",
+  "active": "e43d231cc2347fae",
   "lastOpenFiles": [
     "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
     "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
     "듣고 싶은 강의.md",
     "Untitled.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Activation Functions.md",
     "AI & TensorFlow-DESKTOP-0RLC2B4/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
     "AI & TensorFlow-DESKTOP-0RLC2B4/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
