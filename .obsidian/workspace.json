@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md"
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md"
               }
             }
           },
@@ -191,8 +190,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "79cad067e4bf4d96",
+  "active": "e43d231cc2347fae",
   "lastOpenFiles": [
+    "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
     "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
     "Attached Files/Pasted image 20240622134929.png",
     "Attached Files/Pasted image 20240622125110.png",
@@ -200,7 +200,6 @@
     "Data Science/MATH1311/6. Visualizing Data.md",
     "Data Science/MATH1311/3. Spread and Variance.md",
     "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
     "듣고 싶은 강의.md",
     "Untitled.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Activation Functions.md",
