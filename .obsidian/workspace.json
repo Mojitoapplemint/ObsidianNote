@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
+                "file": "Data Science/MATH1311/6. Visualizing Data.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
+                "file": "Data Science/MATH1311/6. Visualizing Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
+                "file": "Data Science/MATH1311/6. Visualizing Data.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md"
+                "file": "Data Science/MATH1311/6. Visualizing Data.md"
               }
             }
           },
@@ -180,8 +179,9 @@
   },
   "active": "e43d231cc2347fae",
   "lastOpenFiles": [
-    "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
+    "Data Science/MATH1311/3. Spread and Variance.md",
     "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
     "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
     "듣고 싶은 강의.md",
     "Untitled.md",
@@ -212,7 +212,6 @@
     "Mathematics/MATH3161/3. Functions of a Complex Variable.md",
     "Mathematics/MATH2121/6. Euler's Method.md",
     "Mathematics/MATH2121/9. Undetermined Coefficient.md",
-    "Mathematics/MATH2121/8. Constant Coefficient DE.md",
     "Mathematics/MATH2121",
     "Mathematics/MATH3161",
     "Mathematics",
