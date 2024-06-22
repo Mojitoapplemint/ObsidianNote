@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "듣고 싶은 강의.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "듣고 싶은 강의.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "듣고 싶은 강의.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "듣고 싶은 강의.md"
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md"
               }
             }
           },
@@ -191,6 +192,7 @@
   },
   "active": "e43d231cc2347fae",
   "lastOpenFiles": [
+    "듣고 싶은 강의.md",
     "Untitled.md",
     "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
     "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
@@ -211,7 +213,6 @@
     "AI & TensorFlow/TensorFlow Bootcamp/TensorBoard.md",
     "Latex Suite Personal Setting.md",
     "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
-    "듣고 싶은 강의.md",
     "Attached Files/Pasted image 20240527124337.png",
     "Attached Files/Pasted image 20240525110501.png",
     "Attached Files/Pasted image 20240524170233.png",
