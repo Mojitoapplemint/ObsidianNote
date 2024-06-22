@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "79cad067e4bf4d96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "50fba01e0c6e0eea",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md"
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md"
               }
             }
           },
@@ -178,14 +191,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e43d231cc2347fae",
+  "active": "79cad067e4bf4d96",
   "lastOpenFiles": [
+    "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
     "Attached Files/Pasted image 20240622134929.png",
     "Attached Files/Pasted image 20240622125110.png",
     "Attached Files/Pasted image 20240622124834.png",
     "Data Science/MATH1311/6. Visualizing Data.md",
     "Data Science/MATH1311/3. Spread and Variance.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
     "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
     "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
     "듣고 싶은 강의.md",
@@ -225,7 +238,6 @@
     "Computer Science/COMP2711/Module3",
     "Computer Science/COMP2711/Module4",
     "Computer Science/COMP2711/Module1",
-    "Attached Files/Pasted image 20240503020059.png",
     "Untitled.canvas"
   ]
 }
