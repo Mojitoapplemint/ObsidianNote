@@ -118,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,10 +157,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c0a9e7ff4e6bd264",
+  "active": "50fba01e0c6e0eea",
   "lastOpenFiles": [
-    "방학 동안 하고 싶은 거.md",
     "Untitled 1.md",
+    "방학 동안 하고 싶은 거.md",
     "듣고 싶은 강의.md",
     "필리뚜랑 할 거.md",
     "Latex Suite Personal Setting.md",
