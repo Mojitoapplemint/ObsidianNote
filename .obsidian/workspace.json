@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
+                "file": "방학 동안 하고 싶은 거.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0885b1add4a9f959",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -191,8 +203,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "50fba01e0c6e0eea",
+  "active": "0885b1add4a9f959",
   "lastOpenFiles": [
+    "방학 동안 하고 싶은 거.md",
+    "Untitled 1.md",
+    "듣고 싶은 강의.md",
+    "필리뚜랑 할 거.md",
+    "Latex Suite Personal Setting.md",
+    "Untitled.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
     "Computer Science/Git & GitHub.md",
     "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
     "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
@@ -201,9 +220,6 @@
     "Attached Files/Pasted image 20240622124834.png",
     "Data Science/MATH1311/6. Visualizing Data.md",
     "Data Science/MATH1311/3. Spread and Variance.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
-    "듣고 싶은 강의.md",
-    "Untitled.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Activation Functions.md",
     "AI & TensorFlow-DESKTOP-0RLC2B4/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
     "AI & TensorFlow-DESKTOP-0RLC2B4/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
@@ -218,7 +234,6 @@
     "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
     "Attached Files/Pasted image 20240613091424.png",
     "AI & TensorFlow/TensorFlow Bootcamp/TensorBoard.md",
-    "Latex Suite Personal Setting.md",
     "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
     "Attached Files/Pasted image 20240527124337.png",
     "Attached Files/Pasted image 20240525110501.png",
@@ -226,9 +241,6 @@
     "Attached Files/Pasted image 20240524161138.png",
     "Attached Files/Pasted image 20240524161026.png",
     "Attached Files/Pasted image 20240524160837.png",
-    "필리뚜랑 할 거.md",
-    "방학 동안 하고 싶은 거.md",
-    "Mathematics/MATH3161/3. Functions of a Complex Variable.md",
     "Mathematics/MATH2121",
     "Mathematics/MATH3161",
     "Mathematics",
