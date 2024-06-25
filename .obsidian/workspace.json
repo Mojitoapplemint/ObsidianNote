@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "08fdc6d24d03e3c0",
+        "id": "ef9bcb78258e2ae7",
         "type": "tabs",
         "children": [
           {
-            "id": "50fba01e0c6e0eea",
+            "id": "985e7b237ef13fbb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -136,17 +136,9 @@
               "type": "git-view",
               "state": {}
             }
-          },
-          {
-            "id": "45dd4cb3435c7b66",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -165,60 +157,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "50fba01e0c6e0eea",
+  "active": "985e7b237ef13fbb",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Untitled 1.md",
-    "방학 동안 하고 싶은 거.md",
-    "듣고 싶은 강의.md",
-=======
->>>>>>> origin/main
-    "필리뚜랑 할 거.md",
-    "방학 동안 하고 싶은 거.md",
-    "듣고 싶은 강의.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "Latex Suite Personal Setting.md",
     "conflict-files-obsidian-git.md",
-    "Mathematics/MATH3161/9. Series.md",
-    "Mathematics/MATH3161/8. Morera's Theorem.md",
-    "Mathematics/MATH3161/7. Liouville's Theorem and FTA.md",
-    "Mathematics/MATH3161/6. Integration.md",
-    "Mathematics/MATH3161/5. The Bestiary of Holomorphic Function.md",
-    "Mathematics/MATH3161/4. Derivative.md",
-    "Mathematics/MATH3161/3. Functions of a Complex Variable.md",
-    "Mathematics/MATH3161/2. Basic Topology in C.md",
-    "Mathematics/MATH3161/1. Basics of Complex Numbers.md",
-    "Mathematics/MATH2121/9. Undetermined Coefficient.md",
-    "Mathematics/MATH2121/8. Constant Coefficient DE.md",
-    "Mathematics/MATH2121/6. Euler's Method.md",
-    "Mathematics/MATH2121/7. Linear Second Order DE.md",
-    "Mathematics/MATH2121/5. Complex Number.md",
-    "Mathematics/MATH2121/4. Exact Equation.md",
-    "Mathematics/MATH2121/3. Separable Equations.md",
-    "Mathematics/MATH2121/2. Growth and Decay.md",
-    "Mathematics/MATH2121/1. Ordinary Differential Equation.md",
-    "Mathematics/MATH2121/10. Application of SOLDE.md",
-    "Mathematics/MATH3161",
-    "Mathematics/MATH2121",
-    "Mathematics",
+    "Untitled 1.md",
+    "Excalidraw/Drawing 2024-06-25 22.02.52.excalidraw.md",
     "Excalidraw",
+    "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
+    "AI & TensorFlow/TensorFlow Bootcamp",
+    "AI & TensorFlow",
+    "방학 동안 하고 싶은 거.md",
+    "듣고 싶은 강의.md",
+    "필리뚜랑 할 거.md",
+    "Latex Suite Personal Setting.md",
+    "Untitled.md",
+    "Computer Science/Git & GitHub.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
+    "Attached Files/Pasted image 20240622134929.png",
+    "Attached Files/Pasted image 20240622125110.png",
+    "Attached Files/Pasted image 20240622124834.png",
+    "Data Science/MATH1311/6. Visualizing Data.md",
+    "Data Science/MATH1311/3. Spread and Variance.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/Activation Functions.md",
+    "AI & TensorFlow-DESKTOP-0RLC2B4/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
+    "AI & TensorFlow-DESKTOP-0RLC2B4/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
+    "AI & TensorFlow-DESKTOP-0RLC2B4/TensorFlow Bootcamp/0. Deep Learning Basics.md",
+    "Mathematics/MATH3161/1. Basics of Complex Numbers.md",
+    "Excalidraw/Drawing 2024-06-20 16.37.56.excalidraw.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/Input Data Pipeline.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/5. Transfer Learning with TF.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/Keras Sequential API Modeling.md",
+    "Attached Files/Pasted image 20240613091424.png",
+    "Attached Files/Pasted image 20240527124337.png",
+    "Attached Files/Pasted image 20240525110501.png",
+    "Attached Files/Pasted image 20240524170233.png",
+    "Attached Files/Pasted image 20240524161138.png",
+    "Attached Files/Pasted image 20240524161026.png",
+    "Attached Files/Pasted image 20240524160837.png",
+    "Mathematics/MATH2121",
+    "Mathematics/MATH3161",
+    "Mathematics",
     "Data Science/MATH1311",
     "Data Science",
     "Computer Science/COMP2711/Sheepy time Group Project",
-    "Computer Science/COMP2711/Module4",
     "Computer Science/COMP2711/Module3",
-    "Computer Science/COMP2711/Module2",
-    "Attached Files/Pasted image 20240505081919.png",
-    "Attached Files/Pasted image 20240503020059.png",
-    "Attached Files/Pasted image 20240503015926.png",
-    "Attached Files/Pasted image 20240418154041.png",
-    "Attached Files/Pasted image 20240418153019.png",
-    "Attached Files/Pasted image 20240418152955.png",
-    "Attached Files/Pasted image 20240415071751.png",
-    "Attached Files/Pasted image 20240331232454.png",
-    "Attached Files/Pasted image 20240331232424.png",
-    "Attached Files/Pasted image 20240331232220.png",
     "Untitled.canvas"
   ]
 }
