@@ -1,0 +1,7 @@
+Since I haven't gotten any scholarship information yet, I can't say whether the amount is sufficient. However, I personally think that an adequet amount would be when the student doesn't have to pay any money while the student is staying at Japan.
+
+Because I always value the oppertunity to get an unique experience more than money. If I can manage the total cost for the program by myself, I would apply without any hesistance.
+
+Since my interest, math and computer science, is irrelevant to business as a field, knowledge that I will learn throughout the program might not be directly helpful for my study. However, I strongly believe that the whole experience during the program, collaborating with totally different people in totally different environment, will widen my view and strength various social skills.
+
+Since I live in South Korea, I have several experience to come to Japan due to high accessibilty. I always enjoyed Japanese culture, especially their language
