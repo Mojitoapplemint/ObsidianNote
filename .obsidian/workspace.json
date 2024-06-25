@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "79cad067e4bf4d96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "50fba01e0c6e0eea",
             "type": "leaf",
             "state": {
@@ -44,19 +32,19 @@
             }
           },
           {
-            "id": "0885b1add4a9f959",
+            "id": "183ca742fc7c8031",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -123,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -203,44 +190,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0885b1add4a9f959",
+  "active": "183ca742fc7c8031",
   "lastOpenFiles": [
+    "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/5. Transfer Learning with TF.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
     "방학 동안 하고 싶은 거.md",
+    "conflict-files-obsidian-git.md",
+    "Excalidraw/Drawing 2024-06-25 22.02.52.excalidraw.md",
     "Untitled 1.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/Activation Functions.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/Input Data Pipeline.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/Keras Sequential API Modeling.md",
+    "Attached Files/Pasted image 20240524160837.png",
+    "Attached Files/Pasted image 20240524161026.png",
+    "Attached Files/Pasted image 20240524161138.png",
+    "Attached Files/Pasted image 20240524170233.png",
+    "Excalidraw/Drawing 2024-06-20 16.37.56.excalidraw.md",
+    "Attached Files/Pasted image 20240622134929.png",
+    "Attached Files/Pasted image 20240622125110.png",
+    "Attached Files/Pasted image 20240622124834.png",
+    "Attached Files/Pasted image 20240613091424.png",
+    "Attached Files/Pasted image 20240527124337.png",
+    "Attached Files/Pasted image 20240525110501.png",
+    "Computer Science/Git & GitHub.md",
     "듣고 싶은 강의.md",
     "필리뚜랑 할 거.md",
     "Latex Suite Personal Setting.md",
     "Untitled.md",
     "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
-    "Computer Science/Git & GitHub.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
-    "Attached Files/Pasted image 20240622134929.png",
-    "Attached Files/Pasted image 20240622125110.png",
-    "Attached Files/Pasted image 20240622124834.png",
     "Data Science/MATH1311/6. Visualizing Data.md",
     "Data Science/MATH1311/3. Spread and Variance.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/Activation Functions.md",
     "AI & TensorFlow-DESKTOP-0RLC2B4/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
     "AI & TensorFlow-DESKTOP-0RLC2B4/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
     "AI & TensorFlow-DESKTOP-0RLC2B4/TensorFlow Bootcamp/0. Deep Learning Basics.md",
     "Mathematics/MATH3161/1. Basics of Complex Numbers.md",
-    "Excalidraw/Drawing 2024-06-20 16.37.56.excalidraw.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/Input Data Pipeline.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/5. Transfer Learning with TF.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/Keras Sequential API Modeling.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Keras Functional API Modeling.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
-    "Attached Files/Pasted image 20240613091424.png",
-    "AI & TensorFlow/TensorFlow Bootcamp/TensorBoard.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
-    "Attached Files/Pasted image 20240527124337.png",
-    "Attached Files/Pasted image 20240525110501.png",
-    "Attached Files/Pasted image 20240524170233.png",
-    "Attached Files/Pasted image 20240524161138.png",
-    "Attached Files/Pasted image 20240524161026.png",
-    "Attached Files/Pasted image 20240524160837.png",
     "Mathematics/MATH2121",
     "Mathematics/MATH3161",
     "Mathematics",
