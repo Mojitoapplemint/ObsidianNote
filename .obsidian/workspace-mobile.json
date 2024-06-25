@@ -1,60 +1,31 @@
 {
   "main": {
-    "id": "73c314cdb15444a5",
+    "id": "24a862f7895fa06e",
     "type": "split",
     "children": [
       {
-        "id": "645fbbd00dd201d6",
+        "id": "e05dabacbf2e99e0",
         "type": "tabs",
         "children": [
           {
-            "id": "daf51ea8c3a22c17",
+            "id": "ab7d86a764a39ca5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/Practice Codes/1. Insurance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "afe113384af98b1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Science/MATH1311/11. Fitting Trend.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92922022fcd75127",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "83b842a2fdd3f1f7",
+    "id": "76c395600c718d82",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "70f5cc2c1c54cb5a",
+        "id": "621635cf7446fb9c",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -64,12 +35,12 @@
         }
       },
       {
-        "id": "4d5e2ea1a3e86b0f",
+        "id": "f6bf7f9a4431c08a",
         "type": "leaf",
         "state": {
           "type": "search",
           "state": {
-            "query": "Dummy",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -79,7 +50,7 @@
         }
       },
       {
-        "id": "4d8b28c716b504dc",
+        "id": "bbb9281b46fce9e7",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -90,7 +61,7 @@
         }
       },
       {
-        "id": "897138d96f389448",
+        "id": "ef6851e1a41726c8",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -101,16 +72,15 @@
     "currentTab": 0
   },
   "right": {
-    "id": "71f024a6b00c25a9",
+    "id": "750215e2c57c33d6",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "24a1e4cb379c450b",
+        "id": "a4ebf5c095dbe257",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Data Science/MATH1311/11. Fitting Trend.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -122,25 +92,22 @@
         }
       },
       {
-        "id": "7ba6879d522e4310",
+        "id": "9e072acb9d40c3d7",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Data Science/MATH1311/11. Fitting Trend.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "b415cf9c3818601f",
+        "id": "fd9d17a270f6718f",
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Data Science/MATH1311/11. Fitting Trend.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -154,17 +121,57 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "afe113384af98b1d",
+  "active": "621635cf7446fb9c",
   "lastOpenFiles": [
-    "Computer Science/COMP2931/13. Nested Function Call and Memory.md",
-    "Data Science/MATH1311/9. Discrete Probability Distribution.md",
-    "Excalidraw/Drawing 2024-06-25 22.02.52.excalidraw.md",
-    "conflict-files-obsidian-git.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/Practice Codes/1. Insurance.md",
-    "Untitled.md"
+    "필리뚜랑 할 거.md",
+    "방학 동안 하고 싶은 거.md",
+    "듣고 싶은 강의.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Mathematics/MATH3161/9. Series.md",
+    "Mathematics/MATH3161/8. Morera's Theorem.md",
+    "Mathematics/MATH3161/7. Liouville's Theorem and FTA.md",
+    "Mathematics/MATH3161/6. Integration.md",
+    "Mathematics/MATH3161/5. The Bestiary of Holomorphic Function.md",
+    "Mathematics/MATH3161/4. Derivative.md",
+    "Mathematics/MATH3161/3. Functions of a Complex Variable.md",
+    "Mathematics/MATH3161/2. Basic Topology in C.md",
+    "Mathematics/MATH3161/1. Basics of Complex Numbers.md",
+    "Mathematics/MATH2121/9. Undetermined Coefficient.md",
+    "Mathematics/MATH2121/8. Constant Coefficient DE.md",
+    "Mathematics/MATH2121/7. Linear Second Order DE.md",
+    "Mathematics/MATH2121/6. Euler's Method.md",
+    "Mathematics/MATH2121/5. Complex Number.md",
+    "Mathematics/MATH2121/4. Exact Equation.md",
+    "Mathematics/MATH2121/3. Separable Equations.md",
+    "Mathematics/MATH2121/2. Growth and Decay.md",
+    "Mathematics/MATH2121/10. Application of SOLDE.md",
+    "Mathematics/MATH2121/1. Ordinary Differential Equation.md",
+    "Mathematics/MATH2121/0. Differential Equation.md",
+    "Latex Suite Personal Setting.md",
+    "Attached Files/Pasted image 20240622134929.png",
+    "Attached Files/Pasted image 20240622125110.png",
+    "Attached Files/Pasted image 20240622124834.png",
+    "Attached Files/Pasted image 20240613091424.png",
+    "Attached Files/Pasted image 20240527124337.png",
+    "Attached Files/Pasted image 20240525110501.png",
+    "Attached Files/Pasted image 20240524170233.png",
+    "Attached Files/Pasted image 20240524161138.png",
+    "Attached Files/Pasted image 20240524161026.png",
+    "Attached Files/Pasted image 20240524160837.png",
+    "Mathematics/MATH3161",
+    "Mathematics/MATH2121",
+    "Mathematics",
+    "Excalidraw",
+    "Data Science/MATH1311",
+    "Data Science",
+    "Computer Science/COMP2711/Sheepy time Group Project",
+    "Computer Science/COMP2711/Module4",
+    "Computer Science/COMP2711/Module3",
+    "Computer Science/COMP2711/Module2"
   ]
 }
