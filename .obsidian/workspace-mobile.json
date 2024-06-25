@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "afe113384af98b1d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-25 22.02.52.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "92922022fcd75127",
             "type": "leaf",
             "state": {
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "AI & TensorFlow/TensorFlow Bootcamp/Practice Codes/1. Insurance.md",
+            "file": "Excalidraw/Drawing 2024-06-25 22.02.52.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "AI & TensorFlow/TensorFlow Bootcamp/Practice Codes/1. Insurance.md",
+            "file": "Excalidraw/Drawing 2024-06-25 22.02.52.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +137,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "AI & TensorFlow/TensorFlow Bootcamp/Practice Codes/1. Insurance.md"
+            "file": "Excalidraw/Drawing 2024-06-25 22.02.52.excalidraw.md"
           }
         }
       }
@@ -145,9 +156,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "daf51ea8c3a22c17",
+  "active": "afe113384af98b1d",
   "lastOpenFiles": [
-    "Untitled.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/Practice Codes/1. Insurance.md"
+    "conflict-files-obsidian-git.md",
+    "Excalidraw/Drawing 2024-06-25 22.02.52.excalidraw.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/Practice Codes/1. Insurance.md",
+    "Untitled.md"
   ]
 }
