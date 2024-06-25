@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ef9bcb78258e2ae7",
+        "id": "7b18a549b3e6f8d1",
         "type": "tabs",
         "children": [
           {
-            "id": "985e7b237ef13fbb",
+            "id": "107bce9b44ab7a62",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -157,7 +157,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "985e7b237ef13fbb",
+  "active": "107bce9b44ab7a62",
   "lastOpenFiles": [
     "필리뚜랑 할 거.md",
     "방학 동안 하고 싶은 거.md",
