@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "79cad067e4bf4d96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "50fba01e0c6e0eea",
             "type": "leaf",
             "state": {
@@ -50,6 +38,18 @@
               "type": "markdown",
               "state": {
                 "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b3dc0902b419142",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -203,10 +203,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0885b1add4a9f959",
+  "active": "4b3dc0902b419142",
   "lastOpenFiles": [
-    "방학 동안 하고 싶은 거.md",
     "Untitled 1.md",
+    "conflict-files-obsidian-git.md",
+    "Excalidraw/Drawing 2024-06-25 22.02.52.excalidraw.md",
+    "방학 동안 하고 싶은 거.md",
     "듣고 싶은 강의.md",
     "필리뚜랑 할 거.md",
     "Latex Suite Personal Setting.md",
@@ -233,8 +235,6 @@
     "AI & TensorFlow/TensorFlow Bootcamp/Keras Functional API Modeling.md",
     "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
     "Attached Files/Pasted image 20240613091424.png",
-    "AI & TensorFlow/TensorFlow Bootcamp/TensorBoard.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
     "Attached Files/Pasted image 20240527124337.png",
     "Attached Files/Pasted image 20240525110501.png",
     "Attached Files/Pasted image 20240524170233.png",
