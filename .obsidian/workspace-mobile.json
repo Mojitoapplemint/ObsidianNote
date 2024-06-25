@@ -23,9 +23,11 @@
             "id": "afe113384af98b1d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-25 22.02.52.excalidraw.md"
+                "file": "Data Science/MATH1311/11. Fitting Trend.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -67,7 +69,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Dummy",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -108,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2024-06-25 22.02.52.excalidraw.md",
+            "file": "Data Science/MATH1311/11. Fitting Trend.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Drawing 2024-06-25 22.02.52.excalidraw.md",
+            "file": "Data Science/MATH1311/11. Fitting Trend.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Drawing 2024-06-25 22.02.52.excalidraw.md"
+            "file": "Data Science/MATH1311/11. Fitting Trend.md"
           }
         }
       }
@@ -158,8 +160,10 @@
   },
   "active": "afe113384af98b1d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Computer Science/COMP2931/13. Nested Function Call and Memory.md",
+    "Data Science/MATH1311/9. Discrete Probability Distribution.md",
     "Excalidraw/Drawing 2024-06-25 22.02.52.excalidraw.md",
+    "conflict-files-obsidian-git.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Practice Codes/1. Insurance.md",
     "Untitled.md"
   ]
