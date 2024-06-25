@@ -1,47 +1,60 @@
 {
   "main": {
-    "id": "87049a8439db82fa",
+    "id": "73c314cdb15444a5",
     "type": "split",
     "children": [
       {
-        "id": "8494db5e7e6de78c",
+        "id": "645fbbd00dd201d6",
         "type": "tabs",
         "children": [
           {
-            "id": "b6b0eb42c8b7745e",
+            "id": "daf51ea8c3a22c17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/Practice Codes/1. Insurance.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "57a82347e90218da",
+            "id": "afe113384af98b1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
+                "file": "Data Science/MATH1311/11. Fitting Trend.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92922022fcd75127",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "bb3a758ade6807c5",
+    "id": "83b842a2fdd3f1f7",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "3aa18bdf79512a93",
+        "id": "70f5cc2c1c54cb5a",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -51,12 +64,12 @@
         }
       },
       {
-        "id": "20d5f81219b817fa",
+        "id": "4d5e2ea1a3e86b0f",
         "type": "leaf",
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Dummy",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -66,7 +79,7 @@
         }
       },
       {
-        "id": "a1f564e70be17f0e",
+        "id": "4d8b28c716b504dc",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -77,7 +90,7 @@
         }
       },
       {
-        "id": "3201af9c4fb0eb82",
+        "id": "897138d96f389448",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -88,16 +101,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "a496131ba209617d",
+    "id": "71f024a6b00c25a9",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "83687929878c34d9",
+        "id": "24a1e4cb379c450b",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
+            "file": "Data Science/MATH1311/11. Fitting Trend.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,37 +122,29 @@
         }
       },
       {
-        "id": "374d1e937c7428e4",
+        "id": "7ba6879d522e4310",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
+            "file": "Data Science/MATH1311/11. Fitting Trend.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "3e5c3240a103bdbf",
+        "id": "b415cf9c3818601f",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md"
+            "file": "Data Science/MATH1311/11. Fitting Trend.md"
           }
-        }
-      },
-      {
-        "id": "af20df098542f423",
-        "type": "leaf",
-        "state": {
-          "type": "advanced-tables-toolbar",
-          "state": {}
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,20 +154,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b6b0eb42c8b7745e",
+  "active": "afe113384af98b1d",
   "lastOpenFiles": [
-    "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
-    "Excalidraw/Drawing 2024-05-10 04.48.01.excalidraw.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
-    "/AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
-    "/AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
-    "/AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
-    "Untitled 1.md",
-    "/asdasdasdasd.md"
+    "Computer Science/COMP2931/13. Nested Function Call and Memory.md",
+    "Data Science/MATH1311/9. Discrete Probability Distribution.md",
+    "Excalidraw/Drawing 2024-06-25 22.02.52.excalidraw.md",
+    "conflict-files-obsidian-git.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/Practice Codes/1. Insurance.md",
+    "Untitled.md"
   ]
 }

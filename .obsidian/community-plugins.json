@@ -1,7 +1,7 @@
 [
-  "obsidian-excalidraw-plugin",
+  "obsidian-git",
   "table-editor-obsidian",
-  "obsidian-latex-suite",
   "quick-latex",
-  "obsidian-git"
+  "obsidian-latex-suite",
+  "obsidian-excalidraw-plugin"
 ]
