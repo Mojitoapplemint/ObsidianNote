@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md"
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md"
               }
             }
           },
@@ -167,8 +167,10 @@
   },
   "active": "5ed6762a8e91d0ce",
   "lastOpenFiles": [
-    "[CNN.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/0. Deep Learning Basics.md",
     "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
+    "[CNN.md",
     "필리뚜랑 할 거.md",
     "방학 동안 하고 싶은 거.md",
     "듣고 싶은 강의.md",
@@ -191,8 +193,6 @@
     "Mathematics/MATH2121/6. Euler's Method.md",
     "Mathematics/MATH2121/5. Complex Number.md",
     "Mathematics/MATH2121/4. Exact Equation.md",
-    "Mathematics/MATH2121/3. Separable Equations.md",
-    "Mathematics/MATH2121/2. Growth and Decay.md",
     "Mathematics/MATH3161",
     "Mathematics/MATH2121",
     "Mathematics",
