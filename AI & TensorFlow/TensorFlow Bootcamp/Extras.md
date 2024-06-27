@@ -208,3 +208,15 @@ plot_model(model)
 
 
 # Prefetching
+
+
+# Label Smoothing
+Parameter of `tf.keras.losses.CategoricalCrossentropy()`
+	- Not `SparseCategoricalCrossentropy()`
+
+If our model gets too confident on a single class, it may get stuck on that class and not consider other classes
+- Ex) `[0.0, 0.0, 1.0, 0.0, 0.0]`: Stuck on 1.0 and ignore 0.0's
+
+What Label Smoothing does is, it *assigns some of the value from the highest prediction probabilities to other classes*, in turn, hopefully improving generalization
+- Ex) `[0.01, 0.01, 0.96, 0.01, 0.01]`
+
