@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/5. Transfer Learning with TF.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce69b1569bd02b69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "feature vec",
+                "query": "functional api",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,13 +179,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5ed6762a8e91d0ce",
+  "active": "ce69b1569bd02b69",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/5. Transfer Learning with TF.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/Keras Sequential API Modeling.md",
     "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
+    "Untitled 1.md",
     "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
     "AI & TensorFlow/TensorFlow Bootcamp/0. Deep Learning Basics.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
     "[CNN.md",
     "필리뚜랑 할 거.md",
     "방학 동안 하고 싶은 거.md",
@@ -192,8 +207,6 @@
     "Mathematics/MATH2121/9. Undetermined Coefficient.md",
     "Mathematics/MATH2121/8. Constant Coefficient DE.md",
     "Mathematics/MATH2121/7. Linear Second Order DE.md",
-    "Mathematics/MATH2121/6. Euler's Method.md",
-    "Mathematics/MATH2121/5. Complex Number.md",
     "Mathematics/MATH3161",
     "Mathematics/MATH2121",
     "Mathematics",
