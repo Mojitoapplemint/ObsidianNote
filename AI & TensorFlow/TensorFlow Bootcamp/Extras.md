@@ -205,3 +205,6 @@ outputs = tf.keras.layer.Activation('softmax', dtype="float32")(x)
 from keras.utils import plot_model
 plot_model(model)
 ```
+
+
+# Prefetching
