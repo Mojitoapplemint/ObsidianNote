@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "bb56af974477c99f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ce69b1569bd02b69",
             "type": "leaf",
             "state": {
@@ -180,10 +192,11 @@
   },
   "active": "5ed6762a8e91d0ce",
   "lastOpenFiles": [
-    "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/5. Transfer Learning with TF.md",
     "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/5. Transfer Learning with TF.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Keras Sequential API Modeling.md",
     "Untitled 1.md",
     "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
@@ -205,7 +218,6 @@
     "Mathematics/MATH3161/4. Derivative.md",
     "Mathematics/MATH3161/1. Basics of Complex Numbers.md",
     "Mathematics/MATH2121/9. Undetermined Coefficient.md",
-    "Mathematics/MATH2121/8. Constant Coefficient DE.md",
     "Mathematics/MATH3161",
     "Mathematics/MATH2121",
     "Mathematics",
