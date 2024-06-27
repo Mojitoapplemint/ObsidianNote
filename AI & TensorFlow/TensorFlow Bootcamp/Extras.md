@@ -198,3 +198,10 @@ At the output layer, it is required to split **Dense and Softmax Activation laye
 x = tf.keras.layers.Dense('num_class')(x)
 outputs = tf.keras.layer.Activation('softmax', dtype="float32")(x)
 ```
+
+# Plotting Model
+`plot_model` method in `keras.utils` visualizes our plot
+```python
+from keras.utils import plot_model
+plot_model(model)
+```
