@@ -26,4 +26,9 @@ Mangagers need to
 - Know employees as individuals, give them opportunities to apply the best of their talents
 - Talk to each employee about their unique value and make adjustments to align work, when possible
 
-## Q
+## Q8: The mission or purpose of my company makes me feel my job is important
+사회에 대한 기여도, 즉 본인이 일을 함으로써 얼마나 사회를 이롭게 만들 수 있는 지가 명확하지 않기 때문은 아닐까
+
+People can overcome the tough time when they know **how their work connects to something bigger**
+- Have a very meaningful and clear mossion statement that anyone can remember and easily to connect with the individual's job
+- And manager need to remind each employee how their work connects to that more aspirational purpose
