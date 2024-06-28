@@ -31,4 +31,8 @@ Mangagers need to
 
 People can overcome the tough time when they know **how their work connects to something bigger**
 - Have a very meaningful and clear mossion statement that anyone can remember and easily to connect with the individual's job
-- And manager need to remind each employee how their work connects to that more aspirational purpose
+
+Manager need to 
+- Remind each employee how their work connects to that more aspirational purpose
+- Create opportunities for employees to share mission moments and stories about the organization achieving its purpose
+
