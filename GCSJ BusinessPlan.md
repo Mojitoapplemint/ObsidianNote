@@ -1,5 +1,8 @@
 # Gallup Question Summary
-## Q1: 
+## Q1: I know what is expected of me at work
+**Clarity brings more solid results**
+
+Come to company and being clear about what the employees are expected to do healps them focus their attention in the right ways.
 
 ## Q3: At work, I have the opportunity to do what I do best every day
 Every people have different strength
