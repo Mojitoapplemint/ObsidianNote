@@ -37,5 +37,6 @@ Manager need to
 - Create opportunities for employees to share mission moments and stories about the organization achieving its purpose
 
 - 회사가 사원을 개개인으로써 더 잘 이해하고 각각의 장점들을 파악할 수 있는 기회
+	- 결국에는 
 - 사원이 회사에 소속됨으로써 궁극적으로 무엇을 이룰 수 있는지 알리는 기회
 - 
