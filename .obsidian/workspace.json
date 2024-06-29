@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4cc6edab078d2a51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "듣고 싶은 강의.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -106,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -123,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GCSJ BusinessPlan.md",
+                "file": "듣고 싶은 강의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GCSJ BusinessPlan.md",
+                "file": "듣고 싶은 강의.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GCSJ BusinessPlan.md"
+                "file": "듣고 싶은 강의.md"
               }
             }
           },
@@ -203,7 +214,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "21f442d96eecb4aa",
+  "active": "4cc6edab078d2a51",
   "lastOpenFiles": [
     "Untitled 1.md",
     "GCSJ BusinessPlan.md",
