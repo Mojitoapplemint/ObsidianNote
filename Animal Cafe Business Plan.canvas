@@ -26,7 +26,8 @@
 		{"id":"ecc47bcae27490bf","type":"text","text":"관련 논문\n","x":725,"y":-117,"width":250,"height":60,"color":"2"},
 		{"id":"ba342de29f0b1f8c","type":"text","text":"직관적으로 눈에 보이기 때문에 단순히 기부만 하는 것보다는 지역사회 내에서의 이미지 향상이 기대할 수 있다","x":1038,"y":-399,"width":250,"height":139,"color":"2"},
 		{"id":"d98c19d379aa9ef7","type":"text","text":"기업에 대한 영향","x":165,"y":-420,"width":250,"height":60,"color":"2"},
-		{"id":"fea3f92c86759cd1","x":308,"y":-965,"width":250,"height":60,"color":"#0de7a6","type":"text","text":"장점: 사원들에게 또 다른 업무를 주는 것이 아니라 "}
+		{"id":"fea3f92c86759cd1","x":-912,"y":-260,"width":250,"height":173,"color":"#0de7a6","type":"text","text":"장점: 사원들에게 또 다른 업무를 주는 것이 아니라 사원들에세 휴식및 정신적으로 긍정적인 영향을 줄 수 있는 것과 동시에 기업의 이미지를 챙길 수 있다"},
+		{"id":"9e28c7bb7eb607cb","x":-1414,"y":-408,"width":250,"height":60,"color":"6","type":"text","text":"[Overview of Animal Euthanasia | Animal Legal & Historical Center (animallaw.info)](https://www.animallaw.info/article/overview-animal-euthanasia)"}
 	],
 	"edges":[
 		{"id":"5a6e244c0612e6c5","fromNode":"12e730227fd9cb73","fromSide":"bottom","toNode":"1c01fe76a12926da","toSide":"top","color":"3"},
@@ -53,6 +54,8 @@
 		{"id":"05590628183625d9","fromNode":"d98c19d379aa9ef7","fromSide":"right","toNode":"6244d440f1ed4d82","toSide":"left","color":"2"},
 		{"id":"d895b3499d5c2cae","fromNode":"b2bae86987eb65b8","fromSide":"right","toNode":"32c30c6880f8542f","toSide":"left","color":"2"},
 		{"id":"5f421df1c7783ecb","fromNode":"b2bae86987eb65b8","fromSide":"right","toNode":"ba342de29f0b1f8c","toSide":"left","color":"2"},
-		{"id":"dd9c527b89f6dcb8","fromNode":"1c01fe76a12926da","fromSide":"left","toNode":"0a69c0953a466221","toSide":"top","color":"5"}
+		{"id":"dd9c527b89f6dcb8","fromNode":"1c01fe76a12926da","fromSide":"left","toNode":"0a69c0953a466221","toSide":"top","color":"5"},
+		{"id":"79f8584a39777a66","fromNode":"12e730227fd9cb73","fromSide":"left","toNode":"fea3f92c86759cd1","toSide":"right","color":"3"},
+		{"id":"71ac3ba26d475934","fromNode":"830aa20ceadd52b8","fromSide":"bottom","toNode":"9e28c7bb7eb607cb","toSide":"top","color":"6"}
 	]
 }
