@@ -1,6 +1,39 @@
 {
 	"nodes":[
-		{"id":"32c30c6880f8542f","x":-340,"y":100,"width":250,"height":60,"type":"text","text":"동물 복지에 대환 관심과 사회적"}
+		{"id":"1c01fe76a12926da","x":-58,"y":-100,"width":250,"height":80,"type":"text","text":"Z세대 인원들과 어떤 식으로 연관이 지어질까?\n"},
+		{"id":"acb027a0bbd82252","x":-58,"y":128,"width":250,"height":92,"type":"text","text":"그 카페를 이용함으로써 버려진 동물들이 얼마나 많은지 체감"},
+		{"id":"651fcc619808d1f8","x":300,"y":34,"width":250,"height":60,"color":"4","type":"text","text":"원하는 사원들도 분양을 받을 수 있다"},
+		{"id":"12e730227fd9cb73","x":-87,"y":-369,"width":250,"height":69,"color":"3","type":"text","text":"버려진 동물을 거두어 운영하는 동물카페"},
+		{"id":"5542b27d169769ce","x":660,"y":98,"width":250,"height":60,"type":"text","text":"책임감+관련 교육 필요"},
+		{"id":"7bad7c3c17975239","x":-493,"y":-429,"width":250,"height":60,"type":"text","text":"배경"},
+		{"id":"32c30c6880f8542f","x":-900,"y":-449,"width":250,"height":100,"type":"text","text":"동물 복지에 대환 관심과 중요도가 점점 늘어나고 있다"},
+		{"id":"6244d440f1ed4d82","x":-799,"y":-265,"width":250,"height":125,"type":"text","text":"회사에 소속함으로써 사회에 이바지 한다는 그 인식만으로도 회사에 대한 소속감이 늘어난다"},
+		{"id":"ecc47bcae27490bf","x":-871,"y":-26,"width":250,"height":60,"type":"text","text":"관련 논문\n"},
+		{"id":"a22f88db67628c16","x":-24,"y":-607,"width":250,"height":60,"type":"text","text":"필요한 것들:"},
+		{"id":"830aa20ceadd52b8","x":-397,"y":-707,"width":250,"height":60,"type":"text","text":"동물 보호 단체와의 연결"},
+		{"id":"ad48bc190c925fea","x":-775,"y":-853,"width":298,"height":60,"type":"text","text":"버려진 동물들을 거두기 위해"},
+		{"id":"f430f87e8f3c7aa3","x":320,"y":-156,"width":250,"height":60,"type":"text","text":"연결된 동물 보호 단체활동에 참가 할 수 있음"},
+		{"id":"9cb3f432a0da588c","x":700,"y":-90,"width":250,"height":60,"type":"text","text":"이를 장려하기 위한 어떠한 제도의 필요성?"},
+		{"id":"e03e0bfd431fee69","x":380,"y":-369,"width":250,"height":115,"type":"text","text":"더 나아가 업무 공간 안에서 동물들을 기름으로써 업무 분위기에 긍정적인 영향을 미칠 수 있다"},
+		{"id":"ecb14f4fd55803ff","x":-743,"y":-737,"width":250,"height":60,"type":"text","text":"사원이 분양을 희망할 경우, 관련 면접 및 교육"},
+		{"id":"18bb724f113dd8cc","x":-494,"y":-959,"width":250,"height":60,"type":"text","text":"동물 보호 단체는 그 규모가 작을 경우, 모든 동물들을 보호하기 힘들 뿐더러, "}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"f2f6f4cedaf14e85","fromNode":"1c01fe76a12926da","fromSide":"bottom","toNode":"acb027a0bbd82252","toSide":"top"},
+		{"id":"5faa33dcf66bc6d9","fromNode":"1c01fe76a12926da","fromSide":"right","toNode":"651fcc619808d1f8","toSide":"left"},
+		{"id":"78bf867336dc981b","fromNode":"12e730227fd9cb73","fromSide":"right","toNode":"e03e0bfd431fee69","toSide":"left"},
+		{"id":"5a6e244c0612e6c5","fromNode":"12e730227fd9cb73","fromSide":"bottom","toNode":"1c01fe76a12926da","toSide":"top"},
+		{"id":"e7a0ba7c5fc7c718","fromNode":"651fcc619808d1f8","fromSide":"right","toNode":"5542b27d169769ce","toSide":"left"},
+		{"id":"d07eae66d559c360","fromNode":"12e730227fd9cb73","fromSide":"left","toNode":"7bad7c3c17975239","toSide":"right"},
+		{"id":"d13710736c07ad79","fromNode":"7bad7c3c17975239","fromSide":"left","toNode":"32c30c6880f8542f","toSide":"right"},
+		{"id":"2f7be1bf7ebe913f","fromNode":"7bad7c3c17975239","fromSide":"bottom","toNode":"6244d440f1ed4d82","toSide":"top"},
+		{"id":"d7d021775eafbf06","fromNode":"6244d440f1ed4d82","fromSide":"bottom","toNode":"ecc47bcae27490bf","toSide":"top"},
+		{"id":"6bbdd6fc82143b6a","fromNode":"12e730227fd9cb73","fromSide":"top","toNode":"a22f88db67628c16","toSide":"bottom"},
+		{"id":"8e071d92e107975a","fromNode":"a22f88db67628c16","fromSide":"left","toNode":"830aa20ceadd52b8","toSide":"right"},
+		{"id":"4c85da04ba9680c5","fromNode":"830aa20ceadd52b8","fromSide":"left","toNode":"ad48bc190c925fea","toSide":"right"},
+		{"id":"7383278a7eb42b14","fromNode":"1c01fe76a12926da","fromSide":"right","toNode":"f430f87e8f3c7aa3","toSide":"left"},
+		{"id":"aec4dd96c2b3550c","fromNode":"f430f87e8f3c7aa3","fromSide":"right","toNode":"9cb3f432a0da588c","toSide":"left"},
+		{"id":"89beb48ddf868bf8","fromNode":"830aa20ceadd52b8","fromSide":"left","toNode":"ecb14f4fd55803ff","toSide":"right"},
+		{"id":"e83165a260766a3d","fromNode":"830aa20ceadd52b8","fromSide":"top","toNode":"18bb724f113dd8cc","toSide":"bottom"}
+	]
 }
