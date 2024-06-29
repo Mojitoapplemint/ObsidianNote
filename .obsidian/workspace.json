@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GCSJ BusinessPlan.md",
+                "file": "CCC/GCSJ/GCSJ Company Assignment.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "듣고 싶은 강의.md",
+                "file": "CCC/GCSJ/Business Plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "듣고 싶은 강의.md",
+                "file": "CCC/GCSJ/Business Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "듣고 싶은 강의.md",
+                "file": "CCC/GCSJ/Business Plan.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "듣고 싶은 강의.md"
+                "file": "CCC/GCSJ/Business Plan.md"
               }
             }
           },
@@ -214,10 +215,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4cc6edab078d2a51",
+  "active": "c0a9e7ff4e6bd264",
   "lastOpenFiles": [
+    "CCC/GCSJ/GCSJ Company Assignment.md",
+    "CCC/GCSJ/Business Plan.md",
+    "CCC/GCSJ",
+    "CCC",
+    "Untitled 2.md",
+    "듣고 싶은 강의.md",
     "Untitled 1.md",
-    "GCSJ BusinessPlan.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
     "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
     "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
@@ -229,7 +235,6 @@
     "[CNN.md",
     "필리뚜랑 할 거.md",
     "방학 동안 하고 싶은 거.md",
-    "듣고 싶은 강의.md",
     "Untitled.md",
     "Latex Suite Personal Setting.md",
     "conflict-files-obsidian-git.md",
@@ -240,8 +245,6 @@
     "Mathematics/MATH3161/5. The Bestiary of Holomorphic Function.md",
     "Mathematics/MATH3161/3. Functions of a Complex Variable.md",
     "Mathematics/MATH3161/2. Basic Topology in C.md",
-    "Mathematics/MATH3161/4. Derivative.md",
-    "Mathematics/MATH3161/1. Basics of Complex Numbers.md",
     "Mathematics/MATH3161",
     "Mathematics/MATH2121",
     "Mathematics",
@@ -250,8 +253,6 @@
     "Data Science",
     "Computer Science/COMP2711/Sheepy time Group Project",
     "Computer Science/COMP2711/Module4",
-    "Computer Science/COMP2711/Module3",
-    "Computer Science/COMP2711/Module2",
     "Attached Files/Pasted image 20240622134929.png",
     "Attached Files/Pasted image 20240622125110.png",
     "Attached Files/Pasted image 20240622124834.png",
