@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CCC/GCSJ/Business Plan.md",
+                "file": "CCC/GCSJ/GCSJ Company Assignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CCC/GCSJ/Business Plan.md",
+                "file": "CCC/GCSJ/GCSJ Company Assignment.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CCC/GCSJ/Business Plan.md"
+                "file": "CCC/GCSJ/GCSJ Company Assignment.md"
               }
             }
           },
@@ -215,10 +215,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c0a9e7ff4e6bd264",
+  "active": "21f442d96eecb4aa",
   "lastOpenFiles": [
-    "CCC/GCSJ/GCSJ Company Assignment.md",
     "CCC/GCSJ/Business Plan.md",
+    "CCC/GCSJ/GCSJ Company Assignment.md",
     "CCC/GCSJ",
     "CCC",
     "Untitled 2.md",
