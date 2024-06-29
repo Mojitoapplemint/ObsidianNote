@@ -41,3 +41,10 @@ Manager need to
 - 사원이 회사에 소속됨으로써 궁극적으로 무엇을 이룰 수 있는지 알리는 기회
 
 Company that invest in CSR achieves an advantage over its competitors
+
+
+버려진 동물들을 거두어 운영하는 동물카페
+- 동물복지에 대한 관심과 중요성이 많이 증가했다
+
+
+
