@@ -11,8 +11,15 @@
             "id": "ab7d86a764a39ca5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Animal Cafe Business Plan.canvas",
+                "viewState": {
+                  "x": -369.18091744210585,
+                  "y": 28.568500968312875,
+                  "zoom": -0.7840806419848514
+                }
+              }
             }
           }
         ]
@@ -81,6 +88,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Animal Cafe Business Plan.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +105,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Animal Cafe Business Plan.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +116,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Animal Cafe Business Plan.canvas"
+          }
         }
       }
     ],
@@ -125,8 +136,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "621635cf7446fb9c",
+  "active": "ab7d86a764a39ca5",
   "lastOpenFiles": [
+    "CCC/GCSJ/GCSJ Company Assignment.md",
+    "CCC/GCSJ/Business Plan.md",
+    "Animal Cafe Business Plan.canvas",
+    "/Untitled 1.md",
+    "/CCC/GCSJ/GCSJ Company Assignment.md",
+    "/CCC/GCSJ/Business Plan.md",
+    "/Animal Cafe Business Plan.canvas",
+    "/AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
+    "/AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
+    "/AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
+    "CCC/GCSJ",
+    "CCC",
+    "/CCC/GCSJ",
+    "/CCC",
     "필리뚜랑 할 거.md",
     "방학 동안 하고 싶은 거.md",
     "듣고 싶은 강의.md",
@@ -145,14 +170,6 @@
     "Mathematics/MATH2121/8. Constant Coefficient DE.md",
     "Mathematics/MATH2121/7. Linear Second Order DE.md",
     "Mathematics/MATH2121/6. Euler's Method.md",
-    "Mathematics/MATH2121/5. Complex Number.md",
-    "Mathematics/MATH2121/4. Exact Equation.md",
-    "Mathematics/MATH2121/3. Separable Equations.md",
-    "Mathematics/MATH2121/2. Growth and Decay.md",
-    "Mathematics/MATH2121/10. Application of SOLDE.md",
-    "Mathematics/MATH2121/1. Ordinary Differential Equation.md",
-    "Mathematics/MATH2121/0. Differential Equation.md",
-    "Latex Suite Personal Setting.md",
     "Attached Files/Pasted image 20240622134929.png",
     "Attached Files/Pasted image 20240622125110.png",
     "Attached Files/Pasted image 20240622124834.png",
@@ -168,10 +185,6 @@
     "Mathematics",
     "Excalidraw",
     "Data Science/MATH1311",
-    "Data Science",
-    "Computer Science/COMP2711/Sheepy time Group Project",
-    "Computer Science/COMP2711/Module4",
-    "Computer Science/COMP2711/Module3",
-    "Computer Science/COMP2711/Module2"
+    "Data Science"
   ]
 }
