@@ -64,14 +64,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCC/GCSJ/Business Plan.md",
+                "file": "CCC/GCSJ/GCSJ Company Assignment.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Animal Cafe Business Plan.canvas",
+                "file": "CCC/GCSJ/GCSJ Company Assignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Animal Cafe Business Plan.canvas",
+                "file": "CCC/GCSJ/GCSJ Company Assignment.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Animal Cafe Business Plan.canvas"
+                "file": "CCC/GCSJ/GCSJ Company Assignment.md"
               }
             }
           },
@@ -218,19 +218,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "21f442d96eecb4aa",
+  "active": "4cc6edab078d2a51",
   "lastOpenFiles": [
-    "CCC/GCSJ/GCSJ Company Assignment.md",
-    "Animal Cafe Business Plan.canvas",
     "CCC/GCSJ/Business Plan.md",
+    "Animal Cafe Business Plan.canvas",
+    "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
+    "Untitled 1.md",
+    "CCC/GCSJ/GCSJ Company Assignment.md",
     "CCC/GCSJ",
     "CCC",
     "Untitled 2.md",
     "듣고 싶은 강의.md",
-    "Untitled 1.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
     "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
     "AI & TensorFlow/TensorFlow Bootcamp/5. Transfer Learning with TF.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Keras Sequential API Modeling.md",
