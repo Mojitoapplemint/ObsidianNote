@@ -1,5 +1,5 @@
 {
-  "commitMessage": "(Mobile)vault backup: {{date}}",
+  "commitMessage": "vault backup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 10,
   "autoPushInterval": 0,
@@ -16,18 +16,18 @@
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": false,
   "treeStructure": false,
-  "refreshSourceControl": false,
-  "basePath": "",
+  "refreshSourceControl": true,
+  "basePath": "remote",
   "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": false,
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 7000,
   "showBranchStatusBar": true,
-  "setLastSaveToLastCommit": true,
+  "setLastSaveToLastCommit": false,
   "submoduleRecurseCheckout": false,
-  "gitDir": "",
+  "gitDir": ".git",
   "showFileMenu": true,
-  "authorInHistoryView": "full",
+  "authorInHistoryView": "hide",
   "dateInHistoryView": false,
   "lineAuthor": {
     "show": false,
@@ -54,5 +54,5 @@
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   },
-  "autoCommitMessage": "(Mobile)vault backup: {{date}}"
+  "autoCommitMessage": "vault backup: {{date}}"
 }
