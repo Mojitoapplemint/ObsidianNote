@@ -57,6 +57,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aafd88a41f0d8f9f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-07-03 17.21.36.excalidraw.md"
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -208,9 +218,12 @@
   },
   "active": "4cc6edab078d2a51",
   "lastOpenFiles": [
+    "Pasted image 20240703172248.png",
+    "Excalidraw/Drawing 2024-07-03 17.21.36.excalidraw.md",
+    "Mathematics/Real Analysis/Untitled.md",
+    "Excalidraw/Drawing 2024-07-03 17.20.55.excalidraw.md",
     "Untitled 1.md",
     "필리뚜랑 할 거.md",
-    "Mathematics/Real Analysis/Untitled.md",
     "Mathematics/Real Analysis",
     "Animal Cafe Business Plan.canvas",
     "Latex Suite Personal Setting.md",
@@ -235,9 +248,6 @@
     "AI & TensorFlow/TensorFlow Bootcamp/0. Deep Learning Basics.md",
     "방학 동안 하고 싶은 거.md",
     "Mathematics/MATH3161/8. Morera's Theorem.md",
-    "Mathematics/MATH3161/7. Liouville's Theorem and FTA.md",
-    "Mathematics/MATH3161/9. Series.md",
-    "Mathematics/MATH3161/6. Integration.md",
     "Mathematics/MATH3161",
     "Mathematics/MATH2121",
     "Mathematics",
