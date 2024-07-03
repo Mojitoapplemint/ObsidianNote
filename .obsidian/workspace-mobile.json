@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e05dabacbf2e99e0",
+        "id": "707ff56743c5fe61",
         "type": "tabs",
         "children": [
           {
-            "id": "ab7d86a764a39ca5",
+            "id": "c6b3cb3120063111",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -133,8 +133,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ab7d86a764a39ca5",
+  "active": "c6b3cb3120063111",
   "lastOpenFiles": [
+    "Untitled 1.md",
     "Animal Cafe Business Plan.canvas",
     "Mathematics/Real Analysis/Untitled.md",
     "Excalidraw/Drawing 2024-06-25 22.02.52.excalidraw.md",
@@ -159,7 +160,6 @@
     "방학 동안 하고 싶은 거.md",
     "듣고 싶은 강의.md",
     "Untitled.md",
-    "Untitled 1.md",
     "Mathematics/MATH3161/9. Series.md",
     "Mathematics/MATH3161/8. Morera's Theorem.md",
     "Mathematics/MATH3161/7. Liouville's Theorem and FTA.md",
