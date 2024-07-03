@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "ce69b1569bd02b69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "21f442d96eecb4aa",
             "type": "leaf",
             "state": {
@@ -64,14 +52,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCC/GCSJ/GCSJ Company Assignment.md",
+                "file": "Mathematics/Real Analysis/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -138,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CCC/GCSJ/GCSJ Company Assignment.md",
+                "file": "Mathematics/Real Analysis/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CCC/GCSJ/GCSJ Company Assignment.md",
+                "file": "Mathematics/Real Analysis/Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CCC/GCSJ/GCSJ Company Assignment.md"
+                "file": "Mathematics/Real Analysis/Untitled.md"
               }
             }
           },
@@ -220,16 +208,22 @@
   },
   "active": "4cc6edab078d2a51",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Untitled 2.md",
-    "Excalidraw/Drawing 2024-06-25 22.02.52.excalidraw.md",
-    "[CNN.md",
-    "CCC/GCSJ/Business Plan.md",
+    "필리뚜랑 할 거.md",
+    "Mathematics/Real Analysis/Untitled.md",
+    "Mathematics/Real Analysis",
     "Animal Cafe Business Plan.canvas",
+    "Latex Suite Personal Setting.md",
+    "Untitled.md",
+    "CCC/GCSJ/GCSJ Company Assignment.md",
+    "Untitled 1.md",
+    "Untitled 2.md",
+    "[CNN.md",
+    "Mathematics/Untitled.md",
+    "conflict-files-obsidian-git.md",
+    "Excalidraw/Drawing 2024-06-25 22.02.52.excalidraw.md",
+    "CCC/GCSJ/Business Plan.md",
     "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
     "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
-    "Untitled 1.md",
-    "CCC/GCSJ/GCSJ Company Assignment.md",
     "CCC/GCSJ",
     "CCC",
     "듣고 싶은 강의.md",
@@ -239,16 +233,11 @@
     "AI & TensorFlow/TensorFlow Bootcamp/Keras Sequential API Modeling.md",
     "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
     "AI & TensorFlow/TensorFlow Bootcamp/0. Deep Learning Basics.md",
-    "필리뚜랑 할 거.md",
     "방학 동안 하고 싶은 거.md",
-    "Untitled.md",
-    "Latex Suite Personal Setting.md",
     "Mathematics/MATH3161/8. Morera's Theorem.md",
     "Mathematics/MATH3161/7. Liouville's Theorem and FTA.md",
     "Mathematics/MATH3161/9. Series.md",
     "Mathematics/MATH3161/6. Integration.md",
-    "Mathematics/MATH3161/5. The Bestiary of Holomorphic Function.md",
-    "Mathematics/MATH3161/3. Functions of a Complex Variable.md",
     "Mathematics/MATH3161",
     "Mathematics/MATH2121",
     "Mathematics",
@@ -256,7 +245,6 @@
     "Data Science/MATH1311",
     "Data Science",
     "Computer Science/COMP2711/Sheepy time Group Project",
-    "Computer Science/COMP2711/Module4",
     "Attached Files/Pasted image 20240622134929.png",
     "Attached Files/Pasted image 20240622125110.png",
     "Attached Files/Pasted image 20240622124834.png",
