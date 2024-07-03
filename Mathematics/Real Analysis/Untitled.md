@@ -1,9 +1,7 @@
-# Properties of $\mathbb{R}$
-1. $\mathbb{R}$ s a field
-	- It has addition and multiplication
-2. $\mathbb{R}$ is ordered
-3. $\mathbb{R}$ is complete
-	- There are no holes, or gaps
+# Mathematical Induction
+A way to provea statement by proving two steps
 
-
+Let $P(n)$ is statement depending on $n\in N$
+ 
+1) Base Case
 
