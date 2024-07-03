@@ -11,14 +11,11 @@
             "id": "ab7d86a764a39ca5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Animal Cafe Business Plan.canvas",
-                "viewState": {
-                  "x": 298.4327763857252,
-                  "y": 137.99756211015813,
-                  "zoom": -1.01885216324939
-                }
+                "file": "Mathematics/Real Analysis/Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Animal Cafe Business Plan.canvas",
+            "file": "Mathematics/Real Analysis/Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Animal Cafe Business Plan.canvas",
+            "file": "Mathematics/Real Analysis/Untitled.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -117,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Animal Cafe Business Plan.canvas"
+            "file": "Mathematics/Real Analysis/Untitled.md"
           }
         }
       }
@@ -138,9 +135,15 @@
   },
   "active": "ab7d86a764a39ca5",
   "lastOpenFiles": [
+    "Animal Cafe Business Plan.canvas",
+    "Mathematics/Real Analysis/Untitled.md",
+    "Excalidraw/Drawing 2024-06-25 22.02.52.excalidraw.md",
+    "/Mathematics/Real Analysis/Untitled.md",
+    "/Excalidraw/Drawing 2024-06-25 22.02.52.excalidraw.md",
+    "Mathematics/Real Analysis",
+    "/Mathematics/Real Analysis",
     "CCC/GCSJ/GCSJ Company Assignment.md",
     "CCC/GCSJ/Business Plan.md",
-    "Animal Cafe Business Plan.canvas",
     "/Untitled 1.md",
     "/CCC/GCSJ/GCSJ Company Assignment.md",
     "/CCC/GCSJ/Business Plan.md",
@@ -165,11 +168,6 @@
     "Mathematics/MATH3161/4. Derivative.md",
     "Mathematics/MATH3161/3. Functions of a Complex Variable.md",
     "Mathematics/MATH3161/2. Basic Topology in C.md",
-    "Mathematics/MATH3161/1. Basics of Complex Numbers.md",
-    "Mathematics/MATH2121/9. Undetermined Coefficient.md",
-    "Mathematics/MATH2121/8. Constant Coefficient DE.md",
-    "Mathematics/MATH2121/7. Linear Second Order DE.md",
-    "Mathematics/MATH2121/6. Euler's Method.md",
     "Attached Files/Pasted image 20240622134929.png",
     "Attached Files/Pasted image 20240622125110.png",
     "Attached Files/Pasted image 20240622124834.png",
@@ -183,8 +181,6 @@
     "Mathematics/MATH3161",
     "Mathematics/MATH2121",
     "Mathematics",
-    "Excalidraw",
-    "Data Science/MATH1311",
-    "Data Science"
+    "Excalidraw"
   ]
 }
