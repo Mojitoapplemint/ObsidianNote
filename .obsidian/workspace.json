@@ -50,11 +50,14 @@
             "id": "4cc6edab078d2a51",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Mathematics/Real Analysis/Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "Animal Cafe Business Plan.canvas",
+                "viewState": {
+                  "x": -287.5,
+                  "y": -353.5,
+                  "zoom": -1.2443835086289878
+                }
               }
             }
           },
@@ -119,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -136,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Real Analysis/Untitled.md",
+                "file": "Animal Cafe Business Plan.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Real Analysis/Untitled.md",
+                "file": "Animal Cafe Business Plan.canvas",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Real Analysis/Untitled.md"
+                "file": "Animal Cafe Business Plan.canvas"
               }
             }
           },
@@ -218,9 +220,9 @@
   },
   "active": "4cc6edab078d2a51",
   "lastOpenFiles": [
+    "Mathematics/Real Analysis/Untitled.md",
     "Pasted image 20240703172248.png",
     "Excalidraw/Drawing 2024-07-03 17.21.36.excalidraw.md",
-    "Mathematics/Real Analysis/Untitled.md",
     "Excalidraw/Drawing 2024-07-03 17.20.55.excalidraw.md",
     "Untitled 1.md",
     "필리뚜랑 할 거.md",
@@ -263,7 +265,6 @@
     "Attached Files/Pasted image 20240525110501.png",
     "Attached Files/Pasted image 20240524170233.png",
     "Attached Files/Pasted image 20240524161138.png",
-    "Attached Files/Pasted image 20240524161026.png",
-    "Attached Files/Pasted image 20240524160837.png"
+    "Attached Files/Pasted image 20240524161026.png"
   ]
 }
