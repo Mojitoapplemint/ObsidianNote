@@ -50,14 +50,11 @@
             "id": "4cc6edab078d2a51",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Animal Cafe Business Plan.canvas",
-                "viewState": {
-                  "x": -287.5,
-                  "y": -353.5,
-                  "zoom": -1.2443835086289878
-                }
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Fundamentals.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -122,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -138,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Animal Cafe Business Plan.canvas",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Animal Cafe Business Plan.canvas",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Fundamentals.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Animal Cafe Business Plan.canvas"
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Fundamentals.md"
               }
             }
           },
@@ -220,6 +218,9 @@
   },
   "active": "4cc6edab078d2a51",
   "lastOpenFiles": [
+    "AI & TensorFlow/TensorFlow Bootcamp/Practice Codes/1. Insurance.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Fundamentals.md",
+    "Animal Cafe Business Plan.canvas",
     "Mathematics/Real Analysis/Untitled.md",
     "Pasted image 20240703172248.png",
     "Excalidraw/Drawing 2024-07-03 17.21.36.excalidraw.md",
@@ -227,7 +228,6 @@
     "Untitled 1.md",
     "필리뚜랑 할 거.md",
     "Mathematics/Real Analysis",
-    "Animal Cafe Business Plan.canvas",
     "Latex Suite Personal Setting.md",
     "Untitled.md",
     "CCC/GCSJ/GCSJ Company Assignment.md",
@@ -249,7 +249,6 @@
     "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
     "AI & TensorFlow/TensorFlow Bootcamp/0. Deep Learning Basics.md",
     "방학 동안 하고 싶은 거.md",
-    "Mathematics/MATH3161/8. Morera's Theorem.md",
     "Mathematics/MATH3161",
     "Mathematics/MATH2121",
     "Mathematics",
