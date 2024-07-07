@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,17 +32,12 @@
             }
           },
           {
-            "id": "21f442d96eecb4aa",
+            "id": "aafd88a41f0d8f9f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "excalidraw",
               "state": {
-                "file": "Animal Cafe Business Plan.canvas",
-                "viewState": {
-                  "x": 240.67087577870728,
-                  "y": -260.4647140178881,
-                  "zoom": -1
-                }
+                "file": "Excalidraw/Drawing 2024-07-03 17.21.36.excalidraw.md"
               }
             }
           },
@@ -52,19 +47,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Fundamentals.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/Evaluation Metrics.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "aafd88a41f0d8f9f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-07-03 17.21.36.excalidraw.md"
               }
             }
           }
@@ -136,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Fundamentals.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/Evaluation Metrics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Fundamentals.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/Evaluation Metrics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Fundamentals.md"
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/Evaluation Metrics.md"
               }
             }
           },
@@ -218,9 +203,11 @@
   },
   "active": "4cc6edab078d2a51",
   "lastOpenFiles": [
+    "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Fundamentals.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/Evaluation Metrics.md",
     "Pasted image 20240707132529.png",
     "AI & TensorFlow/TensorFlow Bootcamp/Practice Codes/1. Insurance.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Fundamentals.md",
     "Animal Cafe Business Plan.canvas",
     "Mathematics/Real Analysis/Untitled.md",
     "Pasted image 20240703172248.png",
@@ -238,7 +225,6 @@
     "conflict-files-obsidian-git.md",
     "Excalidraw/Drawing 2024-06-25 22.02.52.excalidraw.md",
     "CCC/GCSJ/Business Plan.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
     "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
     "CCC/GCSJ",
     "CCC",
@@ -263,7 +249,6 @@
     "Attached Files/Pasted image 20240527124337.png",
     "Attached Files/Pasted image 20240525110501.png",
     "Attached Files/Pasted image 20240524170233.png",
-    "Attached Files/Pasted image 20240524161138.png",
-    "Attached Files/Pasted image 20240524161026.png"
+    "Attached Files/Pasted image 20240524161138.png"
   ]
 }
