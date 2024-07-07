@@ -1,12 +1,18 @@
-# Regression & TSP Forecast Evaluation Metrics 
+# Regression & TSP Forecast (Lower the Better)
 ## MAE: Mean Absolute Error
 Great Starter metric for any Regression Problem
 $$MAE=\frac{\sum^{n}_{i=1}|y_{i}-x_{i}|}{n}$$
 
-### MAPE: Mean Absolute Percentage Error
-$$MAPE=\text{mean}\left( |\frac{100e_{j}}{y_{j}} |\right)$$
+## MSE: Mean Squared Error
+When larger errors are more significant than smaller errors
+$$MSE=\frac{1}{n}\sum^{n}_{i=1}(Y_{i}-\hat{Y_{i}})^{2} $$
 
-### MASE:  Mean Absolute Scaled Error
+# TSP Forecast (Lower the Better)
+## MAPE: Mean Absolute Percentage Error
+$$MAPE=\text{mean}\left( |\frac{100e_{j}}{y_{j}} |\right)$$
+Where $e_{j}$ is MAE value
+
+## MASE:  Mean Absolute Scaled Error
 A scaled error is >1 if the forecast is worse than the naive
 A scaled error is <1 if the forecase is better than the naive
 
@@ -14,16 +20,15 @@ A scaled error is <1 if the forecase is better than the naive
 $$q_{j}=\frac{e_{j}}{\frac{1}{T-1}\sum^{T}_{t=2}(y_{t}-y_{t-1}) }$$
 **Seasonal Forecast**
 $$q_{j}=\frac{e_{j}}{\frac{1}{T-m}\sum^{T}_{m+1}(y_{t}-y_{t-m}) }$$
-## MSE: Mean Squared Error
-When larger errors are more significant than smaller errors
-$$MSE=\frac{1}{n}\sum^{n}_{i=1}(Y_{i}-\hat{Y_{i}})^{2} $$
 
-### RMSE: Root Mean Squared Error
+Where $e_{j}$ is MAE value
+
+## RMSE: Root Mean Squared Error
 Similar to MSE, but as interpretable as MAE
 - Same unit as target
 $$RMSE=\sqrt{ MSE }$$
 
-# Classification Evaluation Metrics
+# Classification
 [[Data Science/MATH1311/True, False, Positive, Negative|Additional Terminology: True, False, Positive, Negative]]
 ## Accuracy
 $$\text{Accuracy}=\frac{tp+tn}{tp+tn+fp+fn}$$

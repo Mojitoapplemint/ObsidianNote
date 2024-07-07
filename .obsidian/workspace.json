@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Fundamentals.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/Evaluation Metrics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Fundamentals.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/Evaluation Metrics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Fundamentals.md"
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/Evaluation Metrics.md"
               }
             }
           },
@@ -190,12 +191,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c0a9e7ff4e6bd264",
+  "active": "4cc6edab078d2a51",
   "lastOpenFiles": [
+    "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Fundamentals.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Evaluation Metrics.md",
     "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
     "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Fundamentals.md",
     "Excalidraw/Drawing 2024-07-03 17.21.36.excalidraw.md",
     "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
     "Pasted image 20240707132529.png",
