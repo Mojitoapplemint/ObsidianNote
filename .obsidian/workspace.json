@@ -25,19 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "aafd88a41f0d8f9f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-07-03 17.21.36.excalidraw.md"
               }
             }
           },
@@ -53,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "functional api",
+                "query": "precision",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/Evaluation Metrics.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/Evaluation Metrics.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Fundamentals.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/Evaluation Metrics.md"
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Fundamentals.md"
               }
             }
           },
@@ -201,17 +190,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4cc6edab078d2a51",
+  "active": "c0a9e7ff4e6bd264",
   "lastOpenFiles": [
-    "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Fundamentals.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Evaluation Metrics.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Fundamentals.md",
+    "Excalidraw/Drawing 2024-07-03 17.21.36.excalidraw.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
     "Pasted image 20240707132529.png",
     "AI & TensorFlow/TensorFlow Bootcamp/Practice Codes/1. Insurance.md",
     "Animal Cafe Business Plan.canvas",
     "Mathematics/Real Analysis/Untitled.md",
     "Pasted image 20240703172248.png",
-    "Excalidraw/Drawing 2024-07-03 17.21.36.excalidraw.md",
     "Excalidraw/Drawing 2024-07-03 17.20.55.excalidraw.md",
     "Untitled 1.md",
     "필리뚜랑 할 거.md",
@@ -225,12 +216,10 @@
     "conflict-files-obsidian-git.md",
     "Excalidraw/Drawing 2024-06-25 22.02.52.excalidraw.md",
     "CCC/GCSJ/Business Plan.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
     "CCC/GCSJ",
     "CCC",
     "듣고 싶은 강의.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
     "AI & TensorFlow/TensorFlow Bootcamp/5. Transfer Learning with TF.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Keras Sequential API Modeling.md",
     "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
