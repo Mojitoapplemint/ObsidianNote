@@ -220,3 +220,5 @@ If our model gets too confident on a single class, it may get stuck on that clas
 What Label Smoothing does is, it *assigns some of the value from the highest prediction probabilities to other classes*, in turn, hopefully improving generalization
 - Ex) `[0.01, 0.01, 0.96, 0.01, 0.01]`
 
+# Create a Custom Layer
+[How to create a new custom layer: Making new layers and models via subclassing](https://www.tensorflow.org/guide/keras/making_new_layers_and_models_via_subclassing)
