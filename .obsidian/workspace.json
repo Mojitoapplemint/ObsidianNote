@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/Gradients.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/N-BEATS Algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/Gradients.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/N-BEATS Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/Gradients.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/N-BEATS Algorithm.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/Gradients.md"
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/N-BEATS Algorithm.md"
               }
             }
           },
@@ -192,9 +192,11 @@
   },
   "active": "5ed6762a8e91d0ce",
   "lastOpenFiles": [
+    "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Fundamentals.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/Gradients.md",
+    "Pasted image 20240713144116.png",
     "Pasted image 20240713142635.png",
     "AI & TensorFlow/TensorFlow Bootcamp/N-BEATS Algorithm.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/Gradients.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Evaluation Metrics.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Practice Codes/1. Insurance.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Input Data Pipeline.md",
@@ -202,7 +204,6 @@
     "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
     "Pasted image 20240713141138.png",
     "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Fundamentals.md",
     "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
     "Pasted image 20240707193706.png",
     "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
@@ -236,8 +237,6 @@
     "Attached Files/Pasted image 20240622134929.png",
     "Attached Files/Pasted image 20240622125110.png",
     "Attached Files/Pasted image 20240622124834.png",
-    "Attached Files/Pasted image 20240613091424.png",
-    "Attached Files/Pasted image 20240527124337.png",
-    "Attached Files/Pasted image 20240525110501.png"
+    "Attached Files/Pasted image 20240613091424.png"
   ]
 }
