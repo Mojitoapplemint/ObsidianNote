@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/Practice Codes/N-BEATS Algorithm.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/Gradients.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/Practice Codes/N-BEATS Algorithm.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/Gradients.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/Practice Codes/N-BEATS Algorithm.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/Gradients.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/Practice Codes/N-BEATS Algorithm.md"
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/Gradients.md"
               }
             }
           },
@@ -192,12 +192,14 @@
   },
   "active": "5ed6762a8e91d0ce",
   "lastOpenFiles": [
+    "AI & TensorFlow/TensorFlow Bootcamp/N-BEATS Algorithm.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/Gradients.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/Evaluation Metrics.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/Practice Codes/1. Insurance.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Input Data Pipeline.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Keras Sequential API Modeling.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/Practice Codes/N-BEATS Algorithm.md",
     "Pasted image 20240713141138.png",
-    "AI & TensorFlow/TensorFlow Bootcamp/Evaluation Metrics.md",
     "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
     "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Fundamentals.md",
     "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
@@ -205,7 +207,6 @@
     "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
     "Excalidraw/Drawing 2024-07-03 17.21.36.excalidraw.md",
     "Pasted image 20240707132529.png",
-    "AI & TensorFlow/TensorFlow Bootcamp/Practice Codes/1. Insurance.md",
     "Animal Cafe Business Plan.canvas",
     "Mathematics/Real Analysis/Untitled.md",
     "Pasted image 20240703172248.png",
@@ -225,7 +226,6 @@
     "CCC/GCSJ",
     "CCC",
     "듣고 싶은 강의.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/5. Transfer Learning with TF.md",
     "Mathematics/MATH3161",
     "Mathematics/MATH2121",
     "Mathematics",
