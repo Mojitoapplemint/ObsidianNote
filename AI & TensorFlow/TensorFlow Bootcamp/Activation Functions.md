@@ -2,11 +2,19 @@
 
 # ReLU (Rectified Linear Units)
 ```python
-def Relu(X):
+def RelU(X):
 	return max(X, 0)
 ```
 ![[Pasted image 20240524161026.png|400]]
 
+## Leaky ReLU
+```python
+def leakyReLU(X, a):
+	return max(aX, X)
+```
+- `a` is hyperparameter: 0.01, 0.001, etc
+- Prevents Dying ReLU
+![[Pasted image 20240713144725.png]]
 
 # Sigmoid
 ```python
