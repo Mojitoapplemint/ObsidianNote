@@ -242,3 +242,10 @@ def get_ensemble_models(horizon=HORIZON,
             ensemble_models.append(model)
     return ensemble_models
 ```
+
+## Combining Predictions
+[How to Combine Predictions for Ensemble Learning](https://machinelearningmastery.com/combine-predictions-for-ensemble-learning/)
+
+# Uncertainty Estimate
+Also known as Prediction Intervals
+- Since point-wise prediction is never exact, 
