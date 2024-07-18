@@ -253,5 +253,5 @@ Also known as Prediction Intervals
 1. Take the predictions from a number of randomly initialized models
 2. Measure the standard deviation of the predictions
 3. Multiply the standard deviation by 1.96 since 95% of observation fall within 1.96 std
-	- Assuming the distribution is Normal
+	- Assuming the **distribution is Normal**
 4. To get the prediction interval upper and lower bounds, add and subtract the value obtained by 3 to the mean/median of the predictions made in 1
