@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/N-BEATS Algorithm.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/N-BEATS Algorithm.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Fundamentals.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/N-BEATS Algorithm.md"
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Fundamentals.md"
               }
             }
           },
@@ -190,13 +191,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5ed6762a8e91d0ce",
+  "active": "bb56af974477c99f",
   "lastOpenFiles": [
+    "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/N-BEATS Algorithm.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Activation Functions.md",
     "Pasted image 20240713144725.png",
     "AI & TensorFlow/TensorFlow Bootcamp/Evaluation Metrics.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/N-BEATS Algorithm.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
     "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Fundamentals.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Gradients.md",
     "Pasted image 20240713144116.png",
