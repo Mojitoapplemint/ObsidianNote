@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ensemble Learning.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ensemble Learning.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ensemble Learning.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ensemble Learning.md"
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/Extras.md"
               }
             }
           },
@@ -205,8 +205,8 @@
   },
   "active": "dd1a3a1c07fb4c1f",
   "lastOpenFiles": [
-    "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Fundamentals.md",
     "Ensemble Learning.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Fundamentals.md",
     "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
     "AI & TensorFlow/TensorFlow Bootcamp/N-BEATS Algorithm.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Activation Functions.md",

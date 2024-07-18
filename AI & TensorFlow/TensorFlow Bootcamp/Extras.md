@@ -222,3 +222,23 @@ What Label Smoothing does is, it *assigns some of the value from the highest pre
 
 # Create a Custom Layer
 [How to create a new custom layer: Making new layers and models via subclassing](https://www.tensorflow.org/guide/keras/making_new_layers_and_models_via_subclassing)
+
+# Ensemble Learning
+Ensemble Learnings use multiple learning algorithms to obtain better predictive performance
+- Requires longer train
+```python
+def get_ensemble_models(horizon=HORIZON,
+                        train_data = train_dataset,
+                        test_data = test_dataset,
+                        num_iter=10,
+                        num_epochs = 1000,
+                        loss_fn = ["mae", "mse", "mape"]):
+    ensemble_models=[]
+    for i in range(num_iter):
+        for loss_function in loss_fn:
+			# Create Model
+			# Compile Model
+			# Fit Model
+            ensemble_models.append(model)
+    return ensemble_models
+```
