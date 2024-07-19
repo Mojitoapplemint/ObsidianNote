@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Fundamentals.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/Extras.md"
+                "file": "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Fundamentals.md"
               }
             }
           },
@@ -203,8 +203,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dd1a3a1c07fb4c1f",
+  "active": "bb56af974477c99f",
   "lastOpenFiles": [
+    "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
     "Ensemble Learning.md",
     "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Fundamentals.md",
     "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
@@ -218,7 +219,6 @@
     "AI & TensorFlow/TensorFlow Bootcamp/Practice Codes/1. Insurance.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Input Data Pipeline.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Keras Sequential API Modeling.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
     "Pasted image 20240713141138.png",
     "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
     "Pasted image 20240707193706.png",
