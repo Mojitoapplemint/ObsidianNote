@@ -258,9 +258,13 @@ Also known as Prediction Intervals
 4. To get the prediction interval upper and lower bounds, add and subtract the value obtained by 3 to the mean/median of the predictions made in 1
 
 ## Aleatoric Uncertainty
+Referred as "data"  or "subway" uncertainty
+- Describes the confidence in the input data
+	- High when input data is noisy
 - Cannot be reduced regardless of the amount of data
-- Referred as "data"  or "subway" uncertainty
 
 ## Epistemic Undertainty
+Referred as "model" or "coconut" uncertainty
+- Describes the confidence of the prediction
+	- High when missing training data
 - Can be reduced with more data
-- Referred as "model" or "coconut" uncertainty
