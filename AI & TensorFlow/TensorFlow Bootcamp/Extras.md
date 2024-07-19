@@ -249,6 +249,7 @@ def get_ensemble_models(horizon=HORIZON,
 # Uncertainty Estimate
 Also known as Prediction Intervals
 - Provides an **interval of values** within which the *true value is believed to lie with the stated probability*
+- Important compenent of **assessing forecast prediction** truth in LSTM models
 
 1. Take the predictions from a number of randomly initialized models
 2. Measure the standard deviation of the predictions
@@ -257,7 +258,9 @@ Also known as Prediction Intervals
 4. To get the prediction interval upper and lower bounds, add and subtract the value obtained by 3 to the mean/median of the predictions made in 1
 
 ## Aleatoric Uncertainty
-- Cannot be reduced
-- Referred as data uncertainty or subway uncertainty
+- Cannot be reduced regardless of the amount of data
+- Referred as "data"  or "subway" uncertainty
 
-## Epistemic 
+## Epistemic Undertainty
+- Can be reduced with more data
+- Referred as "model" or "coconut" uncertainty
