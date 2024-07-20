@@ -269,5 +269,5 @@ Referred as "model" or "coconut" uncertainty
 	- High when missing training data
 - Can be reduced with more data
 
-# Turkey Problem
+
 
