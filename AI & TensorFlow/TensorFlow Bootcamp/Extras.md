@@ -268,3 +268,6 @@ Referred as "model" or "coconut" uncertainty
 - Describes the confidence of the prediction
 	- High when missing training data
 - Can be reduced with more data
+
+# Turkey Problem
+

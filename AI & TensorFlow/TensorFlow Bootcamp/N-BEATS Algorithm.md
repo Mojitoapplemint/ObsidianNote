@@ -9,5 +9,3 @@ The classical residual network architecture *adds the input of the stack of laye
 
 $$x_{\ell}=x_{\ell-1}-\hat{x}_{\ell-1}$$
 $$ \hat{y}=\sum_{\ell}\hat{y}_{\ell}$$
-
-## Doubly Residual Connection
