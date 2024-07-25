@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Discrete/1..md",
+                "file": "Mathematics/Discrete/1. Basic Logic Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Discrete/1..md",
+                "file": "Mathematics/Discrete/1. Basic Logic Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Discrete/1..md",
+                "file": "Mathematics/Discrete/1. Basic Logic Fundamentals.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Discrete/1..md"
+                "file": "Mathematics/Discrete/1. Basic Logic Fundamentals.md"
               }
             }
           },
@@ -190,10 +191,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "febdd292488f25f9",
+  "active": "c0a9e7ff4e6bd264",
   "lastOpenFiles": [
     "Mathematics/Real Analysis/Untitled.md",
-    "Mathematics/Discrete/1..md",
+    "Mathematics/Discrete/1. Basic Logic Fundamentals.md",
     "Mathematics/Discrete",
     "Mathematics/Untitled.md",
     "일본 기념품.md",
