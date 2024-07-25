@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Real Analysis/Untitled.md",
+                "file": "Mathematics/Discrete/1..md",
                 "mode": "source",
                 "source": false
               }
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Real Analysis/Untitled.md",
+                "file": "Mathematics/Discrete/1..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Real Analysis/Untitled.md",
+                "file": "Mathematics/Discrete/1..md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Real Analysis/Untitled.md"
+                "file": "Mathematics/Discrete/1..md"
               }
             }
           },
@@ -193,6 +192,10 @@
   },
   "active": "febdd292488f25f9",
   "lastOpenFiles": [
+    "Mathematics/Real Analysis/Untitled.md",
+    "Mathematics/Discrete/1..md",
+    "Mathematics/Discrete",
+    "Mathematics/Untitled.md",
     "일본 기념품.md",
     "Untitled.md",
     "Latex Suite Personal Setting.md",
@@ -220,24 +223,21 @@
     "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
     "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
     "Excalidraw/Drawing 2024-07-03 17.21.36.excalidraw.md",
-    "Mathematics/Real Analysis/Untitled.md",
     "Excalidraw/Drawing 2024-07-03 17.20.55.excalidraw.md",
     "필리뚜랑 할 거.md",
     "Mathematics/Real Analysis",
     "CCC/GCSJ/GCSJ Company Assignment.md",
     "[CNN.md",
-    "Mathematics/Untitled.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Drawing 2024-06-25 22.02.52.excalidraw.md",
     "CCC/GCSJ",
     "CCC",
-    "Mathematics/MATH3161",
-    "Mathematics/MATH2121",
+    "Mathematics/Complex Analysis",
+    "Mathematics/Differential Equation",
     "Mathematics",
     "Excalidraw",
     "Data Science/MATH1311",
     "Data Science",
-    "Computer Science/COMP2711/Sheepy time Group Project",
     "Attached Files/Pasted image 20240622134929.png"
   ]
 }
