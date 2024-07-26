@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/N-BEATS Algorithm.md",
+                "file": "Mathematics/Discrete Math/2. Set.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Discrete Math/2. Set.md",
+                "file": "Data Science/MATH1311/7. Probability.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,8 +178,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bb56af974477c99f",
+  "active": "5ed6762a8e91d0ce",
   "lastOpenFiles": [
+    "Data Science/MATH1311/7. Probability.md",
+    "Mathematics/Discrete Math/2. Set.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/N-BEATS Algorithm.md",
+    "Data Science/MATH1311/6. Visualizing Data.md",
+    "Data Science/MATH1311/5. Normal Distribution.md",
+    "Data Science/MATH1311/4. Sample and Population.md",
+    "Data Science/MATH1311/3. Spread and Variance.md",
+    "Data Science/MATH1311/2. Central Tendency.md",
+    "Data Science/MATH1311/1. Types of Data.md",
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Forecast.md",
     "방학 동안 하고 싶은 거.md",
@@ -188,7 +196,6 @@
     "Mathematics/Discrete Math/5. Induction.md",
     "Mathematics/Discrete Math/4. Function.md",
     "Mathematics/Discrete Math/3. Relation.md",
-    "Mathematics/Discrete Math/2. Set.md",
     "Mathematics/Real Analysis/Untitled.md",
     "Mathematics/Discrete Math",
     "Mathematics/Untitled.md",
@@ -202,22 +209,14 @@
     "Attached Files/Pasted image 20240707193706.png",
     "Attached Files/Pasted image 20240707132529.png",
     "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/N-BEATS Algorithm.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Keras Sequential API Modeling.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Input Data Pipeline.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Gradients.md",
     "Attached Files/Pasted image 20240719111249.png",
     "Attached Files/Pasted image 20240719111246.png",
-    "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/Activation Functions.md",
     "Attached Files/Pasted image 20240713144725.png",
-    "AI & TensorFlow/TensorFlow Bootcamp/Evaluation Metrics.md",
     "Attached Files/Pasted image 20240713144116.png",
     "Attached Files/Pasted image 20240713142635.png",
-    "AI & TensorFlow/TensorFlow Bootcamp/Practice Codes/1. Insurance.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
-    "Excalidraw/Drawing 2024-07-03 17.21.36.excalidraw.md",
     "Mathematics/Real Analysis",
     "CCC/GCSJ",
     "CCC",
