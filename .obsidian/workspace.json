@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
+                "file": "Mathematics/Discrete Math/2. Set.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
+                "file": "Mathematics/Discrete Math/2. Set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
+                "file": "Mathematics/Discrete Math/2. Set.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md"
+                "file": "Mathematics/Discrete Math/2. Set.md"
               }
             }
           },
@@ -180,6 +180,7 @@
   },
   "active": "bb56af974477c99f",
   "lastOpenFiles": [
+    "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Forecast.md",
     "방학 동안 하고 싶은 거.md",
     "듣고 싶은 강의.md",
@@ -187,7 +188,6 @@
     "Mathematics/Discrete Math/4. Function.md",
     "Mathematics/Discrete Math/3. Relation.md",
     "Mathematics/Discrete Math/2. Set.md",
-    "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Mathematics/Real Analysis/Untitled.md",
     "Mathematics/Discrete Math",
     "Mathematics/Untitled.md",
