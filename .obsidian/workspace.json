@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Latex Suite Personal Setting.md",
+                "file": "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,6 +26,18 @@
               "type": "markdown",
               "state": {
                 "file": "Mathematics/Discrete Math/3. Relation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17f3839093bcf275",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,8 +206,8 @@
   "active": "deba6cc926c27202",
   "lastOpenFiles": [
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
-    "Latex Suite Personal Setting.md",
     "Mathematics/Discrete Math/3. Relation.md",
+    "Latex Suite Personal Setting.md",
     "Mathematics/Discrete Math/2. Set.md",
     "Data Science/MATH1311/7. Probability.md",
     "AI & TensorFlow/TensorFlow Bootcamp/N-BEATS Algorithm.md",
