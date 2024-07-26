@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Discrete Math/2. Set.md",
+                "file": "Mathematics/Discrete Math/3. Relation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "deba6cc926c27202",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -98,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Discrete Math/2. Set.md",
+                "file": "Mathematics/Discrete Math/3. Relation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Discrete Math/2. Set.md",
+                "file": "Mathematics/Discrete Math/3. Relation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Discrete Math/2. Set.md"
+                "file": "Mathematics/Discrete Math/3. Relation.md"
               }
             }
           },
@@ -180,8 +191,9 @@
   },
   "active": "5ed6762a8e91d0ce",
   "lastOpenFiles": [
-    "Data Science/MATH1311/7. Probability.md",
     "Mathematics/Discrete Math/2. Set.md",
+    "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
+    "Data Science/MATH1311/7. Probability.md",
     "AI & TensorFlow/TensorFlow Bootcamp/N-BEATS Algorithm.md",
     "Data Science/MATH1311/6. Visualizing Data.md",
     "Data Science/MATH1311/5. Normal Distribution.md",
@@ -189,7 +201,6 @@
     "Data Science/MATH1311/3. Spread and Variance.md",
     "Data Science/MATH1311/2. Central Tendency.md",
     "Data Science/MATH1311/1. Types of Data.md",
-    "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Forecast.md",
     "방학 동안 하고 싶은 거.md",
     "듣고 싶은 강의.md",
