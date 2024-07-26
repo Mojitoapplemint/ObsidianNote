@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Forecast.md",
+                "file": "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Forecast.md",
+                "file": "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Forecast.md",
+                "file": "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Forecast.md"
+                "file": "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md"
               }
             }
           },
@@ -163,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,6 +180,7 @@
   },
   "active": "bb56af974477c99f",
   "lastOpenFiles": [
+    "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Forecast.md",
     "방학 동안 하고 싶은 거.md",
     "듣고 싶은 강의.md",
     "Mathematics/Discrete Math/5. Induction.md",
@@ -203,7 +205,6 @@
     "AI & TensorFlow/TensorFlow Bootcamp/Keras Sequential API Modeling.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Input Data Pipeline.md",
     "AI & TensorFlow/TensorFlow Bootcamp/Gradients.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Forecast.md",
     "Attached Files/Pasted image 20240719111249.png",
     "Attached Files/Pasted image 20240719111246.png",
     "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
