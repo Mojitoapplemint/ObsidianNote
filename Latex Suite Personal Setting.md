@@ -34,6 +34,7 @@
 	{trigger: "lim", replacement: "\\lim_{$0\\to $1}{$2}$3", options: "mA"},
 	{trigger: "inf", replacement: "\\infty", options: "mA"},
 	{trigger: "int", replacement: "\\int $0 \\, d${1:x}{$2}$3", options: "mA"},
+	{trigger: "txt", replacement: "\\text{$0}", options: "mA"},
 
 //Delete
 {trigger: "([^\\\\])(${GREEK}|${SYMBOL})", replacement: "[[0]]\\[[1]]", options: "rmA", description: "Add backslash before greek letters and symbols"},
