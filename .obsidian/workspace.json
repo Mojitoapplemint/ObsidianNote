@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
+                "file": "Mathematics/Discrete Math/3. Relation.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Discrete Math/3. Relation.md",
+                "file": "Mathematics/Discrete Math/4. Function.md",
                 "mode": "source",
                 "source": false
               }
@@ -53,8 +53,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,15 +200,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bb56af974477c99f",
+  "active": "5ed6762a8e91d0ce",
   "lastOpenFiles": [
+    "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
+    "Mathematics/Discrete Math/4. Function.md",
+    "Mathematics/Discrete Math/3. Relation.md",
     "Attached Files/Pasted image 20240727111817.png",
     "Attached Files/Pasted image 20240727111527.png",
     "Excalidraw/Drawing 2024-07-27 11.10.42.excalidraw.md",
-    "Mathematics/Discrete Math/3. Relation.md",
     "사이드 프로젝트 아이디어.md",
     "Data Science/MATH1311/7. Probability.md",
-    "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Excalidraw/Drawing 2024-07-26 13.09.00.excalidraw.md",
     "Untitled.canvas",
     "Latex Suite Personal Setting.md",
@@ -225,7 +225,6 @@
     "방학 동안 하고 싶은 거.md",
     "듣고 싶은 강의.md",
     "Mathematics/Discrete Math/5. Induction.md",
-    "Mathematics/Discrete Math/4. Function.md",
     "Mathematics/Real Analysis/Untitled.md",
     "Mathematics/Discrete Math",
     "Mathematics/Untitled.md",
@@ -241,7 +240,6 @@
     "Attached Files/Pasted image 20240719111246.png",
     "Attached Files/Pasted image 20240713144725.png",
     "Attached Files/Pasted image 20240713144116.png",
-    "Attached Files/Pasted image 20240713142635.png",
     "Mathematics/Real Analysis",
     "CCC/GCSJ",
     "CCC",
