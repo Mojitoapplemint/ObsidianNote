@@ -53,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Discrete Math/3. Relation.md",
+                "file": "Mathematics/Discrete Math/4. Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Discrete Math/3. Relation.md",
+                "file": "Mathematics/Discrete Math/4. Function.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Discrete Math/3. Relation.md"
+                "file": "Mathematics/Discrete Math/4. Function.md"
               }
             }
           },
@@ -200,11 +201,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5ed6762a8e91d0ce",
+  "active": "bb56af974477c99f",
   "lastOpenFiles": [
+    "Mathematics/Discrete Math/3. Relation.md",
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Mathematics/Discrete Math/4. Function.md",
-    "Mathematics/Discrete Math/3. Relation.md",
     "Attached Files/Pasted image 20240727111817.png",
     "Attached Files/Pasted image 20240727111527.png",
     "Excalidraw/Drawing 2024-07-27 11.10.42.excalidraw.md",
