@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "0f3a951064e51e47",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-07-27 11.10.42.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "82af68f81e850186",
             "type": "leaf",
             "state": {
@@ -193,8 +203,10 @@
   },
   "active": "bb56af974477c99f",
   "lastOpenFiles": [
-    "사이드 프로젝트 아이디어.md",
+    "Attached Files/Pasted image 20240727111527.png",
+    "Excalidraw/Drawing 2024-07-27 11.10.42.excalidraw.md",
     "Mathematics/Discrete Math/3. Relation.md",
+    "사이드 프로젝트 아이디어.md",
     "Data Science/MATH1311/7. Probability.md",
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Excalidraw/Drawing 2024-07-26 13.09.00.excalidraw.md",
@@ -224,8 +236,6 @@
     "Attached Files/Pasted image 20240713141138.png",
     "Attached Files/Pasted image 20240707193706.png",
     "Attached Files/Pasted image 20240707132529.png",
-    "AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/Keras Sequential API Modeling.md",
     "Attached Files/Pasted image 20240719111249.png",
     "Attached Files/Pasted image 20240719111246.png",
     "Attached Files/Pasted image 20240713144725.png",
