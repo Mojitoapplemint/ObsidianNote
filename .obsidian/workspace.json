@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
+                "file": "Mathematics/Discrete Math/4. Function.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
+                "file": "Mathematics/Discrete Math/4. Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
+                "file": "Mathematics/Discrete Math/4. Function.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md"
+                "file": "Mathematics/Discrete Math/4. Function.md"
               }
             }
           },
@@ -191,13 +191,14 @@
   },
   "active": "5ed6762a8e91d0ce",
   "lastOpenFiles": [
+    "Computer Science/Data Structure and Algorithm/Data Structure and Algorithm.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
     "AI & TensorFlow/TensorFlow Bootcamp/0. Deep Learning Basics.md",
     "Mathematics/Discrete Math/3. Relation.md",
     "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
     "사이드 프로젝트 아이디어.md",
     "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
     "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
     "Mathematics/Discrete Math/4. Function.md",
     "Attached Files/Pasted image 20240727120638.png",
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
@@ -220,7 +221,6 @@
     "방학 동안 하고 싶은 거.md",
     "듣고 싶은 강의.md",
     "Mathematics/Discrete Math/5. Induction.md",
-    "Mathematics/Real Analysis/Untitled.md",
     "Mathematics/Discrete Math",
     "Animal Cafe Business Plan.canvas",
     "Attached Files/Pasted image 20240703172248.png",
