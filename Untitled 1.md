@@ -20,6 +20,7 @@ $v=-3, w=1, x=19, z=4$ and $y$ is free
 - Thus, this matrix has infinite number of solutions
 
 
+
 $v-2w+2z=3$
 $x-3z=7$
 $y+z=4$
