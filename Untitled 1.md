@@ -21,3 +21,12 @@ $y=3, x=10, v=5$
 free variable
 
 Since $z$ and $w$ are free, this matrix has infinite number of solution
+
+$$\begin{matrix}
+1 & 0 &1&|&2 \\
+0 & 2 & 3&|&0 \\
+x&y & z
+\end{matrix}$$
+
+$x+y=2$
+
