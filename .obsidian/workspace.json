@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Discrete Math/4. Function.md",
+                "file": "Mathematics/Discrete Math/2. Set.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Discrete Math/4. Function.md",
+                "file": "Mathematics/Discrete Math/2. Set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Discrete Math/4. Function.md",
+                "file": "Mathematics/Discrete Math/2. Set.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Discrete Math/4. Function.md"
+                "file": "Mathematics/Discrete Math/2. Set.md"
               }
             }
           },
@@ -192,6 +192,7 @@
   },
   "active": "5ed6762a8e91d0ce",
   "lastOpenFiles": [
+    "Mathematics/Discrete Math/4. Function.md",
     "Computer Science/Data Structure and Algorithm/Data Structure and Algorithm.md",
     "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
     "AI & TensorFlow/TensorFlow Bootcamp/0. Deep Learning Basics.md",
@@ -200,7 +201,6 @@
     "사이드 프로젝트 아이디어.md",
     "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
     "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
-    "Mathematics/Discrete Math/4. Function.md",
     "Attached Files/Pasted image 20240727120638.png",
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Attached Files/Pasted image 20240727111817.png",
