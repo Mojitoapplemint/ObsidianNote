@@ -8,34 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c30ed28d0cee0f4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b5bf0b8a9c35d1b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-07-30 14.11.43.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "bb56af974477c99f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
+                "file": "Mathematics/Discrete Math/2. Set.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Mathematics/Discrete Math/2. Set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Mathematics/Discrete Math/2. Set.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "Mathematics/Discrete Math/2. Set.md"
               }
             }
           },
@@ -200,15 +178,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c30ed28d0cee0f4f",
+  "active": "bb56af974477c99f",
   "lastOpenFiles": [
+    "Mathematics/Discrete Math/4. Function.md",
+    "Mathematics/Discrete Math/5. Induction.md",
+    "Untitled 1.md",
     "Attached Files/Pasted image 20240730145557.png",
     "Excalidraw/Drawing 2024-07-30 14.11.43.excalidraw.md",
     "Untitled.md",
-    "Untitled 1.md",
     "Mathematics/Discrete Math/2. Set.md",
     "Latex Suite Personal Setting.md",
-    "Mathematics/Discrete Math/4. Function.md",
     "Computer Science/Data Structure and Algorithm/Data Structure and Algorithm.md",
     "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
     "AI & TensorFlow/TensorFlow Bootcamp/0. Deep Learning Basics.md",
@@ -240,7 +219,6 @@
     "Attached Files/Pasted image 20240707132529.png",
     "Attached Files/Pasted image 20240719111249.png",
     "Attached Files/Pasted image 20240719111246.png",
-    "Attached Files/Pasted image 20240713144725.png",
     "Mathematics/Real Analysis",
     "CCC/GCSJ",
     "CCC",
