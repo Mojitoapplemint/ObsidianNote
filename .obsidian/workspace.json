@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -192,6 +191,8 @@
   },
   "active": "5ed6762a8e91d0ce",
   "lastOpenFiles": [
+    "Latex Suite Personal Setting.md",
+    "Mathematics/Discrete Math/2. Set.md",
     "Mathematics/Discrete Math/4. Function.md",
     "Computer Science/Data Structure and Algorithm/Data Structure and Algorithm.md",
     "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
@@ -209,8 +210,6 @@
     "Data Science/MATH1311/7. Probability.md",
     "Excalidraw/Drawing 2024-07-26 13.09.00.excalidraw.md",
     "Untitled.canvas",
-    "Latex Suite Personal Setting.md",
-    "Mathematics/Discrete Math/2. Set.md",
     "AI & TensorFlow/TensorFlow Bootcamp/N-BEATS Algorithm.md",
     "Data Science/MATH1311/6. Visualizing Data.md",
     "Data Science/MATH1311/5. Normal Distribution.md",

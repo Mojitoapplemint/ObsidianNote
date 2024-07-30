@@ -21,6 +21,7 @@
     {trigger: "\\C", replacement: "\\mathbb{C}", options: "tA"},
     {trigger: "\\R", replacement: "\\mathbb{R}", options: "tA"},
     {trigger: "\\Z", replacement: "\\mathbb{Z}", options: "tA"},
+    {trigger: "\\N", replacement: "\\mathbb{N}", options: "tA"},
     {trigger: "Pd", replacement: "\\partial ", options: "mA"},
     {trigger: "thus", replacement: "\\therefore ", options: "mA"},
     {trigger: "aprx", replacement: "\\approx ", options: "mA"},
