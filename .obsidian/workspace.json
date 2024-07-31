@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "97f3ca78d10210f4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-07-31 14.31.19.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "82af68f81e850186",
             "type": "leaf",
             "state": {
@@ -44,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Discrete Math/5. Induction.md",
+                "file": "Excalidraw/Drawing 2024-07-31 14.31.19.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Discrete Math/5. Induction.md",
+                "file": "Excalidraw/Drawing 2024-07-31 14.31.19.excalidraw.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Discrete Math/5. Induction.md"
+                "file": "Excalidraw/Drawing 2024-07-31 14.31.19.excalidraw.md"
               }
             }
           },
@@ -191,11 +201,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "91740aa99fd5a160",
+  "active": "97f3ca78d10210f4",
   "lastOpenFiles": [
+    "Mathematics/Discrete Math/5. Induction.md",
+    "Excalidraw/Drawing 2024-07-31 14.31.19.excalidraw.md",
     "Mathematics/Discrete Math/4. Function.md",
     "Mathematics/Discrete Math/2. Set.md",
-    "Mathematics/Discrete Math/5. Induction.md",
     "Untitled 1.md",
     "Attached Files/Pasted image 20240730145557.png",
     "Excalidraw/Drawing 2024-07-30 14.11.43.excalidraw.md",
@@ -223,7 +234,6 @@
     "Data Science/MATH1311/4. Sample and Population.md",
     "Data Science/MATH1311/3. Spread and Variance.md",
     "Data Science/MATH1311/2. Central Tendency.md",
-    "Data Science/MATH1311/1. Types of Data.md",
     "Mathematics/Discrete Math",
     "Animal Cafe Business Plan.canvas",
     "Attached Files/Pasted image 20240703172248.png",
