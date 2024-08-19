@@ -6,3 +6,6 @@ Automatically generated graphs that visualize overall profits
 - Referes to the table entries(probably csv?)
 - HIkari san uses during the PM meeting
 
+# Invoicing
+- Mutiple Currency
+- Easy to Use
