@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Discrete Math/2. Set.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91740aa99fd5a160",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Discrete Math/5. Induction.md",
+                "file": "GIJ LAMPS/PM Meeting(Managed by Hikari San).md",
                 "mode": "source",
                 "source": false
               }
@@ -37,26 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PM Meeting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82af68f81e850186",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "사이드 프로젝트 아이디어.md",
+                "file": "GIJ LAMPS/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PM Meeting.md",
+                "file": "GIJ LAMPS/PM Meeting(Managed by Hikari San).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PM Meeting.md",
+                "file": "GIJ LAMPS/PM Meeting(Managed by Hikari San).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PM Meeting.md"
+                "file": "GIJ LAMPS/PM Meeting(Managed by Hikari San).md"
               }
             }
           },
@@ -202,15 +177,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "97f3ca78d10210f4",
+  "active": "bb56af974477c99f",
   "lastOpenFiles": [
+    "Mathematics/Discrete Math/2. Set.md",
+    "Mathematics/Discrete Math/5. Induction.md",
+    "GIJ LAMPS/Untitled.md",
+    "GIJ LAMPS/PM Meeting(Managed by Hikari San).md",
+    "GIJ LAMPS",
     "일본 기념품.md",
-    "PM Meeting.md",
     "Untitled.canvas",
     "Excalidraw/Drawing 2024-07-31 14.31.19.excalidraw.md",
-    "Mathematics/Discrete Math/5. Induction.md",
     "Mathematics/Discrete Math/4. Function.md",
-    "Mathematics/Discrete Math/2. Set.md",
     "Untitled 1.md",
     "Attached Files/Pasted image 20240730145557.png",
     "Excalidraw/Drawing 2024-07-30 14.11.43.excalidraw.md",
@@ -234,7 +211,6 @@
     "Data Science/MATH1311/6. Visualizing Data.md",
     "Data Science/MATH1311/5. Normal Distribution.md",
     "Data Science/MATH1311/4. Sample and Population.md",
-    "Data Science/MATH1311/3. Spread and Variance.md",
     "Mathematics/Discrete Math",
     "Animal Cafe Business Plan.canvas",
     "Attached Files/Pasted image 20240703172248.png",
@@ -250,7 +226,6 @@
     "Mathematics/Differential Equation",
     "Mathematics",
     "Excalidraw",
-    "Data Science/MATH1311",
-    "Data Science"
+    "Data Science/MATH1311"
   ]
 }
