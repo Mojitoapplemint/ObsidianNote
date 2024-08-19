@@ -20,18 +20,19 @@
             }
           },
           {
-            "id": "97f3ca78d10210f4",
+            "id": "6699794493d0632e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIJ LAMPS/Extra Features.md",
+                "file": "GIJ LAMPS/Desired Functionality.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIJ LAMPS/PM Meeting(Managed by Hikari San).md",
+                "file": "GIJ LAMPS/Desired Functionality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIJ LAMPS/PM Meeting(Managed by Hikari San).md",
+                "file": "GIJ LAMPS/Desired Functionality.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIJ LAMPS/PM Meeting(Managed by Hikari San).md"
+                "file": "GIJ LAMPS/Desired Functionality.md"
               }
             }
           },
@@ -178,11 +178,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bb56af974477c99f",
+  "active": "6699794493d0632e",
   "lastOpenFiles": [
-    "GIJ LAMPS/Extra Features.md",
-    "GIJ LAMPS/Desired Functionality.md",
     "GIJ LAMPS/PM Meeting(Managed by Hikari San).md",
+    "GIJ LAMPS/Desired Functionality.md",
+    "GIJ LAMPS/Extra Features.md",
+    "Excalidraw/Drawing 2024-08-19 02.00.33.excalidraw.md",
     "Mathematics/Discrete Math/2. Set.md",
     "Mathematics/Discrete Math/5. Induction.md",
     "GIJ LAMPS",
@@ -211,7 +212,6 @@
     "Excalidraw/Drawing 2024-07-26 13.09.00.excalidraw.md",
     "AI & TensorFlow/TensorFlow Bootcamp/N-BEATS Algorithm.md",
     "Data Science/MATH1311/6. Visualizing Data.md",
-    "Data Science/MATH1311/5. Normal Distribution.md",
     "Mathematics/Discrete Math",
     "Animal Cafe Business Plan.canvas",
     "Attached Files/Pasted image 20240703172248.png",
