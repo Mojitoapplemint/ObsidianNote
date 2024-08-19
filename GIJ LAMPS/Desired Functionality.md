@@ -1,5 +1,5 @@
 1. 팀원들끼리 쉽게 공유
-# Monday.com
+# "RealTime" Monday.com
 ## Dashboard
 Automatically generated graphs that visualize overall profits
 - Updates real time
