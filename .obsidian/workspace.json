@@ -20,6 +20,21 @@
             }
           },
           {
+            "id": "4364ca1aff8e32fc",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -255,
+                  "y": -110,
+                  "zoom": -0.22194542302025688
+                }
+              }
+            }
+          },
+          {
             "id": "6699794493d0632e",
             "type": "leaf",
             "state": {
@@ -98,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIJ LAMPS/Desired Functionality.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIJ LAMPS/Desired Functionality.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIJ LAMPS/Desired Functionality.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -178,11 +193,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6699794493d0632e",
+  "active": "4364ca1aff8e32fc",
   "lastOpenFiles": [
-    "2024-08-19.md",
-    "GIJ LAMPS/Desired Functionality.md",
+    "Excalidraw/Drawing 2024-08-20 02.39.04.excalidraw.md",
     "GIJ LAMPS/PM Meeting(Managed by Hikari San).md",
+    "GIJ LAMPS/Desired Functionality.md",
+    "2024-08-19.md",
     "GIJ LAMPS/Extra Features.md",
     "Excalidraw/Drawing 2024-08-19 02.00.33.excalidraw.md",
     "Mathematics/Discrete Math/2. Set.md",
@@ -211,7 +227,6 @@
     "Excalidraw/Drawing 2024-07-27 11.10.42.excalidraw.md",
     "Data Science/MATH1311/7. Probability.md",
     "Excalidraw/Drawing 2024-07-26 13.09.00.excalidraw.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/N-BEATS Algorithm.md",
     "Mathematics/Discrete Math",
     "Animal Cafe Business Plan.canvas",
     "Attached Files/Pasted image 20240703172248.png",
