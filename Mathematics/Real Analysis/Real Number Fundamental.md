@@ -8,7 +8,7 @@ Binary Operation on a set $A$
 (Provided paper)
 
 # Further Rules can be proved
-## 1. For any $x,y,z\in\mathbb{R}$, if $x+y=x+z$, then $y=z$
+## Lemma 1. For any $x,y,z\in\mathbb{R}$, if $x+y=x+z$, then $y=z$
 Assume $x+y=x+z$
 
 By $R.4$, there is a $-x\in\mathbb{R}$. Add it to both sides
@@ -24,6 +24,17 @@ By Communitativity of addition ($R.2$)
 By Unitiality of Addition ($R.3$)
 - $y=z$
 
-## 2. 
+### Claim: $1+1\neq 1$
+If it was true, then $1+1=1$
+Then, $1+1=1+0$ by $R.3$
+Then, $1=0$ by lemma 1
+$\rightarrow$ This contradicts $R.7$
+## Lemma 2. For any $x\in\mathbb{R}, x\cdot {0}=0$
+Consider $x\cdot {0}$
+	$= x \cdot (0+0)$ by $R.3$
+	$= x\cdot 0+x\cdot 0$ by $R.9$
 
+So, $x\cdot 0= x\cdot 0 + x\cdot 0$ 
+	$x\cdot 0+0 = x\cdot 0+x\cdot 0$ by $R.3$
+	$0=x\cdot 0$ by Lemma 1
 
