@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Introductory Logic/Untitled 1.md",
+                "file": "Mathematics/Introductory Logic/Arguments Fundamental.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Introductory Logic/Untitled 1.md",
+                "file": "Mathematics/Introductory Logic/Arguments Fundamental.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Introductory Logic/Untitled 1.md",
+                "file": "Mathematics/Introductory Logic/Arguments Fundamental.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Introductory Logic/Untitled 1.md"
+                "file": "Mathematics/Introductory Logic/Arguments Fundamental.md"
               }
             }
           },
@@ -193,7 +193,7 @@
   "active": "7a86ccdc27b4cc37",
   "lastOpenFiles": [
     "Untitled.md",
-    "Mathematics/Introductory Logic/Untitled 1.md",
+    "Mathematics/Introductory Logic/Arguments Fundamental.md",
     "Mathematics/Real Analysis/Real Number Fundamental.md",
     "Mathematics/Introductory Logic",
     "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Forecast.md",
