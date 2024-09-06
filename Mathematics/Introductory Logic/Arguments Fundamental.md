@@ -10,4 +10,14 @@ Premises
 
 Inference
 - Transition that one makes between the premises and conclusion
-- 
+
+Statement
+- Arguments that expresses something true or false
+	- Can't be built out of just any type of sentence
+- Not questions or commands
+- Proposition: What does the statement express
+	- We want to distinguish proposition and statement itself because two different statements can express the same proposition
+
+
+
+
