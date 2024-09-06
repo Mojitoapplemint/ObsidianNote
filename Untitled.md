@@ -1,1 +1,0 @@
-Overall, I really enjoyed the program that I could experience Japanese culture that I've never experienced so far. Before I joined this program, I was still somewhat confident that I knew a decent amount of Japanese culture, that I could deepen my understanding even more through this program. Academic wise, 

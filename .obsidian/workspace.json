@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1203e3c5b4330823",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6699794493d0632e",
             "type": "leaf",
             "state": {
@@ -38,6 +26,18 @@
               "type": "markdown",
               "state": {
                 "file": "Mathematics/Real Analysis/Real Number Fundamental.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a86ccdc27b4cc37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Introductory Logic/Untitled 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Real Analysis/Real Number Fundamental.md",
+                "file": "Mathematics/Introductory Logic/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Real Analysis/Real Number Fundamental.md",
+                "file": "Mathematics/Introductory Logic/Untitled 1.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Real Analysis/Real Number Fundamental.md"
+                "file": "Mathematics/Introductory Logic/Untitled 1.md"
               }
             }
           },
@@ -190,18 +190,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1c20def114568d66",
+  "active": "7a86ccdc27b4cc37",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Mathematics/Introductory Logic/Untitled 1.md",
+    "Mathematics/Real Analysis/Real Number Fundamental.md",
+    "Mathematics/Introductory Logic",
     "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Forecast.md",
     "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
     "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
-    "Mathematics/Real Analysis/Real Number Fundamental.md",
     "Computer Science/Algorithm/Introduction.md",
     "Untitled",
     "Computer Science/Algorithm",
     "GIJ LAMPS/PM Meeting(Managed by Hikari San).md",
     "Latex Suite Personal Setting.md",
-    "Untitled.md",
     "사이드 프로젝트 아이디어.md",
     "Untitled.canvas",
     "Excalidraw/Drawing 2024-08-20 02.39.04.excalidraw.md",
@@ -222,7 +224,6 @@
     "AI & TensorFlow/TensorFlow Bootcamp/0. Deep Learning Basics.md",
     "Mathematics/Discrete Math/3. Relation.md",
     "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
     "Attached Files/Pasted image 20240727120638.png",
     "Attached Files/Pasted image 20240727111817.png",
     "Attached Files/Pasted image 20240727111527.png",
@@ -238,7 +239,6 @@
     "CCC/GCSJ",
     "CCC",
     "Mathematics/Complex Analysis",
-    "Mathematics/Differential Equation",
-    "Mathematics"
+    "Mathematics/Differential Equation"
   ]
 }
