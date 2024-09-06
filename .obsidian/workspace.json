@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bb56af974477c99f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GIJ LAMPS/PM Meeting(Managed by Hikari San).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4364ca1aff8e32fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Latex Suite Personal Setting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1203e3c5b4330823",
             "type": "leaf",
             "state": {
@@ -61,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Algorithm/Introduction.md",
+                "file": "Mathematics/Real Analysis/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithm/Introduction.md",
+                "file": "Mathematics/Real Analysis/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithm/Introduction.md",
+                "file": "Mathematics/Real Analysis/Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Algorithm/Introduction.md"
+                "file": "Mathematics/Real Analysis/Untitled.md"
               }
             }
           },
@@ -214,11 +190,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c0a9e7ff4e6bd264",
+  "active": "1c20def114568d66",
   "lastOpenFiles": [
+    "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Forecast.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
+    "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
+    "Mathematics/Real Analysis/Untitled.md",
+    "Computer Science/Algorithm/Introduction.md",
+    "Untitled",
     "Computer Science/Algorithm",
     "GIJ LAMPS/PM Meeting(Managed by Hikari San).md",
-    "Computer Science/Algorithm/Introduction.md",
     "Latex Suite Personal Setting.md",
     "Untitled.md",
     "사이드 프로젝트 아이디어.md",
@@ -242,12 +223,9 @@
     "Mathematics/Discrete Math/3. Relation.md",
     "AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
     "AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
     "Attached Files/Pasted image 20240727120638.png",
-    "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Attached Files/Pasted image 20240727111817.png",
     "Attached Files/Pasted image 20240727111527.png",
-    "Excalidraw/Drawing 2024-07-27 11.10.42.excalidraw.md",
     "Mathematics/Discrete Math",
     "Animal Cafe Business Plan.canvas",
     "Attached Files/Pasted image 20240703172248.png",
@@ -261,8 +239,6 @@
     "CCC",
     "Mathematics/Complex Analysis",
     "Mathematics/Differential Equation",
-    "Mathematics",
-    "Excalidraw",
-    "Data Science/MATH1311"
+    "Mathematics"
   ]
 }
