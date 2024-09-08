@@ -1,4 +1,7 @@
-# Binary Operations
+# What are the Real Numbers?
+The real numbers are a set $\mathbb{R}$ which has binary operations: **Addition**("$+$") and  **Multiplication**("$\cdot$"), and a relation, **Less Than**("$<$"). 
+
+## Binary Operations
 Binary Operation on a set $A$
 - A function: $A\times A \rightarrow A$
 - Takes two elements from $A$ as inputs and we can get something from $A$ as output
@@ -27,10 +30,25 @@ $$x+(-x)=0$$
 
 ### R.5 Associativity of Multiplication
 For all $x,y,z\in\mathbb{R}$
-$$$$
+$$x\cdot(y\cdot z) = (x\cdot y)\cdot z$$
 
 ### R.6 Communitativity of Multiplication
-There is a
+For all $x,y,z\in\mathbb{R}$
+$$x\cdot y = y\cdot x$$
+
+### R.7 Unitality of Multiplication
+There is an element $1\in\mathbb{R}$ such that 
+$$\text{For all }x\in\mathbb{R}\text{, }x\cdot1=x$$
+and
+$$1\neq 0$$
+
+### R.8 Inverse for Multiplication
+For all $x\in\mathbb{R}$, if $x\neq 0$, then there is an element $x^{-1}\in\mathbb{R}$ (also written as $\frac{1}{x}$) such that
+$$x\cdot(x^{-1})=1$$
+
+### R.9 Distributivity
+For all $x,y,z\in\mathbb{R}$
+$$x\cdot(y+z)=x\cdot y+x\cdot z$$
 
 ## Followings are additional Axioms that gives Totally Ordered Field
 ### 
