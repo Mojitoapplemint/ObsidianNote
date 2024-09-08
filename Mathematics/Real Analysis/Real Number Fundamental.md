@@ -4,8 +4,14 @@ Binary Operation on a set $A$
 - Takes two elements from $A$ as inputs and we can get something from $A$ as output
 
 # Axioms for $\mathbb{R}$
-(Definition of Axioms)
-(Provided paper)
+Axiom
+- Statement or proposition which is regarded as being established, accepted, or self-evidently true
+- Fact that we don't prove but consider as true
+
+## Associativity of Addition
+For all $x,y,z\in\mathbb{R}$
+$$x+(y+z)=$$
+
 
 # Further Rules can be proved
 ## Lemma 1. For any $x,y,z\in\mathbb{R}$, if $x+y=x+z$, then $y=z$

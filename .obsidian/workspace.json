@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIJ LAMPS/Desired Functionality.md",
+                "file": "Mathematics/Real Analysis/Real Number Fundamental.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Real Analysis/Real Number Fundamental.md",
+                "file": "Latex Suite Personal Setting.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Introductory Logic/Arguments Fundamental.md",
+                "file": "Mathematics/Real Analysis/Real Number Fundamental.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Introductory Logic/Arguments Fundamental.md",
+                "file": "Mathematics/Real Analysis/Real Number Fundamental.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Introductory Logic/Arguments Fundamental.md"
+                "file": "Mathematics/Real Analysis/Real Number Fundamental.md"
               }
             }
           },
@@ -190,11 +189,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7a86ccdc27b4cc37",
+  "active": "6699794493d0632e",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Mathematics/Introductory Logic/Arguments Fundamental.md",
+    "Latex Suite Personal Setting.md",
     "Mathematics/Real Analysis/Real Number Fundamental.md",
+    "GIJ LAMPS/Desired Functionality.md",
+    "Mathematics/Introductory Logic/Arguments Fundamental.md",
+    "Untitled.md",
     "Mathematics/Introductory Logic",
     "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Forecast.md",
     "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
@@ -203,11 +204,9 @@
     "Untitled",
     "Computer Science/Algorithm",
     "GIJ LAMPS/PM Meeting(Managed by Hikari San).md",
-    "Latex Suite Personal Setting.md",
     "사이드 프로젝트 아이디어.md",
     "Untitled.canvas",
     "Excalidraw/Drawing 2024-08-20 02.39.04.excalidraw.md",
-    "GIJ LAMPS/Desired Functionality.md",
     "2024-08-19.md",
     "GIJ LAMPS/Extra Features.md",
     "Excalidraw/Drawing 2024-08-19 02.00.33.excalidraw.md",
