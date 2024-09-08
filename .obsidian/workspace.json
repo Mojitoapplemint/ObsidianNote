@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Real Analysis/Real Number Fundamental.md",
+                "file": "Mathematics/Discrete Math/5. Induction.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Real Analysis/Real Number Fundamental.md",
+                "file": "Mathematics/Discrete Math/5. Induction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Real Analysis/Real Number Fundamental.md",
+                "file": "Mathematics/Discrete Math/5. Induction.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Real Analysis/Real Number Fundamental.md"
+                "file": "Mathematics/Discrete Math/5. Induction.md"
               }
             }
           },
@@ -191,13 +192,13 @@
   },
   "active": "6699794493d0632e",
   "lastOpenFiles": [
+    "Mathematics/Real Analysis/Real Number Fundamental.md",
     "Mathematics/Introductory Logic/Arguments Fundamental.md",
     "Mathematics/Discrete Math/5. Induction.md",
     "Mathematics/Discrete Math/4. Function.md",
     "Mathematics/Discrete Math/3. Relation.md",
     "Mathematics/Discrete Math/2. Set.md",
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
-    "Mathematics/Real Analysis/Real Number Fundamental.md",
     "Latex Suite Personal Setting.md",
     "GIJ LAMPS/Desired Functionality.md",
     "Untitled.md",
