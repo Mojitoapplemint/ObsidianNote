@@ -51,7 +51,23 @@ For all $x,y,z\in\mathbb{R}$
 $$x\cdot(y+z)=x\cdot y+x\cdot z$$
 
 ## Followings are additional Axioms that gives Totally Ordered Field
-### 
+### R.10 Order is Transitive
+For all $x,y,z\in\mathbb{R}$, 
+$$x<y\text{ \& }y<z \implies x<z$$
+
+### R.11 Order is Total
+For all $x,y\in\mathbb{R}$, exactly one of the following is true:
+- $x=y$
+- $x<y$
+- $y<x$
+
+### R.12 Addition is Order-Compatible
+For all $x,y,z\in\mathbb{R}$, 
+$$y<z\implies x+y<x+z$$
+
+### Positive Multiplication is Order-Compatible
+For all $x,y,z\in\mathbb{R}$,
+$$x>0\text{ \& }y<z\implies x\cdot y<x\cdot z$$
 
 # Further Rules can be proved
 ## Lemma 1. For any $x,y,z\in\mathbb{R}$, if $x+y=x+z$, then $y=z$
@@ -75,6 +91,7 @@ If it was true, then $1+1=1$
 Then, $1+1=1+0$ by $R.3$
 Then, $1=0$ by lemma 1
 $\rightarrow$ This contradicts $R.7$
+
 ## Lemma 2. For any $x\in\mathbb{R}, x\cdot {0}=0$
 Consider $x\cdot {0}$
 	$= x \cdot (0+0)$ by $R.3$
