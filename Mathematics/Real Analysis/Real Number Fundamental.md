@@ -8,10 +8,32 @@ Axiom
 - Statement or proposition which is regarded as being established, accepted, or self-evidently true
 - Fact that we don't prove but consider as true
 
-## Associativity of Addition
+## Field
+### R.1 Associativity of Addition
 For all $x,y,z\in\mathbb{R}$
-$$x+(y+z)=$$
+$$x+(y+z)=(x+y)+z$$
 
+### R.2 Commutativity of Addition
+For all $x,y,z\in\mathbb{R}$
+$$x+y=y+x$$
+
+### R.3 Unitality of Addition
+There is an element $0\in\mathbb{R}$ such that
+$$\forall \text{ }x\in\mathbb{R},\text{ } x+0=x$$
+
+### R.4 Inverse of Addition
+For all $x\in\mathbb{R}$, there is an element $-x\in\mathbb{R}$ such that 
+$$x+(-x)=0$$
+
+### R.5 Associativity of Multiplication
+For all $x,y,z\in\mathbb{R}$
+$$$$
+
+### R.6 Communitativity of Multiplication
+There is a
+
+## Followings are additional Axioms that gives Totally Ordered Field
+### 
 
 # Further Rules can be proved
 ## Lemma 1. For any $x,y,z\in\mathbb{R}$, if $x+y=x+z$, then $y=z$
