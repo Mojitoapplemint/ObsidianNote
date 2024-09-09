@@ -28,10 +28,27 @@ Therefore(conclusion), Which means that, Because(premises)
 # Implicit Argument
 
 ## Missing Premises and Conclusions
-ENthymemes
+Enthymemes
 
 
-# Diagram Argument
+# Diagramming Argument
+Connect premises and conclusions with down arrow Premises at the top, conclusion at the bottom
+  (Premises)
+    $\downarrow$
+  (Conclusion)
 
+
+**Ex)**
+(1) Computer won't be able to think. **After all**, (2) nothing that's just a physical thing will ever be able to think
+  (2)
+   $\downarrow$
+  (1)
+
+(1) Drug use is wrong **because** (2) it is immoral, and it is immoral **because** (3) it enslaves the mind and destroys the soul
+  (3)
+   $\downarrow$
+  (2)
+   $\downarrow$
+  (1)
 
 # Validity and Soundness
