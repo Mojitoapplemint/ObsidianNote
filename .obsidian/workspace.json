@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "술 노트.md",
+                "file": "Computer Science/Algorithm/1. Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "술 노트.md",
+                "file": "Computer Science/Algorithm/1. Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "술 노트.md",
+                "file": "Computer Science/Algorithm/1. Introduction.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "술 노트.md"
+                "file": "Computer Science/Algorithm/1. Introduction.md"
               }
             }
           },
@@ -202,11 +202,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c83fa74489acb393",
+  "active": "c0a9e7ff4e6bd264",
   "lastOpenFiles": [
-    "Mathematics/Discrete Math/5. Induction.md",
+    "Mathematics/Real Analysis/1. Real Number Fundamental.md",
+    "Computer Science/Algorithm/1. Introduction.md",
     "술 노트.md",
-    "Mathematics/Real Analysis/Real Number Fundamental.md",
+    "Mathematics/Discrete Math/5. Induction.md",
     "Mathematics/Introductory Logic/Arguments Fundamental.md",
     "Mathematics/Discrete Math/4. Function.md",
     "Mathematics/Discrete Math/3. Relation.md",
@@ -218,7 +219,6 @@
     "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Forecast.md",
     "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
     "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
-    "Computer Science/Algorithm/Introduction.md",
     "Untitled",
     "Computer Science/Algorithm",
     "GIJ LAMPS/PM Meeting(Managed by Hikari San).md",
