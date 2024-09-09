@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "c83fa74489acb393",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "술 노트.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1c20def114568d66",
             "type": "leaf",
             "state": {
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Discrete Math/5. Induction.md",
+                "file": "술 노트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Discrete Math/5. Induction.md",
+                "file": "술 노트.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Discrete Math/5. Induction.md"
+                "file": "술 노트.md"
               }
             }
           },
@@ -190,18 +202,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6699794493d0632e",
+  "active": "c83fa74489acb393",
   "lastOpenFiles": [
+    "Mathematics/Discrete Math/5. Induction.md",
+    "술 노트.md",
     "Mathematics/Real Analysis/Real Number Fundamental.md",
     "Mathematics/Introductory Logic/Arguments Fundamental.md",
-    "Mathematics/Discrete Math/5. Induction.md",
     "Mathematics/Discrete Math/4. Function.md",
     "Mathematics/Discrete Math/3. Relation.md",
     "Mathematics/Discrete Math/2. Set.md",
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Latex Suite Personal Setting.md",
     "GIJ LAMPS/Desired Functionality.md",
-    "Untitled.md",
     "Mathematics/Introductory Logic",
     "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Forecast.md",
     "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
