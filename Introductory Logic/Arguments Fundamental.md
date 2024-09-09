@@ -25,4 +25,12 @@ Statement
 **Ex)**
 Therefore(conclusion), Which means that, Because(premises)
 
-# 
+# Implicit Argument
+
+
+# Missing Premises and Conclusions
+
+# Diagram Argument
+
+
+# Validity and Soundness
