@@ -144,7 +144,7 @@ same_model.load_weights("file_path")
 - Monitors a specified metric and when that metric stops improving, it reduces the learning rate by a specified factor
 
 # `classification_report()`
-`classification_report()` function in `sklearn.metrics` provides [[AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF#Classification Evaluation Method|precision, recall and f1]] score per class
+`classification_report()` function in `sklearn.metrics` provides [[3. Neural Network Classification in TF#Classification Evaluation Method|precision, recall and f1]] score per class
 ```python
 from sklearn.metrics import classification_report()
 

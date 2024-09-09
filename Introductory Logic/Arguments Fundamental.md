@@ -25,7 +25,4 @@ Statement
 **Ex)**
 Therefore(conclusion), Which means that, Because(premises)
 
-
-
-
-
+# 

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Algorithm/1. Introduction.md",
+                "file": "Introductory Logic/Arguments Fundamental.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,18 +38,6 @@
               "type": "markdown",
               "state": {
                 "file": "Latex Suite Personal Setting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a86ccdc27b4cc37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Introductory Logic/Arguments Fundamental.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithm/1. Introduction.md",
+                "file": "Introductory Logic/Arguments Fundamental.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithm/1. Introduction.md",
+                "file": "Introductory Logic/Arguments Fundamental.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Algorithm/1. Introduction.md"
+                "file": "Introductory Logic/Arguments Fundamental.md"
               }
             }
           },
@@ -204,38 +192,38 @@
   },
   "active": "c0a9e7ff4e6bd264",
   "lastOpenFiles": [
-    "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "Computer Science/Algorithm/1. Introduction.md",
+    "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "술 노트.md",
     "Mathematics/Discrete Math/5. Induction.md",
-    "Mathematics/Introductory Logic/Arguments Fundamental.md",
+    "Introductory Logic/Arguments Fundamental.md",
     "Mathematics/Discrete Math/4. Function.md",
     "Mathematics/Discrete Math/3. Relation.md",
     "Mathematics/Discrete Math/2. Set.md",
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Latex Suite Personal Setting.md",
-    "GIJ LAMPS/Desired Functionality.md",
-    "Mathematics/Introductory Logic",
-    "AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Forecast.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
+    "CCC/GIJ LAMPS/Desired Functionality.md",
+    "Introductory Logic",
+    "Computer Science/AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Forecast.md",
+    "Computer Science/AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
+    "Computer Science/AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
     "Untitled",
     "Computer Science/Algorithm",
-    "GIJ LAMPS/PM Meeting(Managed by Hikari San).md",
+    "CCC/GIJ LAMPS/PM Meeting(Managed by Hikari San).md",
     "사이드 프로젝트 아이디어.md",
     "Untitled.canvas",
     "Excalidraw/Drawing 2024-08-20 02.39.04.excalidraw.md",
     "2024-08-19.md",
-    "GIJ LAMPS/Extra Features.md",
+    "CCC/GIJ LAMPS/Extra Features.md",
     "Excalidraw/Drawing 2024-08-19 02.00.33.excalidraw.md",
-    "GIJ LAMPS",
+    "CCC/GIJ LAMPS",
     "일본 기념품.md",
     "Excalidraw/Drawing 2024-07-31 14.31.19.excalidraw.md",
     "Attached Files/Pasted image 20240730145557.png",
     "Excalidraw/Drawing 2024-07-30 14.11.43.excalidraw.md",
     "Computer Science/Data Structure and Algorithm/Data Structure and Algorithm.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
-    "AI & TensorFlow/TensorFlow Bootcamp/0. Deep Learning Basics.md",
+    "Computer Science/AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
+    "Computer Science/AI & TensorFlow/TensorFlow Bootcamp/0. Deep Learning Basics.md",
     "Attached Files/Pasted image 20240727120638.png",
     "Attached Files/Pasted image 20240727111817.png",
     "Attached Files/Pasted image 20240727111527.png",

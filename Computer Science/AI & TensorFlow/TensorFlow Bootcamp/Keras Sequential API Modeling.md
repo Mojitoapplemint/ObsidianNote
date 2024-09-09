@@ -99,12 +99,12 @@ Letting the model try to find pattern
 model.fit('features', 'labels', epochs='int') 
 ```
 - `Epochs` refers to the number of opportunity for the model to find pattern
-- The `features` is required to be rank of higher than 1, thus, if the `features` is a vector, we need to [[AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals#Using `tf.expand_dims`|expand it]]
+- The `features` is required to be rank of higher than 1, thus, if the `features` is a vector, we need to [[1. TF Fundamentals#Using `tf.expand_dims`|expand it]]
 
 # 4. Evaluating the Model
  **Note:** When validation loss starts to increase, its likely that it's overfitting the training data that its ability to generalize to unseen data is diminished
-- [[AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF#Evaluating Model's Predictions with Regression Evaluation Metrics|Regression Evaluation]]
-- [[AI & TensorFlow/TensorFlow Bootcamp/3. Neural Network Classification in TF#Classification Evaluation Method|Classification Evaluation]]
+- [[2. Neural Network Regression with TF#Evaluating Model's Predictions with Regression Evaluation Metrics|Regression Evaluation]]
+- [[3. Neural Network Classification in TF#Classification Evaluation Method|Classification Evaluation]]
 
 # 5. Improve Model
 We can improve the model by altering the previous steps
