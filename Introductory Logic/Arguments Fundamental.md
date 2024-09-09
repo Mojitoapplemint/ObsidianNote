@@ -27,8 +27,9 @@ Therefore(conclusion), Which means that, Because(premises)
 
 # Implicit Argument
 
+## Missing Premises and Conclusions
+ENthymemes
 
-# Missing Premises and Conclusions
 
 # Diagram Argument
 
