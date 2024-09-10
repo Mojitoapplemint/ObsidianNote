@@ -28,4 +28,16 @@ $1=p_{k}(x-p_{1}\cdot p_{2} \dots p_{k-1}\cdot p_{k+1}\dots p_{n})$
 
 Therefore, there is a contradiction, thus there are infinitely many prime numbers
 
-# Theorem 3.2: If $n$ is a composite integer, 
+# Theorem 3.2: If $n$ is a composite integer, then $n$ has a prime factor not exceeding $\sqrt{ n }$
+Let $n=ab$ where $a,b\in\mathbb{Z}:1<a\leq b<n$
+
+Certainly $a\leq\sqrt{ n }$ because otherwise $\sqrt{ n }\leq a\leq b$
+- Then, $ab\geq\sqrt{ n }\sqrt{ n }=n$
+
+Since $a>1$, it has a prime diviser, $x$, thus $x\leq a$
+- $x\leq a\leq\sqrt{ n }$, $x\text{ | }a, a\text{ | }n$
+- So $x \text{ | }n$
+
+Therefore, $x$ is a prime diviser of $n$ that not exceeding $\sqrt{ n }$
+
+# 
