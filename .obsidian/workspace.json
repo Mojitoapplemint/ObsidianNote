@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -204,7 +205,7 @@
   },
   "active": "c0a9e7ff4e6bd264",
   "lastOpenFiles": [
-    "Mathematics/Untitled",
+    "Mathematics/Number Theory",
     "술 노트.md",
     "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "Latex Suite Personal Setting.md",
