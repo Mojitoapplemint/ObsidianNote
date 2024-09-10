@@ -17,6 +17,15 @@ For proof by contradiction, suppose there is finite amount, $n$ prime numbers
 - $p_{1}, p_{2}, p_{3}, \dots p_{n}$ are all the primes
 
 Let $A=p_{1}\cdot p_{2}\cdot\dots p_{n}+1$
-by Lemma 3.1, $A$ has a prime diviser, $p_{k},$ 
+by Lemma 3.1, $A$ has a prime diviser, $p_{k}\text{ }\{1<k<n\}$ 
+- So $\exists \text{ }x\in\mathbb{Z}$ such that $p_{k}\cdot x=A$
 
+Then, $1=A-p_{1}\cdot p_{2} \dots p_{n}$
+$1=p_{k}\cdot x-p_{1}\cdot p_{2} \dots p_{n}$
+$1=p_{k}(x-p_{1}\cdot p_{2} \dots p_{k-1}\cdot p_{k+1}\dots p_{n})$
+- This indicates $p_{k} \text{ | } 1$, which is impossible.
+- I.e. there is no such prime number that divides 1 and get another integer, "$x-p_{1}\cdot p_{2} \dots p_{k-1}\cdot p_{k+1}\dots p_{n}$"
 
+Therefore, there is a contradiction, thus there are infinitely many prime numbers
+
+# Theorem 3.2: If $n$ is a composite integer, 
