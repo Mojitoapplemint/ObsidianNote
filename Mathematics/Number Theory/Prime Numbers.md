@@ -40,4 +40,12 @@ Since $a>1$, it has a prime diviser, $x$, thus $x\leq a$
 
 Therefore, $x$ is a prime diviser of $n$ that not exceeding $\sqrt{ n }$
 
-# 
+# The Sieve of Eratosthenes
+The function $\pi(n)$ where $n$ is positive real number, denotes the number of primes not exceeding $n$
+
+## The Prime Number Theorem
+$$\lim_{x\to \infty}{\frac{\pi(x)}{x/\ln(x)}}=1$$
+We often write $a(x)$~$b(x)$ to denote $\lim_{x\to \infty}{\frac{a(x)}{b(x)}}=1$ and say "$a(x)$ is asymptotic to $b(x)$"
+- $\pi(x)$ ~ $x/\ln(x)$
+
+#
