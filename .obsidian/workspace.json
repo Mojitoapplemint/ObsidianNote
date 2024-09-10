@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Number Theory/Greatest Common Divisor(GCD).md",
+                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Number Theory/Greatest Common Divisor(GCD).md",
+                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Number Theory/Greatest Common Divisor(GCD).md"
+                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md"
               }
             }
           },
@@ -226,10 +226,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "872c2ec8025e052a",
+  "active": "615bb323cca60187",
   "lastOpenFiles": [
-    "Mathematics/Number Theory/Prime Numbers.md",
     "Mathematics/Number Theory/Greatest Common Divisor(GCD).md",
+    "Mathematics/Number Theory/Prime Numbers.md",
     "Mathematics/Number Theory/1. Divisibility.md",
     "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "Mathematics/Number Theory",
