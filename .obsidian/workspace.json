@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md",
+                "file": "Mathematics/Number Theory/1. Divisibility.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md",
+                "file": "Mathematics/Number Theory/1. Divisibility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md",
+                "file": "Mathematics/Number Theory/1. Divisibility.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md"
+                "file": "Mathematics/Number Theory/1. Divisibility.md"
               }
             }
           },
@@ -217,8 +217,8 @@
   },
   "active": "615bb323cca60187",
   "lastOpenFiles": [
-    "술 노트.md",
     "Mathematics/Real Analysis/1. Real Number Fundamental.md",
+    "술 노트.md",
     "Mathematics/Number Theory/Greatest Common Divisor(GCD).md",
     "Mathematics/Number Theory/Prime Numbers.md",
     "Mathematics/Number Theory/1. Divisibility.md",
