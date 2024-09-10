@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md",
+                "file": "술 노트.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md",
+                "file": "술 노트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md",
+                "file": "술 노트.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md"
+                "file": "술 노트.md"
               }
             }
           },
@@ -204,9 +204,9 @@
   },
   "active": "1c20def114568d66",
   "lastOpenFiles": [
+    "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "Latex Suite Personal Setting.md",
     "술 노트.md",
-    "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "Mathematics/Discrete Math/5. Induction.md",
     "Computer Science/Algorithm/1. Introduction.md",
     "Introductory Logic/Arguments Fundamental.md",
