@@ -37,18 +37,25 @@ Connect premises and conclusions with down arrow Premises at the top, conclusion
     $\downarrow$
   (Conclusion)
 
-
 **Ex)**
-(1) Computer won't be able to think. **After all**, (2) nothing that's just a physical thing will ever be able to think
-  (2)
-   $\downarrow$
-  (1)
-
 (1) Drug use is wrong **because** (2) it is immoral, and it is immoral **because** (3) it enslaves the mind and destroys the soul
   (3)
    $\downarrow$
-  (2)
+  (2) $\to$ Subconclusion
    $\downarrow$
   (1)
 
+## Independent Premises
+If we remove one premises, other premises still support the conclusion
+- Two premises are independent to each other
+
+**Ex)**
+
+## Dependent Premises
+Both premises do not support each other but the statement require both to support the conclusion
+
+**Ex)**
+Different cultures have different moral codes. But if ethics were objective then all cultures would agree about what's right or wrong. This goes to show that ethics aren't objective.
+
+ 
 # Validity and Soundness
