@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Number Theory/1. Divisibility.md",
+                "file": "Mathematics/Discrete Math/4. Function.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,6 +69,24 @@
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "580dfe07210967a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d78c5cab5696405f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discrete Math Curriculum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,8 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -135,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Number Theory/1. Divisibility.md",
+                "file": "Discrete Math Curriculum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Number Theory/1. Divisibility.md",
+                "file": "Discrete Math Curriculum.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Number Theory/1. Divisibility.md"
+                "file": "Discrete Math Curriculum.md"
               }
             }
           },
@@ -215,22 +232,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "615bb323cca60187",
+  "active": "d78c5cab5696405f",
   "lastOpenFiles": [
+    "Mathematics/Discrete Math/4. Function.md",
+    "Mathematics/Discrete Math/3. Relation.md",
+    "Discrete Math Curriculum.md",
+    "Mathematics/Discrete Math/2. Set.md",
+    "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
+    "Mathematics/Number Theory/1. Divisibility.md",
     "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "술 노트.md",
     "Mathematics/Number Theory/Greatest Common Divisor(GCD).md",
     "Mathematics/Number Theory/Prime Numbers.md",
-    "Mathematics/Number Theory/1. Divisibility.md",
     "Mathematics/Number Theory",
     "Latex Suite Personal Setting.md",
     "Mathematics/Discrete Math/5. Induction.md",
     "Computer Science/Algorithm/1. Introduction.md",
     "Introductory Logic/Arguments Fundamental.md",
-    "Mathematics/Discrete Math/4. Function.md",
-    "Mathematics/Discrete Math/3. Relation.md",
-    "Mathematics/Discrete Math/2. Set.md",
-    "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "CCC/GIJ LAMPS/Desired Functionality.md",
     "Introductory Logic",
     "Computer Science/AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Forecast.md",
@@ -249,7 +267,6 @@
     "일본 기념품.md",
     "Excalidraw/Drawing 2024-07-31 14.31.19.excalidraw.md",
     "Attached Files/Pasted image 20240730145557.png",
-    "Excalidraw/Drawing 2024-07-30 14.11.43.excalidraw.md",
     "Attached Files/Pasted image 20240727120638.png",
     "Attached Files/Pasted image 20240727111817.png",
     "Attached Files/Pasted image 20240727111527.png",
