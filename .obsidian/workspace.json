@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Latex Suite Personal Setting.md",
+                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md",
+                "file": "술 노트.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -202,18 +202,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f139cf41feca76d3",
+  "active": "1c20def114568d66",
   "lastOpenFiles": [
+    "Latex Suite Personal Setting.md",
+    "술 노트.md",
+    "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "Mathematics/Discrete Math/5. Induction.md",
     "Computer Science/Algorithm/1. Introduction.md",
-    "Mathematics/Real Analysis/1. Real Number Fundamental.md",
-    "술 노트.md",
     "Introductory Logic/Arguments Fundamental.md",
     "Mathematics/Discrete Math/4. Function.md",
     "Mathematics/Discrete Math/3. Relation.md",
     "Mathematics/Discrete Math/2. Set.md",
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
-    "Latex Suite Personal Setting.md",
     "CCC/GIJ LAMPS/Desired Functionality.md",
     "Introductory Logic",
     "Computer Science/AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Forecast.md",
