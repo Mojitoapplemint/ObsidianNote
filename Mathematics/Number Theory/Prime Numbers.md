@@ -48,4 +48,13 @@ $$\lim_{x\to \infty}{\frac{\pi(x)}{x/\ln(x)}}=1$$
 We often write $a(x)$~$b(x)$ to denote $\lim_{x\to \infty}{\frac{a(x)}{b(x)}}=1$ and say "$a(x)$ is asymptotic to $b(x)$"
 - $\pi(x)$ ~ $x/\ln(x)$
 
-#
+# Conjectures about Primes
+## Twin Conjecture
+There are infinitely many pairs of prime $p$ and $p+2$
+
+## Goldbach's Conjecture
+Every even positive integer greater than 2 can be written as the sum of two primes
+
+## $n^{2}+1$ Conjecture
+There are infinitely many primes of the form $n^{2}+1$, where $n$ is positive number
+

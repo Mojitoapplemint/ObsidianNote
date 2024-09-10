@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "872c2ec8025e052a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Number Theory/Greatest Common Divisor(GCD).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "615bb323cca60187",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Number Theory/Prime Numbers.md",
+                "file": "Mathematics/Number Theory/Greatest Common Divisor(GCD).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Number Theory/Prime Numbers.md",
+                "file": "Mathematics/Number Theory/Greatest Common Divisor(GCD).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Number Theory/Prime Numbers.md"
+                "file": "Mathematics/Number Theory/Greatest Common Divisor(GCD).md"
               }
             }
           },
@@ -214,11 +226,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1c20def114568d66",
+  "active": "872c2ec8025e052a",
   "lastOpenFiles": [
+    "Mathematics/Number Theory/Prime Numbers.md",
+    "Mathematics/Number Theory/Greatest Common Divisor(GCD).md",
     "Mathematics/Number Theory/1. Divisibility.md",
     "Mathematics/Real Analysis/1. Real Number Fundamental.md",
-    "Mathematics/Number Theory/Prime Numbers.md",
     "Mathematics/Number Theory",
     "술 노트.md",
     "Latex Suite Personal Setting.md",
@@ -248,7 +261,6 @@
     "Excalidraw/Drawing 2024-07-31 14.31.19.excalidraw.md",
     "Attached Files/Pasted image 20240730145557.png",
     "Excalidraw/Drawing 2024-07-30 14.11.43.excalidraw.md",
-    "Computer Science/Data Structure and Algorithm/Data Structure and Algorithm.md",
     "Attached Files/Pasted image 20240727120638.png",
     "Attached Files/Pasted image 20240727111817.png",
     "Attached Files/Pasted image 20240727111527.png",
