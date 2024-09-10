@@ -69,24 +69,6 @@
           }
         ],
         "currentTab": 4
-      },
-      {
-        "id": "d9b9800376b4e75b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f139cf41feca76d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -232,7 +215,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f139cf41feca76d3",
+  "active": "615bb323cca60187",
   "lastOpenFiles": [
     "술 노트.md",
     "Mathematics/Real Analysis/1. Real Number Fundamental.md",
