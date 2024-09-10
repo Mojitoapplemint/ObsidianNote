@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md",
+                "file": "Mathematics/Number Theory/Divisibility.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md",
+                "file": "Mathematics/Number Theory/Divisibility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md",
+                "file": "Mathematics/Number Theory/Divisibility.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md"
+                "file": "Mathematics/Number Theory/Divisibility.md"
               }
             }
           },
@@ -203,11 +202,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c0a9e7ff4e6bd264",
+  "active": "1c20def114568d66",
   "lastOpenFiles": [
+    "Mathematics/Real Analysis/1. Real Number Fundamental.md",
+    "Mathematics/Number Theory/Divisibility.md",
     "Mathematics/Number Theory",
     "술 노트.md",
-    "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "Latex Suite Personal Setting.md",
     "Mathematics/Discrete Math/5. Induction.md",
     "Computer Science/Algorithm/1. Introduction.md",
@@ -251,7 +251,6 @@
     "Mathematics/Real Analysis",
     "CCC/GCSJ",
     "CCC",
-    "Mathematics/Complex Analysis",
-    "Mathematics/Differential Equation"
+    "Mathematics/Complex Analysis"
   ]
 }
