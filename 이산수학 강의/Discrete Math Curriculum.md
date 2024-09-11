@@ -83,6 +83,7 @@
     - trees
 
 # 종합
+
 1. Mathematical Statement(수학적 명제)
 	- 종류와 그들의 차이점들
 2. Logical Operations
@@ -91,5 +92,12 @@
 	- Proof by case
 	- Proof by Contradiction
 	- Proof by Contrapositive
-	- Induction
-1. 
+	- Induction(지금 할지 나중으로 뺄지)
+4. Sets
+	- Set Operation and Venn Diagram(개인적으로 넣고 싶음)
+	- Power Set
+	- Ordered Pair and Cartesian Product
+	- Cardinality
+5. Relations
+6. Functions
+7. 
