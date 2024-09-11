@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Number Theory/2. Big-O Notation.md",
+                "file": "Computer Science/Algorithm/1. Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Number Theory/2. Big-O Notation.md",
+                "file": "Computer Science/Algorithm/1. Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Number Theory/2. Big-O Notation.md",
+                "file": "Computer Science/Algorithm/1. Introduction.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Number Theory/2. Big-O Notation.md"
+                "file": "Computer Science/Algorithm/1. Introduction.md"
               }
             }
           },
@@ -229,9 +228,9 @@
   },
   "active": "1c20def114568d66",
   "lastOpenFiles": [
+    "Mathematics/Number Theory/2. Big-O Notation.md",
     "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
     "Mathematics/Number Theory/3. Prime Numbers.md",
-    "Mathematics/Number Theory/2. Big-O Notation.md",
     "Mathematics/Number Theory/1. Divisibility.md",
     "Latex Suite Personal Setting.md",
     "이산수학 강의/Discrete Math Curriculum.md",
