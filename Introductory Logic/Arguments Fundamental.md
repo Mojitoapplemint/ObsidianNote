@@ -25,11 +25,15 @@ Statement
 **Ex)**
 Therefore(conclusion), Which means that, Because(premises)
 
-# Implicit Argument
+# Type of Argument
+## Implicit Argument
+Arguments that doesn't contain any inference indicator
 
-## Missing Premises and Conclusions
-Enthymemes
+**Enthymemes)**
+Arguments with missing Premises or Conclusions
 
+## Simple Argument
+Arguments that has only one premise and conclusion
 
 # Diagramming Argument
 Connect premises and conclusions with down arrow Premises at the top, conclusion at the bottom
@@ -56,6 +60,8 @@ Both premises do not support each other but the statement require both to suppor
 
 **Ex)**
 Different cultures have different moral codes. But if ethics were objective then all cultures would agree about what's right or wrong. This goes to show that ethics aren't objective.
-
  
-# Validity and Soundness
+# Validity
+
+
+# 

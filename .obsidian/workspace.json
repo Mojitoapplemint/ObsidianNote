@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md",
+                "file": "Introductory Logic/Arguments Fundamental.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md",
+                "file": "Introductory Logic/Arguments Fundamental.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md",
+                "file": "Introductory Logic/Arguments Fundamental.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md"
+                "file": "Introductory Logic/Arguments Fundamental.md"
               }
             }
           },
@@ -192,6 +192,7 @@
   },
   "active": "1c20def114568d66",
   "lastOpenFiles": [
+    "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "Computer Science/Algorithm/1. Introduction.md",
     "이산수학 강의/Discrete Math Curriculum.md",
     "이산수학 강의/단체에서 지원이 필요한 항목.md",
@@ -208,7 +209,6 @@
     "이산수학 강의",
     "Mathematics/Discrete Math/4. Function.md",
     "Mathematics/Discrete Math/3. Relation.md",
-    "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "술 노트.md",
     "Mathematics/Number Theory",
     "CCC/GIJ LAMPS/Desired Functionality.md",
