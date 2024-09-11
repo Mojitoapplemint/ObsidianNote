@@ -61,7 +61,7 @@ Both premises do not support each other but the statement require both to suppor
 **Ex)**
 Different cultures have different moral codes. But if ethics were objective then all cultures would agree about what's right or wrong. This goes to show that ethics aren't objective.
  
-# Validity
+# Validity and Soundness
 
 
 # 
