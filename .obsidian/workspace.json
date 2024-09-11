@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6699794493d0632e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c83fa74489acb393",
             "type": "leaf",
             "state": {
@@ -44,43 +32,19 @@
             }
           },
           {
-            "id": "1dbf242616b7e928",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Latex Suite Personal Setting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "615bb323cca60187",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Discrete Math/2. Set.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6cba076305021551",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "이산수학 강의/단체에서 지원이 필요한 항목.md",
+                "file": "이산수학 강의/Discrete Math Curriculum.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,24 +192,25 @@
   },
   "active": "1c20def114568d66",
   "lastOpenFiles": [
+    "이산수학 강의/Discrete Math Curriculum.md",
+    "이산수학 강의/단체에서 지원이 필요한 항목.md",
+    "Computer Science/Algorithm/1. Introduction.md",
+    "Computer Science/System Porgramming/Dynamic Linking an Loading.md",
+    "Latex Suite Personal Setting.md",
     "Mathematics/Number Theory/2. Big-O Notation.md",
     "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
     "Mathematics/Number Theory/3. Prime Numbers.md",
     "Mathematics/Number Theory/1. Divisibility.md",
-    "Latex Suite Personal Setting.md",
-    "이산수학 강의/Discrete Math Curriculum.md",
     "Mathematics/Discrete Math/2. Set.md",
     "Mathematics/Discrete Math/5. Induction.md",
     "Introductory Logic/Arguments Fundamental.md",
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
-    "이산수학 강의/단체에서 지원이 필요한 항목.md",
     "이산수학 강의",
     "Mathematics/Discrete Math/4. Function.md",
     "Mathematics/Discrete Math/3. Relation.md",
     "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "술 노트.md",
     "Mathematics/Number Theory",
-    "Computer Science/Algorithm/1. Introduction.md",
     "CCC/GIJ LAMPS/Desired Functionality.md",
     "Introductory Logic",
     "Computer Science/AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Forecast.md",
@@ -258,7 +223,6 @@
     "Excalidraw/Drawing 2024-08-20 02.39.04.excalidraw.md",
     "2024-08-19.md",
     "CCC/GIJ LAMPS/Extra Features.md",
-    "Excalidraw/Drawing 2024-08-19 02.00.33.excalidraw.md",
     "CCC/GIJ LAMPS",
     "Attached Files/Pasted image 20240730145557.png",
     "Attached Files/Pasted image 20240727120638.png",
