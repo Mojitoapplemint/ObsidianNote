@@ -61,7 +61,7 @@ Both premises do not support each other but the statement require both to suppor
 **Ex)**
 Different cultures have different moral codes. But if ethics were objective then all cultures would agree about what's right or wrong. This goes to show that ethics aren't objective.
  
-# Validity and Soundness
+# Validity
 1. All living things need water
 2. Roses need water
 3. Therefore, roses are living things
@@ -69,5 +69,13 @@ $\implies$ Bad(Invalid) Argument
 
 An argument is **valid** iff it is not possible for the premises to be true and the conclusion false
 - Truth of premises guarantee truth of conclusion
+
+## Soundness
+1. If she's made of wood, she's a witch
+2. If she weighs the same as a duck, she's made of wood
+3. Therefore, if she weighs the same as a duck, she's a witch
+$\implies$ The argument is valid, but it is *not sound since the premises are false*
+
+An argument is **sound** iff it is valid and all of its premises are true
 
 # 
