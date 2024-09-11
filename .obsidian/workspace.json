@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introductory Logic/Arguments Fundamental.md",
+                "file": "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -192,6 +192,8 @@
   },
   "active": "1c20def114568d66",
   "lastOpenFiles": [
+    "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
+    "Introductory Logic/Arguments Fundamental.md",
     "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "Computer Science/Algorithm/1. Introduction.md",
     "이산수학 강의/Discrete Math Curriculum.md",
@@ -204,8 +206,6 @@
     "Mathematics/Number Theory/1. Divisibility.md",
     "Mathematics/Discrete Math/2. Set.md",
     "Mathematics/Discrete Math/5. Induction.md",
-    "Introductory Logic/Arguments Fundamental.md",
-    "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "이산수학 강의",
     "Mathematics/Discrete Math/4. Function.md",
     "Mathematics/Discrete Math/3. Relation.md",
