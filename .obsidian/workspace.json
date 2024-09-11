@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Discrete Math/5. Induction.md",
+                "file": "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,18 +68,6 @@
             }
           },
           {
-            "id": "d78c5cab5696405f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "이산수학 강의/Discrete Math Curriculum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6cba076305021551",
             "type": "leaf",
             "state": {
@@ -92,7 +80,25 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
+      },
+      {
+        "id": "6b4e56ae09b2c0d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d78c5cab5696405f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "이산수학 강의/Discrete Math Curriculum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,23 +247,23 @@
   },
   "active": "d78c5cab5696405f",
   "lastOpenFiles": [
-    "이산수학 강의/단체에서 지원이 필요한 항목.md",
+    "Mathematics/Number Theory/Greatest Common Divisor(GCD).md",
+    "Mathematics/Number Theory/Prime Numbers.md",
+    "Introductory Logic/Arguments Fundamental.md",
     "이산수학 강의/Discrete Math Curriculum.md",
-    "이산수학 강의",
+    "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
+    "이산수학 강의/단체에서 지원이 필요한 항목.md",
     "Mathematics/Discrete Math/5. Induction.md",
+    "이산수학 강의",
     "Mathematics/Discrete Math/4. Function.md",
     "Mathematics/Discrete Math/3. Relation.md",
     "Mathematics/Discrete Math/2. Set.md",
-    "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Mathematics/Number Theory/1. Divisibility.md",
     "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "술 노트.md",
-    "Mathematics/Number Theory/Greatest Common Divisor(GCD).md",
-    "Mathematics/Number Theory/Prime Numbers.md",
     "Mathematics/Number Theory",
     "Latex Suite Personal Setting.md",
     "Computer Science/Algorithm/1. Introduction.md",
-    "Introductory Logic/Arguments Fundamental.md",
     "CCC/GIJ LAMPS/Desired Functionality.md",
     "Introductory Logic",
     "Computer Science/AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Forecast.md",

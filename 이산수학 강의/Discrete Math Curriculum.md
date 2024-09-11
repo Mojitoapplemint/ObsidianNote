@@ -81,3 +81,15 @@
     - basic definitions of graphs
     - proving simple facts about graphs
     - trees
+
+# 종합
+1. Mathematical Statement(수학적 명제)
+	- 종류와 그들의 차이점들
+2. Logical Operations
+	- and, or, implication, iff, not p, converse, contrapositive
+3. Method of Provement(증명방식)
+	- Proof by case
+	- Proof by Contradiction
+	- Proof by Contrapositive
+	- Induction
+1. 
