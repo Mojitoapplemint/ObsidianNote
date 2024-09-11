@@ -38,6 +38,7 @@
 	{trigger: "txt", replacement: "\\text{$0}", options: "mA"},
 
 //Delete
+{trigger: "re", replacement: "\\mathrm{Re}", options: "mA"},
 {trigger: "([^\\\\])(${GREEK}|${SYMBOL})", replacement: "[[0]]\\[[1]]", options: "rmA", description: "Add backslash before greek letters and symbols"},
 {trigger: "\\\\(${GREEK}|${SYMBOL}|${SHORT_SYMBOL})([A-Za-z])", replacement: "\\[[0]] [[1]]", options: "rmA"},
 {trigger: "set", replacement: "\\{ $0 \\}$1", options: "mA"},
