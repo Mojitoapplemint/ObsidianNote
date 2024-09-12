@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -205,12 +204,12 @@
   },
   "active": "1c20def114568d66",
   "lastOpenFiles": [
+    "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
+    "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "Mathematics/Number Theory/5. Euclidean Algorithm.md",
     "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
     "Mathematics/Number Theory/3. Prime Numbers.md",
-    "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "Independent Study/Reinforcement Learning Fundamental.md",
-    "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Mathematics/Discrete Math/5. Induction.md",
     "듣고 싶은 강의.md",
     "사이드 프로젝트 아이디어.md",
