@@ -78,4 +78,10 @@ $\implies$ The argument is valid, but it is *not sound since the premises are fa
 
 An argument is **sound** iff it is valid and all of its premises are true
 
-# 
+## Deduction vs Induction
+It is worth nothing that invalid arguments can still be good arguments
+- Inductive Arguments
+	- Ampliative: Conclusion is telling something new
+- **Deductive Arguments**
+	- Non-Ampliative: Conclusion is using the same information from premises
+
