@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "1735a1d1a95adcd8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-11 22.26.50.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "6cba076305021551",
             "type": "leaf",
             "state": {
@@ -43,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md",
+                "file": "Excalidraw/Drawing 2024-09-11 22.26.50.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md",
+                "file": "Excalidraw/Drawing 2024-09-11 22.26.50.excalidraw.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md"
+                "file": "Excalidraw/Drawing 2024-09-11 22.26.50.excalidraw.md"
               }
             }
           },
@@ -190,12 +201,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c83fa74489acb393",
+  "active": "1735a1d1a95adcd8",
   "lastOpenFiles": [
-    "Mathematics/Real Analysis/14 Axioms and Lemmas.md",
-    "Mathematics/Real Analysis/1. Real Number Fundamental.md",
-    "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Introductory Logic/Arguments Fundamental.md",
+    "Excalidraw/Drawing 2024-09-11 22.26.50.excalidraw.md",
+    "Mathematics/Real Analysis/1. Real Number Fundamental.md",
+    "Mathematics/Real Analysis/14 Axioms and Lemmas.md",
+    "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Computer Science/Algorithm/1. Introduction.md",
     "이산수학 강의/Discrete Math Curriculum.md",
     "이산수학 강의/단체에서 지원이 필요한 항목.md",
@@ -222,7 +234,6 @@
     "사이드 프로젝트 아이디어.md",
     "Untitled.canvas",
     "Excalidraw/Drawing 2024-08-20 02.39.04.excalidraw.md",
-    "2024-08-19.md",
     "CCC/GIJ LAMPS",
     "Attached Files/Pasted image 20240730145557.png",
     "Attached Files/Pasted image 20240727120638.png",

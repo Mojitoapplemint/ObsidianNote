@@ -53,13 +53,14 @@ Connect premises and conclusions with down arrow Premises at the top, conclusion
 If we remove one premises, other premises still support the conclusion
 - Two premises are independent to each other
 
-**Ex)**
+**Ex)** (1) Universities must expect further cuts **because** (2) they have suffered less than other sectors of education. But even if that were not so, (1) they should expect further cuts **because** (3) they are not sufficiently vocationally oriented.
+
 
 ## Dependent Premises
 Both premises do not support each other but the statement require both to support the conclusion
 
 **Ex)**
-Different cultures have different moral codes. But if ethics were objective then all cultures would agree about what's right or wrong. This goes to show that ethics aren't objective.
+(2) Different cultures have different moral codes. But (3) if ethics were objective then all cultures would agree about what’s right and wrong. This goes to show (1) that ethics aren’t objective.
  
 # Validity
 1. All living things need water
