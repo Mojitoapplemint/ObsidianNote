@@ -37,19 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Number Theory/5. Euclidean Algorithm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6cba076305021551",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Discrete Math/5. Induction.md",
+                "file": "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Number Theory/5. Euclidean Algorithm.md",
+                "file": "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Number Theory/5. Euclidean Algorithm.md",
+                "file": "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Number Theory/5. Euclidean Algorithm.md"
+                "file": "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md"
               }
             }
           },
@@ -214,31 +202,31 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "19213d94300462c8",
+  "active": "1c20def114568d66",
   "lastOpenFiles": [
+    "Mathematics/Number Theory/5. Euclidean Algorithm.md",
+    "Mathematics/Number Theory/3. Prime Numbers.md",
+    "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
+    "Mathematics/Real Analysis/1. Real Number Fundamental.md",
+    "Independent Study/Reinforcement Learning Fundamental.md",
+    "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
+    "Mathematics/Discrete Math/5. Induction.md",
     "듣고 싶은 강의.md",
     "사이드 프로젝트 아이디어.md",
     "방학 동안 하고 싶은 거.md",
     "Latex Suite Personal Setting.md",
     "Untitled.md",
-    "Mathematics/Number Theory/5. Euclidean Algorithm.md",
-    "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
     "Mathematics/Number Theory/1. Divisibility.md",
-    "Mathematics/Number Theory/3. Prime Numbers.md",
     "Introductory Logic/Arguments Fundamental.md",
-    "Independent Study/Reinforcement Learning Fundamental.md",
     "Independent Study/Untitled",
     "Independent Study",
-    "Mathematics/Discrete Math/5. Induction.md",
     "Mathematics/Discrete Math/4. Function.md",
     "Mathematics/Discrete Math/3. Relation.md",
-    "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Mathematics/Discrete Math/2. Set.md",
     "이산수학 강의/Discrete Math Curriculum.md",
     "Attached Files/Pasted image 20240911223043.png",
     "Excalidraw/Drawing 2024-09-11 22.26.50.excalidraw.md",
     "Attached Files/Pasted image 20240911222828.png",
-    "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "Mathematics/Real Analysis/14 Axioms and Lemmas.md",
     "Computer Science/Algorithm/1. Introduction.md",
     "이산수학 강의/단체에서 지원이 필요한 항목.md",
