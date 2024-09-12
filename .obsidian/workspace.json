@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "19213d94300462c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Number Theory/5. Euclidean Algorithm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6cba076305021551",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
+                "file": "Mathematics/Number Theory/5. Euclidean Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
+                "file": "Mathematics/Number Theory/5. Euclidean Algorithm.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md"
+                "file": "Mathematics/Number Theory/5. Euclidean Algorithm.md"
               }
             }
           },
@@ -202,13 +214,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1c20def114568d66",
+  "active": "19213d94300462c8",
   "lastOpenFiles": [
-    "Mathematics/Number Theory/1. Divisibility.md",
+    "듣고 싶은 강의.md",
+    "사이드 프로젝트 아이디어.md",
+    "방학 동안 하고 싶은 거.md",
+    "Latex Suite Personal Setting.md",
+    "Untitled.md",
+    "Mathematics/Number Theory/5. Euclidean Algorithm.md",
     "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
+    "Mathematics/Number Theory/1. Divisibility.md",
+    "Mathematics/Number Theory/3. Prime Numbers.md",
     "Introductory Logic/Arguments Fundamental.md",
     "Independent Study/Reinforcement Learning Fundamental.md",
-    "Untitled.md",
     "Independent Study/Untitled",
     "Independent Study",
     "Mathematics/Discrete Math/5. Induction.md",
@@ -225,19 +243,13 @@
     "Computer Science/Algorithm/1. Introduction.md",
     "이산수학 강의/단체에서 지원이 필요한 항목.md",
     "Computer Science/System Porgramming/Dynamic Linking an Loading.md",
-    "Latex Suite Personal Setting.md",
     "Mathematics/Number Theory/2. Big-O Notation.md",
-    "Mathematics/Number Theory/3. Prime Numbers.md",
     "이산수학 강의",
     "술 노트.md",
     "Mathematics/Number Theory",
     "CCC/GIJ LAMPS/Desired Functionality.md",
     "Introductory Logic",
-    "Computer Science/AI & TensorFlow/TensorFlow Bootcamp/7. Time Series Forecast.md",
-    "Computer Science/AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
-    "Computer Science/AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
     "Computer Science/Algorithm",
-    "CCC/GIJ LAMPS/PM Meeting(Managed by Hikari San).md",
     "Untitled.canvas",
     "CCC/GIJ LAMPS",
     "Attached Files/Pasted image 20240730145557.png",
