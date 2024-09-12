@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
+                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introductory Logic/Arguments Fundamental.md",
+                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introductory Logic/Arguments Fundamental.md",
+                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introductory Logic/Arguments Fundamental.md"
+                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md"
               }
             }
           },
@@ -190,7 +189,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1c20def114568d66",
+  "active": "c83fa74489acb393",
   "lastOpenFiles": [
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Introductory Logic/Arguments Fundamental.md",
