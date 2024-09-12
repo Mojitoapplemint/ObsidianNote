@@ -32,16 +32,6 @@
             }
           },
           {
-            "id": "1735a1d1a95adcd8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-09-11 22.26.50.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "6cba076305021551",
             "type": "leaf",
             "state": {
@@ -54,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-11 22.26.50.excalidraw.md",
+                "file": "Introductory Logic/Arguments Fundamental.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-11 22.26.50.excalidraw.md",
+                "file": "Introductory Logic/Arguments Fundamental.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-11 22.26.50.excalidraw.md"
+                "file": "Introductory Logic/Arguments Fundamental.md"
               }
             }
           },
@@ -201,15 +191,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1735a1d1a95adcd8",
+  "active": "1c20def114568d66",
   "lastOpenFiles": [
-    "Introductory Logic/Arguments Fundamental.md",
+    "Attached Files/Pasted image 20240911223043.png",
     "Excalidraw/Drawing 2024-09-11 22.26.50.excalidraw.md",
+    "이산수학 강의/Discrete Math Curriculum.md",
+    "Introductory Logic/Arguments Fundamental.md",
+    "Attached Files/Pasted image 20240911222828.png",
     "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "Mathematics/Real Analysis/14 Axioms and Lemmas.md",
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Computer Science/Algorithm/1. Introduction.md",
-    "이산수학 강의/Discrete Math Curriculum.md",
     "이산수학 강의/단체에서 지원이 필요한 항목.md",
     "Computer Science/System Porgramming/Dynamic Linking an Loading.md",
     "Latex Suite Personal Setting.md",
@@ -233,7 +225,6 @@
     "CCC/GIJ LAMPS/PM Meeting(Managed by Hikari San).md",
     "사이드 프로젝트 아이디어.md",
     "Untitled.canvas",
-    "Excalidraw/Drawing 2024-08-20 02.39.04.excalidraw.md",
     "CCC/GIJ LAMPS",
     "Attached Files/Pasted image 20240730145557.png",
     "Attached Files/Pasted image 20240727120638.png",
@@ -246,7 +237,6 @@
     "Attached Files/Pasted image 20240707193706.png",
     "Attached Files/Pasted image 20240707132529.png",
     "Attached Files/Pasted image 20240719111249.png",
-    "Attached Files/Pasted image 20240719111246.png",
     "Mathematics/Real Analysis",
     "CCC/GCSJ",
     "CCC",
