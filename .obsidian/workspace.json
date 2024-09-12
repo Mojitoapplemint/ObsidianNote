@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introductory Logic/Arguments Fundamental.md",
+                "file": "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
                 "mode": "source",
                 "source": false
               }
@@ -44,19 +44,19 @@
             }
           },
           {
-            "id": "85cffa7c60ddbc30",
+            "id": "b96cd44c2755dbab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Independent Study/Reinforcement Learning Fundamental.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md"
               }
             }
           },
@@ -202,17 +202,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "85cffa7c60ddbc30",
+  "active": "1c20def114568d66",
   "lastOpenFiles": [
+    "Introductory Logic/Arguments Fundamental.md",
+    "Independent Study/Reinforcement Learning Fundamental.md",
+    "Untitled.md",
+    "Independent Study/Untitled",
+    "Independent Study",
     "Mathematics/Discrete Math/5. Induction.md",
     "Mathematics/Discrete Math/4. Function.md",
-    "Untitled.md",
     "Mathematics/Discrete Math/3. Relation.md",
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Mathematics/Discrete Math/2. Set.md",
     "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
     "이산수학 강의/Discrete Math Curriculum.md",
-    "Introductory Logic/Arguments Fundamental.md",
     "Attached Files/Pasted image 20240911223043.png",
     "Excalidraw/Drawing 2024-09-11 22.26.50.excalidraw.md",
     "Attached Files/Pasted image 20240911222828.png",
@@ -235,7 +238,6 @@
     "Computer Science/AI & TensorFlow/TensorFlow Bootcamp/2. Neural Network Regression with TF.md",
     "Computer Science/Algorithm",
     "CCC/GIJ LAMPS/PM Meeting(Managed by Hikari San).md",
-    "사이드 프로젝트 아이디어.md",
     "Untitled.canvas",
     "CCC/GIJ LAMPS",
     "Attached Files/Pasted image 20240730145557.png",
@@ -249,8 +251,6 @@
     "Attached Files/Pasted image 20240707193706.png",
     "Attached Files/Pasted image 20240707132529.png",
     "Mathematics/Real Analysis",
-    "CCC/GCSJ",
-    "CCC",
-    "Mathematics/Complex Analysis"
+    "CCC/GCSJ"
   ]
 }
