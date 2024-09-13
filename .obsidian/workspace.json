@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md",
+                "file": "Computer Science/Algorithm/2. Asymptotic Notation.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md",
+                "file": "Computer Science/Algorithm/2. Asymptotic Notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md",
+                "file": "Computer Science/Algorithm/2. Asymptotic Notation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md"
+                "file": "Computer Science/Algorithm/2. Asymptotic Notation.md"
               }
             }
           },
@@ -215,12 +215,13 @@
   },
   "active": "c83fa74489acb393",
   "lastOpenFiles": [
+    "Mathematics/Real Analysis/1. Real Number Fundamental.md",
+    "Computer Science/Algorithm/2. Asymptotic Notation.md",
     "Mathematics/Number Theory/3. Prime Numbers.md",
     "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
     "Mathematics/Number Theory/5. Euclidean Algorithm.md",
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Mathematics/Number Theory/1. Divisibility.md",
-    "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "Independent Study/Reinforcement Learning Fundamental.md",
     "Mathematics/Discrete Math/5. Induction.md",
     "듣고 싶은 강의.md",
@@ -246,7 +247,6 @@
     "이산수학 강의",
     "술 노트.md",
     "Mathematics/Number Theory",
-    "CCC/GIJ LAMPS/Desired Functionality.md",
     "Introductory Logic",
     "Computer Science/Algorithm",
     "Untitled.canvas",
