@@ -49,38 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b96cd44c2755dbab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Independent Study/Reinforcement Learning Fundamental.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c86f7661842616b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Number Theory/3. Prime Numbers.md",
+                "file": "Introductory Logic/1. Arguments Fundamental.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introductory Logic/2. Conditional.md",
+                "file": "Introductory Logic/1. Arguments Fundamental.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introductory Logic/2. Conditional.md",
+                "file": "Introductory Logic/1. Arguments Fundamental.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introductory Logic/2. Conditional.md"
+                "file": "Introductory Logic/1. Arguments Fundamental.md"
               }
             }
           },
@@ -226,16 +202,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "df5678b630d34e86",
+  "active": "19213d94300462c8",
   "lastOpenFiles": [
-    "Introductory Logic/1. Arguments Fundamental.md",
     "Introductory Logic/2. Conditional.md",
+    "Introductory Logic/1. Arguments Fundamental.md",
+    "Mathematics/Number Theory/5. Euclidean Algorithm.md",
+    "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "Computer Science/Algorithm/2. Asymptotic Notation.md",
     "Mathematics/Number Theory/3. Prime Numbers.md",
     "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
-    "Mathematics/Number Theory/5. Euclidean Algorithm.md",
-    "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Mathematics/Number Theory/1. Divisibility.md",
     "Independent Study/Reinforcement Learning Fundamental.md",
     "Mathematics/Discrete Math/5. Induction.md",
