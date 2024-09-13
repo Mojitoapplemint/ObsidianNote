@@ -69,6 +69,24 @@
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "1d558e9ea1eb0eb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "619a56b66dbb0cad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Number Theory/1. Divisibility.md",
+                "file": "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Number Theory/1. Divisibility.md",
+                "file": "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Number Theory/1. Divisibility.md"
+                "file": "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md"
               }
             }
           },
@@ -214,8 +232,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1c20def114568d66",
+  "active": "619a56b66dbb0cad",
   "lastOpenFiles": [
+    "Mathematics/Number Theory/1. Divisibility.md",
     "Introductory Logic/2. Conditional.md",
     "Mathematics/Number Theory/3. Prime Numbers.md",
     "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
@@ -228,7 +247,6 @@
     "Mathematics/Number Theory/5. Euclidean Algorithm.md",
     "Computer Science/Algorithm/2. Asymptotic Notation.md",
     "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
-    "Mathematics/Number Theory/1. Divisibility.md",
     "Independent Study/Reinforcement Learning Fundamental.md",
     "Mathematics/Discrete Math/5. Induction.md",
     "듣고 싶은 강의.md",
