@@ -61,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introductory Logic/2. Conditional.md",
+                "file": "Mathematics/Number Theory/1. Divisibility.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Number Theory/3. Prime Numbers.md",
+                "file": "Mathematics/Number Theory/1. Divisibility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Number Theory/3. Prime Numbers.md",
+                "file": "Mathematics/Number Theory/1. Divisibility.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Number Theory/3. Prime Numbers.md"
+                "file": "Mathematics/Number Theory/1. Divisibility.md"
               }
             }
           },
@@ -215,8 +214,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "df5678b630d34e86",
+  "active": "1c20def114568d66",
   "lastOpenFiles": [
+    "Introductory Logic/2. Conditional.md",
+    "Mathematics/Number Theory/3. Prime Numbers.md",
     "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
     "Latex Suite Personal Setting.md",
     "Mathematics/Real Analysis/1. Real Number Fundamental.md",
@@ -224,10 +225,8 @@
     "술 노트.md",
     "Introductory Logic/1. Arguments Fundamental.md",
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
-    "Introductory Logic/2. Conditional.md",
     "Mathematics/Number Theory/5. Euclidean Algorithm.md",
     "Computer Science/Algorithm/2. Asymptotic Notation.md",
-    "Mathematics/Number Theory/3. Prime Numbers.md",
     "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
     "Mathematics/Number Theory/1. Divisibility.md",
     "Independent Study/Reinforcement Learning Fundamental.md",
