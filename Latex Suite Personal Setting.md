@@ -10,6 +10,9 @@
 
 ```json
 //new
+	{trigger: "\\l", replacement: "\\mathscr{l}", options: "mA"},
+    {trigger: "sup", replacement: "\\text{sup}($0)", options: "mA"},
+    {trigger: "inf", replacement: "\\text{inf}($0)", options: "mA"},
     {trigger: "/", replacement: "\\frac{$0}{$1}", options: "mA"},
     {trigger: "any", replacement: "\\forall \text{ }", options: "mA"},
     {trigger: "ext", replacement: "\\exists \text{ }", options: "MA"},
@@ -36,6 +39,7 @@
 	{trigger: "inf", replacement: "\\infty", options: "mA"},
 	{trigger: "int", replacement: "\\int $0 \\, d${1:x}{$2}$3", options: "mA"},
 	{trigger: "txt", replacement: "\\text{$0}", options: "mA"},
+	{trigger: "infty", replacement: "\\infty", options: "mA"},,
 
 //Delete
 {trigger: "re", replacement: "\\mathrm{Re}", options: "mA"},
