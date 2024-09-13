@@ -10,7 +10,7 @@
 
 ```json
 //new
-	{trigger: "\\l", replacement: "\\mathscr{l}", options: "mA"},
+	{trigger: "\\l", replacement: "\\mathscr{l}", options: "tmA"},
     {trigger: "sup", replacement: "\\text{sup}($0)", options: "mA"},
     {trigger: "inf", replacement: "\\text{inf}($0)", options: "mA"},
     {trigger: "/", replacement: "\\frac{$0}{$1}", options: "mA"},
@@ -21,10 +21,10 @@
     {trigger: "g", replacement: "g($0)", options: "mA"},
     {trigger: "pi", replacement: "\\pi", options: "mA"},
     {trigger: "^", replacement: "^{$0}", options: "mA"},
-    {trigger: "\\C", replacement: "\\mathbb{C}", options: "tA"},
-    {trigger: "\\R", replacement: "\\mathbb{R}", options: "tA"},
-    {trigger: "\\Z", replacement: "\\mathbb{Z}", options: "tA"},
-    {trigger: "\\N", replacement: "\\mathbb{N}", options: "tA"},
+    {trigger: "\\C", replacement: "\\mathbb{C}", options: "tmA"},
+    {trigger: "\\R", replacement: "\\mathbb{R}", options: "tmA"},
+    {trigger: "\\Z", replacement: "\\mathbb{Z}", options: "tmA"},
+    {trigger: "\\N", replacement: "\\mathbb{N}", options: "tmA"},
     {trigger: "Pd", replacement: "\\partial ", options: "mA"},
     {trigger: "thus", replacement: "\\therefore ", options: "mA"},
     {trigger: "aprx", replacement: "\\approx ", options: "mA"},
@@ -48,5 +48,5 @@
 {trigger: "set", replacement: "\\{ $0 \\}$1", options: "mA"},
 ```
 
-
+thus
 $a_{i}$
