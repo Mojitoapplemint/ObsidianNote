@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1c86f7661842616b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Number Theory/3. Prime Numbers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Number Theory/5. Euclidean Algorithm.md",
+                "file": "Mathematics/Number Theory/3. Prime Numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Number Theory/5. Euclidean Algorithm.md",
+                "file": "Mathematics/Number Theory/3. Prime Numbers.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Number Theory/5. Euclidean Algorithm.md"
+                "file": "Mathematics/Number Theory/3. Prime Numbers.md"
               }
             }
           },
@@ -202,12 +214,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1c20def114568d66",
+  "active": "1c86f7661842616b",
   "lastOpenFiles": [
     "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
     "Mathematics/Number Theory/3. Prime Numbers.md",
-    "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Mathematics/Number Theory/5. Euclidean Algorithm.md",
+    "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Mathematics/Number Theory/1. Divisibility.md",
     "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "Independent Study/Reinforcement Learning Fundamental.md",
