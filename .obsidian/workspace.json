@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introductory Logic/2. Conditional.md",
+                "file": "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Number Theory/5. Euclidean Algorithm.md",
+                "file": "Introductory Logic/2. Conditional.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -202,12 +202,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "df5678b630d34e86",
+  "active": "1c20def114568d66",
   "lastOpenFiles": [
-    "Introductory Logic/1. Arguments Fundamental.md",
     "Mathematics/Number Theory/5. Euclidean Algorithm.md",
-    "Introductory Logic/2. Conditional.md",
+    "Introductory Logic/1. Arguments Fundamental.md",
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
+    "Introductory Logic/2. Conditional.md",
     "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "Computer Science/Algorithm/2. Asymptotic Notation.md",
     "Mathematics/Number Theory/3. Prime Numbers.md",
