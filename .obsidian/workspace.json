@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
+                "file": "Mathematics/Number Theory/3. Prime Numbers.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
+                "file": "Mathematics/Number Theory/3. Prime Numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
+                "file": "Mathematics/Number Theory/3. Prime Numbers.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Real Analysis/2. Upper & Lower Bound.md"
+                "file": "Mathematics/Number Theory/3. Prime Numbers.md"
               }
             }
           },
@@ -216,9 +217,9 @@
   },
   "active": "df5678b630d34e86",
   "lastOpenFiles": [
+    "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
     "Latex Suite Personal Setting.md",
     "Mathematics/Real Analysis/1. Real Number Fundamental.md",
-    "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
     "사이드 프로젝트 아이디어.md",
     "술 노트.md",
     "Introductory Logic/1. Arguments Fundamental.md",
