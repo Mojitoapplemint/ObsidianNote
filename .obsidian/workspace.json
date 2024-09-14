@@ -18,26 +18,31 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "c3158f006d6b4b23",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "1c20def114568d66",
+            "id": "8ed78caed5d3b85e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Number Theory/1. Divisibility.md",
+                "file": "Introductory Logic/Assignment/Homework Set 1.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "a3a9aa392114f38d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-14 12.03.07.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
+                "file": "Excalidraw/Drawing 2024-09-14 12.03.07.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
+                "file": "Excalidraw/Drawing 2024-09-14 12.03.07.excalidraw.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md"
+                "file": "Excalidraw/Drawing 2024-09-14 12.03.07.excalidraw.md"
               }
             }
           },
@@ -184,10 +189,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "df5678b630d34e86",
+  "active": "a3a9aa392114f38d",
   "lastOpenFiles": [
-    "Mathematics/Number Theory/3. Prime Numbers.md",
+    "Introductory Logic/Assignment/Homework Set 1.md",
+    "Excalidraw/Drawing 2024-09-14 12.03.07.excalidraw.md",
+    "Introductory Logic/1. Arguments Fundamental.md",
+    "Introductory Logic/Assignment",
     "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
+    "Mathematics/Number Theory/3. Prime Numbers.md",
     "Mathematics/Number Theory/5. Euclidean Algorithm.md",
     "Mathematics/Number Theory/1. Divisibility.md",
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
@@ -200,7 +209,6 @@
     "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "사이드 프로젝트 아이디어.md",
     "술 노트.md",
-    "Introductory Logic/1. Arguments Fundamental.md",
     "Computer Science/Algorithm/2. Asymptotic Notation.md",
     "Independent Study/Reinforcement Learning Fundamental.md",
     "듣고 싶은 강의.md",
@@ -214,8 +222,6 @@
     "Attached Files/Pasted image 20240911222828.png",
     "Mathematics/Real Analysis/14 Axioms and Lemmas.md",
     "Computer Science/Algorithm/1. Introduction.md",
-    "이산수학 강의/단체에서 지원이 필요한 항목.md",
-    "Computer Science/System Porgramming/Dynamic Linking an Loading.md",
     "이산수학 강의",
     "Mathematics/Number Theory",
     "Introductory Logic",
@@ -232,7 +238,6 @@
     "Attached Files/Pasted image 20240713141138.png",
     "Attached Files/Pasted image 20240707193706.png",
     "Attached Files/Pasted image 20240707132529.png",
-    "Mathematics/Real Analysis",
-    "CCC/GCSJ"
+    "Mathematics/Real Analysis"
   ]
 }
