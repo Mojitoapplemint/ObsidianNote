@@ -34,11 +34,37 @@ b) Grass is geen
 c) Prime minister is an official appointed by the Queen
 
 # 3.
+## a)
+Simple Component Statements
+- I jump of the window
+- I break my leg
+
 Let 
 $J$ = I jump of the window
 $B$ = I break my leg
 
-$J \to B$
-$\neg B$
-**-------**
-$\neg J$
+$J \to B$, $\neg B$ $\therefore \neg J$
+
+## b)
+Simple Componene Statements
+- He eats Burger
+- He eats Hotdog
+- He has fries
+
+Let
+$B$ = He eats Burger
+$H$ = He eats Hotdog
+$F$ = He has fries
+
+$\neg (B \text{ \& }H)$, $F\to B$, $F$ $\therefore \neg H$
+
+# 4. 
+## a)
+$A\to B$, $A$ $\therefore B$ by MP
+
+$B, B\to C \therefore C$ by MP
+
+Thus, $A\to B, B\to C, A \therefore C$
+
+## b)
+$(E\lorF)$

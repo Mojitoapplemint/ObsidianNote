@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
+                "file": "Introductory Logic/2. Conditional.md",
                 "mode": "source",
                 "source": false
               }
@@ -191,13 +191,14 @@
   },
   "active": "8ed78caed5d3b85e",
   "lastOpenFiles": [
-    "Attached Files/Pasted image 20240914121635.png",
-    "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
     "Excalidraw/Drawing 2024-09-14 12.03.07.excalidraw.md",
+    "Introductory Logic/2. Conditional.md",
+    "Introductory Logic/1. Arguments Fundamental.md",
+    "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
     "Introductory Logic/Assignment/Homework Set 1.md",
+    "Attached Files/Pasted image 20240914121635.png",
     "Attached Files/Pasted image 20240914121252.png",
     "Attached Files/Pasted image 20240914120708.png",
-    "Introductory Logic/1. Arguments Fundamental.md",
     "Introductory Logic/Assignment",
     "Mathematics/Number Theory/3. Prime Numbers.md",
     "Mathematics/Number Theory/5. Euclidean Algorithm.md",
@@ -206,7 +207,6 @@
     "Mathematics/Discrete Math/3. Relation.md",
     "이산수학 강의/Discrete Math Curriculum.md",
     "Mathematics/Discrete Math/5. Induction.md",
-    "Introductory Logic/2. Conditional.md",
     "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
     "Latex Suite Personal Setting.md",
     "Mathematics/Real Analysis/1. Real Number Fundamental.md",
@@ -237,7 +237,6 @@
     "Mathematics/Discrete Math",
     "Animal Cafe Business Plan.canvas",
     "Attached Files/Pasted image 20240703172248.png",
-    "Attached Files/Pasted image 20240713141138.png",
     "Mathematics/Real Analysis"
   ]
 }
