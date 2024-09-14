@@ -8,53 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c83fa74489acb393",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "df5678b630d34e86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Number Theory/3. Prime Numbers.md",
+                "file": "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "017a7d062bd66aa2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Latex Suite Personal Setting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19213d94300462c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Introductory Logic/1. Arguments Fundamental.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
+          }
+        ]
+      },
+      {
+        "id": "c3158f006d6b4b23",
+        "type": "tabs",
+        "children": [
           {
             "id": "1c20def114568d66",
             "type": "leaf",
@@ -66,21 +36,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "619a56b66dbb0cad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
+                "file": "Mathematics/Number Theory/1. Divisibility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
+                "file": "Mathematics/Number Theory/1. Divisibility.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md"
+                "file": "Mathematics/Number Theory/1. Divisibility.md"
               }
             }
           },
@@ -226,22 +183,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "619a56b66dbb0cad",
+  "active": "1c20def114568d66",
   "lastOpenFiles": [
+    "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
+    "Mathematics/Number Theory/3. Prime Numbers.md",
+    "Mathematics/Number Theory/1. Divisibility.md",
+    "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Mathematics/Discrete Math/3. Relation.md",
     "이산수학 강의/Discrete Math Curriculum.md",
-    "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
     "Mathematics/Discrete Math/5. Induction.md",
-    "Mathematics/Number Theory/1. Divisibility.md",
     "Introductory Logic/2. Conditional.md",
-    "Mathematics/Number Theory/3. Prime Numbers.md",
     "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
     "Latex Suite Personal Setting.md",
     "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "사이드 프로젝트 아이디어.md",
     "술 노트.md",
     "Introductory Logic/1. Arguments Fundamental.md",
-    "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Mathematics/Number Theory/5. Euclidean Algorithm.md",
     "Computer Science/Algorithm/2. Asymptotic Notation.md",
     "Independent Study/Reinforcement Learning Fundamental.md",
