@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Number Theory/1. Divisibility.md",
+                "file": "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Number Theory/1. Divisibility.md",
+                "file": "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Number Theory/1. Divisibility.md",
+                "file": "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Number Theory/1. Divisibility.md"
+                "file": "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md"
               }
             }
           },
@@ -185,9 +185,9 @@
   },
   "active": "1c20def114568d66",
   "lastOpenFiles": [
-    "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
-    "Mathematics/Number Theory/3. Prime Numbers.md",
     "Mathematics/Number Theory/1. Divisibility.md",
+    "Mathematics/Number Theory/3. Prime Numbers.md",
+    "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Mathematics/Discrete Math/3. Relation.md",
     "이산수학 강의/Discrete Math Curriculum.md",
