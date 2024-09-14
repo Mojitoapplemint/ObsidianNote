@@ -34,3 +34,11 @@ b) Grass is geen
 c) Prime minister is an official appointed by the Queen
 
 # 3.
+Let 
+$J$ = I jump of the window
+$B$ = I break my leg
+
+$J \to B$
+$\neg B$
+**-------**
+$\neg J$
