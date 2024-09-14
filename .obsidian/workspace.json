@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
+                "file": "Mathematics/Number Theory/1. Divisibility.md",
                 "mode": "source",
                 "source": false
               }
@@ -183,11 +183,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1c20def114568d66",
+  "active": "df5678b630d34e86",
   "lastOpenFiles": [
-    "Mathematics/Number Theory/1. Divisibility.md",
     "Mathematics/Number Theory/3. Prime Numbers.md",
     "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
+    "Mathematics/Number Theory/5. Euclidean Algorithm.md",
+    "Mathematics/Number Theory/1. Divisibility.md",
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Mathematics/Discrete Math/3. Relation.md",
     "이산수학 강의/Discrete Math Curriculum.md",
@@ -199,7 +200,6 @@
     "사이드 프로젝트 아이디어.md",
     "술 노트.md",
     "Introductory Logic/1. Arguments Fundamental.md",
-    "Mathematics/Number Theory/5. Euclidean Algorithm.md",
     "Computer Science/Algorithm/2. Asymptotic Notation.md",
     "Independent Study/Reinforcement Learning Fundamental.md",
     "듣고 싶은 강의.md",
