@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introductory Logic/Assignment/Homework Set 1.md",
+                "file": "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introductory Logic/Assignment/Homework Set 1.md",
+                "file": "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introductory Logic/Assignment/Homework Set 1.md",
+                "file": "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introductory Logic/Assignment/Homework Set 1.md"
+                "file": "Mathematics/Real Analysis/2. Upper & Lower Bound.md"
               }
             }
           },
@@ -191,11 +190,11 @@
   },
   "active": "8ed78caed5d3b85e",
   "lastOpenFiles": [
+    "Introductory Logic/Assignment/Homework Set 1.md",
     "Excalidraw/Drawing 2024-09-14 12.03.07.excalidraw.md",
     "Introductory Logic/2. Conditional.md",
     "Introductory Logic/1. Arguments Fundamental.md",
     "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
-    "Introductory Logic/Assignment/Homework Set 1.md",
     "Attached Files/Pasted image 20240914121635.png",
     "Attached Files/Pasted image 20240914121252.png",
     "Attached Files/Pasted image 20240914120708.png",
