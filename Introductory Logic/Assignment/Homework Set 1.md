@@ -22,6 +22,15 @@ Sub-conclusion: (3)
 Conclusion Indicator: 
 Premises Indicator: because, besides, so
 
-Premises: 
+Premises: (2), (3)
 Conclusion: 
-Sub-conclusion: 
+Sub-conclusion: (1)
+![[Pasted image 20240914121635.png|200]]
+
+
+# 2. 
+a) Oprah runs for president
+b) Grass is geen
+c) Prime minister is an official appointed by the Queen
+
+# 3.
