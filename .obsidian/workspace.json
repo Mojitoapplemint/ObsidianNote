@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-14 12.03.07.excalidraw.md",
+                "file": "Introductory Logic/Assignment/Homework Set 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-14 12.03.07.excalidraw.md",
+                "file": "Introductory Logic/Assignment/Homework Set 1.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-14 12.03.07.excalidraw.md"
+                "file": "Introductory Logic/Assignment/Homework Set 1.md"
               }
             }
           },
@@ -189,13 +189,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a3a9aa392114f38d",
+  "active": "8ed78caed5d3b85e",
   "lastOpenFiles": [
-    "Introductory Logic/Assignment/Homework Set 1.md",
+    "Attached Files/Pasted image 20240914121252.png",
+    "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
     "Excalidraw/Drawing 2024-09-14 12.03.07.excalidraw.md",
+    "Introductory Logic/Assignment/Homework Set 1.md",
+    "Attached Files/Pasted image 20240914120708.png",
     "Introductory Logic/1. Arguments Fundamental.md",
     "Introductory Logic/Assignment",
-    "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
     "Mathematics/Number Theory/3. Prime Numbers.md",
     "Mathematics/Number Theory/5. Euclidean Algorithm.md",
     "Mathematics/Number Theory/1. Divisibility.md",
@@ -221,7 +223,6 @@
     "Excalidraw/Drawing 2024-09-11 22.26.50.excalidraw.md",
     "Attached Files/Pasted image 20240911222828.png",
     "Mathematics/Real Analysis/14 Axioms and Lemmas.md",
-    "Computer Science/Algorithm/1. Introduction.md",
     "이산수학 강의",
     "Mathematics/Number Theory",
     "Introductory Logic",
@@ -237,7 +238,6 @@
     "Attached Files/Pasted image 20240703172248.png",
     "Attached Files/Pasted image 20240713141138.png",
     "Attached Files/Pasted image 20240707193706.png",
-    "Attached Files/Pasted image 20240707132529.png",
     "Mathematics/Real Analysis"
   ]
 }
