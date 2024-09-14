@@ -67,4 +67,9 @@ $B, B\to C \therefore C$ by MP
 Thus, $A\to B, B\to C, A \therefore C$
 
 ## b)
-$(E\lorF)$
+$(E\lor F)\to (D \leftrightarrow \neg G), (E\lor F) \therefore(D \to \neg G)$ by MP
+
+$(D \leftrightarrow \neg G), (D \leftrightarrow \neg G) \to \neg B$ by MP
+
+Thus, $(D \leftrightarrow \neg G) \to \neg B,(E\lor F)\to (D \leftrightarrow \neg G), E\lor F \therefore \neg B$
+
