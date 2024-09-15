@@ -13,31 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introductory Logic/2. Conditional.md",
+                "file": "Mathematics/Number Theory/1. Divisibility.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8ed78caed5d3b85e",
+            "id": "936ee761abd7950a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
+                "file": "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "a3a9aa392114f38d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-09-14 12.03.07.excalidraw.md"
               }
             }
           }
@@ -108,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
+                "file": "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
+                "file": "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Real Analysis/2. Upper & Lower Bound.md"
+                "file": "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md"
               }
             }
           },
@@ -188,11 +178,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8ed78caed5d3b85e",
+  "active": "936ee761abd7950a",
   "lastOpenFiles": [
+    "Mathematics/Number Theory/1. Divisibility.md",
+    "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
+    "Mathematics/Real Analysis/1. Real Number Fundamental.md",
+    "Introductory Logic/2. Conditional.md",
     "Introductory Logic/Assignment/Homework Set 1.md",
     "Excalidraw/Drawing 2024-09-14 12.03.07.excalidraw.md",
-    "Introductory Logic/2. Conditional.md",
     "Introductory Logic/1. Arguments Fundamental.md",
     "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
     "Attached Files/Pasted image 20240914121635.png",
@@ -201,14 +194,11 @@
     "Introductory Logic/Assignment",
     "Mathematics/Number Theory/3. Prime Numbers.md",
     "Mathematics/Number Theory/5. Euclidean Algorithm.md",
-    "Mathematics/Number Theory/1. Divisibility.md",
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Mathematics/Discrete Math/3. Relation.md",
     "이산수학 강의/Discrete Math Curriculum.md",
     "Mathematics/Discrete Math/5. Induction.md",
-    "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
     "Latex Suite Personal Setting.md",
-    "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "사이드 프로젝트 아이디어.md",
     "술 노트.md",
     "Computer Science/Algorithm/2. Asymptotic Notation.md",
