@@ -117,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -215,6 +216,10 @@
   },
   "active": "df5678b630d34e86",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-09-15 21.42.44.excalidraw.md",
+    "Introductory Logic/Assignment/Homework Set 1.md",
+    "Attached Files/Pasted image 20240915214231.png",
+    "Excalidraw/Drawing 2024-09-14 12.03.07.excalidraw.md",
     "Mathematics/Number Theory/1. Divisibility.md",
     "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
     "Mathematics/Real Analysis/1. Real Number Fundamental.md",
@@ -223,8 +228,6 @@
     "Mathematics/Number Theory/3. Prime Numbers.md",
     "Mathematics/Number Theory/5. Euclidean Algorithm.md",
     "Introductory Logic/2. Conditional.md",
-    "Introductory Logic/Assignment/Homework Set 1.md",
-    "Excalidraw/Drawing 2024-09-14 12.03.07.excalidraw.md",
     "Introductory Logic/1. Arguments Fundamental.md",
     "Attached Files/Pasted image 20240914121635.png",
     "Attached Files/Pasted image 20240914121252.png",
@@ -248,7 +251,6 @@
     "Attached Files/Pasted image 20240911223043.png",
     "Excalidraw/Drawing 2024-09-11 22.26.50.excalidraw.md",
     "Attached Files/Pasted image 20240911222828.png",
-    "Mathematics/Real Analysis/14 Axioms and Lemmas.md",
     "이산수학 강의",
     "Mathematics/Number Theory",
     "Introductory Logic",
@@ -261,7 +263,6 @@
     "Attached Files/Pasted image 20240727111527.png",
     "Mathematics/Discrete Math",
     "Animal Cafe Business Plan.canvas",
-    "Attached Files/Pasted image 20240703172248.png",
     "Mathematics/Real Analysis"
   ]
 }
