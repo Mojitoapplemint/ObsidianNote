@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introductory Logic/3. Modus Ponens.md",
+                "file": "Introductory Logic/3. Modus Ponens (MP).md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introductory Logic/2. Conditional.md",
+                "file": "Introductory Logic/3. Modus Ponens (MP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introductory Logic/2. Conditional.md",
+                "file": "Introductory Logic/3. Modus Ponens (MP).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introductory Logic/2. Conditional.md"
+                "file": "Introductory Logic/3. Modus Ponens (MP).md"
               }
             }
           },
@@ -214,10 +214,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b98156cd34b432c1",
+  "active": "a5b015b8af7d97d3",
   "lastOpenFiles": [
-    "Introductory Logic/3. Modus Ponens.md",
     "Introductory Logic/2. Conditional.md",
+    "Introductory Logic/3. Modus Ponens (MP).md",
     "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "Independent Study/Reinforcement Learning Fundamental.md",
     "Mathematics/Real Analysis/3. Sequences.md",
