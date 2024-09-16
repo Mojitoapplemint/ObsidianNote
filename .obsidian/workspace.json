@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md",
+                "file": "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md",
+                "file": "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md",
+                "file": "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md"
+                "file": "Mathematics/Real Analysis/2. Upper & Lower Bound.md"
               }
             }
           },
@@ -216,9 +216,9 @@
   },
   "active": "531910ae6062fec1",
   "lastOpenFiles": [
+    "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "Untitled.md",
     "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
-    "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
     "Mathematics/Number Theory/1. Divisibility.md",
     "Mathematics/Number Theory/3. Prime Numbers.md",
