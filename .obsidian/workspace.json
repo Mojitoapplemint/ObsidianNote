@@ -4,64 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a87b45b05cbfbd6f",
+        "id": "8e445dd47959a08d",
         "type": "tabs",
         "children": [
           {
-            "id": "df5678b630d34e86",
+            "id": "d6c3ae9b3bfb35e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introductory Logic/Assignment/Homework Set 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "936ee761abd7950a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "531910ae6062fec1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5438789f923d539",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Number Theory/3. Prime Numbers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6b05dc4c6a9e9e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Number Theory/5. Euclidean Algorithm.md",
+                "file": "Independent Study/Reinforcement Learning Fundamental.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introductory Logic/Assignment/Homework Set 1.md",
+                "file": "Independent Study/Reinforcement Learning Fundamental.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introductory Logic/Assignment/Homework Set 1.md",
+                "file": "Independent Study/Reinforcement Learning Fundamental.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introductory Logic/Assignment/Homework Set 1.md"
+                "file": "Independent Study/Reinforcement Learning Fundamental.md"
               }
             }
           },
@@ -214,19 +166,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "df5678b630d34e86",
+  "active": "d6c3ae9b3bfb35e7",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-09-15 21.42.44.excalidraw.md",
+    "Mathematics/Number Theory/5. Euclidean Algorithm.md",
+    "Mathematics/Number Theory/3. Prime Numbers.md",
+    "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
+    "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "Introductory Logic/Assignment/Homework Set 1.md",
+    "Excalidraw/Drawing 2024-09-15 21.42.44.excalidraw.md",
     "Attached Files/Pasted image 20240915214231.png",
     "Excalidraw/Drawing 2024-09-14 12.03.07.excalidraw.md",
     "Mathematics/Number Theory/1. Divisibility.md",
-    "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
-    "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "Untitled.md",
     "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
-    "Mathematics/Number Theory/3. Prime Numbers.md",
-    "Mathematics/Number Theory/5. Euclidean Algorithm.md",
     "Introductory Logic/2. Conditional.md",
     "Introductory Logic/1. Arguments Fundamental.md",
     "Attached Files/Pasted image 20240914121635.png",
