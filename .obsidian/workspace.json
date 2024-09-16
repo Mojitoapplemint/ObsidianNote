@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Algorithm/2. Asymptotic Notation.md",
+                "file": "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61561d7e99c03d5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5b015b8af7d97d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Real Analysis/3. Sequences.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithm/2. Asymptotic Notation.md",
+                "file": "Mathematics/Real Analysis/3. Sequences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithm/2. Asymptotic Notation.md",
+                "file": "Mathematics/Real Analysis/3. Sequences.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Algorithm/2. Asymptotic Notation.md"
+                "file": "Mathematics/Real Analysis/3. Sequences.md"
               }
             }
           },
@@ -178,14 +202,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d6c3ae9b3bfb35e7",
+  "active": "a5b015b8af7d97d3",
   "lastOpenFiles": [
-    "Independent Study/Reinforcement Learning Fundamental.md",
+    "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
+    "Mathematics/Real Analysis/3. Sequences.md",
+    "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "Computer Science/Algorithm/2. Asymptotic Notation.md",
+    "Independent Study/Reinforcement Learning Fundamental.md",
     "Mathematics/Number Theory/5. Euclidean Algorithm.md",
     "Mathematics/Number Theory/3. Prime Numbers.md",
-    "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
-    "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "Introductory Logic/Assignment/Homework Set 1.md",
     "Excalidraw/Drawing 2024-09-15 21.42.44.excalidraw.md",
     "Attached Files/Pasted image 20240915214231.png",
@@ -213,7 +238,6 @@
     "Mathematics/Discrete Math/4. Function.md",
     "Mathematics/Discrete Math/2. Set.md",
     "Attached Files/Pasted image 20240911223043.png",
-    "Excalidraw/Drawing 2024-09-11 22.26.50.excalidraw.md",
     "Attached Files/Pasted image 20240911222828.png",
     "이산수학 강의",
     "Mathematics/Number Theory",
