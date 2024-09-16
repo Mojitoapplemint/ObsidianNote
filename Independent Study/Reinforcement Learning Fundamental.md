@@ -33,6 +33,6 @@ Defines the goal of the problem
 
 ## Value Function
 What is good in the long run
-- 
+- Total amount of reward an agent can expect to accumulate over the future
 
 ## Model (Optional)
