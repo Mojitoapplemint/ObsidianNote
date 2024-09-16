@@ -12,5 +12,10 @@ Learning agent must
 
 Will discuss deeply in Chapter 3
 
-## Unsupervised Learning
-In interactive problems, it is often impractical to obtain examples of desired behaviour that are both correvt and representative of all the situations 
+## Neither supervised nor unsupervised
+In interactive problems, it is often impracical to obtain examples of desired behaviour that are both correvt and representative of all the situations in which the agent has to act
+- Supervised Learning is not suitable
+
+Since Reinforcement Learning is trying to maximize a reward signal instead of trying to find hidden structure, it is not unsupervised as well.
+
+## Exploration and Exploitation Trade-off
