@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Number Theory/1. Divisibility.md",
+                "file": "Introductory Logic/Assignment/Homework Set 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
+                "file": "Introductory Logic/Assignment/Homework Set 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
+                "file": "Introductory Logic/Assignment/Homework Set 1.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Real Analysis/2. Upper & Lower Bound.md"
+                "file": "Introductory Logic/Assignment/Homework Set 1.md"
               }
             }
           },
@@ -214,13 +213,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "531910ae6062fec1",
+  "active": "df5678b630d34e86",
   "lastOpenFiles": [
+    "Mathematics/Number Theory/1. Divisibility.md",
+    "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
     "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "Untitled.md",
-    "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
     "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
-    "Mathematics/Number Theory/1. Divisibility.md",
     "Mathematics/Number Theory/3. Prime Numbers.md",
     "Mathematics/Number Theory/5. Euclidean Algorithm.md",
     "Introductory Logic/2. Conditional.md",
