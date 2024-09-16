@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Computer Science/Algorithm/2. Asymptotic Notation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66b11b4c9831de5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Independent Study/Reinforcement Learning Fundamental.md",
                 "mode": "source",
                 "source": false
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Independent Study/Reinforcement Learning Fundamental.md",
+                "file": "Computer Science/Algorithm/2. Asymptotic Notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Independent Study/Reinforcement Learning Fundamental.md",
+                "file": "Computer Science/Algorithm/2. Asymptotic Notation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Independent Study/Reinforcement Learning Fundamental.md"
+                "file": "Computer Science/Algorithm/2. Asymptotic Notation.md"
               }
             }
           },
@@ -168,6 +180,8 @@
   },
   "active": "d6c3ae9b3bfb35e7",
   "lastOpenFiles": [
+    "Independent Study/Reinforcement Learning Fundamental.md",
+    "Computer Science/Algorithm/2. Asymptotic Notation.md",
     "Mathematics/Number Theory/5. Euclidean Algorithm.md",
     "Mathematics/Number Theory/3. Prime Numbers.md",
     "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
@@ -192,8 +206,6 @@
     "Latex Suite Personal Setting.md",
     "사이드 프로젝트 아이디어.md",
     "술 노트.md",
-    "Computer Science/Algorithm/2. Asymptotic Notation.md",
-    "Independent Study/Reinforcement Learning Fundamental.md",
     "듣고 싶은 강의.md",
     "방학 동안 하고 싶은 거.md",
     "Independent Study/Untitled",

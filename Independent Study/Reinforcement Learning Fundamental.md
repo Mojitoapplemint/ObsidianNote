@@ -1,4 +1,3 @@
-
 # Definition
 Learning what to do -how to map situations to actions- so as *to maximize the numerical reward signal*
 - **Trial-and-Error Search:** The learner is not told which actions to take, but discover which actions yield the most reward by trying them
@@ -32,7 +31,11 @@ Defines the goal of the problem
 - Agent's objective is to maximize the total reward
 
 ## Value Function
-What is good in the long run
+Long-Term desirability of states after taking into account the states that are likely to follow
 - Total amount of reward an agent can expect to accumulate over the future
+- Estimates values only to acheive more reward
+- Actions choices are made based on value judgement
+	- Seek actions led to highest value, not highest rewards for greatest reward over the long run
+- 
 
 ## Model (Optional)
