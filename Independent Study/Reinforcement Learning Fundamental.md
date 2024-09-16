@@ -18,4 +18,21 @@ In interactive problems, it is often impracical to obtain examples of desired be
 
 Since Reinforcement Learning is trying to maximize a reward signal instead of trying to find hidden structure, it is not unsupervised as well.
 
-## Exploration and Exploitation Trade-off
+# Elements
+## Policy
+Agent's way of behaving at a given time
+- Mapping from perceived states of the environment to actions to be taken when in those states
+- Alone is sufficient to determine behaviour
+	- Specifying probabilities for each action, etc)
+
+## Reward Signal
+Defines the goal of the problem
+- Environment sendsa single number, reward, to the reinforcement learning agent
+- Define good or bad
+- Agent's objective is to maximize the total reward
+
+## Value Function
+What is good in the long run
+- 
+
+## Model (Optional)
