@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/Reinforcement Learning Fundamental.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/Reinforcement Learning Fundamental.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/Reinforcement Learning Fundamental.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/Reinforcement Learning Fundamental.md"
               }
             }
           },
@@ -167,8 +168,8 @@
   },
   "active": "d6c3ae9b3bfb35e7",
   "lastOpenFiles": [
-    "Computer Science/Algorithm/2. Asymptotic Notation.md",
     "Untitled.md",
+    "Computer Science/Algorithm/2. Asymptotic Notation.md",
     "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
     "Untitled",
     "Todo List.md",
@@ -179,7 +180,7 @@
     "Introductory Logic/2. Conditional.md",
     "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "Introductory Logic/3. Modus Ponens (MP).md",
-    "Independent Study/Reinforcement Learning Fundamental.md",
+    "Computer Science/AI & TensorFlow/Reinforcement Learning/Reinforcement Learning Fundamental.md",
     "Introductory Logic/Assignment/Homework Set 1.md",
     "Excalidraw/Drawing 2024-09-15 21.42.44.excalidraw.md",
     "Attached Files/Pasted image 20240915214231.png",
@@ -200,7 +201,7 @@
     "듣고 싶은 강의.md",
     "방학 동안 하고 싶은 거.md",
     "Independent Study/Untitled",
-    "Independent Study",
+    "Computer Science/AI & TensorFlow/Reinforcement Learning",
     "Attached Files/Pasted image 20240911223043.png",
     "Attached Files/Pasted image 20240911222828.png",
     "이산수학 강의",
