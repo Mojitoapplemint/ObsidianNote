@@ -13,50 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61561d7e99c03d5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b98156cd34b432c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66b11b4c9831de5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Independent Study/Reinforcement Learning Fundamental.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
+                "file": "Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -202,24 +165,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b98156cd34b432c1",
+  "active": "d6c3ae9b3bfb35e7",
   "lastOpenFiles": [
-    "Mathematics/Number Theory/3. Prime Numbers.md",
+    "Computer Science/Algorithm/2. Asymptotic Notation.md",
+    "Untitled.md",
+    "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
+    "Untitled",
+    "Todo List.md",
+    "Mathematics/Real Analysis/3. Sequences.md",
     "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
+    "Mathematics/Number Theory/3. Prime Numbers.md",
     "Mathematics/Number Theory/5. Euclidean Algorithm.md",
     "Introductory Logic/2. Conditional.md",
     "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "Introductory Logic/3. Modus Ponens (MP).md",
     "Independent Study/Reinforcement Learning Fundamental.md",
-    "Mathematics/Real Analysis/3. Sequences.md",
-    "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
-    "Computer Science/Algorithm/2. Asymptotic Notation.md",
     "Introductory Logic/Assignment/Homework Set 1.md",
     "Excalidraw/Drawing 2024-09-15 21.42.44.excalidraw.md",
     "Attached Files/Pasted image 20240915214231.png",
     "Excalidraw/Drawing 2024-09-14 12.03.07.excalidraw.md",
     "Mathematics/Number Theory/1. Divisibility.md",
-    "Untitled.md",
     "Introductory Logic/1. Arguments Fundamental.md",
     "Attached Files/Pasted image 20240914121635.png",
     "Attached Files/Pasted image 20240914121252.png",
@@ -236,7 +201,6 @@
     "방학 동안 하고 싶은 거.md",
     "Independent Study/Untitled",
     "Independent Study",
-    "Mathematics/Discrete Math/4. Function.md",
     "Attached Files/Pasted image 20240911223043.png",
     "Attached Files/Pasted image 20240911222828.png",
     "이산수학 강의",
@@ -250,7 +214,6 @@
     "Attached Files/Pasted image 20240727111817.png",
     "Attached Files/Pasted image 20240727111527.png",
     "Mathematics/Discrete Math",
-    "Animal Cafe Business Plan.canvas",
-    "Mathematics/Real Analysis"
+    "Animal Cafe Business Plan.canvas"
   ]
 }
