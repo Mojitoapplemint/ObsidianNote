@@ -36,6 +36,22 @@ Long-Term desirability of states after taking into account the states that are l
 - Estimates values only to acheive more reward
 - Actions choices are made based on value judgement
 	- Seek actions led to highest value, not highest rewards for greatest reward over the long run
-- 
 
 ## Model (Optional)
+Something that mimics the behaviour of the environment
+- Allows inferences to be made about how the environment will behave
+- Used for planning: predict the resultant next state and reward
+
+Model-Based Methods
+- Methods for solving reinforcement learning problems that use models and planning
+
+Model-Free Methods
+- Opposing Model-Based Methods
+
+# Limitation and Scope
+Relies heavily on the concept of state
+- State: 
+	- Imformally means signal conveying to the agent some sense of "how the environment is" at a particular time
+	- Whatever information is available to the agent about its environment
+	- 
+
