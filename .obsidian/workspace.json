@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -166,7 +165,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c0a9e7ff4e6bd264",
+  "active": "9ecc18fa3b0d45f0",
   "lastOpenFiles": [
     "Introductory Logic/3. Various Arguments.md",
     "Introductory Logic/3. Modus Ponens (MP).md",
