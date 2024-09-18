@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d6c3ae9b3bfb35e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9ecc18fa3b0d45f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "술 노트.md",
+                "file": "Computer Science/Algorithm/2. Asymptotic Notation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "술 노트.md",
+                "file": "Computer Science/Algorithm/2. Asymptotic Notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "술 노트.md",
+                "file": "Computer Science/Algorithm/2. Asymptotic Notation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "술 노트.md"
+                "file": "Computer Science/Algorithm/2. Asymptotic Notation.md"
               }
             }
           },
@@ -181,17 +167,24 @@
   },
   "active": "9ecc18fa3b0d45f0",
   "lastOpenFiles": [
+    "Personal/술 노트.md",
+    "Personal/CCC/GCSJ/GCSJ Company Assignment.md",
+    "Personal/CCC/GCSJ/Business Plan.md",
+    "Personal/CCC/GIJ LAMPS/PM Meeting(Managed by Hikari San).md",
+    "Personal/CCC/GIJ LAMPS/Extra Features.md",
+    "Personal/CCC/GIJ LAMPS/Desired Functionality.md",
+    "Personal/듣고 싶은 강의.md",
+    "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
+    "Personal",
+    "Untitled.md",
     "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/Reinforcement Learning Fundamental.md",
     "Mathematics/Number Theory/2. Big-O Notation.md",
-    "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Mathematics/Real Analysis/3. Sequences.md",
     "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
     "Mathematics/Number Theory/6. The Fundamental Theorem of Arithmetic.md",
     "Mathematics/Number Theory/5. Euclidean Algorithm.md",
-    "Untitled.md",
     "Computer Science/Algorithm/2. Asymptotic Notation.md",
-    "Untitled",
     "Todo List.md",
     "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
     "Mathematics/Number Theory/3. Prime Numbers.md",
@@ -202,17 +195,10 @@
     "Attached Files/Pasted image 20240915214231.png",
     "Excalidraw/Drawing 2024-09-14 12.03.07.excalidraw.md",
     "Mathematics/Number Theory/1. Divisibility.md",
-    "Introductory Logic/1. Arguments Fundamental.md",
     "Attached Files/Pasted image 20240914121635.png",
     "Attached Files/Pasted image 20240914121252.png",
     "Attached Files/Pasted image 20240914120708.png",
     "Introductory Logic/Assignment",
-    "Mathematics/Discrete Math/3. Relation.md",
-    "이산수학 강의/Discrete Math Curriculum.md",
-    "Mathematics/Discrete Math/5. Induction.md",
-    "Latex Suite Personal Setting.md",
-    "사이드 프로젝트 아이디어.md",
-    "술 노트.md",
     "Independent Study/Untitled",
     "Computer Science/AI & TensorFlow/Reinforcement Learning",
     "Attached Files/Pasted image 20240911223043.png",
@@ -222,7 +208,7 @@
     "Introductory Logic",
     "Computer Science/Algorithm",
     "Untitled.canvas",
-    "CCC/GIJ LAMPS",
+    "Personal/CCC/GIJ LAMPS",
     "Attached Files/Pasted image 20240730145557.png",
     "Attached Files/Pasted image 20240727120638.png",
     "Attached Files/Pasted image 20240727111817.png",
