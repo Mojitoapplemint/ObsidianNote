@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introductory Logic/3. Various Arguments.md",
+                "file": "Mathematics/Real Analysis/3. Sequences.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introductory Logic/3. Various Arguments.md",
+                "file": "Mathematics/Real Analysis/3. Sequences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introductory Logic/3. Various Arguments.md",
+                "file": "Mathematics/Real Analysis/3. Sequences.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introductory Logic/3. Various Arguments.md"
+                "file": "Mathematics/Real Analysis/3. Sequences.md"
               }
             }
           },
@@ -165,10 +166,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9ecc18fa3b0d45f0",
+  "active": "c0a9e7ff4e6bd264",
   "lastOpenFiles": [
-    "Introductory Logic/3. Modus Ponens (MP).md",
     "Introductory Logic/3. Various Arguments.md",
+    "Introductory Logic/3. Modus Ponens (MP).md",
     "Introductory Logic/4. Negation.md",
     "Mathematics/Real Analysis/3. Sequences.md",
     "Computer Science/Algorithm/2. Asymptotic Notation.md",
