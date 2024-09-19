@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Real Analysis/3. Sequences.md",
+                "file": "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Real Analysis/3. Sequences.md",
+                "file": "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Real Analysis/3. Sequences.md",
+                "file": "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Real Analysis/3. Sequences.md"
+                "file": "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md"
               }
             }
           },
@@ -168,10 +167,10 @@
   },
   "active": "9ecc18fa3b0d45f0",
   "lastOpenFiles": [
+    "Mathematics/Real Analysis/3. Sequences.md",
     "Introductory Logic/3. Various Arguments.md",
     "Introductory Logic/3. Modus Ponens (MP).md",
     "Introductory Logic/4. Negation.md",
-    "Mathematics/Real Analysis/3. Sequences.md",
     "Computer Science/Algorithm/2. Asymptotic Notation.md",
     "Personal/술 노트.md",
     "Personal/CCC/GCSJ/GCSJ Company Assignment.md",
