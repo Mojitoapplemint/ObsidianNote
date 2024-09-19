@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Number Theory/3. Prime Numbers.md",
+                "file": "Mathematics/Number Theory/7. Linear Diophantine Equations.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Number Theory/3. Prime Numbers.md",
+                "file": "Mathematics/Number Theory/7. Linear Diophantine Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Number Theory/3. Prime Numbers.md",
+                "file": "Mathematics/Number Theory/7. Linear Diophantine Equations.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Number Theory/3. Prime Numbers.md"
+                "file": "Mathematics/Number Theory/7. Linear Diophantine Equations.md"
               }
             }
           },
@@ -168,6 +168,9 @@
   "active": "9ecc18fa3b0d45f0",
   "lastOpenFiles": [
     "Mathematics/Number Theory/6. The Fundamental Theorem of Arithmetic.md",
+    "Mathematics/Number Theory/7. Linear Diophantine Equations.md",
+    "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
+    "Mathematics/Number Theory/3. Prime Numbers.md",
     "Computer Science/Algorithm/2. Asymptotic Notation.md",
     "Mathematics/Discrete Math/2. Set.md",
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
@@ -190,10 +193,7 @@
     "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
     "Mathematics/Number Theory/5. Euclidean Algorithm.md",
     "Todo List.md",
-    "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
-    "Mathematics/Number Theory/3. Prime Numbers.md",
     "Introductory Logic/2. Conditional.md",
-    "Introductory Logic/Assignment/Homework Set 1.md",
     "Attached Files/Pasted image 20240915214231.png",
     "Attached Files/Pasted image 20240914121635.png",
     "Attached Files/Pasted image 20240914121252.png",
