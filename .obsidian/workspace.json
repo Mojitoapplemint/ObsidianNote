@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
+                "file": "Mathematics/Discrete Math/2. Set.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
+                "file": "Mathematics/Discrete Math/2. Set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
+                "file": "Mathematics/Discrete Math/2. Set.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md"
+                "file": "Mathematics/Discrete Math/2. Set.md"
               }
             }
           },
@@ -167,6 +167,7 @@
   },
   "active": "9ecc18fa3b0d45f0",
   "lastOpenFiles": [
+    "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Mathematics/Real Analysis/3. Sequences.md",
     "Introductory Logic/3. Various Arguments.md",
     "Introductory Logic/3. Modus Ponens (MP).md",
@@ -179,7 +180,6 @@
     "Personal/CCC/GIJ LAMPS/Extra Features.md",
     "Personal/CCC/GIJ LAMPS/Desired Functionality.md",
     "Personal/듣고 싶은 강의.md",
-    "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Personal",
     "Untitled.md",
     "Mathematics/Real Analysis/1. Real Number Fundamental.md",
