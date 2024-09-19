@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Number Theory/7. Conguents.md",
+                "file": "Personal/듣고 싶은 강의.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Number Theory/7. Conguents.md",
+                "file": "Personal/듣고 싶은 강의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Number Theory/7. Conguents.md",
+                "file": "Personal/듣고 싶은 강의.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Number Theory/7. Conguents.md"
+                "file": "Personal/듣고 싶은 강의.md"
               }
             }
           },
@@ -167,8 +167,8 @@
   },
   "active": "9ecc18fa3b0d45f0",
   "lastOpenFiles": [
-    "Mathematics/Number Theory/5. Euclidean Algorithm.md",
     "Mathematics/Number Theory/7. Conguents.md",
+    "Mathematics/Number Theory/5. Euclidean Algorithm.md",
     "Mathematics/Number Theory/6. The Fundamental Theorem of Arithmetic.md",
     "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
     "Mathematics/Number Theory/3. Prime Numbers.md",
