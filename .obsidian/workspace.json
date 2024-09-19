@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Number Theory/7. Linear Diophantine Equations.md",
+                "file": "Mathematics/Number Theory/7. Conguents.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Number Theory/7. Linear Diophantine Equations.md",
+                "file": "Mathematics/Number Theory/7. Conguents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Number Theory/7. Linear Diophantine Equations.md",
+                "file": "Mathematics/Number Theory/7. Conguents.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Number Theory/7. Linear Diophantine Equations.md"
+                "file": "Mathematics/Number Theory/7. Conguents.md"
               }
             }
           },
@@ -167,8 +167,9 @@
   },
   "active": "9ecc18fa3b0d45f0",
   "lastOpenFiles": [
+    "Mathematics/Number Theory/5. Euclidean Algorithm.md",
+    "Mathematics/Number Theory/7. Conguents.md",
     "Mathematics/Number Theory/6. The Fundamental Theorem of Arithmetic.md",
-    "Mathematics/Number Theory/7. Linear Diophantine Equations.md",
     "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
     "Mathematics/Number Theory/3. Prime Numbers.md",
     "Computer Science/Algorithm/2. Asymptotic Notation.md",
@@ -191,7 +192,6 @@
     "Computer Science/AI & TensorFlow/Reinforcement Learning/Reinforcement Learning Fundamental.md",
     "Mathematics/Number Theory/2. Big-O Notation.md",
     "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
-    "Mathematics/Number Theory/5. Euclidean Algorithm.md",
     "Todo List.md",
     "Introductory Logic/2. Conditional.md",
     "Attached Files/Pasted image 20240915214231.png",
