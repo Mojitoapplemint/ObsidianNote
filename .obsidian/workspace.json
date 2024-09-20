@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
+                "file": "Mathematics/Real Analysis/3. Sequences.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1319.5,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
+                "file": "Mathematics/Real Analysis/3. Sequences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
+                "file": "Mathematics/Real Analysis/3. Sequences.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md"
+                "file": "Mathematics/Real Analysis/3. Sequences.md"
               }
             }
           },
@@ -191,9 +190,9 @@
   },
   "active": "8c776904e7b0032a",
   "lastOpenFiles": [
+    "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
     "Attached Files/Pasted image 20240920105635.png",
     "Excalidraw/Drawing 2024-09-20 10.44.39.excalidraw.md",
-    "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
     "Attached Files/Pasted image 20240920104853.png",
     "Personal/듣고 싶은 강의.md",
     "Mathematics/Number Theory/7. Conguents.md",
@@ -236,7 +235,6 @@
     "Personal/CCC/GIJ LAMPS",
     "Attached Files/Pasted image 20240730145557.png",
     "Attached Files/Pasted image 20240727120638.png",
-    "Attached Files/Pasted image 20240727111817.png",
     "Mathematics/Discrete Math",
     "Animal Cafe Business Plan.canvas"
   ]
