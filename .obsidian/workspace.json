@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-20 10.44.39.excalidraw.md",
+                "file": "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-20 10.44.39.excalidraw.md",
+                "file": "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-20 10.44.39.excalidraw.md"
+                "file": "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md"
               }
             }
           },
@@ -189,10 +189,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "980bd63eaa296e07",
+  "active": "8c776904e7b0032a",
   "lastOpenFiles": [
-    "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
+    "Attached Files/Pasted image 20240920105635.png",
     "Excalidraw/Drawing 2024-09-20 10.44.39.excalidraw.md",
+    "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
+    "Attached Files/Pasted image 20240920104853.png",
     "Personal/듣고 싶은 강의.md",
     "Mathematics/Number Theory/7. Conguents.md",
     "Mathematics/Number Theory/5. Euclidean Algorithm.md",
@@ -217,7 +219,6 @@
     "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/Reinforcement Learning Fundamental.md",
     "Mathematics/Number Theory/2. Big-O Notation.md",
-    "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
     "Attached Files/Pasted image 20240915214231.png",
     "Attached Files/Pasted image 20240914121635.png",
     "Attached Files/Pasted image 20240914121252.png",
@@ -236,7 +237,6 @@
     "Attached Files/Pasted image 20240730145557.png",
     "Attached Files/Pasted image 20240727120638.png",
     "Attached Files/Pasted image 20240727111817.png",
-    "Attached Files/Pasted image 20240727111527.png",
     "Mathematics/Discrete Math",
     "Animal Cafe Business Plan.canvas"
   ]
