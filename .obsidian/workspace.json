@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8c776904e7b0032a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 1319.5,
     "collapsed": true
   },
   "right": {
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/듣고 싶은 강의.md",
+                "file": "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/듣고 싶은 강의.md",
+                "file": "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/듣고 싶은 강의.md"
+                "file": "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md"
               }
             }
           },
@@ -166,8 +179,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9ecc18fa3b0d45f0",
+  "active": "c0a9e7ff4e6bd264",
   "lastOpenFiles": [
+    "Personal/듣고 싶은 강의.md",
+    "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
     "Mathematics/Number Theory/7. Conguents.md",
     "Mathematics/Number Theory/5. Euclidean Algorithm.md",
     "Mathematics/Number Theory/6. The Fundamental Theorem of Arithmetic.md",
@@ -186,7 +201,6 @@
     "Personal/CCC/GIJ LAMPS/PM Meeting(Managed by Hikari San).md",
     "Personal/CCC/GIJ LAMPS/Extra Features.md",
     "Personal/CCC/GIJ LAMPS/Desired Functionality.md",
-    "Personal/듣고 싶은 강의.md",
     "Personal",
     "Untitled.md",
     "Mathematics/Real Analysis/1. Real Number Fundamental.md",
@@ -194,7 +208,6 @@
     "Mathematics/Number Theory/2. Big-O Notation.md",
     "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
     "Todo List.md",
-    "Introductory Logic/2. Conditional.md",
     "Attached Files/Pasted image 20240915214231.png",
     "Attached Files/Pasted image 20240914121635.png",
     "Attached Files/Pasted image 20240914121252.png",
