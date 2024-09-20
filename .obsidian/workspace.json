@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "980bd63eaa296e07",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-20 10.44.39.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
+                "file": "Excalidraw/Drawing 2024-09-20 10.44.39.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
+                "file": "Excalidraw/Drawing 2024-09-20 10.44.39.excalidraw.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md"
+                "file": "Excalidraw/Drawing 2024-09-20 10.44.39.excalidraw.md"
               }
             }
           },
@@ -179,10 +189,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c0a9e7ff4e6bd264",
+  "active": "980bd63eaa296e07",
   "lastOpenFiles": [
-    "Personal/듣고 싶은 강의.md",
     "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
+    "Excalidraw/Drawing 2024-09-20 10.44.39.excalidraw.md",
+    "Personal/듣고 싶은 강의.md",
     "Mathematics/Number Theory/7. Conguents.md",
     "Mathematics/Number Theory/5. Euclidean Algorithm.md",
     "Mathematics/Number Theory/6. The Fundamental Theorem of Arithmetic.md",
@@ -207,7 +218,6 @@
     "Computer Science/AI & TensorFlow/Reinforcement Learning/Reinforcement Learning Fundamental.md",
     "Mathematics/Number Theory/2. Big-O Notation.md",
     "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
-    "Todo List.md",
     "Attached Files/Pasted image 20240915214231.png",
     "Attached Files/Pasted image 20240914121635.png",
     "Attached Files/Pasted image 20240914121252.png",
