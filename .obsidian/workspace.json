@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introductory Logic/3. Various Arguments.md",
+                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introductory Logic/3. Various Arguments.md",
+                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introductory Logic/3. Various Arguments.md",
+                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introductory Logic/3. Various Arguments.md"
+                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md"
               }
             }
           },
@@ -202,8 +202,9 @@
   },
   "active": "8c776904e7b0032a",
   "lastOpenFiles": [
-    "Personal/듣고 싶은 강의.md",
     "Mathematics/Real Analysis/3. Sequences.md",
+    "Introductory Logic/3. Various Arguments.md",
+    "Personal/듣고 싶은 강의.md",
     "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
     "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
     "Attached Files/Pasted image 20240920105635.png",
@@ -217,7 +218,6 @@
     "Computer Science/Algorithm/2. Asymptotic Notation.md",
     "Mathematics/Discrete Math/2. Set.md",
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
-    "Introductory Logic/3. Various Arguments.md",
     "Introductory Logic/3. Modus Ponens (MP).md",
     "Introductory Logic/4. Negation.md",
     "Personal/술 노트.md",
