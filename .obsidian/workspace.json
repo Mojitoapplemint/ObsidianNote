@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "256145c38689d22a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "980bd63eaa296e07",
             "type": "leaf",
             "state": {
@@ -190,6 +202,8 @@
   },
   "active": "8c776904e7b0032a",
   "lastOpenFiles": [
+    "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
+    "Mathematics/Real Analysis/3. Sequences.md",
     "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
     "Attached Files/Pasted image 20240920105635.png",
     "Excalidraw/Drawing 2024-09-20 10.44.39.excalidraw.md",
@@ -203,7 +217,6 @@
     "Computer Science/Algorithm/2. Asymptotic Notation.md",
     "Mathematics/Discrete Math/2. Set.md",
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
-    "Mathematics/Real Analysis/3. Sequences.md",
     "Introductory Logic/3. Various Arguments.md",
     "Introductory Logic/3. Modus Ponens (MP).md",
     "Introductory Logic/4. Negation.md",
