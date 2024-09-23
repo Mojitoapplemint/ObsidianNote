@@ -6,3 +6,5 @@
 a) There is no GOD
 b) If there is no GOD, then We must still Vernerate justice, provided we are able to Believe Montesquieu.
 c) If we still vernerate justice, then there is no god, provided we are not able to believe monstequieu
+d) There is GOD, but we are not to believe Monstesquieu
+e) If we must still vernerate justice and there is god, then we are not to believe monstequieu
