@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "d0d8cb7c9b1a22f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "256145c38689d22a",
             "type": "leaf",
             "state": {
@@ -54,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introductory Logic/1. Arguments Fundamental.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introductory Logic/1. Arguments Fundamental.md",
+                "file": "Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introductory Logic/1. Arguments Fundamental.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -201,10 +213,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8c776904e7b0032a",
+  "active": "d0d8cb7c9b1a22f4",
   "lastOpenFiles": [
-    "Introductory Logic/2. Conditional.md",
     "Introductory Logic/1. Arguments Fundamental.md",
+    "Untitled.md",
+    "Introductory Logic/2. Conditional.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/2. Multi-Armed Bandits.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/1. Reinforcement Learning Fundamental.md",
     "Personal/듣고 싶은 강의.md",
@@ -230,7 +243,6 @@
     "Personal/CCC/GCSJ/GCSJ Company Assignment.md",
     "Personal/CCC/GCSJ/Business Plan.md",
     "Personal/CCC/GIJ LAMPS/PM Meeting(Managed by Hikari San).md",
-    "Personal/CCC/GIJ LAMPS/Extra Features.md",
     "Personal",
     "Attached Files/Pasted image 20240915214231.png",
     "Attached Files/Pasted image 20240914121635.png",
