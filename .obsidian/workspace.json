@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/2. Multi-Armed Bandits.md",
+                "file": "Introductory Logic/1. Arguments Fundamental.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/2. Multi-Armed Bandits.md",
+                "file": "Introductory Logic/1. Arguments Fundamental.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/2. Multi-Armed Bandits.md",
+                "file": "Introductory Logic/1. Arguments Fundamental.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/2. Multi-Armed Bandits.md"
+                "file": "Introductory Logic/1. Arguments Fundamental.md"
               }
             }
           },
@@ -203,9 +202,11 @@
   },
   "active": "8c776904e7b0032a",
   "lastOpenFiles": [
+    "Introductory Logic/2. Conditional.md",
+    "Introductory Logic/1. Arguments Fundamental.md",
+    "Computer Science/AI & TensorFlow/Reinforcement Learning/2. Multi-Armed Bandits.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/1. Reinforcement Learning Fundamental.md",
     "Personal/듣고 싶은 강의.md",
-    "Computer Science/AI & TensorFlow/Reinforcement Learning/2. Multi-Armed Bandits.md",
     "Mathematics/Number Theory/7. Conguents.md",
     "Mathematics/Number Theory/6. The Fundamental Theorem of Arithmetic.md",
     "Mathematics/Real Analysis/3. Sequences.md",
@@ -229,9 +230,7 @@
     "Personal/CCC/GCSJ/Business Plan.md",
     "Personal/CCC/GIJ LAMPS/PM Meeting(Managed by Hikari San).md",
     "Personal/CCC/GIJ LAMPS/Extra Features.md",
-    "Personal/CCC/GIJ LAMPS/Desired Functionality.md",
     "Personal",
-    "Untitled.md",
     "Attached Files/Pasted image 20240915214231.png",
     "Attached Files/Pasted image 20240914121635.png",
     "Attached Files/Pasted image 20240914121252.png",
