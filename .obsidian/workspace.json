@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Number Theory/7. Conguents.md",
+                "file": "Mathematics/Number Theory/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Number Theory/7. Conguents.md",
+                "file": "Mathematics/Number Theory/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Number Theory/7. Conguents.md",
+                "file": "Mathematics/Number Theory/Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Number Theory/7. Conguents.md"
+                "file": "Mathematics/Number Theory/Untitled.md"
               }
             }
           },
@@ -202,12 +202,13 @@
   },
   "active": "8c776904e7b0032a",
   "lastOpenFiles": [
+    "Mathematics/Number Theory/7. Conguents.md",
+    "Mathematics/Number Theory/Untitled.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/1. Reinforcement Learning Fundamental.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/2. Multi-Armed Bandits.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/Practical Guide.md",
     "Mathematics/Real Analysis/3. Sequences.md",
     "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
-    "Mathematics/Number Theory/7. Conguents.md",
     "Introductory Logic/1. Arguments Fundamental.md",
     "Untitled.md",
     "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
@@ -229,7 +230,6 @@
     "Introductory Logic/4. Negation.md",
     "Personal/술 노트.md",
     "Personal/CCC/GCSJ/GCSJ Company Assignment.md",
-    "Personal/CCC/GCSJ/Business Plan.md",
     "Personal",
     "Attached Files/Pasted image 20240915214231.png",
     "Attached Files/Pasted image 20240914121635.png",
