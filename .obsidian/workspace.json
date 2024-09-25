@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
+                "file": "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
+                "file": "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
+                "file": "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Real Analysis/2. Upper & Lower Bound.md"
+                "file": "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md"
               }
             }
           },
@@ -202,9 +202,9 @@
   },
   "active": "256145c38689d22a",
   "lastOpenFiles": [
+    "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
     "Mathematics/Real Analysis/3. Sequences.md",
     "Mathematics/Real Analysis/1. Real Number Fundamental.md",
-    "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/2. Multi-Armed Bandits.md",
     "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
     "Mathematics/Number Theory/5. Euclidean Algorithm.md",
