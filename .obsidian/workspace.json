@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
+                "file": "Mathematics/Real Analysis/3. Sequences.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
+                "file": "Mathematics/Real Analysis/3. Sequences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
+                "file": "Mathematics/Real Analysis/3. Sequences.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md"
+                "file": "Mathematics/Real Analysis/3. Sequences.md"
               }
             }
           },
@@ -202,6 +202,7 @@
   },
   "active": "256145c38689d22a",
   "lastOpenFiles": [
+    "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
     "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
     "Mathematics/Real Analysis/3. Sequences.md",
     "Mathematics/Real Analysis/1. Real Number Fundamental.md",
@@ -214,7 +215,6 @@
     "Mathematics/Number Theory/Untitled.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/1. Reinforcement Learning Fundamental.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/Practical Guide.md",
-    "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
     "Introductory Logic/1. Arguments Fundamental.md",
     "Introductory Logic/2. Conditional.md",
     "Personal/듣고 싶은 강의.md",
