@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md"
               }
             }
           },
@@ -202,17 +202,19 @@
   },
   "active": "256145c38689d22a",
   "lastOpenFiles": [
+    "Computer Science/Algorithm/1. Introduction.md",
+    "Computer Science/Algorithm/2. Asymptotic Notation.md",
+    "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
+    "Untitled.md",
     "Introductory Logic/3. Various Arguments.md",
     "Introductory Logic/2. Conditional.md",
     "Mathematics/Real Analysis/3. Sequences.md",
-    "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
     "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
     "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/2. Multi-Armed Bandits.md",
     "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
     "Mathematics/Number Theory/5. Euclidean Algorithm.md",
     "Mathematics/Number Theory/7. Conguents.md",
-    "Untitled.md",
     "Mathematics/Number Theory/6. The Fundamental Theorem of Arithmetic.md",
     "Mathematics/Number Theory/Untitled.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/1. Reinforcement Learning Fundamental.md",
@@ -223,13 +225,11 @@
     "Excalidraw/Drawing 2024-09-20 10.44.39.excalidraw.md",
     "Attached Files/Pasted image 20240920104853.png",
     "Mathematics/Number Theory/3. Prime Numbers.md",
-    "Computer Science/Algorithm/2. Asymptotic Notation.md",
     "Mathematics/Discrete Math/2. Set.md",
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Introductory Logic/3. Modus Ponens (MP).md",
     "Introductory Logic/4. Negation.md",
     "Personal/술 노트.md",
-    "Personal/CCC/GCSJ/GCSJ Company Assignment.md",
     "Personal",
     "Attached Files/Pasted image 20240915214231.png",
     "Attached Files/Pasted image 20240914121635.png",
