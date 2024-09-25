@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
+                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Real Analysis/3. Sequences.md",
+                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Real Analysis/3. Sequences.md",
+                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Real Analysis/3. Sequences.md"
+                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md"
               }
             }
           },
@@ -200,11 +200,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8c776904e7b0032a",
+  "active": "256145c38689d22a",
   "lastOpenFiles": [
-    "Computer Science/AI & TensorFlow/Reinforcement Learning/2. Multi-Armed Bandits.md",
-    "Mathematics/Real Analysis/3. Sequences.md",
     "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
+    "Mathematics/Real Analysis/3. Sequences.md",
+    "Computer Science/AI & TensorFlow/Reinforcement Learning/2. Multi-Armed Bandits.md",
     "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
     "Mathematics/Number Theory/5. Euclidean Algorithm.md",
