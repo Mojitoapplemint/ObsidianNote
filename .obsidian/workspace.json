@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md",
+                "file": "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md",
+                "file": "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md",
+                "file": "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Real Analysis/1. Real Number Fundamental.md"
+                "file": "Mathematics/Real Analysis/2. Upper & Lower Bound.md"
               }
             }
           },
@@ -202,6 +202,7 @@
   },
   "active": "8c776904e7b0032a",
   "lastOpenFiles": [
+    "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/2. Multi-Armed Bandits.md",
     "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
@@ -217,7 +218,6 @@
     "Introductory Logic/1. Arguments Fundamental.md",
     "Introductory Logic/2. Conditional.md",
     "Personal/듣고 싶은 강의.md",
-    "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "Introductory Logic/3. Various Arguments.md",
     "Attached Files/Pasted image 20240920105635.png",
     "Excalidraw/Drawing 2024-09-20 10.44.39.excalidraw.md",
