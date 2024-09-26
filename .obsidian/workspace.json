@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Discrete Math/2. Set.md",
+                "file": "Mathematics/Discrete Math/3. Relation.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Discrete Math/2. Set.md",
+                "file": "Mathematics/Discrete Math/3. Relation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Discrete Math/2. Set.md",
+                "file": "Mathematics/Discrete Math/3. Relation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Discrete Math/2. Set.md"
+                "file": "Mathematics/Discrete Math/3. Relation.md"
               }
             }
           },
@@ -201,8 +201,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c0a9e7ff4e6bd264",
+  "active": "256145c38689d22a",
   "lastOpenFiles": [
+    "Mathematics/Discrete Math/2. Set.md",
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Mathematics/Number Theory/1. Divisibility.md",
     "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
@@ -228,7 +229,6 @@
     "Attached Files/Pasted image 20240920105635.png",
     "Excalidraw/Drawing 2024-09-20 10.44.39.excalidraw.md",
     "Attached Files/Pasted image 20240920104853.png",
-    "Mathematics/Discrete Math/2. Set.md",
     "Introductory Logic/3. Modus Ponens (MP).md",
     "Introductory Logic/4. Negation.md",
     "Personal",
