@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Number Theory/1. Divisibility.md",
+                "file": "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Number Theory/1. Divisibility.md",
+                "file": "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Number Theory/1. Divisibility.md",
+                "file": "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Number Theory/1. Divisibility.md"
+                "file": "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md"
               }
             }
           },
@@ -202,8 +202,8 @@
   },
   "active": "256145c38689d22a",
   "lastOpenFiles": [
-    "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
     "Mathematics/Number Theory/1. Divisibility.md",
+    "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
     "Mathematics/Number Theory/6. The Fundamental Theorem of Arithmetic.md",
     "Mathematics/Number Theory/5. Euclidean Algorithm.md",
     "Mathematics/Number Theory/3. Prime Numbers.md",
