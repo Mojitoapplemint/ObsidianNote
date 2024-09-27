@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Discrete Math/4. Function.md",
+                "file": "Mathematics/Real Analysis/3. Sequences.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Discrete Math/4. Function.md",
+                "file": "Mathematics/Real Analysis/3. Sequences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Discrete Math/4. Function.md",
+                "file": "Mathematics/Real Analysis/3. Sequences.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Discrete Math/4. Function.md"
+                "file": "Mathematics/Real Analysis/3. Sequences.md"
               }
             }
           },
@@ -202,6 +203,8 @@
   },
   "active": "256145c38689d22a",
   "lastOpenFiles": [
+    "Mathematics/Discrete Math/5. Induction.md",
+    "Mathematics/Discrete Math/4. Function.md",
     "Mathematics/Discrete Math/3. Relation.md",
     "Mathematics/Discrete Math/2. Set.md",
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
@@ -227,9 +230,7 @@
     "Introductory Logic/1. Arguments Fundamental.md",
     "Personal/듣고 싶은 강의.md",
     "Attached Files/Pasted image 20240920105635.png",
-    "Excalidraw/Drawing 2024-09-20 10.44.39.excalidraw.md",
     "Attached Files/Pasted image 20240920104853.png",
-    "Introductory Logic/3. Modus Ponens (MP).md",
     "Personal",
     "Attached Files/Pasted image 20240915214231.png",
     "Attached Files/Pasted image 20240914121635.png",
