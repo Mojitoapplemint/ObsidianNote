@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Algorithm/2. Asymptotic Notation.md",
+                "file": "Mathematics/Real Analysis/3. Sequences.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithm/4. Greedy Algorithm.md",
+                "file": "Mathematics/Real Analysis/3. Sequences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithm/4. Greedy Algorithm.md",
+                "file": "Mathematics/Real Analysis/3. Sequences.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Algorithm/4. Greedy Algorithm.md"
+                "file": "Mathematics/Real Analysis/3. Sequences.md"
               }
             }
           },
@@ -203,14 +202,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "980bd63eaa296e07",
+  "active": "9ecc18fa3b0d45f0",
   "lastOpenFiles": [
-    "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
-    "Computer Science/Algorithm/4. Greedy Algorithm.md",
-    "Excalidraw/Drawing 2024-09-20 10.44.39.excalidraw.md",
-    "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
     "Computer Science/Algorithm/2. Asymptotic Notation.md",
+    "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/1. Reinforcement Learning Fundamental.md",
+    "Computer Science/Algorithm/4. Greedy Algorithm.md",
+    "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
+    "Excalidraw/Drawing 2024-09-20 10.44.39.excalidraw.md",
     "Introductory Logic/2. Conditional.md",
     "Attached Files/Pasted image 20240927105631.png",
     "Attached Files/Pasted image 20240927105608.png",
