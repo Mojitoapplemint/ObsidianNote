@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Algorithm/2. Asymptotic Notation.md",
+                "file": "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithm/2. Asymptotic Notation.md",
+                "file": "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithm/2. Asymptotic Notation.md",
+                "file": "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Algorithm/2. Asymptotic Notation.md"
+                "file": "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md"
               }
             }
           },
@@ -192,6 +192,8 @@
   },
   "active": "256145c38689d22a",
   "lastOpenFiles": [
+    "Computer Science/Algorithm/2. Asymptotic Notation.md",
+    "Computer Science/Algorithm/1. Introduction.md",
     "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
     "Computer Science/Algorithm/4. Greedy Algorithm.md",
     "Untitled.md",
@@ -206,7 +208,6 @@
     "Mathematics/Complex Analysis/6. Integration.md",
     "Mathematics/Complex Analysis/5. The Bestiary of Holomorphic Function.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/1. Reinforcement Learning Fundamental.md",
-    "Computer Science/Algorithm/2. Asymptotic Notation.md",
     "Excalidraw/Drawing 2024-09-20 10.44.39.excalidraw.md",
     "Introductory Logic/2. Conditional.md",
     "Attached Files/Pasted image 20240927105631.png",
@@ -219,7 +220,6 @@
     "Mathematics/Number Theory/1. Divisibility.md",
     "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
     "Mathematics/Number Theory/6. The Fundamental Theorem of Arithmetic.md",
-    "Mathematics/Number Theory/5. Euclidean Algorithm.md",
     "Attached Files/Pasted image 20240920105635.png",
     "Attached Files/Pasted image 20240920104853.png",
     "Personal",
