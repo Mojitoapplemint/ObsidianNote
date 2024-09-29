@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introductory Logic/3. Various Arguments.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introductory Logic/3. Various Arguments.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introductory Logic/3. Various Arguments.md",
+                "file": "Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introductory Logic/3. Various Arguments.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -193,10 +192,10 @@
   },
   "active": "256145c38689d22a",
   "lastOpenFiles": [
+    "Introductory Logic/3. Various Arguments.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
     "Mathematics/Real Analysis/3. Sequences.md",
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
-    "Introductory Logic/3. Various Arguments.md",
     "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
     "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "Mathematics/Complex Analysis/3. Functions of a Complex Variable.md",
