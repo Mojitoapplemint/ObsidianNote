@@ -37,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
+                "file": "Introductory Logic/3. Various Arguments.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Real Analysis/3. Sequences.md",
+                "file": "Introductory Logic/3. Various Arguments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Real Analysis/3. Sequences.md",
+                "file": "Introductory Logic/3. Various Arguments.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Real Analysis/3. Sequences.md"
+                "file": "Introductory Logic/3. Various Arguments.md"
               }
             }
           },
@@ -190,11 +191,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9ecc18fa3b0d45f0",
+  "active": "256145c38689d22a",
   "lastOpenFiles": [
+    "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
+    "Mathematics/Real Analysis/3. Sequences.md",
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Introductory Logic/3. Various Arguments.md",
-    "Mathematics/Real Analysis/3. Sequences.md",
     "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
     "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "Mathematics/Complex Analysis/3. Functions of a Complex Variable.md",
@@ -202,7 +204,6 @@
     "Mathematics/Complex Analysis/6. Integration.md",
     "Mathematics/Complex Analysis/5. The Bestiary of Holomorphic Function.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/1. Reinforcement Learning Fundamental.md",
-    "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
     "Computer Science/Algorithm/4. Greedy Algorithm.md",
     "Computer Science/Algorithm/2. Asymptotic Notation.md",
     "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
