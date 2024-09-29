@@ -6,3 +6,8 @@
 
 4. If the inner loop terminates, 
 
+1. $i$ value is assigned from 2 to $n$ and the inner loops keep reassigning $j$ value from $i-1$ to 1 and check whether $j$ reached 0 or $A[j]$ is bigger than the key
+
+2. If $A[j]$ is bigger than the key, the inner loop terminates, otherwise, it is pushed to the right and $j$ is decreased by 1
+
+3. When the inner loop terminates, key value is assigned to $A[j+1]$ and this cycle repeats until $i$ reaches $n$ so that the array is sorted
