@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/1. Reinforcement Learning Fundamental.md",
+                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/2. Multi-Armed Bandits.md",
                 "mode": "source",
                 "source": false
               }
@@ -193,14 +193,16 @@
   },
   "active": "256145c38689d22a",
   "lastOpenFiles": [
+    "Mathematics/Real Analysis/3. Sequences.md",
+    "Computer Science/AI & TensorFlow/Reinforcement Learning/2. Multi-Armed Bandits.md",
+    "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
+    "Computer Science/AI & TensorFlow/Reinforcement Learning/1. Reinforcement Learning Fundamental.md",
     "Untitled.md",
     "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
     "Computer Science/Algorithm/2. Asymptotic Notation.md",
     "Computer Science/Algorithm/1. Introduction.md",
     "Computer Science/Algorithm/4. Greedy Algorithm.md",
     "Introductory Logic/3. Various Arguments.md",
-    "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
-    "Mathematics/Real Analysis/3. Sequences.md",
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
     "Mathematics/Real Analysis/1. Real Number Fundamental.md",
@@ -208,12 +210,10 @@
     "Mathematics/Complex Analysis/2. Basic Topology in C.md",
     "Mathematics/Complex Analysis/6. Integration.md",
     "Mathematics/Complex Analysis/5. The Bestiary of Holomorphic Function.md",
-    "Computer Science/AI & TensorFlow/Reinforcement Learning/1. Reinforcement Learning Fundamental.md",
     "Excalidraw/Drawing 2024-09-20 10.44.39.excalidraw.md",
     "Introductory Logic/2. Conditional.md",
     "Attached Files/Pasted image 20240927105631.png",
     "Attached Files/Pasted image 20240927105608.png",
-    "Computer Science/AI & TensorFlow/Reinforcement Learning/2. Multi-Armed Bandits.md",
     "Mathematics/Discrete Math/5. Induction.md",
     "Mathematics/Discrete Math/4. Function.md",
     "Mathematics/Discrete Math/3. Relation.md",
