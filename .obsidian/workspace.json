@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Real Analysis/3. Sequences.md",
+                "file": "Mathematics/Real Analysis/4. Series.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Real Analysis/3. Sequences.md",
+                "file": "Mathematics/Real Analysis/4. Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Real Analysis/3. Sequences.md",
+                "file": "Mathematics/Real Analysis/4. Series.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Real Analysis/3. Sequences.md"
+                "file": "Mathematics/Real Analysis/4. Series.md"
               }
             }
           },
@@ -191,11 +191,12 @@
   },
   "active": "9ecc18fa3b0d45f0",
   "lastOpenFiles": [
+    "Mathematics/Real Analysis/3. Sequences.md",
+    "Mathematics/Real Analysis/4. Series.md",
     "Mathematics/Number Theory/7. Conguents.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/1. Reinforcement Learning Fundamental.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/2. Multi-Armed Bandits.md",
-    "Mathematics/Real Analysis/3. Sequences.md",
     "Attached Files/Pasted image 20240930132003.png",
     "Untitled.md",
     "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
@@ -219,7 +220,6 @@
     "Mathematics/Discrete Math/3. Relation.md",
     "Mathematics/Discrete Math/2. Set.md",
     "Mathematics/Number Theory/1. Divisibility.md",
-    "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
     "Attached Files/Pasted image 20240920105635.png",
     "Attached Files/Pasted image 20240920104853.png",
     "Personal",
