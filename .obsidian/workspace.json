@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Real Analysis/4. Series.md",
+                "file": "Introductory Logic/3. Various Arguments.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3064aba75a771006",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introductory Logic/3. Various Arguments.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Real Analysis/4. Series.md",
+                "file": "Introductory Logic/3. Various Arguments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Real Analysis/4. Series.md",
+                "file": "Introductory Logic/3. Various Arguments.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Real Analysis/4. Series.md"
+                "file": "Introductory Logic/3. Various Arguments.md"
               }
             }
           },
@@ -189,10 +202,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9ecc18fa3b0d45f0",
+  "active": "3064aba75a771006",
   "lastOpenFiles": [
-    "Mathematics/Real Analysis/3. Sequences.md",
+    "Introductory Logic/4.  Conditional Proofs.md",
+    "Introductory Logic/3. Various Arguments.md",
     "Mathematics/Real Analysis/4. Series.md",
+    "Mathematics/Real Analysis/3. Sequences.md",
     "Mathematics/Number Theory/7. Conguents.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/1. Reinforcement Learning Fundamental.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
@@ -203,7 +218,6 @@
     "Computer Science/Algorithm/2. Asymptotic Notation.md",
     "Computer Science/Algorithm/1. Introduction.md",
     "Computer Science/Algorithm/4. Greedy Algorithm.md",
-    "Introductory Logic/3. Various Arguments.md",
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
     "Mathematics/Real Analysis/1. Real Number Fundamental.md",
@@ -219,7 +233,6 @@
     "Mathematics/Discrete Math/4. Function.md",
     "Mathematics/Discrete Math/3. Relation.md",
     "Mathematics/Discrete Math/2. Set.md",
-    "Mathematics/Number Theory/1. Divisibility.md",
     "Attached Files/Pasted image 20240920105635.png",
     "Attached Files/Pasted image 20240920104853.png",
     "Personal",
