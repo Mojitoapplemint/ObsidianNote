@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introductory Logic/3. Various Arguments.md",
+                "file": "Introductory Logic/4.  Conditional Proofs.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introductory Logic/3. Various Arguments.md",
+                "file": "Introductory Logic/4.  Conditional Proofs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introductory Logic/3. Various Arguments.md",
+                "file": "Introductory Logic/4.  Conditional Proofs.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introductory Logic/3. Various Arguments.md"
+                "file": "Introductory Logic/4.  Conditional Proofs.md"
               }
             }
           },
@@ -204,8 +204,8 @@
   },
   "active": "3064aba75a771006",
   "lastOpenFiles": [
-    "Introductory Logic/4.  Conditional Proofs.md",
     "Introductory Logic/3. Various Arguments.md",
+    "Introductory Logic/4.  Conditional Proofs.md",
     "Mathematics/Real Analysis/4. Series.md",
     "Mathematics/Real Analysis/3. Sequences.md",
     "Mathematics/Number Theory/7. Conguents.md",
