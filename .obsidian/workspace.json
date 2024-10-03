@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Number Theory/7. Conguents.md",
+                "file": "Mathematics/Number Theory/8. Chinese Remainder Theorem.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Number Theory/7. Conguents.md",
+                "file": "Mathematics/Number Theory/8. Chinese Remainder Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Number Theory/7. Conguents.md",
+                "file": "Mathematics/Number Theory/8. Chinese Remainder Theorem.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Number Theory/7. Conguents.md"
+                "file": "Mathematics/Number Theory/8. Chinese Remainder Theorem.md"
               }
             }
           },
@@ -204,8 +203,10 @@
   },
   "active": "9ecc18fa3b0d45f0",
   "lastOpenFiles": [
-    "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
+    "Mathematics/Number Theory/Untitled.md",
+    "Mathematics/Number Theory/8. Chinese Remainder Theorem.md",
     "Mathematics/Number Theory/7. Conguents.md",
+    "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
     "Mathematics/Real Analysis/3. Sequences.md",
     "Mathematics/Real Analysis/4. Series.md",
     "Introductory Logic/3. Various Arguments.md",
@@ -231,8 +232,6 @@
     "Attached Files/Pasted image 20240927105608.png",
     "Mathematics/Discrete Math/5. Induction.md",
     "Mathematics/Discrete Math/4. Function.md",
-    "Mathematics/Discrete Math/3. Relation.md",
-    "Mathematics/Discrete Math/2. Set.md",
     "Attached Files/Pasted image 20240920105635.png",
     "Attached Files/Pasted image 20240920104853.png",
     "Personal",
