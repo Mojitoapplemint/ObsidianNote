@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Number Theory/8. Chinese Remainder Theorem.md",
+                "file": "Mathematics/Real Analysis/4. Series.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Number Theory/8. Chinese Remainder Theorem.md",
+                "file": "Mathematics/Real Analysis/4. Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Number Theory/8. Chinese Remainder Theorem.md",
+                "file": "Mathematics/Real Analysis/4. Series.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Number Theory/8. Chinese Remainder Theorem.md"
+                "file": "Mathematics/Real Analysis/4. Series.md"
               }
             }
           },
@@ -203,8 +203,8 @@
   },
   "active": "9ecc18fa3b0d45f0",
   "lastOpenFiles": [
-    "Mathematics/Number Theory/Untitled.md",
     "Mathematics/Number Theory/8. Chinese Remainder Theorem.md",
+    "Mathematics/Number Theory/Untitled.md",
     "Mathematics/Number Theory/7. Conguents.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
     "Mathematics/Real Analysis/3. Sequences.md",
