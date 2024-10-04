@@ -6,7 +6,7 @@
       {
         "id": "8e445dd47959a08d",
         "type": "tabs",
-        "dimension": 39.90384615384615,
+        "dimension": 51.5625,
         "children": [
           {
             "id": "3064aba75a771006",
@@ -49,7 +49,7 @@
       {
         "id": "350b401bc231fd6c",
         "type": "tabs",
-        "dimension": 60.09615384615385,
+        "dimension": 48.4375,
         "children": [
           {
             "id": "9ecc18fa3b0d45f0",
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Real Analysis/4. Series.md",
+                "file": "Introductory Logic/4.  Conditional Proofs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Real Analysis/4. Series.md",
+                "file": "Introductory Logic/4.  Conditional Proofs.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Real Analysis/4. Series.md"
+                "file": "Introductory Logic/4.  Conditional Proofs.md"
               }
             }
           },
@@ -210,11 +210,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9ecc18fa3b0d45f0",
+  "active": "3064aba75a771006",
   "lastOpenFiles": [
-    "Introductory Logic/4.  Conditional Proofs.md",
     "Introductory Logic/3. Various Arguments.md",
     "Mathematics/Real Analysis/4. Series.md",
+    "Introductory Logic/4.  Conditional Proofs.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/2. Multi-Armed Bandits.md",
     "Mathematics/Real Analysis/14 Axioms and Lemmas.md",
     "Computer Science/Algorithm/4. Greedy Algorithm.md",
