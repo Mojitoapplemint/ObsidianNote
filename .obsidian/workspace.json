@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Number Theory/7. Conguents.md",
+                "file": "Computer Science/Algorithm/4. Greedy Algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Number Theory/7. Conguents.md",
+                "file": "Computer Science/Algorithm/4. Greedy Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Number Theory/7. Conguents.md",
+                "file": "Computer Science/Algorithm/4. Greedy Algorithm.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Number Theory/7. Conguents.md"
+                "file": "Computer Science/Algorithm/4. Greedy Algorithm.md"
               }
             }
           },
@@ -203,8 +203,9 @@
   },
   "active": "9ecc18fa3b0d45f0",
   "lastOpenFiles": [
-    "Mathematics/Real Analysis/4. Series.md",
+    "Mathematics/Number Theory/6. The Fundamental Theorem of Arithmetic.md",
     "Mathematics/Number Theory/7. Conguents.md",
+    "Mathematics/Real Analysis/4. Series.md",
     "Mathematics/Number Theory/8. Chinese Remainder Theorem.md",
     "Mathematics/Number Theory/Untitled.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
@@ -231,7 +232,6 @@
     "Attached Files/Pasted image 20240927105631.png",
     "Attached Files/Pasted image 20240927105608.png",
     "Mathematics/Discrete Math/5. Induction.md",
-    "Mathematics/Discrete Math/4. Function.md",
     "Attached Files/Pasted image 20240920105635.png",
     "Attached Files/Pasted image 20240920104853.png",
     "Personal",
