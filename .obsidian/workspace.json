@@ -6,7 +6,7 @@
       {
         "id": "8e445dd47959a08d",
         "type": "tabs",
-        "dimension": 51.5625,
+        "dimension": 44.330601092896174,
         "children": [
           {
             "id": "3064aba75a771006",
@@ -49,7 +49,7 @@
       {
         "id": "350b401bc231fd6c",
         "type": "tabs",
-        "dimension": 48.4375,
+        "dimension": 55.669398907103826,
         "children": [
           {
             "id": "9ecc18fa3b0d45f0",
@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Real Analysis/4. Series.md",
+                "file": "Mathematics/Real Analysis/3. Sequences.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -130,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introductory Logic/4.  Conditional Proofs.md",
+                "file": "Mathematics/Real Analysis/3. Sequences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introductory Logic/4.  Conditional Proofs.md",
+                "file": "Mathematics/Real Analysis/3. Sequences.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introductory Logic/4.  Conditional Proofs.md"
+                "file": "Mathematics/Real Analysis/3. Sequences.md"
               }
             }
           },
@@ -210,11 +209,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3064aba75a771006",
+  "active": "9ecc18fa3b0d45f0",
   "lastOpenFiles": [
-    "Introductory Logic/3. Various Arguments.md",
     "Mathematics/Real Analysis/4. Series.md",
+    "Mathematics/Real Analysis/3. Sequences.md",
     "Introductory Logic/4.  Conditional Proofs.md",
+    "Introductory Logic/3. Various Arguments.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/2. Multi-Armed Bandits.md",
     "Mathematics/Real Analysis/14 Axioms and Lemmas.md",
     "Computer Science/Algorithm/4. Greedy Algorithm.md",
@@ -225,7 +225,6 @@
     "Mathematics/Number Theory/8. Chinese Remainder Theorem.md",
     "Mathematics/Number Theory/Untitled.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
-    "Mathematics/Real Analysis/3. Sequences.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/1. Reinforcement Learning Fundamental.md",
     "Attached Files/Pasted image 20240930132003.png",
     "Untitled.md",
