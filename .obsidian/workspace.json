@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
+                "file": "Computer Science/Algorithm/4. Greedy Algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
+                "file": "Computer Science/Algorithm/4. Greedy Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
+                "file": "Computer Science/Algorithm/4. Greedy Algorithm.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md"
+                "file": "Computer Science/Algorithm/4. Greedy Algorithm.md"
               }
             }
           },
@@ -203,8 +203,8 @@
   },
   "active": "9ecc18fa3b0d45f0",
   "lastOpenFiles": [
-    "Computer Science/Algorithm/2. Asymptotic Notation.md",
     "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
+    "Computer Science/Algorithm/2. Asymptotic Notation.md",
     "Computer Science/Algorithm/4. Greedy Algorithm.md",
     "Mathematics/Number Theory/6. The Fundamental Theorem of Arithmetic.md",
     "Mathematics/Number Theory/7. Conguents.md",
