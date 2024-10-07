@@ -10,8 +10,19 @@ Q-Learning is a type of RL
 Fundamental RL characteristic also apply to QL
 
 Additional Features
-- The number of possible states is finite
+- The number of **possible states is finite**
 	- The agent will always be in one of a fixed number of possible situations
-- The number of possible actions is finite
+- The number of **possible actions is finite**
 	- The agent will always need to choose from among a fixed number of possible actions
 
+# Q-Value
+A Q-value indicates the quality of a particular action $a$ in a given states, s
+$$Q(s,a)$$
+- Current estimates of the sum of future rewards
+	- How much additional rewards we can accumulate through all remaining steps in the current episode if the agent is in state $s$ and takes action $a$
+- Increase as the ai agent gets closer and cloer to the highest reward
+
+## Q-Table
+Q-Values are stored in a Q-Table
+- One row for each possible state
+- One column for each possible action
