@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Real Analysis/4. Series.md",
+                "file": "Personal/술 노트.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Real Analysis/4. Series.md",
+                "file": "Personal/술 노트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Real Analysis/4. Series.md",
+                "file": "Personal/술 노트.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Real Analysis/4. Series.md"
+                "file": "Personal/술 노트.md"
               }
             }
           },
@@ -204,8 +204,8 @@
   },
   "active": "9ecc18fa3b0d45f0",
   "lastOpenFiles": [
-    "Mathematics/Real Analysis/3. Sequences.md",
     "Mathematics/Real Analysis/4. Series.md",
+    "Mathematics/Real Analysis/3. Sequences.md",
     "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "Introductory Logic/4.  Conditional Proofs.md",
     "Introductory Logic/3. Various Arguments.md",
