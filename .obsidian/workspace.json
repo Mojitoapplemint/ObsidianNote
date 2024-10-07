@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introductory Logic/5. Dilemmas.md",
+                "file": "Introductory Logic/5. Dilemmas(DL).md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introductory Logic/5. Dilemmas.md",
+                "file": "Introductory Logic/5. Dilemmas(DL).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introductory Logic/5. Dilemmas.md",
+                "file": "Introductory Logic/5. Dilemmas(DL).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introductory Logic/5. Dilemmas.md"
+                "file": "Introductory Logic/5. Dilemmas(DL).md"
               }
             }
           },
@@ -205,7 +205,7 @@
   "active": "9ecc18fa3b0d45f0",
   "lastOpenFiles": [
     "Introductory Logic/4.  Conditional Proofs.md",
-    "Introductory Logic/5. Dilemmas.md",
+    "Introductory Logic/5. Dilemmas(DL).md",
     "Introductory Logic/3. Various Arguments.md",
     "Personal/술 노트.md",
     "Mathematics/Real Analysis/4. Series.md",
