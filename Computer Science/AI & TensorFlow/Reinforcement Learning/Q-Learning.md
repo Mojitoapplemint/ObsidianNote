@@ -24,5 +24,18 @@ $$Q(s,a)$$
 
 ## Q-Table
 Q-Values are stored in a Q-Table
-- One row for each possible state
-- One column for each possible action
+- One row for each possible state and One column for each possible action
+- Represents AI agent's policy for acting in the current environment
+	- Higher the value, more likely for agent to choose
+	- An optimal Q-table contains values that allow the AI agent to take the best action in any possible state
+	- Providing the agent with the optimal path to the highest reward
+
+
+# Temporal Differences(TD)
+Method of calculating how much the Q-value for the action taken in the previous state should be changed based on what agent has learned about Q-values for the current state's action
+- Previous Q-values are updated after each step
+
+$$TD(s_{t}, a_{t})=r_{t}+\gamma\cdot \max_{a}(s_{t+1}, a)-Q(s_{t, a_{t}})$$
+- $r_{t}$: reward taken in the previous state
+- $\gamma$: Discount factor ($0<$)
+- $\max_{a}(s_{t+1}, a)$: Largest Q-value available for current state
