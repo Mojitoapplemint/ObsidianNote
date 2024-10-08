@@ -1,4 +1,4 @@
-Q-Learning is a type of RL
+8Q-Learning is a type of RL
 - Involves and AI agent operating in an environment with states & rewards (inputs) and actions (outputs)
 - Involves **model-free** environments
 	- The AI agents is not seeking to learn about an underlying mathematical model probability distribution
