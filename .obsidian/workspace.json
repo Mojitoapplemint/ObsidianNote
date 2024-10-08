@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Number Theory/8. Chinese Remainder Theorem.md",
+                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/Q-Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Number Theory/8. Chinese Remainder Theorem.md",
+                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/Q-Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Number Theory/8. Chinese Remainder Theorem.md",
+                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/Q-Learning.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Number Theory/8. Chinese Remainder Theorem.md"
+                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/Q-Learning.md"
               }
             }
           },
@@ -202,6 +202,7 @@
   },
   "active": "3064aba75a771006",
   "lastOpenFiles": [
+    "Mathematics/Number Theory/8. Chinese Remainder Theorem.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/Q-Learning.md",
     "Computer Science/Git & GitHub.md",
     "새 폴더",
@@ -221,7 +222,6 @@
     "Computer Science/Algorithm/2. Asymptotic Notation.md",
     "Mathematics/Number Theory/6. The Fundamental Theorem of Arithmetic.md",
     "Mathematics/Number Theory/7. Conguents.md",
-    "Mathematics/Number Theory/8. Chinese Remainder Theorem.md",
     "Mathematics/Number Theory/Untitled.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/1. Reinforcement Learning Fundamental.md",
