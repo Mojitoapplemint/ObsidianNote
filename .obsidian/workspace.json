@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Git & GitHub.md",
+                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/Q-Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Git & GitHub.md",
+                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/Q-Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Git & GitHub.md",
+                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/Q-Learning.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Git & GitHub.md"
+                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/Q-Learning.md"
               }
             }
           },
@@ -203,6 +203,7 @@
   },
   "active": "3064aba75a771006",
   "lastOpenFiles": [
+    "Computer Science/Git & GitHub.md",
     "새 폴더",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/Q-Learning.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/Practical Guide.md",
@@ -249,7 +250,6 @@
     "Computer Science/Algorithm",
     "Untitled.canvas",
     "Personal/CCC/GIJ LAMPS",
-    "Mathematics/Discrete Math",
     "Animal Cafe Business Plan.canvas"
   ]
 }
