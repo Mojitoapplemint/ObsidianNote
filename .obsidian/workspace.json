@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/Q-Learning.md",
+                "file": "Computer Science/Git & GitHub.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/Q-Learning.md",
+                "file": "Computer Science/Git & GitHub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/Q-Learning.md",
+                "file": "Computer Science/Git & GitHub.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/Q-Learning.md"
+                "file": "Computer Science/Git & GitHub.md"
               }
             }
           },
@@ -204,8 +204,9 @@
   },
   "active": "3064aba75a771006",
   "lastOpenFiles": [
-    "Computer Science/AI & TensorFlow/Reinforcement Learning/Practical Guide.md",
+    "새 폴더",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/Q-Learning.md",
+    "Computer Science/AI & TensorFlow/Reinforcement Learning/Practical Guide.md",
     "Mathematics/Real Analysis/4. Series.md",
     "Introductory Logic/4.  Conditional Proofs.md",
     "Introductory Logic/5. Dilemmas(DL).md",
@@ -230,7 +231,6 @@
     "Computer Science/Algorithm/1. Introduction.md",
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
-    "Mathematics/Complex Analysis/3. Functions of a Complex Variable.md",
     "Attached Files/Pasted image 20240927105631.png",
     "Attached Files/Pasted image 20240927105608.png",
     "Attached Files/Pasted image 20240920105635.png",
