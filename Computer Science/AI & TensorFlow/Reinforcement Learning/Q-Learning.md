@@ -33,9 +33,16 @@ Q-Values are stored in a Q-Table
 
 # Temporal Differences(TD)
 Method of calculating how much the Q-value for the action taken in the previous state should be changed based on what agent has learned about Q-values for the current state's action
-- Previous Q-values are updated after each step
+- *Previous Q-values are updated after each step*
 
 $$TD(s_{t}, a_{t})=r_{t}+\gamma\cdot \max_{a}(s_{t+1}, a)-Q(s_{t, a_{t}})$$
-- $r_{t}$: reward taken in the previous state
-- $\gamma$: Discount factor ($0<$)
+- $r_{t}$: Reward taken in the previous state
+- $\gamma$: Discount factor ($0<\gamma\leq 1$)
 - $\max_{a}(s_{t+1}, a)$: Largest Q-value available for current state
+
+# Bellman Equation
+Tells what new value to use as the Q-value for the action taken in the previous state
+- Relies on a both the old Q-value for the action taken in the previous state and what has been learned after moving to the next state(TD)
+- Includesa learning rate parameter $\alpha$ that defines how quickly Q-values are adjusted
+$$Q^{new}(s_{t}, a_{t})=Q^{old}(s_{t},a_{t})+\alpha\cdot TD(s_{t},a_{t})$$
+
