@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "24a862f7895fa06e",
+    "id": "61663c40332b6a8c",
     "type": "split",
     "children": [
       {
-        "id": "707ff56743c5fe61",
+        "id": "f9af490a74ef419b",
         "type": "tabs",
         "children": [
           {
-            "id": "c6b3cb3120063111",
+            "id": "c4b0e9db13a29247",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Real Analysis/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,11 +21,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "76c395600c718d82",
+    "id": "4704be33abe1450c",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "621635cf7446fb9c",
+        "id": "ced60e0035a1d9e1",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -39,7 +35,7 @@
         }
       },
       {
-        "id": "f6bf7f9a4431c08a",
+        "id": "8acee16689c037d4",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -54,7 +50,7 @@
         }
       },
       {
-        "id": "bbb9281b46fce9e7",
+        "id": "b939766142763c6a",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -65,7 +61,7 @@
         }
       },
       {
-        "id": "ef6851e1a41726c8",
+        "id": "6d2e8d0f40678583",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -76,16 +72,15 @@
     "currentTab": 0
   },
   "right": {
-    "id": "750215e2c57c33d6",
+    "id": "50866741110a4d1b",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "a4ebf5c095dbe257",
+        "id": "4b5d63445634169a",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Mathematics/Real Analysis/Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,25 +92,22 @@
         }
       },
       {
-        "id": "9e072acb9d40c3d7",
+        "id": "78e832ad277c5cb5",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Mathematics/Real Analysis/Untitled.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "fd9d17a270f6718f",
+        "id": "b0ca9d08e080cf0a",
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Mathematics/Real Analysis/Untitled.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -129,58 +121,9 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c6b3cb3120063111",
-  "lastOpenFiles": [
-    "Untitled 1.md",
-    "Animal Cafe Business Plan.canvas",
-    "Mathematics/Real Analysis/Untitled.md",
-    "Excalidraw/Drawing 2024-06-25 22.02.52.excalidraw.md",
-    "/Mathematics/Real Analysis/Untitled.md",
-    "/Excalidraw/Drawing 2024-06-25 22.02.52.excalidraw.md",
-    "Mathematics/Real Analysis",
-    "/Mathematics/Real Analysis",
-    "CCC/GCSJ/GCSJ Company Assignment.md",
-    "CCC/GCSJ/Business Plan.md",
-    "/Untitled 1.md",
-    "/CCC/GCSJ/GCSJ Company Assignment.md",
-    "/CCC/GCSJ/Business Plan.md",
-    "/Animal Cafe Business Plan.canvas",
-    "/AI & TensorFlow/TensorFlow Bootcamp/Extras.md",
-    "/AI & TensorFlow/TensorFlow Bootcamp/6. Natural Language Processing and Recurrent Neural Network.md",
-    "/AI & TensorFlow/TensorFlow Bootcamp/4. Convolutional Neural Networks & Computer Vision.md",
-    "CCC/GCSJ",
-    "CCC",
-    "/CCC/GCSJ",
-    "/CCC",
-    "필리뚜랑 할 거.md",
-    "방학 동안 하고 싶은 거.md",
-    "듣고 싶은 강의.md",
-    "Untitled.md",
-    "Mathematics/MATH3161/9. Series.md",
-    "Mathematics/MATH3161/8. Morera's Theorem.md",
-    "Mathematics/MATH3161/7. Liouville's Theorem and FTA.md",
-    "Mathematics/MATH3161/6. Integration.md",
-    "Mathematics/MATH3161/5. The Bestiary of Holomorphic Function.md",
-    "Mathematics/MATH3161/4. Derivative.md",
-    "Mathematics/MATH3161/3. Functions of a Complex Variable.md",
-    "Mathematics/MATH3161/2. Basic Topology in C.md",
-    "Attached Files/Pasted image 20240622134929.png",
-    "Attached Files/Pasted image 20240622125110.png",
-    "Attached Files/Pasted image 20240622124834.png",
-    "Attached Files/Pasted image 20240613091424.png",
-    "Attached Files/Pasted image 20240527124337.png",
-    "Attached Files/Pasted image 20240525110501.png",
-    "Attached Files/Pasted image 20240524170233.png",
-    "Attached Files/Pasted image 20240524161138.png",
-    "Attached Files/Pasted image 20240524161026.png",
-    "Attached Files/Pasted image 20240524160837.png",
-    "Mathematics/MATH3161",
-    "Mathematics/MATH2121",
-    "Mathematics",
-    "Excalidraw"
-  ]
+  "active": "ced60e0035a1d9e1",
+  "lastOpenFiles": []
 }
