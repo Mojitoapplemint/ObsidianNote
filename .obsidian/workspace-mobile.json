@@ -11,8 +11,12 @@
             "id": "c4b0e9db13a29247",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Real Analysis/4. Series.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Mathematics/Real Analysis/4. Series.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Mathematics/Real Analysis/4. Series.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Mathematics/Real Analysis/4. Series.md"
+          }
         }
       }
     ],
@@ -124,6 +132,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ced60e0035a1d9e1",
-  "lastOpenFiles": []
+  "active": "c4b0e9db13a29247",
+  "lastOpenFiles": [
+    "Mathematics/Real Analysis/3. Sequences.md",
+    "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
+    "Mathematics/Real Analysis/1. Real Number Fundamental.md",
+    "Mathematics/Real Analysis/4. Series.md",
+    "Computer Science/AI & TensorFlow/Reinforcement Learning/Q-Learning.md",
+    "/Mathematics/Number Theory/8. Chinese Remainder Theorem.md"
+  ]
 }
