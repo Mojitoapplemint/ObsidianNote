@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introductory Logic/3. Various Arguments.md",
+                "file": "Mathematics/Real Analysis/4. Series.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Latex Suite Personal Setting.md",
+                "file": "Mathematics/Real Analysis/4. Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Latex Suite Personal Setting.md",
+                "file": "Mathematics/Real Analysis/4. Series.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Latex Suite Personal Setting.md"
+                "file": "Mathematics/Real Analysis/4. Series.md"
               }
             }
           },
@@ -202,12 +203,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3064aba75a771006",
+  "active": "8c776904e7b0032a",
   "lastOpenFiles": [
-    "Untitled.md",
     "Introductory Logic/3. Various Arguments.md",
-    "Introductory Logic/4. Conditional Proofs.md",
     "Introductory Logic/5. Dilemmas(DL).md",
+    "Personal/Latex Suite Personal Setting.md",
+    "Untitled.md",
+    "Introductory Logic/4. Conditional Proofs.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/Q-Learning.md",
     "Mathematics/Number Theory/8. Chinese Remainder Theorem.md",
     "Computer Science/Git & GitHub.md",
@@ -231,7 +233,6 @@
     "Attached Files/Pasted image 20240930132003.png",
     "Computer Science/Algorithm/1. Introduction.md",
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
-    "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
     "Attached Files/Pasted image 20240927105631.png",
     "Attached Files/Pasted image 20240927105608.png",
     "Attached Files/Pasted image 20240920105635.png",
