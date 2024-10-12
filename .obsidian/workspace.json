@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Real Analysis/5. Function.md",
+                "file": "Mathematics/Number Theory/8. Chinese Remainder Theorem.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Real Analysis/5. Function.md",
+                "file": "Mathematics/Number Theory/8. Chinese Remainder Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Real Analysis/5. Function.md",
+                "file": "Mathematics/Number Theory/8. Chinese Remainder Theorem.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Real Analysis/5. Function.md"
+                "file": "Mathematics/Number Theory/8. Chinese Remainder Theorem.md"
               }
             }
           },
@@ -205,9 +205,9 @@
   },
   "active": "8c776904e7b0032a",
   "lastOpenFiles": [
-    "Attached Files/Pasted image 20241011115203.png",
     "Mathematics/Real Analysis/4. Series.md",
     "Mathematics/Real Analysis/5. Function.md",
+    "Attached Files/Pasted image 20241011115203.png",
     "Introductory Logic/3. Various Arguments.md",
     "Introductory Logic/5. Dilemmas(DL).md",
     "Personal/Latex Suite Personal Setting.md",
@@ -245,7 +245,6 @@
     "Introductory Logic/Assignment",
     "Independent Study/Untitled",
     "Computer Science/AI & TensorFlow/Reinforcement Learning",
-    "Attached Files/Pasted image 20240911223043.png",
     "이산수학 강의",
     "Mathematics/Number Theory",
     "Introductory Logic",
