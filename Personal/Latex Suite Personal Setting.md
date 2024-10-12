@@ -14,7 +14,7 @@
     {trigger: "sup", replacement: "\\text{sup}($0)", options: "mA"},
     {trigger: "inf", replacement: "\\text{inf}($0)", options: "mA"},
     {trigger: "/", replacement: "\\frac{$0}{$1}", options: "mA"},
-    {trigger: "any", replacement: "\\forall \text{ }", options: "mA"},
+    {trigger: "any", replacement: "\\forall \\text{ }", options: "mA"},
     {trigger: "ext", replacement: "\\exists \text{ }", options: "MA"},
     {trigger: "[[a-zA-Z]][[0-9i]]", replacement: "[[0]]_{[[1]]}", options: "rmA"},
     {trigger: "f", replacement: "f($0)", options: "mA"},
