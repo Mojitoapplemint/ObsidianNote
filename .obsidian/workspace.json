@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Number Theory/8. Chinese Remainder Theorem.md",
+                "file": "Mathematics/Number Theory/9. Some Special Congruences.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Number Theory/8. Chinese Remainder Theorem.md",
+                "file": "Mathematics/Number Theory/9. Some Special Congruences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Number Theory/8. Chinese Remainder Theorem.md",
+                "file": "Mathematics/Number Theory/9. Some Special Congruences.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Number Theory/8. Chinese Remainder Theorem.md"
+                "file": "Mathematics/Number Theory/9. Some Special Congruences.md"
               }
             }
           },
@@ -207,6 +207,7 @@
   "active": "8c776904e7b0032a",
   "lastOpenFiles": [
     "Mathematics/Number Theory/8. Chinese Remainder Theorem.md",
+    "Mathematics/Number Theory/9. Some Special Congruences.md",
     "Personal/Latex Suite Personal Setting.md",
     "Introductory Logic/5. Dilemmas(DL).md",
     "Mathematics/Number Theory/7. Conguents.md",
@@ -230,7 +231,6 @@
     "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
     "Computer Science/Algorithm/2. Asymptotic Notation.md",
     "Mathematics/Number Theory/6. The Fundamental Theorem of Arithmetic.md",
-    "Mathematics/Number Theory/Untitled.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/1. Reinforcement Learning Fundamental.md",
     "Attached Files/Pasted image 20240930132003.png",
