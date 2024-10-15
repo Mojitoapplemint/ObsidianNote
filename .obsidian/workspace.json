@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Real Analysis/5. Function.md",
+                "file": "Introductory Logic/6. Reductio Arugment.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Real Analysis/5. Function.md",
+                "file": "Introductory Logic/6. Reductio Arugment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Real Analysis/5. Function.md",
+                "file": "Introductory Logic/6. Reductio Arugment.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Real Analysis/5. Function.md"
+                "file": "Introductory Logic/6. Reductio Arugment.md"
               }
             }
           },
@@ -205,17 +205,20 @@
   },
   "active": "8c776904e7b0032a",
   "lastOpenFiles": [
+    "Introductory Logic/3. Various Arguments.md",
+    "Introductory Logic/6. Reductio Arugment.md",
+    "Introductory Logic/2. Conditional.md",
+    "Introductory Logic/1. Arguments Fundamental.md",
+    "Introductory Logic/5. Dilemmas(DL).md",
+    "Introductory Logic/4. Conditional Proofs.md",
+    "Mathematics/Real Analysis/5. Function.md",
     "Mathematics/Number Theory/8. Chinese Remainder Theorem.md",
     "Mathematics/Number Theory/9. Some Special Congruences.md",
     "Mathematics/Number Theory/7. Conguents.md",
     "Personal/Latex Suite Personal Setting.md",
-    "Introductory Logic/5. Dilemmas(DL).md",
     "Mathematics/Real Analysis/4. Series.md",
-    "Mathematics/Real Analysis/5. Function.md",
     "Attached Files/Pasted image 20241011115203.png",
-    "Introductory Logic/3. Various Arguments.md",
     "Untitled.md",
-    "Introductory Logic/4. Conditional Proofs.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/Q-Learning.md",
     "Computer Science/Git & GitHub.md",
     "새 폴더",
@@ -223,7 +226,6 @@
     "Personal/술 노트.md",
     "Mathematics/Real Analysis/3. Sequences.md",
     "Mathematics/Real Analysis/1. Real Number Fundamental.md",
-    "Introductory Logic/2. Conditional.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/2. Multi-Armed Bandits.md",
     "Mathematics/Real Analysis/14 Axioms and Lemmas.md",
     "Computer Science/Algorithm/4. Greedy Algorithm.md",
@@ -231,7 +233,6 @@
     "Computer Science/Algorithm/2. Asymptotic Notation.md",
     "Mathematics/Number Theory/6. The Fundamental Theorem of Arithmetic.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
-    "Computer Science/AI & TensorFlow/Reinforcement Learning/1. Reinforcement Learning Fundamental.md",
     "Attached Files/Pasted image 20240930132003.png",
     "Attached Files/Pasted image 20240927105631.png",
     "Attached Files/Pasted image 20240927105608.png",
