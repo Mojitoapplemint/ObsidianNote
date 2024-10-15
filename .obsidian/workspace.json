@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introductory Logic/6. Reductio Arugment.md",
+                "file": "Introductory Logic/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introductory Logic/6. Reductio Arugment.md",
+                "file": "Introductory Logic/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introductory Logic/6. Reductio Arugment.md",
+                "file": "Introductory Logic/Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introductory Logic/6. Reductio Arugment.md"
+                "file": "Introductory Logic/Untitled.md"
               }
             }
           },
@@ -205,8 +205,9 @@
   },
   "active": "8c776904e7b0032a",
   "lastOpenFiles": [
-    "Introductory Logic/3. Various Arguments.md",
     "Introductory Logic/6. Reductio Arugment.md",
+    "Introductory Logic/Untitled.md",
+    "Introductory Logic/3. Various Arguments.md",
     "Introductory Logic/2. Conditional.md",
     "Introductory Logic/1. Arguments Fundamental.md",
     "Introductory Logic/5. Dilemmas(DL).md",
@@ -232,7 +233,6 @@
     "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
     "Computer Science/Algorithm/2. Asymptotic Notation.md",
     "Mathematics/Number Theory/6. The Fundamental Theorem of Arithmetic.md",
-    "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
     "Attached Files/Pasted image 20240930132003.png",
     "Attached Files/Pasted image 20240927105631.png",
     "Attached Files/Pasted image 20240927105608.png",
