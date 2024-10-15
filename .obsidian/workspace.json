@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Algorithm/5. Huffman Code.md",
+                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithm/5. Huffman Code.md",
+                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithm/5. Huffman Code.md",
+                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Algorithm/5. Huffman Code.md"
+                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md"
               }
             }
           },
@@ -187,7 +188,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,6 +206,7 @@
   },
   "active": "8c776904e7b0032a",
   "lastOpenFiles": [
+    "Computer Science/Algorithm/5. Huffman Code.md",
     "Attached Files/Pasted image 20241014224120.png",
     "Attached Files/Pasted image 20241014224020.png",
     "Attached Files/Pasted image 20241014223958.png",
@@ -214,9 +217,7 @@
     "Attached Files/Pasted image 20241014223819.png",
     "Attached Files/Pasted image 20241014223037.png",
     "Attached Files/Pasted image 20241014223017.png",
-    "Attached Files/Pasted image 20241014223001.png",
     "Computer Science/Algorithm/4. Greedy Algorithm.md",
-    "Computer Science/Algorithm/5. Huffman Code.md",
     "Introductory Logic/4. Conditional Proofs.md",
     "Introductory Logic/5. Dilemmas(DL).md",
     "Introductory Logic/6. Reductio Arugment.md",
