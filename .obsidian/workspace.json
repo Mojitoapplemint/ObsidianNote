@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
+                "file": "Mathematics/Number Theory/9. Some Special Congruences.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
+                "file": "Mathematics/Number Theory/9. Some Special Congruences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
+                "file": "Mathematics/Number Theory/9. Some Special Congruences.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md"
+                "file": "Mathematics/Number Theory/9. Some Special Congruences.md"
               }
             }
           },
@@ -206,6 +205,9 @@
   },
   "active": "8c776904e7b0032a",
   "lastOpenFiles": [
+    "Mathematics/Number Theory/7. Conguents.md",
+    "Mathematics/Number Theory/9. Some Special Congruences.md",
+    "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
     "Attached Files/Pasted image 20241015011030.png",
     "Attached Files/Pasted image 20241015010803.png",
     "Computer Science/Algorithm/5. Huffman Code.md",
@@ -217,7 +219,6 @@
     "Attached Files/Pasted image 20241014223841.png",
     "Attached Files/Pasted image 20241014223832.png",
     "Attached Files/Pasted image 20241014223819.png",
-    "Attached Files/Pasted image 20241014223037.png",
     "Computer Science/Algorithm/4. Greedy Algorithm.md",
     "Introductory Logic/4. Conditional Proofs.md",
     "Introductory Logic/5. Dilemmas(DL).md",
@@ -228,8 +229,6 @@
     "Introductory Logic/1. Arguments Fundamental.md",
     "Mathematics/Real Analysis/5. Function.md",
     "Mathematics/Number Theory/8. Chinese Remainder Theorem.md",
-    "Mathematics/Number Theory/9. Some Special Congruences.md",
-    "Mathematics/Number Theory/7. Conguents.md",
     "Personal/Latex Suite Personal Setting.md",
     "Mathematics/Real Analysis/4. Series.md",
     "Untitled.md",
