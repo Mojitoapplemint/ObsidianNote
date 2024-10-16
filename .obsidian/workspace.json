@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Number Theory/9. Some Special Congruences.md",
+                "file": "Mathematics/Real Analysis/5. Function.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Number Theory/9. Some Special Congruences.md",
+                "file": "Mathematics/Real Analysis/5. Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Number Theory/9. Some Special Congruences.md",
+                "file": "Mathematics/Real Analysis/5. Function.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Number Theory/9. Some Special Congruences.md"
+                "file": "Mathematics/Real Analysis/5. Function.md"
               }
             }
           },
@@ -205,8 +206,8 @@
   },
   "active": "8c776904e7b0032a",
   "lastOpenFiles": [
-    "Mathematics/Number Theory/7. Conguents.md",
     "Mathematics/Number Theory/9. Some Special Congruences.md",
+    "Mathematics/Number Theory/7. Conguents.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
     "Attached Files/Pasted image 20241015011030.png",
     "Attached Files/Pasted image 20241015010803.png",
