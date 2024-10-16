@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Real Analysis/5. Function.md",
+                "file": "Introductory Logic/3. Various Arguments.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Real Analysis/5. Function.md",
+                "file": "Introductory Logic/3. Various Arguments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Real Analysis/5. Function.md",
+                "file": "Introductory Logic/3. Various Arguments.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Real Analysis/5. Function.md"
+                "file": "Introductory Logic/3. Various Arguments.md"
               }
             }
           },
@@ -205,6 +205,8 @@
   },
   "active": "8c776904e7b0032a",
   "lastOpenFiles": [
+    "Introductory Logic/4. Conditional Proofs.md",
+    "Mathematics/Real Analysis/5. Function.md",
     "Mathematics/Number Theory/9. Some Special Congruences.md",
     "Mathematics/Number Theory/7. Conguents.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
@@ -220,14 +222,12 @@
     "Attached Files/Pasted image 20241014223832.png",
     "Attached Files/Pasted image 20241014223819.png",
     "Computer Science/Algorithm/4. Greedy Algorithm.md",
-    "Introductory Logic/4. Conditional Proofs.md",
     "Introductory Logic/5. Dilemmas(DL).md",
     "Introductory Logic/6. Reductio Arugment.md",
     "Introductory Logic/3. Various Arguments.md",
     "Introductory Logic/Untitled.md",
     "Introductory Logic/2. Conditional.md",
     "Introductory Logic/1. Arguments Fundamental.md",
-    "Mathematics/Real Analysis/5. Function.md",
     "Mathematics/Number Theory/8. Chinese Remainder Theorem.md",
     "Personal/Latex Suite Personal Setting.md",
     "Mathematics/Real Analysis/4. Series.md",
