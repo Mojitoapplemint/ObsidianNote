@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Real Analysis/5. Function.md",
+                "file": "Computer Science/Algorithm/1. Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Real Analysis/5. Function.md",
+                "file": "Computer Science/Algorithm/1. Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Real Analysis/5. Function.md",
+                "file": "Computer Science/Algorithm/1. Introduction.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Real Analysis/5. Function.md"
+                "file": "Computer Science/Algorithm/1. Introduction.md"
               }
             }
           },
@@ -205,9 +205,10 @@
   },
   "active": "8c776904e7b0032a",
   "lastOpenFiles": [
+    "Computer Science/Algorithm/2. Asymptotic Notation.md",
+    "Mathematics/Real Analysis/5. Function.md",
     "Computer Science/Algorithm/1. Introduction.md",
     "Computer Science/Algorithm/5. Huffman Code.md",
-    "Mathematics/Real Analysis/5. Function.md",
     "Mathematics/Real Analysis/4. Series.md",
     "Mathematics/Real Analysis/3. Sequences.md",
     "Introductory Logic/3. Various Arguments.md",
@@ -241,7 +242,6 @@
     "Personal/술 노트.md",
     "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/2. Multi-Armed Bandits.md",
-    "Mathematics/Real Analysis/14 Axioms and Lemmas.md",
     "Personal",
     "Introductory Logic/Assignment",
     "Independent Study/Untitled",
