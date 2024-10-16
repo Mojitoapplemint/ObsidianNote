@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introductory Logic/3. Various Arguments.md",
+                "file": "Mathematics/Real Analysis/5. Function.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introductory Logic/3. Various Arguments.md",
+                "file": "Mathematics/Real Analysis/5. Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introductory Logic/3. Various Arguments.md",
+                "file": "Mathematics/Real Analysis/5. Function.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introductory Logic/3. Various Arguments.md"
+                "file": "Mathematics/Real Analysis/5. Function.md"
               }
             }
           },
@@ -205,6 +205,7 @@
   },
   "active": "8c776904e7b0032a",
   "lastOpenFiles": [
+    "Introductory Logic/3. Various Arguments.md",
     "Introductory Logic/4. Conditional Proofs.md",
     "Mathematics/Real Analysis/5. Function.md",
     "Mathematics/Number Theory/9. Some Special Congruences.md",
@@ -224,7 +225,6 @@
     "Computer Science/Algorithm/4. Greedy Algorithm.md",
     "Introductory Logic/5. Dilemmas(DL).md",
     "Introductory Logic/6. Reductio Arugment.md",
-    "Introductory Logic/3. Various Arguments.md",
     "Introductory Logic/Untitled.md",
     "Introductory Logic/2. Conditional.md",
     "Introductory Logic/1. Arguments Fundamental.md",
