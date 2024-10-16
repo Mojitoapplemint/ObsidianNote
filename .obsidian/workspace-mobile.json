@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Real Analysis/4. Series.md",
+                "file": "Mathematics/Real Analysis/5. Function.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Mathematics/Real Analysis/4. Series.md",
+            "file": "Mathematics/Real Analysis/5. Function.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Mathematics/Real Analysis/4. Series.md",
+            "file": "Mathematics/Real Analysis/5. Function.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Mathematics/Real Analysis/4. Series.md"
+            "file": "Mathematics/Real Analysis/5. Function.md"
           }
         }
       }
@@ -134,12 +134,39 @@
   },
   "active": "c4b0e9db13a29247",
   "lastOpenFiles": [
-    "Introductory Logic/3. Various Arguments.md",
     "Mathematics/Real Analysis/4. Series.md",
+    "Introductory Logic/Untitled.md",
+    "Mathematics/Real Analysis/5. Function.md",
+    "Mathematics/Number Theory/9. Some Special Congruences.md",
+    "Computer Science/Algorithm/5. Huffman Code.md",
+    "Introductory Logic/6. Reductio Arugment.md",
+    "Introductory Logic/4. Conditional Proofs.md",
+    "Attached Files/Pasted image 20241015011030.png",
+    "Attached Files/Pasted image 20241015010803.png",
+    "Attached Files/Pasted image 20241014224120.png",
+    "Attached Files/Pasted image 20241014224020.png",
+    "Attached Files/Pasted image 20241014223958.png",
+    "Attached Files/Pasted image 20241014223938.png",
+    "Attached Files/Pasted image 20241014223918.png",
+    "Attached Files/Pasted image 20241014223841.png",
+    "Attached Files/Pasted image 20241014223832.png",
+    "Attached Files/Pasted image 20241014223819.png",
+    "/Untitled.md",
+    "/Introductory Logic/Untitled.md",
+    "/Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
+    "/Mathematics/Real Analysis/5. Function.md",
+    "/Mathematics/Number Theory/9. Some Special Congruences.md",
+    "/Mathematics/Number Theory/8. Chinese Remainder Theorem.md",
+    "/Computer Science/Algorithm/5. Huffman Code.md",
+    "/Personal/Latex Suite Personal Setting.md",
+    "/Mathematics/Real Analysis/4. Series.md",
+    "/Mathematics/Number Theory/7. Conguents.md",
+    "/Introductory Logic/6. Reductio Arugment.md",
+    "/Introductory Logic/4. Conditional Proofs.md",
+    "Introductory Logic/3. Various Arguments.md",
     "Mathematics/Real Analysis/3. Sequences.md",
     "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
     "Mathematics/Real Analysis/1. Real Number Fundamental.md",
-    "Computer Science/AI & TensorFlow/Reinforcement Learning/Q-Learning.md",
-    "/Mathematics/Number Theory/8. Chinese Remainder Theorem.md"
+    "Computer Science/AI & TensorFlow/Reinforcement Learning/Q-Learning.md"
   ]
 }
