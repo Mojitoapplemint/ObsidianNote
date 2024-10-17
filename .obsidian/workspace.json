@@ -25,19 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introductory Logic/5. Dilemmas(DL).md",
+                "file": "Mathematics/Number Theory/10. Pseudoprime.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8c776904e7b0032a",
+            "id": "8e04edd9da545cef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Number Theory/10. Pseudoprime.md",
+                "file": "Mathematics/Number Theory/9. Some Special Congruences.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,10 +203,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8c776904e7b0032a",
+  "active": "9ecc18fa3b0d45f0",
   "lastOpenFiles": [
     "Mathematics/Number Theory/9. Some Special Congruences.md",
     "Mathematics/Number Theory/10. Pseudoprime.md",
+    "Introductory Logic/5. Dilemmas(DL).md",
+    "Personal/Latex Suite Personal Setting.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/Q-Learning.md",
     "Computer Science/Algorithm/2. Asymptotic Notation.md",
     "Computer Science/Algorithm/1. Introduction.md",
@@ -229,13 +231,11 @@
     "Attached Files/Pasted image 20241014223832.png",
     "Attached Files/Pasted image 20241014223819.png",
     "Computer Science/Algorithm/4. Greedy Algorithm.md",
-    "Introductory Logic/5. Dilemmas(DL).md",
     "Introductory Logic/6. Reductio Arugment.md",
     "Introductory Logic/Untitled.md",
     "Introductory Logic/2. Conditional.md",
     "Introductory Logic/1. Arguments Fundamental.md",
     "Mathematics/Number Theory/8. Chinese Remainder Theorem.md",
-    "Personal/Latex Suite Personal Setting.md",
     "Untitled.md",
     "Computer Science/Git & GitHub.md",
     "새 폴더",
