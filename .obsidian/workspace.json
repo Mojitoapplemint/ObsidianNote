@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introductory Logic/Statement Logic as Formal System.md",
+                "file": "Mathematics/Real Analysis/5. Function.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Statement Logic as Formal System"
+              "title": "5. Function"
             }
           }
         ],
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -202,13 +203,13 @@
   },
   "active": "9ecc18fa3b0d45f0",
   "lastOpenFiles": [
+    "Introductory Logic/Statement Logic as Formal System.md",
     "Introductory Logic/1. Arguments Fundamental.md",
     "Introductory Logic/2. Conditional.md",
     "Introductory Logic/3. Various Arguments.md",
     "Introductory Logic/4. Conditional Proofs.md",
     "Introductory Logic/5. Dilemmas(DL).md",
     "Introductory Logic/6. Reductio Arugment.md",
-    "Introductory Logic/Statement Logic as Formal System.md",
     "Mathematics/Real Analysis/5. Function.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
     "Mathematics/Number Theory/9. Some Special Congruences.md",
