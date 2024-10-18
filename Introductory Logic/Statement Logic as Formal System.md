@@ -37,10 +37,22 @@ Recursive Rule
 	- A wff preced by a negation symbol is wff
 3) Binary Compounds
 	- "LH grouper -> wff -> binary operator -> wff -> matching RH grouper" is wff
-4) Convention regarding outermost groupers
-	- We don't have to write outermost groupers
-	- $(A)\longleftrightarrow A$
-5) Only formulas that are constructible by application of the above three rules are wff
+4) Only formulas that are constructible by application of the above three rules are wff
 
 ## Governing Operator
 When applying recursive rules, the governing operator is whatever operators
+
+# Theorems
+Entailment ($\vdash$): one statement entails another statement is the latter follows from the former
+- Basically, if an argument is valid, we can use $\vdash$ instead of $\therefore$
+- $(A\&B)\vdash A$ is valid argument
+
+A Sequent is the assertion that one statement follows from zero or more premises
+
+Some statements are logically true or tautologous
+- They are true under any interpretation
+- These are called **Theorem**
+- Prove by deriving it without using any premises
+	- *Supposing the negation of the entire statement(RA)*
+
+
