@@ -35,7 +35,7 @@ Q-Values are stored in a Q-Table
 Method of calculating how much the Q-value for the action taken in the previous state should be changed based on what agent has learned about Q-values for the current state's action
 - *Previous Q-values are updated after each step*
 
-$$TD(s_{t}, a_{t})=r_{t}+\gamma\cdot \max_{a}(s_{t+1}, a)-Q(s_{t, a_{t}})$$
+$$TD(s_{t}, a_{t})=r_{t}+\gamma\cdot \max_{a}(s_{t+1}, a)-Q(s_{t}, a_{t})$$
 - $r_{t}$: Reward taken in the previous state
 - $\gamma$: Discount factor ($0<\gamma\leq 1$)
 - $\max_{a}(s_{t+1}, a)$: Largest Q-value available for current state
