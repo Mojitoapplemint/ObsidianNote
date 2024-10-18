@@ -1,5 +1,5 @@
 # Extra Inference Rules
-## Material Implication(ML)
+## Material Implication(MI)
 $$p \to q \longleftrightarrow\neg p \lor q$$
 
 ## Transposition(TR)
