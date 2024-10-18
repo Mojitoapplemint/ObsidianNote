@@ -20,6 +20,27 @@ DN, DM, BE, TR and ML
 - They can be applied at the same time as other rules of inference
 	- Use them all in a single line
 
-# Well-Formed Formulas
+# Well-Formed Formulas(wff)
 Formula is just a string of logical symbol
-- If these logical symbols are ordered in a way that it can 
+- If these logical symbols are ordered in a way that it can actually say something, then we say that it is well-formed
+
+$A\to B$
+- Well Formed
+
+$A\neg B$
+- Is not Well Formed
+
+Recursive Rule
+1)  Simple Statement
+	- Any capital letter is wff
+2) Unary Comounds
+	- A wff preced by a negation symbol is wff
+3) Binary Compounds
+	- "LH grouper -> wff -> binary operator -> wff -> matching RH grouper" is wff
+4) Convention regarding outermost groupers
+	- We don't have to write outermost groupers
+	- $(A)\longleftrightarrow A$
+5) Only formulas that are constructible by application of the above three rules are wff
+
+## Governing Operator
+When applying recursive rules, the governing operator is whatever operators
