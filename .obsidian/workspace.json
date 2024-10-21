@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Real Analysis/5. Function.md",
+                "file": "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Function"
+              "title": "4. Greatest Common Divisor(GCD)"
             }
           }
         ],
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -203,8 +202,8 @@
   },
   "active": "9ecc18fa3b0d45f0",
   "lastOpenFiles": [
-    "Mathematics/Real Analysis/3. Sequences.md",
     "Mathematics/Real Analysis/5. Function.md",
+    "Mathematics/Real Analysis/3. Sequences.md",
     "Introductory Logic/Statement Logic as Formal System.md",
     "Introductory Logic/1. Arguments Fundamental.md",
     "Introductory Logic/2. Conditional.md",
