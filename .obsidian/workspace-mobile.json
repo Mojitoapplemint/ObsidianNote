@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Number Theory/7. Conguents.md",
+                "file": "Mathematics/Number Theory/8. Chinese Remainder Theorem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Conguents"
+              "title": "8. Chinese Remainder Theorem"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Mathematics/Number Theory/7. Conguents.md",
+            "file": "Mathematics/Number Theory/9. Some Special Congruences.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -164,11 +163,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eca09fa31cb7cc74",
+  "active": "c4b0e9db13a29247",
   "lastOpenFiles": [
-    "Mathematics/Number Theory/9. Some Special Congruences.md",
-    "Mathematics/Number Theory/7. Conguents.md",
     "Mathematics/Number Theory/8. Chinese Remainder Theorem.md",
+    "Mathematics/Number Theory/7. Conguents.md",
+    "Mathematics/Number Theory/9. Some Special Congruences.md",
     "Mathematics/Number Theory/6. The Fundamental Theorem of Arithmetic.md",
     "Mathematics/Number Theory/10. Pseudoprime.md",
     "Introductory Logic/6. Reductio Arugment.md",
