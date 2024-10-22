@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Number Theory/7. Conguents.md",
+                "file": "Mathematics/Number Theory/9. Some Special Congruences.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Conguents"
+              "title": "9. Some Special Congruences"
             }
           },
           {
@@ -35,7 +35,8 @@
               "title": "7. Conguents"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,11 +164,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c4b0e9db13a29247",
+  "active": "eca09fa31cb7cc74",
   "lastOpenFiles": [
     "Mathematics/Number Theory/9. Some Special Congruences.md",
-    "Mathematics/Number Theory/8. Chinese Remainder Theorem.md",
     "Mathematics/Number Theory/7. Conguents.md",
+    "Mathematics/Number Theory/8. Chinese Remainder Theorem.md",
     "Mathematics/Number Theory/6. The Fundamental Theorem of Arithmetic.md",
     "Mathematics/Number Theory/10. Pseudoprime.md",
     "Introductory Logic/6. Reductio Arugment.md",
