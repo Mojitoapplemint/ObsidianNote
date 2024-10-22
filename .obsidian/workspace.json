@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
+                "file": "Mathematics/Real Analysis/5. Function.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Greatest Common Divisor(GCD)"
+              "title": "5. Function"
             }
           }
         ],
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -197,11 +198,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "9ecc18fa3b0d45f0",
   "lastOpenFiles": [
+    "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
     "Mathematics/Real Analysis/5. Function.md",
     "Mathematics/Real Analysis/3. Sequences.md",
     "Introductory Logic/Statement Logic as Formal System.md",
@@ -238,7 +241,6 @@
     "Untitled.md",
     "Computer Science/Git & GitHub.md",
     "새 폴더",
-    "Computer Science/AI & TensorFlow/Reinforcement Learning/Practical Guide.md",
     "Personal",
     "Introductory Logic/Assignment",
     "Independent Study/Untitled",
