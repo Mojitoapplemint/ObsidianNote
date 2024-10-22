@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Number Theory/9. Some Special Congruences.md",
+                "file": "Mathematics/Real Analysis/5. Function.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. Some Special Congruences"
+              "title": "5. Function"
             }
           },
           {
@@ -179,9 +179,11 @@
   },
   "active": "c4b0e9db13a29247",
   "lastOpenFiles": [
+    "Mathematics/Real Analysis/4. Series.md",
+    "Mathematics/Real Analysis/3. Sequences.md",
+    "Mathematics/Number Theory/9. Some Special Congruences.md",
     "Mathematics/Number Theory/8. Chinese Remainder Theorem.md",
     "Mathematics/Number Theory/7. Conguents.md",
-    "Mathematics/Number Theory/9. Some Special Congruences.md",
     "Mathematics/Number Theory/6. The Fundamental Theorem of Arithmetic.md",
     "Mathematics/Number Theory/10. Pseudoprime.md",
     "Introductory Logic/6. Reductio Arugment.md",
@@ -195,7 +197,6 @@
     "/Mathematics/Number Theory/9. Some Special Congruences.md",
     "/Computer Science/AI & TensorFlow/Reinforcement Learning/Q-Learning.md",
     "Mathematics/Real Analysis/5. Function.md",
-    "Mathematics/Real Analysis/4. Series.md",
     "Introductory Logic/Untitled.md",
     "Computer Science/Algorithm/5. Huffman Code.md",
     "Introductory Logic/4. Conditional Proofs.md",
@@ -213,7 +214,6 @@
     "/Introductory Logic/Untitled.md",
     "/Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
     "/Mathematics/Number Theory/8. Chinese Remainder Theorem.md",
-    "/Computer Science/Algorithm/5. Huffman Code.md",
-    "/Personal/Latex Suite Personal Setting.md"
+    "/Computer Science/Algorithm/5. Huffman Code.md"
   ]
 }
