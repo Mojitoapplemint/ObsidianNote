@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -204,9 +203,11 @@
   },
   "active": "9ecc18fa3b0d45f0",
   "lastOpenFiles": [
-    "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
-    "Mathematics/Real Analysis/5. Function.md",
+    "Mathematics/Real Analysis/6. Continuous Function.md",
     "Mathematics/Real Analysis/3. Sequences.md",
+    "Mathematics/Real Analysis/4. Series.md",
+    "Mathematics/Real Analysis/5. Function.md",
+    "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
     "Introductory Logic/Statement Logic as Formal System.md",
     "Introductory Logic/1. Arguments Fundamental.md",
     "Introductory Logic/2. Conditional.md",
@@ -224,7 +225,6 @@
     "Personal/Latex Suite Personal Setting.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/Q-Learning.md",
     "Computer Science/Algorithm/5. Huffman Code.md",
-    "Mathematics/Real Analysis/4. Series.md",
     "Mathematics/Number Theory/7. Conguents.md",
     "Attached Files/Pasted image 20241015011030.png",
     "Attached Files/Pasted image 20241015010803.png",
@@ -239,7 +239,6 @@
     "Computer Science/Algorithm/4. Greedy Algorithm.md",
     "Mathematics/Number Theory/8. Chinese Remainder Theorem.md",
     "Untitled.md",
-    "Computer Science/Git & GitHub.md",
     "새 폴더",
     "Personal",
     "Introductory Logic/Assignment",
