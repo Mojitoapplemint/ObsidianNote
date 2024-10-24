@@ -35,7 +35,8 @@
               "title": "Q-Learning"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,8 +202,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3064aba75a771006",
+  "active": "9ecc18fa3b0d45f0",
   "lastOpenFiles": [
+    "Computer Science/AI & TensorFlow/Reinforcement Learning/1. Reinforcement Learning Fundamental.md",
     "Personal/Latex Suite Personal Setting.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/Q-Learning.md",
     "Untitled.md",
@@ -238,7 +240,6 @@
     "Attached Files/Pasted image 20241014223841.png",
     "Attached Files/Pasted image 20241014223832.png",
     "Attached Files/Pasted image 20241014223819.png",
-    "Computer Science/Algorithm/4. Greedy Algorithm.md",
     "새 폴더",
     "Personal",
     "Introductory Logic/Assignment",
