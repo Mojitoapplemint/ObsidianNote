@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Latex Suite Personal Setting.md",
+                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/1. Reinforcement Learning Fundamental.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Latex Suite Personal Setting"
+              "title": "1. Reinforcement Learning Fundamental"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Real Analysis/5. Function.md",
+                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/Q-Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Function"
+              "title": "Q-Learning"
             }
           }
         ],
@@ -204,9 +204,16 @@
   },
   "active": "9ecc18fa3b0d45f0",
   "lastOpenFiles": [
-    "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
+    "Computer Science/AI & TensorFlow/Reinforcement Learning/1. Reinforcement Learning Fundamental.md",
+    "Personal/Latex Suite Personal Setting.md",
+    "Computer Science/AI & TensorFlow/Reinforcement Learning/Q-Learning.md",
+    "Untitled.md",
+    "Mathematics/Real Analysis/6. Continuous Function.md",
+    "Computer Science/Algorithm/6. Minimum Spanning Tree.md",
     "Mathematics/Real Analysis/5. Function.md",
     "Mathematics/Real Analysis/3. Sequences.md",
+    "Mathematics/Real Analysis/4. Series.md",
+    "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
     "Introductory Logic/Statement Logic as Formal System.md",
     "Introductory Logic/1. Arguments Fundamental.md",
     "Introductory Logic/2. Conditional.md",
@@ -221,10 +228,7 @@
     "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
     "Mathematics/Number Theory/1. Divisibility.md",
     "Mathematics/Number Theory/10. Pseudoprime.md",
-    "Personal/Latex Suite Personal Setting.md",
-    "Computer Science/AI & TensorFlow/Reinforcement Learning/Q-Learning.md",
     "Computer Science/Algorithm/5. Huffman Code.md",
-    "Mathematics/Real Analysis/4. Series.md",
     "Mathematics/Number Theory/7. Conguents.md",
     "Attached Files/Pasted image 20241015011030.png",
     "Attached Files/Pasted image 20241015010803.png",
@@ -236,10 +240,6 @@
     "Attached Files/Pasted image 20241014223841.png",
     "Attached Files/Pasted image 20241014223832.png",
     "Attached Files/Pasted image 20241014223819.png",
-    "Computer Science/Algorithm/4. Greedy Algorithm.md",
-    "Mathematics/Number Theory/8. Chinese Remainder Theorem.md",
-    "Untitled.md",
-    "Computer Science/Git & GitHub.md",
     "새 폴더",
     "Personal",
     "Introductory Logic/Assignment",

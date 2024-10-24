@@ -1,4 +1,4 @@
-8Q-Learning is a type of RL
+Q-Learning is a type of RL
 - Involves and AI agent operating in an environment with states & rewards (inputs) and actions (outputs)
 - Involves **model-free** environments
 	- The AI agents is not seeking to learn about an underlying mathematical model probability distribution
@@ -43,6 +43,6 @@ $$TD(s_{t}, a_{t})=r_{t}+\gamma\cdot \max_{a}(s_{t+1}, a)-Q(s_{t}, a_{t})$$
 # Bellman Equation
 Tells what new value to use as the Q-value for the action taken in the previous state
 - Relies on a both the old Q-value for the action taken in the previous state and what has been learned after moving to the next state(TD)
-- Includesa learning rate parameter $\alpha$ that defines how quickly Q-values are adjusted
+- Includes a learning rate parameter $\alpha$ that defines how quickly Q-values are adjusted
 $$Q^{new}(s_{t}, a_{t})=Q^{old}(s_{t},a_{t})+\alpha\cdot TD(s_{t},a_{t})$$
 
