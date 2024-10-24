@@ -49,8 +49,7 @@
               "title": "Q-Learning"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +123,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Mathematics/Number Theory/9. Some Special Congruences.md",
+            "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -178,11 +177,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eca09fa31cb7cc74",
+  "active": "c4b0e9db13a29247",
   "lastOpenFiles": [
     "Computer Science/AI & TensorFlow/Reinforcement Learning/Q-Learning.md",
-    "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/1. Reinforcement Learning Fundamental.md",
+    "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
     "Mathematics/Number Theory/7. Conguents.md",
     "Mathematics/Number Theory/8. Chinese Remainder Theorem.md",
     "Mathematics/Real Analysis/6. Continuous Function.md",
