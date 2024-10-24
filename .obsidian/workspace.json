@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
+                "file": "Mathematics/Real Analysis/6. Continuous Function.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Finite Markov Decision Process"
+              "title": "6. Continuous Function"
             }
           }
         ],
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -218,6 +217,7 @@
   },
   "active": "a9ef47fa0a82a66e",
   "lastOpenFiles": [
+    "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/Q-Learning.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/1. Reinforcement Learning Fundamental.md",
     "Personal/Latex Suite Personal Setting.md",
@@ -235,7 +235,6 @@
     "Introductory Logic/4. Conditional Proofs.md",
     "Introductory Logic/5. Dilemmas(DL).md",
     "Introductory Logic/6. Reductio Arugment.md",
-    "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
     "Mathematics/Number Theory/9. Some Special Congruences.md",
     "Computer Science/Algorithm/2. Asymptotic Notation.md",
     "Computer Science/Algorithm/1. Introduction.md",
