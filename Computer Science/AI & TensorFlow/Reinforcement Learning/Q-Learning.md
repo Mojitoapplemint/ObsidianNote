@@ -20,7 +20,7 @@ A Q-value indicates the quality of a particular action $a$ in a given states, s
 $$Q(s,a)$$
 - Current estimates of the sum of future rewards
 	- How much additional rewards we can accumulate through all remaining steps in the current episode if the agent is in state $s$ and takes action $a$
-- Increase as the ai agent gets closer and cloer to the highest reward
+- Increase as the ai agent gets closer and closer to the highest reward
 
 ## Q-Table
 Q-Values are stored in a Q-Table
