@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,12 +178,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d7b1a38d7530a5da",
+  "active": "eca09fa31cb7cc74",
   "lastOpenFiles": [
-    "Computer Science/AI & TensorFlow/Reinforcement Learning/1. Reinforcement Learning Fundamental.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/Q-Learning.md",
-    "Mathematics/Number Theory/7. Conguents.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
+    "Computer Science/AI & TensorFlow/Reinforcement Learning/1. Reinforcement Learning Fundamental.md",
+    "Mathematics/Number Theory/7. Conguents.md",
     "Mathematics/Number Theory/8. Chinese Remainder Theorem.md",
     "Mathematics/Real Analysis/6. Continuous Function.md",
     "Computer Science/Algorithm/6. Minimum Spanning Tree.md",
