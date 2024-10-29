@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Real Analysis/5. Function.md",
+                "file": "Mathematics/Real Analysis/6. Continuous Function.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Function"
+              "title": "6. Continuous Function"
             }
           },
           {
@@ -138,7 +138,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/1. Reinforcement Learning Fundamental.md",
+            "file": "Mathematics/Real Analysis/6. Continuous Function.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -194,6 +194,10 @@
   },
   "active": "d7b1a38d7530a5da",
   "lastOpenFiles": [
+    "Mathematics/Real Analysis/5. Function.md",
+    "Mathematics/Number Theory/Untitled.md",
+    "/Mathematics/Number Theory/11. Euler's Theorem.md",
+    "/Mathematics/Number Theory/Untitled.md",
     "Mathematics/Real Analysis/6. Continuous Function.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/1. Reinforcement Learning Fundamental.md",
     "Mathematics/Number Theory/9. Some Special Congruences.md",
@@ -211,15 +215,11 @@
     "Computer Science/AI & TensorFlow/Reinforcement Learning/Q-Learning.md",
     "Mathematics/Number Theory/11. Euler's Theorem.md",
     "/Mathematics/Number Theory/10. Pseudoprime.md",
-    "/Mathematics/Number Theory/11. Euler's Theorem.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/2. Multi-Armed Bandits.md",
     "/Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
     "Mathematics/Number Theory/8. Chinese Remainder Theorem.md",
     "Computer Science/Algorithm/6. Minimum Spanning Tree.md",
-    "/Untitled.md",
-    "/Mathematics/Real Analysis/5. Function.md",
-    "/Computer Science/Algorithm/6. Minimum Spanning Tree.md",
     "Attached Files/Pasted image 20241015011030.png",
     "Attached Files/Pasted image 20241015010803.png",
     "Attached Files/Pasted image 20241014224120.png",
