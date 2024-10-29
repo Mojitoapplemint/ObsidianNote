@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Number Theory/9. Some Special Congruences.md",
+                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/1. Reinforcement Learning Fundamental.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. Some Special Congruences"
+              "title": "1. Reinforcement Learning Fundamental"
             }
           },
           {
@@ -138,7 +138,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Mathematics/Number Theory/9. Some Special Congruences.md",
+            "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/1. Reinforcement Learning Fundamental.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -194,8 +194,8 @@
   },
   "active": "d7b1a38d7530a5da",
   "lastOpenFiles": [
-    "Mathematics/Real Analysis/6. Continuous Function.md",
     "Mathematics/Number Theory/9. Some Special Congruences.md",
+    "Mathematics/Real Analysis/6. Continuous Function.md",
     "Mathematics/Number Theory/10. Pseudoprime.md",
     "Mathematics/Number Theory/5. Euclidean Algorithm.md",
     "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
