@@ -12,11 +12,13 @@ Decentralized Supervisory control architecture is composed of $n$ local supervis
 - Supervisor is denoted by $SV_{i} \text{ }(1\leq i\leq n)$ and has the corresponding learning unit denoted by $LU_{i}$
 
 ![[Pasted image 20241030231152.png|400]]
-- $X$ is set of states of the DES
-- $\sum$ is a set of events
-	- $\sum^{c}\subseteq \sum$ is a set of controllable events
-	- $\sum^{o}\subseteq \sum$ is a set of observable events
-- And $\sum^{c/o}_{i}$ is a set of controllable/observable events of $SV_{i}$
-	- $\sum^{uc/uo}_{i}$ is a set of uncontrollable/unobservable events of $SV_{i}$
-- 
+$X$ is set of states of the DES
+
+$\sum$ is a set of events
+- $\sum^{c}\subseteq \sum$ is a set of controllable events
+- $\sum^{o}\subseteq \sum$ is a set of observable events
+
+And $\sum^{c/o}_{i}$ is a set of controllable/observable events of $SV_{i}$
+- $\sum^{uc/uo}_{i}$ is a set of uncontrollable/unobservable events of $SV_{i}$
+
 
