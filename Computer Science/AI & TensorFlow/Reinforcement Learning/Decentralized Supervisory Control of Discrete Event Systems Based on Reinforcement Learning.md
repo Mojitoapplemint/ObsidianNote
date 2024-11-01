@@ -22,3 +22,19 @@ And $\sum^{c/o}_{i}$ is a set of controllable/observable events of $SV_{i}$
 - $\sum^{uc/uo}_{i}$ is a set of uncontrollable/unobservable events of $SV_{i}$
 
 $M^{e}_{i}(\sigma)=\large\{^{\sigma}_{\epsilon}$
+
+
+1. Initalize $T_i, R^1_i$ and $\eta_i$ of all $SV_i$
+2. Initialize $Q$ values for all $SV_i$ by EQ.(24)
+3. Repeat until any $s_i$ is a terminal state
+	(For each episode):  
+    a. Initialize a state $s_i \leftarrow x_0$ for all $SV_i$
+    b. Repeat for each $SV_i$ 
+	(for each step of an episode):
+		i. Select a control pattern $\pi_i\in\Pi_i(s_i)$ based on $Q_i$ values by $SV_{i}$ (As a result, a net control pattern $\pi$ is assigned to the DES G)
+		ii. Observe the occurence of event $\sigma^{o}_{i}\in \sum^{o}_{i}$
+		iii. Acquire reward rewards $r^{1}_{i}$ and $r^{2}_{i}$
+		iv. Make a transition $s_{i}\longrightarrow^{\sigma^{o}_{i}} s'_{i}(=g_{i}(s, \sigma^{o}_{i}))$ in $SV_{i}$
+		v. Update $T_{i}(s_{i}, \sigma^{o}_{i})$, $R^{1}_{i}(s_{i}, \pi_{i})$, and $\eta_{i}(s_{i}, \sigma^{o'}_{i})$ by Eq.(21), Eq.(22), and Eq.(23) respectively
+		vi. Update the $Q_{i}$ values by Eq. 24
+		vii. $s_{i}\leftarrow s'_{i}$
