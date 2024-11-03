@@ -82,4 +82,11 @@ $Q(s_{i}, \pi_{i})$
 $R_{i}(s_{i}, \pi_{i}, s'_{i})$
 - Expected reward via transition from $s_{i}$ to $s_{i}'$ by selecting $\pi_{i}$
 
-$$R_{i}(s_{i}, \pi_{i}, s'_{i})=R_{i}(s_{i}, \pi_{i})+R_{i}(s_{i}, \sigma^{o}_{i}, s'_{i})$$
+$$R_{i}(s_{i}, \pi_{i}, s'_{i})=R^{1}_{i}(s_{i}, \pi_{i})+R^{2}_{i}(s_{i}, \sigma^{o}_{i}, s'_{i})$$
+- $R^{1}_{i}(s_{i}, \pi_{i})$: Expected reward of $\pi_{i}$ at $s_{i}$
+	- Intuitively, it represents for the cost to disable controllable events *which is not included in the control pattern*
+	- **Q)** What the hell does this mean?
+- $R^{2}_{i}(s_{i}, \sigma^{o}_{i}, s'_{i})$: Expected reward when $SV_{i}$ observes an event $\sigma^{o}_{i}\in \sum^{o}_{i}$, and make transition from $s_{i}$ to $s_{i}'$
+	- **Q)** Why reward is assign for observation?
+
+## $\eta$ Stuff: Can't understand AT ALL
