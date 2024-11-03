@@ -68,27 +68,18 @@ $$\pi=\bigcap^{n}_{i=1}\pi_{i}$$
 - When $\pi$ occurs, DES changes to a new state and the control pattern is updated
 
 ## Bellman Optimal Equation
-$P_{i}(x_{i}, \pi_{i}, s'_{i})$
+$P_{i}(s_{i}, \pi_{i}, s'_{i})$
 - Probability of transition from $s_{i}$ to $s_{i}'$ when $SV_{i}$ selects $\pi_{i}$
+$$P_{i}(s_{i}, \pi_{i}, s'_{i}) = \sum_{\sigma^{o}_{i}\in\left\{ \pi_{i}\cap \sum^{o}_{i} \right\}}P^{1}_{i}(s_{i}, \pi_{i}, \sigma^{o}_{i})\cdot P^{2}_{i}(s_{i}, \sigma^{o}_{i}, s'_{i})$$
+- $P^{1}_{i}(s_{i}, \pi_{i}, \sigma^{o}_{i})$: Probability that $SV_{i}$ observes the occurence of an event $\sigma^{o}_{i}\in\left\{ \pi_{i}\cap \sum^{o}_{i} \right\}$, when $SV_{i}$ selects $\pi_{i}$ at $s_{i}$
+- $P^{2}_{i}(s_{i}, \sigma^{o}_{i}, s'_{i})$: Probability that $SV_{i}$ makes a transition from $s_{i}$ to $s_{i}'$ by obeserved event $\sigma^{o}_{i}$
+
+
 $Q(s_{i}, \pi_{i})$
 - Discounted exprected total reward in the case that $SV_{i}$ selects $\pi_{i}$ at $s_{i}$
-$R(s_{i}, \pi_{i}, s'_{i})$
+
+
+$R_{i}(s_{i}, \pi_{i}, s'_{i})$
 - Expected reward via transition from $s_{i}$ to $s_{i}'$ by selecting $\pi_{i}$
 
-
-
-
-1. Initalize $T_i, R^1_i$ and $\eta_i$ of all $SV_i$
-2. Initialize $Q$ values for all $SV_i$ by EQ.(24)
-3. Repeat until any $s_i$ is a terminal state
-	(For each episode):  
-    a. Initialize a state $s_i \leftarrow x_0$ for all $SV_i$
-    b. Repeat for each $SV_i$ 
-	(for each step of an episode):
-		i. Select a control pattern $\pi_i\in\Pi_i(s_i)$ based on $Q_i$ values by $SV_{i}$ (As a result, a net control pattern $\pi$ is assigned to the DES G)
-		ii. Observe the occurence of event $\sigma^{o}_{i}\in \sum^{o}_{i}$
-		iii. Acquire reward rewards $r^{1}_{i}$ and $r^{2}_{i}$
-		iv. Make a transition $s_{i}\longrightarrow^{\sigma^{o}_{i}} s'_{i}(=g_{i}(s, \sigma^{o}_{i}))$ in $SV_{i}$
-		v. Update $T_{i}(s_{i}, \sigma^{o}_{i})$, $R^{1}_{i}(s_{i}, \pi_{i})$, and $\eta_{i}(s_{i}, \sigma^{o'}_{i})$ by Eq.(21), Eq.(22), and Eq.(23) respectively
-		vi. Update the $Q_{i}$ values by Eq. 24
-		vii. $s_{i}\leftarrow s'_{i}$
+$$R_{i}(s_{i}, \pi_{i}, s'_{i})=R_{i}(s_{i}, \pi_{i})+R_{i}(s_{i}, \sigma^{o}_{i}, s'_{i})$$
