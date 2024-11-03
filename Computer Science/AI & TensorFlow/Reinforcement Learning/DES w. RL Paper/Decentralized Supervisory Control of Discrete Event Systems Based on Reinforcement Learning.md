@@ -8,6 +8,7 @@ Because of inherent restrictions of the systems or controllers, many DESs are of
 Supervisors exist locally and control the DES jointly without direct negotiation between the supervisors. Each supervisor obtains a control pattern through learning without knowl edge of detailed specifications and precise costs in the de centralized DES.
 
 # System Model
+## Terminologies and Notations
 Decentralized Supervisory control architecture is composed of $n$ local supervisors and a DES
 - Supervisor is denoted by $SV_{i} \text{ }(1\leq i\leq n)$ and has the corresponding learning unit denoted by $LU_{i}$
 
@@ -35,7 +36,15 @@ Active Event Set
 $F_{G}(x)=\left\{ \sigma\in \sum:f(x,\sigma)\text{ is defined} \right\}$
 
 Each supervisor oberves the occurrence of events in the DES through the corresponding projection
-- $M^{e}_{i}:\sum\to \sum^{o}_{i}$
+- $M^{e}_{i}:\sum\to \sum^{o*}_{i}\cup \{\epsilon\}$: Projection for $SV_{i}$
+$$M^{e}_{i}(\epsilon)=\epsilon$$
+$$\forall \text{ }t\in \sum*, \forall \text{ }\sigma\in \sum \text{ , }M^{e}_{i}(t\sigma)=\large\{^{M^{e}_{i}(t)\sigma \text{ (if }\sigma\in \sum^{o}_{i})}_{M^{e}_{i}(t) \text{ (if }\sigma\in \sum^{uo}_{i})}$$
+
+**Q)** Why $t$ and $\sigma$ are multiplied?
+
+## Model of $SV_{i}$
+Automaton Model $\left( S_{i}, \sum^{o}_{i}, g_{i}, x_{0} \right)$
+- $S_{i}$
 
 
 
