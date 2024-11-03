@@ -21,7 +21,9 @@ $\sum$ is a set of events
 And $\sum^{c/o}_{i}$ is a set of controllable/observable events of $SV_{i}$
 - $\sum^{uc/uo}_{i}$ is a set of uncontrollable/unobservable events of $SV_{i}$
 
-$M^{e}_{i}(\sigma)=\large\{^{\sigma}_{\epsilon}$
+$f$ is state trainsition funciton of DES- 
+
+
 
 
 1. Initalize $T_i, R^1_i$ and $\eta_i$ of all $SV_i$
