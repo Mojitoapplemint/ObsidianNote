@@ -57,7 +57,25 @@ $$M^{s}_{i}(t,u)=\left\{ x\in X\text{ | }\exists \text{ }v\in \sum*, M^{e}_{i}(v
 - This gives a set of states of the DES which is reachable from state $t$ vis string observed as $u$
 
 Then, $g_{i}$ is described as
-$$g_{i}(s_{i}, \sigma)=\large\cup_{x\in S_{i}} M^{s}_{i}(x, )$$
+$$g_{i}(s_{i}, \sigma)=\bigcup_{x\in S_{i}} M^{s}_{i}(x, \sigma)$$
+
+Active Event Set for $SV_{i}$ at state $s_{i}$ defined as
+$$F_{i}(s_{i})=\bigcup_{x\in S_{i}}M^{s}_{i}(x, \sigma)$$
+
+DES receives a net control pattern $\pi$, which is the intersection of each supervisor's control pattern
+$$\pi=\bigcap^{n}_{i=1}\pi_{i}$$
+- $\pi_{i}\in \Pi_{i}(s_{i})$ is selected control pattern based on the current state $s_{i}$
+- When $\pi$ occurs, DES changes to a new state and the control pattern is updated
+
+## Bellman Optimal Equation
+$P_{i}(x_{i}, \pi_{i}, s'_{i})$
+- Probability of transition from $s_{i}$ to $s_{i}'$ when $SV_{i}$ selects $\pi_{i}$
+$Q(s_{i}, \pi_{i})$
+- Discounted exprected total reward in the case that $SV_{i}$ selects $\pi_{i}$ at $s_{i}$
+$R(s_{i}, \pi_{i}, s'_{i})$
+- Expected reward via transition from $s_{i}$ to $s_{i}'$ by selecting $\pi_{i}$
+
+
 
 
 1. Initalize $T_i, R^1_i$ and $\eta_i$ of all $SV_i$
