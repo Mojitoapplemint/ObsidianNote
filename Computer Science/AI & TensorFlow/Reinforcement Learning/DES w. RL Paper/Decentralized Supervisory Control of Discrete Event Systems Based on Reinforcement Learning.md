@@ -21,8 +21,21 @@ $\sum$ is a set of events
 And $\sum^{c/o}_{i}$ is a set of controllable/observable events of $SV_{i}$
 - $\sum^{uc/uo}_{i}$ is a set of uncontrollable/unobservable events of $SV_{i}$
 
-$f$ is state trainsition funciton of DES- 
+$\sum^{*}$: Zero or more repetition of elements in $\sum$
+- Set of all finite strins over $\sum$, including $\epsilon$
+- {"a", "b", "c"}* = { ε, "a", "b", "c", "aa", "ab", "ac", "ba", "bb", "bc", "ca", "cb", "cc", "aaa", "aab", ...}
 
+$f$ is state trainsition funciton of DES
+- Deterministic Transition Function: a function that defines the next state of a system based on the current state and input
+$f:X\times \sum^{*}\to X$
+- $f(x, \epsilon)=x$
+- $\forall \text{ }t\in \sum^{*}, \forall \text{ }\sigma\in \sum$, $f(x, t\sigma)=f(f(x,t),\sigma)$
+
+Active Event Set
+$F_{G}(x)=\left\{ \sigma\in \sum:f(x,\sigma)\text{ is defined} \right\}$
+
+Each supervisor oberves the occurrence of events in the DES through the corresponding projection
+- $M^{e}_{i}:\sum\to \sum^{o}_{i}$
 
 
 
