@@ -41,11 +41,23 @@ $$M^{e}_{i}(\epsilon)=\epsilon$$
 $$\forall \text{ }t\in \sum*, \forall \text{ }\sigma\in \sum \text{ , }M^{e}_{i}(t\sigma)=\large\{^{M^{e}_{i}(t)\sigma \text{ (if }\sigma\in \sum^{o}_{i})}_{M^{e}_{i}(t) \text{ (if }\sigma\in \sum^{uo}_{i})}$$
 
 **Q)** Why $t$ and $\sigma$ are multiplied?
+**Q)** Where does that $e$ come from?
 
 ## Model of $SV_{i}$
 Automaton Model $\left( S_{i}, \sum^{o}_{i}, g_{i}, x_{0} \right)$
-- $S_{i}$
+- $S_{i}\subseteq 2^{X}$: set of states of $SV_{i}$
+	- Candidates of the current state of the DES G
+- $g_{i}$: $S_{i}\times \sum^{o*}_{i}\to S_{i}$ : State Trainsition function 
 
+**Q)** For $g_{i}$ the output supposed to be the next state, but it returns the current state again
+
+
+To determine the state of $SV_{i}$, a state estimate function $M^{s}_{i}:X\times \sum^{o*}_{i}\to 2^{X}$ is defined as 
+$$M^{s}_{i}(t,u)=\left\{ x\in X\text{ | }\exists \text{ }v\in \sum*, M^{e}_{i}(v)=u, f(t, v)=x \right\}$$
+- This gives a set of states of the DES which is reachable from state $t$ vis string observed as $u$
+
+Then, $g_{i}$ is described as
+$$g_{i}(s_{i}, \sigma)=\large\cup_{x\in S_{i}} M^{s}_{i}(x, )$$
 
 
 1. Initalize $T_i, R^1_i$ and $\eta_i$ of all $SV_i$
