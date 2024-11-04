@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,11 +214,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a9ef47fa0a82a66e",
+  "active": "9ecc18fa3b0d45f0",
   "lastOpenFiles": [
-    "Mathematics/Real Analysis/7. Derivatives.md",
-    "Mathematics/Real Analysis/6. Continuous Function.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/1. Reinforcement Learning Fundamental.md",
+    "Mathematics/Real Analysis/6. Continuous Function.md",
+    "Mathematics/Real Analysis/7. Derivatives.md",
     "Mathematics/Real Analysis/5. Function.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
     "Attached Files/Pasted image 20241103180750.png",
