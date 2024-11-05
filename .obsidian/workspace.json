@@ -50,6 +50,18 @@
             }
           },
           {
+            "id": "4cb6dbd5d1d47510",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
+          },
+          {
             "id": "a9ef47fa0a82a66e",
             "type": "leaf",
             "state": {
@@ -64,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -228,7 +240,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a796f07795e8153f",
+  "active": "4cb6dbd5d1d47510",
   "lastOpenFiles": [
     "Mathematics/Number Theory/9. Some Special Congruences.md",
     "Mathematics/Number Theory/12. Perfect Number and Mersenne Primes.md",
