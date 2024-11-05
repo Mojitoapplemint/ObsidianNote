@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "a796f07795e8153f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Number Theory/12. The Sum and Number of Divisors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12. The Sum and Number of Divisors"
+            }
+          },
+          {
             "id": "a9ef47fa0a82a66e",
             "type": "leaf",
             "state": {
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,12 +228,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a9ef47fa0a82a66e",
+  "active": "9ecc18fa3b0d45f0",
   "lastOpenFiles": [
+    "Mathematics/Number Theory/12. The Sum and Number of Divisors.md",
+    "Mathematics/Number Theory/11. Euler's Theorem.md",
+    "Mathematics/Number Theory/9. Some Special Congruences.md",
     "Mathematics/Number Theory/7. Conguents.md",
     "Mathematics/Number Theory/8. Chinese Remainder Theorem.md",
-    "Mathematics/Number Theory/9. Some Special Congruences.md",
-    "Mathematics/Number Theory/11. Euler's Theorem.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/1. Reinforcement Learning Fundamental.md",
     "Mathematics/Real Analysis/6. Continuous Function.md",
     "Personal/Latex Suite Personal Setting.md",
@@ -227,7 +242,6 @@
     "Personal/듣고 싶은 강의.md",
     "Personal/사이드 프로젝트 아이디어.md",
     "Mathematics/Real Analysis/7. Derivatives.md",
-    "Untitled.md",
     "Untitled 1.md",
     "Mathematics/Real Analysis/5. Function.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
