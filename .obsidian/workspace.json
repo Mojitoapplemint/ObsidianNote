@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Real Analysis/6. Continuous Function.md",
+                "file": "Mathematics/Number Theory/9. Some Special Congruences.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. Continuous Function"
+              "title": "9. Some Special Congruences"
             }
           }
         ],
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "precision",
+                "query": "complete residue",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,11 +102,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300.5
   },
   "right": {
     "id": "0ef5718468da6c72",
@@ -216,6 +217,9 @@
   },
   "active": "9ecc18fa3b0d45f0",
   "lastOpenFiles": [
+    "Mathematics/Number Theory/9. Some Special Congruences.md",
+    "Mathematics/Real Analysis/6. Continuous Function.md",
+    "Mathematics/Number Theory/11. Euler's Theorem.md",
     "Personal/Latex Suite Personal Setting.md",
     "Personal/술 노트.md",
     "Personal/듣고 싶은 강의.md",
@@ -224,7 +228,6 @@
     "Untitled.md",
     "Untitled 1.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/1. Reinforcement Learning Fundamental.md",
-    "Mathematics/Real Analysis/6. Continuous Function.md",
     "Mathematics/Real Analysis/5. Function.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
     "Attached Files/Pasted image 20241103180750.png",
@@ -236,7 +239,6 @@
     "Attached Files/Pasted image 20241030231152.png",
     "Computer Science/Algorithm/6. Minimum Spanning Tree.md",
     "Mathematics/Number Theory/10. Pseudoprime.md",
-    "Mathematics/Number Theory/11. Euler's Theorem.md",
     "Mathematics/Number Theory/Untitled.md",
     "Introductory Logic/7. Statement Logic as Formal System.md",
     "Mathematics/Number Theory/7. Conguents.md",
@@ -244,7 +246,6 @@
     "Computer Science/AI & TensorFlow/Reinforcement Learning/2. Multi-Armed Bandits.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
     "Mathematics/Real Analysis/3. Sequences.md",
-    "Mathematics/Number Theory/4. Greatest Common Divisor(GCD).md",
     "Attached Files/Pasted image 20241015011030.png",
     "Attached Files/Pasted image 20241015010803.png",
     "Attached Files/Pasted image 20241014224120.png",
