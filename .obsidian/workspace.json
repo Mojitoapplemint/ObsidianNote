@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,8 +102,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -215,11 +214,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9ecc18fa3b0d45f0",
+  "active": "a9ef47fa0a82a66e",
   "lastOpenFiles": [
+    "Mathematics/Number Theory/7. Conguents.md",
+    "Mathematics/Number Theory/8. Chinese Remainder Theorem.md",
     "Mathematics/Number Theory/9. Some Special Congruences.md",
-    "Mathematics/Real Analysis/6. Continuous Function.md",
     "Mathematics/Number Theory/11. Euler's Theorem.md",
+    "Computer Science/AI & TensorFlow/Reinforcement Learning/1. Reinforcement Learning Fundamental.md",
+    "Mathematics/Real Analysis/6. Continuous Function.md",
     "Personal/Latex Suite Personal Setting.md",
     "Personal/술 노트.md",
     "Personal/듣고 싶은 강의.md",
@@ -227,7 +229,6 @@
     "Mathematics/Real Analysis/7. Derivatives.md",
     "Untitled.md",
     "Untitled 1.md",
-    "Computer Science/AI & TensorFlow/Reinforcement Learning/1. Reinforcement Learning Fundamental.md",
     "Mathematics/Real Analysis/5. Function.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
     "Attached Files/Pasted image 20241103180750.png",
@@ -241,11 +242,9 @@
     "Mathematics/Number Theory/10. Pseudoprime.md",
     "Mathematics/Number Theory/Untitled.md",
     "Introductory Logic/7. Statement Logic as Formal System.md",
-    "Mathematics/Number Theory/7. Conguents.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/Q-Learning.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/2. Multi-Armed Bandits.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
-    "Mathematics/Real Analysis/3. Sequences.md",
     "Attached Files/Pasted image 20241015011030.png",
     "Attached Files/Pasted image 20241015010803.png",
     "Attached Files/Pasted image 20241014224120.png",
