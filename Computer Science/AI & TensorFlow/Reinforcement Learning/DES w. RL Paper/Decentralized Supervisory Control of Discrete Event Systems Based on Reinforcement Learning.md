@@ -91,8 +91,29 @@ $$R_{i}(s_{i}, \pi_{i}, s'_{i})=R^{1}_{i}(s_{i}, \pi_{i})+R^{2}_{i}(s_{i}, \sigm
 
 $T^{*}(s_{i}, \sigma^{o}_{i})$: Discounted expected total reward when $SV_{i}$ observes $\sigma^{o}_{i}$ at state $s_{i}$ and selects the control pattern which has the maximum $Q^{*}_{i}$ value at the new state
 $$T^{*}(s_{i}, \sigma^{o}_{i})=\sum_{s'_{i}\in S_{i}}\left[P^{2}_{i}(s_{i}, \sigma^{o}_{i}, s'_{i})\cdot \left(R^{2}_{i}(s_{i}, \sigma^{o}_{i}, s'_{i})+\gamma\max_{\pi'_{i}\in\Pi_{i}(s_{i})}Q^{*}_{i}(s'_{i}, \pi'_{i})\right)\right]$$
+---
+# Equations
+## Eq 1.
+$$Q(x,a)\leftarrow Q(x,a)+\alpha[r+\gamma\max_{a'}Q(x',a')-Q(x,a)]$$
+- Typical Q Value update equation
+- $\alpha$: Learning Rate
+- $\gamma$: DIscount factor
 
-## $\eta$ Stuff: Can't understand AT ALL
+## Eq 2.
+$$\sum^{\infty}_{k=1}a_{k}(x,a) =\infty$$
+$$\sum^{\infty}_{k=1}a_{k}(x,a)^{2}< \infty $$
+- $a_{k}(x,a)$ Learning Rate at state $x$ when $a$ is selected $k$ times
+- The Q values converges with probability 1 to a true value as the number of updates of the Q values goes to the infinity if two conditions above satisfied
+
+
+## Eq 3, 4.
+$f$ is state trainsition funciton of DES
+- Deterministic Transition Function: a function that defines the next state of a system based on the current state and input
+$f:X\times \sum^{*}\to X$
+- $f(x, \epsilon)=x$
+- $\forall \text{ }t\in \sum^{*}, \forall \text{ }\sigma\in \sum$, $f(x, t\sigma)=f(f(x,t),\sigma)$
+
+
 
 # Learning Algorithm
 

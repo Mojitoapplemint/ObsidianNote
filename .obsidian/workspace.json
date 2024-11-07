@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
+                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DES ReinforcementLearning 2005"
+              "title": "Backlinks for Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning"
             }
           },
           {
@@ -133,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
+                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from DES ReinforcementLearning 2005"
+              "title": "Outgoing links from Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning"
             }
           },
           {
@@ -160,10 +160,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf"
+                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of DES ReinforcementLearning 2005"
+              "title": "Outline of Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning"
             }
           }
         ]
@@ -187,20 +187,19 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c676a6f27e7c1e25",
+  "active": "ae1a16af475d5764",
   "lastOpenFiles": [
+    "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
+    "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
     "Textbook/A First Course in Complex Analysis.pdf",
     "Textbook/Mathematics and Statistics for the Quantitative Sciences.pdf",
-    "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
     "Textbook/A friendly approach to complex analysis.pdf",
     "Textbook/Object-Oriented Data Structures Using Java-Fourth Edition.pdf",
     "Textbook/Discrete Mathematics With Graph Theory 3ed (2005).pdf",
     "Textbook/Introduction to linear and matrix algebra.pdf",
     "Textbook/Calculus_ Single and Multivariable.pdf",
-    "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
     "Textbook/Elementary Number Theory & its applications.pdf",
     "Textbook",
-    "Textbook/Introduction to Reinforcement Learning.pdf",
     "To-do List.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/Q-Learning.md",
     "Personal/Latex Suite Personal Setting.md",
