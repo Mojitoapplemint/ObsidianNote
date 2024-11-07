@@ -35,10 +35,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf"
+                "file": "Textbook/A First Course in Complex Analysis.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "DES ReinforcementLearning 2005"
+              "title": "A First Course in Complex Analysis"
             }
           }
         ]
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
+                "file": "Textbook/A First Course in Complex Analysis.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning"
+              "title": "Backlinks for A First Course in Complex Analysis"
             }
           },
           {
@@ -132,12 +132,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
+                "file": "Textbook/A First Course in Complex Analysis.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning"
+              "title": "Outgoing links from A First Course in Complex Analysis"
             }
           },
           {
@@ -159,10 +159,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md"
+                "file": "Textbook/A First Course in Complex Analysis.pdf"
               },
               "icon": "lucide-list",
-              "title": "Outline of Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning"
+              "title": "Outline of A First Course in Complex Analysis"
             }
           }
         ]
@@ -188,11 +188,18 @@
   },
   "active": "c57e60c07883afd8",
   "lastOpenFiles": [
-    "Textbook/Elementary Number Theory & its applications -- Kenneth H_ Rosen -- 6th, 2011 -- Pearson -- 0321500318 -- 4f17982ce43b7bb0ae7543c1946a22dd -- Anna’s Archive.pdf",
+    "Textbook/Mathematics and Statistics for the Quantitative Sciences.pdf",
+    "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
+    "Textbook/A friendly approach to complex analysis.pdf",
+    "Textbook/Object-Oriented Data Structures Using Java-Fourth Edition.pdf",
+    "Textbook/Discrete Mathematics With Graph Theory 3ed (2005).pdf",
+    "Textbook/Introduction to linear and matrix algebra.pdf",
+    "Textbook/A First Course in Complex Analysis.pdf",
+    "Textbook/Calculus_ Single and Multivariable.pdf",
+    "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
+    "Textbook/Elementary Number Theory & its applications.pdf",
     "Textbook",
     "Textbook/Introduction to Reinforcement Learning.pdf",
-    "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
-    "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
     "To-do List.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/Q-Learning.md",
     "Personal/Latex Suite Personal Setting.md",
@@ -214,16 +221,9 @@
     "Personal/Data Science/MATH1311/11. Fitting Trend.md",
     "Personal/Data Science/MATH1311/10. Continuous Probability Distribution.md",
     "Personal/Data Science/MATH1311/1. Types of Data.md",
-    "Personal/Data Science/MATH1311",
     "Personal/술 노트.md",
     "Personal/사이드 프로젝트 아이디어.md",
     "Personal/듣고 싶은 강의.md",
-    "Personal/Data Science",
-    "Personal",
-    "Mathematics/Real Analysis",
-    "Mathematics/Linear Algebra",
-    "Mathematics/Number Theory",
-    "Mathematics/Discrete Math",
     "Attached Files/Pasted image 20241106131607.png",
     "Attached Files/Pasted image 20241106131357.png",
     "Attached Files/Pasted image 20241106131211.png",
