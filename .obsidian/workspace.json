@@ -6,7 +6,7 @@
       {
         "id": "39ac1d7e9889d152",
         "type": "tabs",
-        "dimension": 47.33606557377049,
+        "dimension": 56.01092896174863,
         "children": [
           {
             "id": "ae1a16af475d5764",
@@ -27,18 +27,18 @@
       {
         "id": "2043375d1047c858",
         "type": "tabs",
-        "dimension": 52.66393442622951,
+        "dimension": 43.98907103825137,
         "children": [
           {
-            "id": "2e85cb4c3576cd44",
+            "id": "c676a6f27e7c1e25",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Textbook/A First Course in Complex Analysis.pdf"
+                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "A First Course in Complex Analysis"
+              "title": "DES ReinforcementLearning 2005"
             }
           }
         ]
@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Textbook/A First Course in Complex Analysis.pdf",
+                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for A First Course in Complex Analysis"
+              "title": "Backlinks for DES ReinforcementLearning 2005"
             }
           },
           {
@@ -132,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Textbook/A First Course in Complex Analysis.pdf",
+                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from A First Course in Complex Analysis"
+              "title": "Outgoing links from DES ReinforcementLearning 2005"
             }
           },
           {
@@ -159,10 +160,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Textbook/A First Course in Complex Analysis.pdf"
+                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf"
               },
               "icon": "lucide-list",
-              "title": "Outline of A First Course in Complex Analysis"
+              "title": "Outline of DES ReinforcementLearning 2005"
             }
           }
         ]
@@ -186,15 +187,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c57e60c07883afd8",
+  "active": "c676a6f27e7c1e25",
   "lastOpenFiles": [
+    "Textbook/A First Course in Complex Analysis.pdf",
     "Textbook/Mathematics and Statistics for the Quantitative Sciences.pdf",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
     "Textbook/A friendly approach to complex analysis.pdf",
     "Textbook/Object-Oriented Data Structures Using Java-Fourth Edition.pdf",
     "Textbook/Discrete Mathematics With Graph Theory 3ed (2005).pdf",
     "Textbook/Introduction to linear and matrix algebra.pdf",
-    "Textbook/A First Course in Complex Analysis.pdf",
     "Textbook/Calculus_ Single and Multivariable.pdf",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
     "Textbook/Elementary Number Theory & its applications.pdf",
