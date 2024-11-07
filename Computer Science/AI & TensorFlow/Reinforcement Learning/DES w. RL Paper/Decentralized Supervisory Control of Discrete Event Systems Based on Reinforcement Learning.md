@@ -113,6 +113,14 @@ $f:X\times \sum^{*}\to X$
 - $f(x, \epsilon)=x$
 - $\forall \text{ }t\in \sum^{*}, \forall \text{ }\sigma\in \sum$, $f(x, t\sigma)=f(f(x,t),\sigma)$
 
+- $x$ is state, $f(x,\sigma)$ represents the new state after $\sigma$ happened during at state $x$
+- $t$ is any finite string of $\sum$, thus *any finite sequence of event*
+	- **Q)** what does $t\sigma$ mean?
+- Intuitively, this mean that $f$ will give the same result state regardless we provide events as a entire string, or pass its fragments separately (but the order of events shouldn't be changed)
+
+## Eq. 5
+Active Event Set
+$F_{G}(x)=\left\{ \sigma\in \sum:f(x,\sigma)\text{ is defined} \right\}$
 
 
 # Learning Algorithm
