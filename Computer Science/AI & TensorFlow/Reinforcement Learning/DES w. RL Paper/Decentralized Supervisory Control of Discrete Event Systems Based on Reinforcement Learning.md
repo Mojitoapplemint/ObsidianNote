@@ -26,23 +26,6 @@ $\sum^{*}$: Zero or more repetition of elements in $\sum$
 - Set of all finite strins over $\sum$, including $\epsilon$
 - {"a", "b", "c"}* = { ε, "a", "b", "c", "aa", "ab", "ac", "ba", "bb", "bc", "ca", "cb", "cc", "aaa", "aab", ...}
 
-$f$ is state trainsition funciton of DES
-- Deterministic Transition Function: a function that defines the next state of a system based on the current state and input
-$f:X\times \sum^{*}\to X$
-- $f(x, \epsilon)=x$
-- $\forall \text{ }t\in \sum^{*}, \forall \text{ }\sigma\in \sum$, $f(x, t\sigma)=f(f(x,t),\sigma)$
-
-Active Event Set
-$F_{G}(x)=\left\{ \sigma\in \sum:f(x,\sigma)\text{ is defined} \right\}$
-
-Each supervisor oberves the occurrence of events in the DES through the corresponding projection
-- $M^{e}_{i}:\sum\to \sum^{o*}_{i}\cup \{\epsilon\}$: Projection for $SV_{i}$
-$$M^{e}_{i}(\epsilon)=\epsilon$$
-$$\forall \text{ }t\in \sum*, \forall \text{ }\sigma\in \sum \text{ , }M^{e}_{i}(t\sigma)=\large\{^{M^{e}_{i}(t)\sigma \text{ (if }\sigma\in \sum^{o}_{i})}_{M^{e}_{i}(t) \text{ (if }\sigma\in \sum^{uo}_{i})}$$
-
-**Q)** Why $t$ and $\sigma$ are multiplied?
-**Q)** Where does that $e$ come from?
-
 ## Model of $SV_{i}$
 Automaton Model $\left( S_{i}, \sum^{o}_{i}, g_{i}, x_{0} \right)$
 - $S_{i}\subseteq 2^{X}$: set of states of $SV_{i}$
@@ -121,6 +104,23 @@ $f:X\times \sum^{*}\to X$
 ## Eq. 5
 Active Event Set
 $F_{G}(x)=\left\{ \sigma\in \sum:f(x,\sigma)\text{ is defined} \right\}$
+- Set of event that result state is defined
+	- *Set of Events that lead to the legal state*
+
+## Eq. 6
+$$M^{e}_{i}\Huge\{^{\sigma \text{ if } \sigma\in \sum^{o}_{i} }_{{\epsilon \text{ if } \sigma\in \sum^{uo}_{i} }}$$
+- Projection returns any observable alphabet as it is
+- Otherwise, it returns epsilon
+	- Filter observable events only
+
+## Eq. 7
+
+Each supervisor oberves the occurrence of events in the DES through the corresponding projection
+- $M^{e}_{i}:\sum\to \sum^{o*}_{i}\cup \{\epsilon\}$: Projection for $SV_{i}$
+$$M^{e}_{i}(\epsilon)=\epsilon$$
+$$\forall \text{ }t\in \sum*, \forall \text{ }\sigma\in \sum \text{ , }M^{e}_{i}(t\sigma)=\Huge\{^{M^{e}_{i}(t)\sigma \text{ (if }\sigma\in \sum^{o}_{i})}_{M^{e}_{i}(t) \text{ (if }\sigma\in \sum^{uo}_{i})}$$
+- $\sum^{o*}_{i}$: Set of finite sequence of observable events of $SV_{i}$
+- 
 
 
 # Learning Algorithm
