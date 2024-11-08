@@ -114,7 +114,6 @@ $$M^{e}_{i}\Huge\{^{\sigma \text{ if } \sigma\in \sum^{o}_{i} }_{{\epsilon \text
 	- Filter observable events only
 
 ## Eq. 7
-
 Each supervisor oberves the occurrence of events in the DES through the corresponding projection
 - $M^{e}_{i}:\sum\to \sum^{o*}_{i}\cup \{\epsilon\}$: Projection for $SV_{i}$
 $$M^{e}_{i}(\epsilon)=\epsilon$$
