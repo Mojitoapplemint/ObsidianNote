@@ -29,6 +29,7 @@ $\sum^{*}$: Zero or more repetition of elements in $\sum$
 Automaton Model $\left( S_{i}, \sum^{o}_{i}, g_{i}, x_{0} \right)$
 - $S_{i}\subseteq 2^{X}$: set of states of $SV_{i}$
 	- Candidates of the current state of the DES G
+	- **Q)** $S_{i}\subseteq 2^{X}$, what does $2^{X}$ mean?
 - $g_{i}$: $S_{i}\times \sum^{o*}_{i}\to S_{i}$ : State Trainsition function 
 
 **Q)** For $g_{i}$ the output supposed to be the next state, but it returns the current state again
@@ -112,7 +113,7 @@ $$M^{e}_{i}\Huge\{^{\sigma \text{ if } \sigma\in \sum^{o}_{i} }_{{\epsilon \text
 - Otherwise, it returns epsilon
 	- Filter observable events only
 
-## Eq. 7
+## Eq. 7, 8
 Each supervisor oberves the occurrence of events in the DES through the corresponding projection
 - $M^{e}_{i}:\sum\to \sum^{o*}_{i}\cup \{\epsilon\}$: Projection for $SV_{i}$
 $$M^{e}_{i}(\epsilon)=\epsilon$$
@@ -120,15 +121,37 @@ $$\forall \text{ }t\in \sum*, \forall \text{ }\sigma\in \sum \text{ , }M^{e}_{i}
 - $\sum^{o*}_{i}$: Set of finite sequence of observable events of $SV_{i}$
 - If sequence of events is passed to $M^{e}_{i}$, then it returns a new sequence of events that all events in it are observable
 
-| Notation                                   | Meaning                                                                                                                                                    |
-| ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| $S_{i}\subseteq 2^{X}$                     | set of states of $SV_{i}$<br>Candidates of the current state of the DES G                                                                                  |
-| $g_{i}$                                    | $S_{i}\times \sum^{o*}_{i}\to S_{i}$ ; State Trainsition function                                                                                          |
-| $M^{s}_{i}$                                | $X\times \sum^{o*}_{i}\to 2^{X}$<br>State Estimate Function: gives a set of states of the DES which is reachable from state $t$ via string observed as $u$ |
-|                                            |                                                                                                                                                            |
-| $P_{i}(s_{i}, \pi_{i}, s'_{i})$            | Probability of transition from $s_{i}$ to $s_{i}'$ when $SV_{i}$ selects $\pi_{i}$                                                                         |
-| $Q(s_{i}, \pi_{i})$                        | Discounted exprected total reward in the case that $SV_{i}$ selects $\pi_{i}$ at $s_{i}$                                                                   |
-| $R_{i}(s_{i}, \pi_{i}, s'_{i})$            | Expected reward via transition from $s_{i}$ to $s_{i}'$ by selecting $\pi_{i}$                                                                             |
-| $R^{1}_{i}(s_{i}, \pi_{i})$                | Expected reward of $\pi_{i}$ at $s_{i}$                                                                                                                    |
-| $R^{2}_{i}(s_{i}, \sigma^{o}_{i}, s'_{i})$ | Expected reward when $SV_{i}$ observes an event $\sigma^{o}_{i}\in \sum^{o}_{i}$, and make transition from $s_{i}$ to $s_{i}'$                             |
+## Eq. 9
+State Estimation Function
+$$M^{s}_{i}(t,u)=\left\{  x\in X \text{ | } \exists \text{ }v\in \sum^{*}\text{ , } M^{e}_{i}(v)=u, f(t,v)=x \right\}$$
+- $u$ is filtered version of $v$, 
+- 
+- gives a set of states of the DES which is reachable from state $t$ via string observed as $u$
+	- Shouldn't it be more accurate that $f(t,u)=x$?
+
+# Notations
+
+| Notation                                    | Meaning                                                                                                                                                                            |
+| ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| $S_{i}\subseteq 2^{X}$                      | set of states of $SV_{i}$<br>Candidates of the current state of the DES G                                                                                                          |
+| $g_{i}$                                     | $S_{i}\times \sum^{o*}_{i}\to S_{i}$ ; State Trainsition function                                                                                                                  |
+| $M^{s}_{i}$                                 | $X\times \sum^{o*}_{i}\to 2^{X}$<br>State Estimate Function: gives a set of states of the DES which is reachable from state $t$ via string observed as $u$                         |
+| $P_{i}(s_{i}, \pi_{i}, s'_{i})$             | Probability of transition from $s_{i}$ to $s_{i}'$ when $SV_{i}$ selects $\pi_{i}$                                                                                                 |
+| $P^{1}_{i}(s_{i}, \pi_{i}, \sigma^{o}_{i})$ | Probability that $SV_{i}$ observes the occurence of an event $\sigma^{o}_{i}\in\left\{ \pi_{i}\cap \sum^{o}_{i} \right\}$, when $SV_{i}$ selects $\pi_{i}$ at $s_{i}$              |
+| $P^{2}_{i}(s_{i}, \sigma^{o}_{i}, s'_{i})$  | Probability that $SV_{i}$ makes a transition from $s_{i}$ to $s_{i}'$ by obeserved event $\sigma^{o}_{i}$                                                                          |
+| $Q(s_{i}, \pi_{i})$                         | Discounted exprected total reward in the case that $SV_{i}$ selects $\pi_{i}$ at $s_{i}$                                                                                           |
+| $R_{i}(s_{i}, \pi_{i}, s'_{i})$             | Expected reward via transition from $s_{i}$ to $s_{i}'$ by selecting $\pi_{i}$                                                                                                     |
+| $R^{1}_{i}(s_{i}, \pi_{i})$                 | Expected reward of $\pi_{i}$ at $s_{i}$                                                                                                                                            |
+| $R^{2}_{i}(s_{i}, \sigma^{o}_{i}, s'_{i})$  | Expected reward when $SV_{i}$ observes an event $\sigma^{o}_{i}\in \sum^{o}_{i}$, and make transition from $s_{i}$ to $s_{i}'$                                                     |
+| $T^{*}(s_{i}, \sigma^{o}_{i})$              | Discounted expected total reward when $SV_{i}$ observes $\sigma^{o}_{i}$ at state $s_{i}$ and selects the control pattern which has the maximum $Q^{*}_{i}$ value at the new state |
+
+# Questions
+For $S_{i}\subseteq 2^{X}$, what does $2^{X}$ mean?
+
+For $g_{i}$ the output supposed to be the next state, but it returns the current state again
+
+For $R^{1}_{i}$, it represents for the cost to disable controllable events *which is not included in the control pattern*
+- What the hell does this mean?
+
+what does $t\sigma$ mean? Why multiplication?
 
