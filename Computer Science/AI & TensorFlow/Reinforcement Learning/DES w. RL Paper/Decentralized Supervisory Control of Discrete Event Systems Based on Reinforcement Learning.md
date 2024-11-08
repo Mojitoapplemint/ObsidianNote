@@ -125,9 +125,20 @@ $$\forall \text{ }t\in \sum*, \forall \text{ }\sigma\in \sum \text{ , }M^{e}_{i}
 State Estimation Function
 $$M^{s}_{i}(t,u)=\left\{  x\in X \text{ | } \exists \text{ }v\in \sum^{*}\text{ , } M^{e}_{i}(v)=u, f(t,v)=x \right\}$$
 - $u$ is filtered version of $v$, 
-- 
 - gives a set of states of the DES which is reachable from state $t$ via string observed as $u$
 	- Shouldn't it be more accurate that $f(t,u)=x$?
+
+## Eq. 10
+$$g_{i}(s_{i}, \sigma)=\bigcup_{x\in s_{i}} M^{s}_{i}(x, \sigma)$$
+- Sum of all reachable states from $s_{i}$ with $\sigma$ selected
+	- According to Eq. 9, $x$ is state since $t$ value in Eq. 9 is state, then does $x\in s_{i}$ mean state in state? 
+
+
+## Eq. 11
+$\forall \text{ }\pi_{i}\in\Pi_{i}(s_{i}),$
+$$F_{i}(s_{i})\cap \sum^{uc}_{i} \subseteq \pi_{i} \subseteq F_{i}(s_{i})\subseteq \sum$$
+- What does control pattern look like? I can't 
+- 
 
 # Notations
 
@@ -144,6 +155,8 @@ $$M^{s}_{i}(t,u)=\left\{  x\in X \text{ | } \exists \text{ }v\in \sum^{*}\text{ 
 | $R^{1}_{i}(s_{i}, \pi_{i})$                 | Expected reward of $\pi_{i}$ at $s_{i}$                                                                                                                                            |
 | $R^{2}_{i}(s_{i}, \sigma^{o}_{i}, s'_{i})$  | Expected reward when $SV_{i}$ observes an event $\sigma^{o}_{i}\in \sum^{o}_{i}$, and make transition from $s_{i}$ to $s_{i}'$                                                     |
 | $T^{*}(s_{i}, \sigma^{o}_{i})$              | Discounted expected total reward when $SV_{i}$ observes $\sigma^{o}_{i}$ at state $s_{i}$ and selects the control pattern which has the maximum $Q^{*}_{i}$ value at the new state |
+| $\Pi_{i}(s_{i})$                            | A set of control pattern at state $s_{i}\in S_{i}$                                                                                                                                 |
+| $\pi_{i}\in\Pi_{i}(s_{i})$                  | A control pattern based on current state $s_i$                                                                                                                                     |
 
 # Questions
 For $S_{i}\subseteq 2^{X}$, what does $2^{X}$ mean?
