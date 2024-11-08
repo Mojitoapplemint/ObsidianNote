@@ -104,8 +104,9 @@ $f:X\times \sum^{*}\to X$
 ## Eq. 5
 Active Event Set
 $F_{G}(x)=\left\{ \sigma\in \sum:f(x,\sigma)\text{ is defined} \right\}$
-- Set of event that result state is defined
-	- *Set of Events that lead to the legal state*
+- Set of event that result state from $x$ is defined
+	- *Set of Events that makes a transition from $x$ to the legal state*
+	- Set of legal event at $x$
 
 ## Eq. 6
 $$M^{e}_{i}\Huge\{^{\sigma \text{ if } \sigma\in \sum^{o}_{i} }_{{\epsilon \text{ if } \sigma\in \sum^{uo}_{i} }}$$
@@ -137,8 +138,17 @@ $$g_{i}(s_{i}, \sigma)=\bigcup_{x\in s_{i}} M^{s}_{i}(x, \sigma)$$
 ## Eq. 11
 $\forall \text{ }\pi_{i}\in\Pi_{i}(s_{i}),$
 $$F_{i}(s_{i})\cap \sum^{uc}_{i} \subseteq \pi_{i} \subseteq F_{i}(s_{i})\subseteq \sum$$
-- What does control pattern look like? I can't 
+- What does control pattern look like? I can't get any intuition there is any subset for $\pi_{i}$
 - 
+
+## Eq. 12
+$$F_{i}(s_{i})=\bigcup_{x\in s_{i}}F_{G}(x)$$
+- Set of event that can make a trainsition from $s_{i}$ to some legal state
+	- Set of valid event can be happened at $s_{i}$
+
+## Eq. 13
+$$\pi = \bigcap^{n}_{i=1}\pi_{i}$$
+- Net control pattern ; intersection of each supervisor's control pattern
 
 # Notations
 
@@ -150,13 +160,16 @@ $$F_{i}(s_{i})\cap \sum^{uc}_{i} \subseteq \pi_{i} \subseteq F_{i}(s_{i})\subset
 | $P_{i}(s_{i}, \pi_{i}, s'_{i})$             | Probability of transition from $s_{i}$ to $s_{i}'$ when $SV_{i}$ selects $\pi_{i}$                                                                                                 |
 | $P^{1}_{i}(s_{i}, \pi_{i}, \sigma^{o}_{i})$ | Probability that $SV_{i}$ observes the occurence of an event $\sigma^{o}_{i}\in\left\{ \pi_{i}\cap \sum^{o}_{i} \right\}$, when $SV_{i}$ selects $\pi_{i}$ at $s_{i}$              |
 | $P^{2}_{i}(s_{i}, \sigma^{o}_{i}, s'_{i})$  | Probability that $SV_{i}$ makes a transition from $s_{i}$ to $s_{i}'$ by obeserved event $\sigma^{o}_{i}$                                                                          |
-| $Q(s_{i}, \pi_{i})$                         | Discounted exprected total reward in the case that $SV_{i}$ selects $\pi_{i}$ at $s_{i}$                                                                                           |
+| $Q^{*}_{i}(s_{i}, \pi_{i})$                 | Discounted exprected total reward in the case that $SV_{i}$ selects $\pi_{i}$ at $s_{i}$                                                                                           |
 | $R_{i}(s_{i}, \pi_{i}, s'_{i})$             | Expected reward via transition from $s_{i}$ to $s_{i}'$ by selecting $\pi_{i}$                                                                                                     |
 | $R^{1}_{i}(s_{i}, \pi_{i})$                 | Expected reward of $\pi_{i}$ at $s_{i}$                                                                                                                                            |
 | $R^{2}_{i}(s_{i}, \sigma^{o}_{i}, s'_{i})$  | Expected reward when $SV_{i}$ observes an event $\sigma^{o}_{i}\in \sum^{o}_{i}$, and make transition from $s_{i}$ to $s_{i}'$                                                     |
 | $T^{*}(s_{i}, \sigma^{o}_{i})$              | Discounted expected total reward when $SV_{i}$ observes $\sigma^{o}_{i}$ at state $s_{i}$ and selects the control pattern which has the maximum $Q^{*}_{i}$ value at the new state |
 | $\Pi_{i}(s_{i})$                            | A set of control pattern at state $s_{i}\in S_{i}$                                                                                                                                 |
 | $\pi_{i}\in\Pi_{i}(s_{i})$                  | A control pattern based on current state $s_i$                                                                                                                                     |
+| $F_{G}(x)$                                  | Set of event that result state from $x$ is defined ; Set of Events that lead to the legal state from $x$                                                                           |
+| $F_i(s_{i})$                                | Active Event set over $\sum$ at state $s_{i}$                                                                                                                                      |
+| $\pi$                                       | net control pattern ; intersection of each supervisor's control pattern                                                                                                            |
 
 # Questions
 For $S_{i}\subseteq 2^{X}$, what does $2^{X}$ mean?
