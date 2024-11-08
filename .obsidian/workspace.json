@@ -165,13 +165,23 @@
               "icon": "lucide-list",
               "title": "Outline of Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning"
             }
+          },
+          {
+            "id": "7041c6ca1c570c22",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {

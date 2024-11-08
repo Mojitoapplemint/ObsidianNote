@@ -26,7 +26,6 @@ $\sum^{*}$: Zero or more repetition of elements in $\sum$
 - Set of all finite strins over $\sum$, including $\epsilon$
 - {"a", "b", "c"}* = { ε, "a", "b", "c", "aa", "ab", "ac", "ba", "bb", "bc", "ca", "cb", "cc", "aaa", "aab", ...}
 
-## Model of $SV_{i}$
 Automaton Model $\left( S_{i}, \sum^{o}_{i}, g_{i}, x_{0} \right)$
 - $S_{i}\subseteq 2^{X}$: set of states of $SV_{i}$
 	- Candidates of the current state of the DES G
@@ -37,7 +36,7 @@ Automaton Model $\left( S_{i}, \sum^{o}_{i}, g_{i}, x_{0} \right)$
 
 To determine the state of $SV_{i}$, a state estimate function $M^{s}_{i}:X\times \sum^{o*}_{i}\to 2^{X}$ is defined as 
 $$M^{s}_{i}(t,u)=\left\{ x\in X\text{ | }\exists \text{ }v\in \sum*, M^{e}_{i}(v)=u, f(t, v)=x \right\}$$
-- This gives a set of states of the DES which is reachable from state $t$ vis string observed as $u$
+- This gives a set of states of the DES which is reachable from state $t$ via string observed as $u$
 
 Then, $g_{i}$ is described as
 $$g_{i}(s_{i}, \sigma)=\bigcup_{x\in S_{i}} M^{s}_{i}(x, \sigma)$$
@@ -119,23 +118,17 @@ Each supervisor oberves the occurrence of events in the DES through the correspo
 $$M^{e}_{i}(\epsilon)=\epsilon$$
 $$\forall \text{ }t\in \sum*, \forall \text{ }\sigma\in \sum \text{ , }M^{e}_{i}(t\sigma)=\Huge\{^{M^{e}_{i}(t)\sigma \text{ (if }\sigma\in \sum^{o}_{i})}_{M^{e}_{i}(t) \text{ (if }\sigma\in \sum^{uo}_{i})}$$
 - $\sum^{o*}_{i}$: Set of finite sequence of observable events of $SV_{i}$
-- 
+- If sequence of events is passed to $M^{e}_{i}$, then it returns a new sequence of events that all events in it are observable
 
-
-# Learning Algorithm
-
-1. Initalize $T_i, R^1_i$ and $\eta_i$ of all $SV_i$
-2. Initialize $Q$ values for all $SV_i$ by Eq.(24)
-3. Repeat until any $s_i$ is a terminal state
-    _**(For each episode):**_
-4. Initialize a state $s_i \leftarrow x_0$ for all $SV_i$
-5. Repeat for each $SV_i$
-    _**(for each step of an episode):**_
-6. Select a control pattern $\pi_i\in\Pi_i(s_i)$ based on $Q_i$ values by $SV_{i}$ (As a result, a net control pattern $\pi$ is assigned to the DES G)
-7. Observe the occurence of event $\sigma^{o}_{i}\in \sum^{o}_{i}$
-8. Acquire reward rewards $r^{1}_{i}$ and $r^{2}_{i}$
-9. Make a transition $s_{i}\longrightarrow^{\sigma^{o}_{i}} s'_{i}(=g_{i}(s, \sigma^{o}_{i}))$ in $SV_{i}$
-10. Update $T_{i}(s_{i}, \sigma^{o}_{i})$, $R^{1}_{i}(s_{i}, \pi_{i})$, and $\eta_{i}(s_{i}, \sigma^{o'}_{i})$ by Eq.(21), Eq.(22), and Eq.(23) respectively
-11. Update the $Q_{i}$ values by Eq. 24
-12. $s_{i}\leftarrow s'_{i}$
+| Notation                                   | Meaning                                                                                                                                                    |
+| ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| $S_{i}\subseteq 2^{X}$                     | set of states of $SV_{i}$<br>Candidates of the current state of the DES G                                                                                  |
+| $g_{i}$                                    | $S_{i}\times \sum^{o*}_{i}\to S_{i}$ ; State Trainsition function                                                                                          |
+| $M^{s}_{i}$                                | $X\times \sum^{o*}_{i}\to 2^{X}$<br>State Estimate Function: gives a set of states of the DES which is reachable from state $t$ via string observed as $u$ |
+|                                            |                                                                                                                                                            |
+| $P_{i}(s_{i}, \pi_{i}, s'_{i})$            | Probability of transition from $s_{i}$ to $s_{i}'$ when $SV_{i}$ selects $\pi_{i}$                                                                         |
+| $Q(s_{i}, \pi_{i})$                        | Discounted exprected total reward in the case that $SV_{i}$ selects $\pi_{i}$ at $s_{i}$                                                                   |
+| $R_{i}(s_{i}, \pi_{i}, s'_{i})$            | Expected reward via transition from $s_{i}$ to $s_{i}'$ by selecting $\pi_{i}$                                                                             |
+| $R^{1}_{i}(s_{i}, \pi_{i})$                | Expected reward of $\pi_{i}$ at $s_{i}$                                                                                                                    |
+| $R^{2}_{i}(s_{i}, \sigma^{o}_{i}, s'_{i})$ | Expected reward when $SV_{i}$ observes an event $\sigma^{o}_{i}\in \sum^{o}_{i}$, and make transition from $s_{i}$ to $s_{i}'$                             |
 
