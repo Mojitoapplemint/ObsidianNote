@@ -6,6 +6,7 @@
       {
         "id": "8351a07e0202286e",
         "type": "tabs",
+        "dimension": 56.370192307692314,
         "children": [
           {
             "id": "af4c5180e9d1bc15",
@@ -26,6 +27,7 @@
       {
         "id": "fff6f6d7cf05ee2e",
         "type": "tabs",
+        "dimension": 43.62980769230769,
         "children": [
           {
             "id": "e28467d419a17dc5",
@@ -112,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
+                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DES ReinforcementLearning 2005"
+              "title": "Backlinks for Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning"
             }
           },
           {
@@ -131,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
+                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from DES ReinforcementLearning 2005"
+              "title": "Outgoing links from Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning"
             }
           },
           {
@@ -158,10 +160,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf"
+                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of DES ReinforcementLearning 2005"
+              "title": "Outline of Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning"
             }
           },
           {
@@ -196,12 +198,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e28467d419a17dc5",
+  "active": "af4c5180e9d1bc15",
   "lastOpenFiles": [
+    "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
     "Mathematics/Real Analysis/7. Derivatives.md",
     "Computer Science/Algorithm/6. Minimum Spanning Tree.md",
-    "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
     "Textbook/A First Course in Complex Analysis.pdf",
     "Textbook/Mathematics and Statistics for the Quantitative Sciences.pdf",
     "Textbook/A friendly approach to complex analysis.pdf",
@@ -233,7 +235,6 @@
     "Personal/Data Science/MATH1311/1. Types of Data.md",
     "Personal/술 노트.md",
     "Personal/사이드 프로젝트 아이디어.md",
-    "Personal/듣고 싶은 강의.md",
     "Attached Files/Pasted image 20241106131607.png",
     "Attached Files/Pasted image 20241106131357.png",
     "Attached Files/Pasted image 20241106131211.png",
