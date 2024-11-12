@@ -159,7 +159,7 @@ $$P_{i}(s_{i}, \pi_{i}, s_{i}') = \sum_{\sigma^{o}_{i}\in \pi_{i}\cap \sum^{o}_{
 - $\pi_{i}\cap \sum^{o}_{i}$: What does this mean?
 
 ## Eq. 16, 17
-$$P^{1}_{i}(s_{i}, \pi_{i}, s'_{i})=\frac{\eta^{*}_{i}(s_{i}, \sigma^{o}_{i})}{\sum_{\sigma^{o'}_{i}\in\pi_{i}\cap \sum^{o}_{i} }\eta^{*}_{i}(s_{i}, \sigma^{o'}_{i})}$$
+$$P^{1}_{i}(s_{i}, \pi_{i}, s'_{i})=\frac{\eta^{*}_{i}(s_{i}, \sigma^{o}_{i})}{\displaystyle\sum_{\sigma^{o'}_{i}\in\pi_{i}\cap \sum^{o}_{i} }\eta^{*}_{i}(s_{i}, \sigma^{o'}_{i})}$$
 $$\sum_{\sigma^{o'}_{i}\in F_{i}(s_{i})\cap \sum^{o}_{i} }\eta^{*}_{i}(s_{i}, \sigma^{o'}_{i})=1$$
 - $F_{i}(s_{i})\cap \sum^{o}_{i}$: Set of all possible legal and observable events that ended up to $s_{i}$
 	- Sum of $\eta$ for all observable events that lead to $s_{i}$ is 1
@@ -167,8 +167,12 @@ $$\sum_{\sigma^{o'}_{i}\in F_{i}(s_{i})\cap \sum^{o}_{i} }\eta^{*}_{i}(s_{i}, \s
 
 ## Eq. 18
 $$R_{i}(s_{i}, \pi_{i}, s'_{i})=R^{1}_{i}(s_{i}, \pi_{i})+R^{2}_{i}(s_{i}, \sigma^{o}_{i}, s'_{i})$$
-- $R^{1}_{i}(s_{i}, \pi_{i})$ : Expected reward when $SV_{i}$ choose 
+- $R^{1}_{i}(s_{i}, \pi_{i})$ : Expected reward when $SV_{i}$ choose $\pi_{i}$
+- $R^{2}_{i}(s_{i}, \sigma^{o}_{i}, s'_{i})$ : Expectation of a reward when $SV_{i}$ observes an event $\sigma^{o}_{i}$
+	- REpresents for costs by the occrrence of the event and evaluation about the acievement of the task
 
+## Eq. 19
+$$Q^{*}_{i}(s_{I}, \pi_{i})=R^{1}_{i}(s_{i}, \pi_{i})+\sum_{\sigma^{o}_{i}\in\pi_{i}\cap \sum^{o}_{i}}\frac{\eta^{*}_{i}(s_{i}, \sigma^{o}_{i})}{\displaystyle\sum_{\sigma^{o'}_{i}\in\pi_{i}\cap \sum^{o}_{i} }\eta^{*}_{i}(s_{i}, \sigma^{o'}_{i})}\times\left( \sum_{s_{i}'\in S_{i}}P^{2}_{i}(s_{i}, \sigma^{o}_{i}, s'_{i}) \right)$$
 
 # Notations
 
