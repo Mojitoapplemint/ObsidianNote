@@ -220,13 +220,14 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "af4c5180e9d1bc15",
+  "active": "e28467d419a17dc5",
   "lastOpenFiles": [
-    "Computer Science/AI & TensorFlow/Reinforcement Learning/Q-Learning.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
+    "Computer Science/AI & TensorFlow/Reinforcement Learning/Q-Learning.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
     "Mathematics/Real Analysis/7. Derivatives.md",
     "Computer Science/Algorithm/6. Minimum Spanning Tree.md",
