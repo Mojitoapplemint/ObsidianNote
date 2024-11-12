@@ -151,7 +151,7 @@ $$\pi = \bigcap^{n}_{i=1}\pi_{i}$$
 - Net control pattern ; intersection of each supervisor's control pattern
 
 ## Eq. 14
-$$Q^{*}_{i}(s_{i}, \pi_{i})=\sum_{s_{i}'\in S_{i}}\left[P_{i}(s_{i}, \pi_{i}, s_{i}')\times\Big(R_{i}(s_{i}, \pi_{i}, s'_{i})+\gamma\max_{\pi'_{i}\in\Pi_{i}(s_{i})}Q^{*}_{i}(s'_{i}, \pi_{i}')\Big)\right]$$
+$$Q^{*}_{i}(s_{i}, \pi_{i})=\sum_{s_{i}'\in S_{i}}\left[P_{i}(s_{i}, \pi_{i}, s_{i}')\times\Big(R_{i}(s_{i}, \pi_{i}, s'_{i})+\gamma\max_{\pi'_{i}\in\Pi_{i}(s_{i}')}Q^{*}_{i}(s'_{i}, \pi_{i}')\Big)\right]$$
 - New Q value = sum of (probability to get $s_{i}'$)$\times$(Bellman Optimal Equation) for all possible $s'$(future state)
 
 ## Eq. 15
@@ -171,8 +171,12 @@ $$R_{i}(s_{i}, \pi_{i}, s'_{i})=R^{1}_{i}(s_{i}, \pi_{i})+R^{2}_{i}(s_{i}, \sigm
 - $R^{2}_{i}(s_{i}, \sigma^{o}_{i}, s'_{i})$ : Expectation of a reward when $SV_{i}$ observes an event $\sigma^{o}_{i}$
 	- REpresents for costs by the occrrence of the event and evaluation about the acievement of the task
 
-## Eq. 19
-$$Q^{*}_{i}(s_{I}, \pi_{i})=R^{1}_{i}(s_{i}, \pi_{i})+\sum_{\sigma^{o}_{i}\in\pi_{i}\cap \sum^{o}_{i}}\frac{\eta^{*}_{i}(s_{i}, \sigma^{o}_{i})}{\displaystyle\sum_{\sigma^{o'}_{i}\in\pi_{i}\cap \sum^{o}_{i} }\eta^{*}_{i}(s_{i}, \sigma^{o'}_{i})}\times\left( \sum_{s_{i}'\in S_{i}}P^{2}_{i}(s_{i}, \sigma^{o}_{i}, s'_{i}) \right)$$
+## Eq. 19, 20
+$$\small Q^{*}_{i}(s_{i}, \pi_{i})=R^{1}_{i}(s_{i}, \pi_{i})+\sum_{\sigma^{o}_{i}\in\pi_{i}\cap \sum^{o}_{i}}\frac{\eta^{*}_{i}(s_{i}, \sigma^{o}_{i})}{\displaystyle\sum_{\sigma^{o'}_{i}\in\pi_{i}\cap \sum^{o}_{i} }\eta^{*}_{i}(s_{i}, \sigma^{o'}_{i})}\times\left( \sum_{s_{i}'\in S_{i}}P^{2}_{i}(s_{i}, \sigma^{o}_{i}, s'_{i}) \times \left( R_{i}^{2}(s_{i}, \pi_{i}, s'_{i})+\gamma\max_{\pi'_{i}\in\Pi_{i}(s_{i}')}Q^{*}_{i}(s'_{i}, \pi_{i}') \right)\right)$$
+$$\small =R^{1}_{i}(s_{i}, \pi_{i})+\sum_{\sigma^{o}_{i}\in\pi_{i}\cap \sum^{o}_{i}}\frac{\eta^{*}_{i}(s_{i}, \sigma^{o}_{i})}{\displaystyle\sum_{\sigma^{o'}_{i}\in\pi_{i}\cap \sum^{o}_{i} }\eta^{*}_{i}(s_{i}, \sigma^{o'}_{i})}\times T^{*}_{i}(s_{i}, \sigma^{o}_{i})$$
+$$T_{i}^{*}(s_{i}, \sigma^{o}_{i})=\sum_{s_{i}'\in S_{i}}\left[ P^{2}_{i}(s_{i}, \sigma^{o}_{i}, s'_{i}) \times \left( R_{i}^{2}(s_{i}, \pi_{i}, s'_{i})+\gamma\max_{\pi'_{i}\in\Pi_{i}(s_{i}')}Q^{*}_{i}(s'_{i}, \pi_{i}') \right)\right]$$
+
+$$$$
 
 # Notations
 
