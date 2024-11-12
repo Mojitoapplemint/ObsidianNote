@@ -190,6 +190,14 @@ $$Q^{*}_{i}(s_{i}, \pi_{i})=R^{1}_{i}(s_{i}, \pi_{i})+\sum_{\sigma^{o}_{i}\in\pi
 ## Eq. 21
 $$T_{i}(s_{i}, \sigma^{o}_{i}) \longleftarrow T_{i}(s_{i}, \sigma^{o}_{i})+\alpha[r^{2}_{i}+\gamma \max_{\pi'_{i}\in \Pi_{i}(s_{i}')}Q_{i}(s_{i}', \pi'_{i})-T_{i}(s_{i}, \sigma^{o}_{i})]$$
 
+Typical Q value update Equation
+$$Q^{new}(s_{t}, a_{t})=Q^{old}(s_{t},a_{t})+\alpha\Big[r_{t}+\gamma\cdot \max_{a}Q(s_{t+1}, a)-Q(s_{t}, a_{t})\Big]$$
+
+Difference
+- In typical Q value update equation, the reward, $r_{t}$, is reward obtained as the agent take an action $a$. However, in Eq. 21, the reward, $r^{2}_{i}$ is reward that obtained as $SV_{i}$ *observes* the event, not taking an action
+
+
+
 # Notations
 
 | Notation                                    | Meaning                                                                                                                                                                            |
@@ -210,7 +218,8 @@ $$T_{i}(s_{i}, \sigma^{o}_{i}) \longleftarrow T_{i}(s_{i}, \sigma^{o}_{i})+\alph
 | $F_{G}(x)$                                  | Set of event that result state from $x$ is defined ; Set of Events that lead to the legal state from $x$                                                                           |
 | $F_i(s_{i})$                                | Active Event set over $\sum$ at state $s_{i}$                                                                                                                                      |
 | $\pi$                                       | net control pattern ; intersection of each supervisor's control pattern                                                                                                            |
-| $r^{1}_{i}$                                 |                                                                                                                                                                                    |
+| $r^{1}_{i}$                                 | Rewards that $SV_{i}$ get from evaluation for the control pattern $pi_{i}$                                                                                                         |
+| $r^{2}_{i}$                                 | Rewards that $SV_{i}$ get as it observes $\sigma^{o}_{i}$                                                                                                                          |
 
 # Questions
 For $S_{i}\subseteq 2^{X}$, what does $2^{X}$ mean?
