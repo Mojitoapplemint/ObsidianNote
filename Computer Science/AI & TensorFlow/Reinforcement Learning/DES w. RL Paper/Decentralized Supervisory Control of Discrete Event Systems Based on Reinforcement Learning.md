@@ -161,9 +161,9 @@ $$P_{i}(s_{i}, \pi_{i}, s_{i}') = \sum_{\sigma^{o}_{i}\in \pi_{i}\cap \sum^{o}_{
 ## Eq. 16, 17
 $$P^{1}_{i}(s_{i}, \pi_{i}, s'_{i})=\frac{\eta^{*}_{i}(s_{i}, \sigma^{o}_{i})}{\displaystyle\sum_{\sigma^{o'}_{i}\in\pi_{i}\cap \sum^{o}_{i} }\eta^{*}_{i}(s_{i}, \sigma^{o'}_{i})}$$
 $$\sum_{\sigma^{o'}_{i}\in F_{i}(s_{i})\cap \sum^{o}_{i} }\eta^{*}_{i}(s_{i}, \sigma^{o'}_{i})=1$$
-- $F_{i}(s_{i})\cap \sum^{o}_{i}$: Set of all possible legal and observable events that ended up to $s_{i}$
-	- Sum of $\eta$ for all observable events that lead to $s_{i}$ is 1
-		- $\eta$ : Probability of $SV_{i}$ observes the event $\sigma^{o}_{i}$ that leads to $s_{i}$
+- $F_{i}(s_{i})\cap \sum^{o}_{i}$: Set of all possible legal and observable events that can be happned at $s_{i}$
+	- Sum of $\eta$ for all observable legal events at $s_{i}$ is 1
+		- $\eta$ : Probability of $SV_{i}$ observes the event $\sigma^{o}_{i}$ at $s_{i}$
 
 ## Eq. 18
 $$R_{i}(s_{i}, \pi_{i}, s'_{i})=R^{1}_{i}(s_{i}, \pi_{i})+R^{2}_{i}(s_{i}, \sigma^{o}_{i}, s'_{i})$$
