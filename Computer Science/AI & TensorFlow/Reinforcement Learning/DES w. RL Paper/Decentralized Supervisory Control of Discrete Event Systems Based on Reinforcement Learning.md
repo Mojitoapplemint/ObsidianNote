@@ -161,8 +161,8 @@ $$P_{i}(s_{i}, \pi_{i}, s_{i}') = \sum_{\sigma^{o}_{i}\in \pi_{i}\cap \sum^{o}_{
 ## Eq. 16, 17
 $$P^{1}_{i}(s_{i}, \pi_{i}, s'_{i})=\frac{\eta^{*}_{i}(s_{i}, \sigma^{o}_{i})}{\sum_{\sigma^{o'}_{i}\in\pi_{i}\cap \sum^{o}_{i} }\eta^{*}_{i}(s_{i}, \sigma^{o'}_{i})}$$
 $$\sum_{\sigma^{o'}_{i}\in F_{i}(s_{i})\cap \sum^{o}_{i} }\eta^{*}_{i}(s_{i}, \sigma^{o'}_{i})=1$$
-- $F_{i}(s_{i})\cap \sum^{o}_{i}$: Set of all possible legal event at $s_{i}$ that is observable
-- 
+- $F_{i}(s_{i})\cap \sum^{o}_{i}$: Set of all possible legal and observable events that ended up to $s_{i}$
+	- Sum of $\eta$ for all observable 
 
 # Notations
 
