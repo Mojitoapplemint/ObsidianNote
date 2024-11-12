@@ -176,7 +176,16 @@ $$\small Q^{*}_{i}(s_{i}, \pi_{i})=R^{1}_{i}(s_{i}, \pi_{i})+\sum_{\sigma^{o}_{i
 $$\small =R^{1}_{i}(s_{i}, \pi_{i})+\sum_{\sigma^{o}_{i}\in\pi_{i}\cap \sum^{o}_{i}}\frac{\eta^{*}_{i}(s_{i}, \sigma^{o}_{i})}{\displaystyle\sum_{\sigma^{o'}_{i}\in\pi_{i}\cap \sum^{o}_{i} }\eta^{*}_{i}(s_{i}, \sigma^{o'}_{i})}\times T^{*}_{i}(s_{i}, \sigma^{o}_{i})$$
 $$T_{i}^{*}(s_{i}, \sigma^{o}_{i})=\sum_{s_{i}'\in S_{i}}\left[ P^{2}_{i}(s_{i}, \sigma^{o}_{i}, s'_{i}) \times \left( R_{i}^{2}(s_{i}, \pi_{i}, s'_{i})+\gamma\max_{\pi'_{i}\in\Pi_{i}(s_{i}')}Q^{*}_{i}(s'_{i}, \pi_{i}') \right)\right]$$
 
-$$$$
+
+**Correct Version?**
+$$\small Q^{*}_{i}(s_{i}, \pi_{i})=R^{1}_{i}(s_{i}, \pi_{i})+\sum_{\sigma^{o}_{i}\in\pi_{i}\cap \sum^{o}_{i}}\left[ \frac{\eta^{*}_{i}(s_{i}, \sigma^{o}_{i})}{\displaystyle\sum_{\sigma^{o'}_{i}\in\pi_{i}\cap \sum^{o}_{i} }\eta^{*}_{i}(s_{i}, \sigma^{o'}_{i})}\times \sum_{s_{i}'\in S_{i}}\left[P^{2}_{i}(s_{i}, \sigma^{o}_{i}, s'_{i}) \times \left( R_{i}^{2}(s_{i}, \pi_{i}, s'_{i})+\gamma\max_{\pi'_{i}\in\Pi_{i}(s_{i}')}Q^{*}_{i}(s'_{i}, \pi_{i}') \right)\right] \right]$$
+$$\small =R^{1}_{i}(s_{i}, \pi_{i})+\sum_{\sigma^{o}_{i}\in\pi_{i}\cap \sum^{o}_{i}}\frac{\eta^{*}_{i}(s_{i}, \sigma^{o}_{i})}{\displaystyle\sum_{\sigma^{o'}_{i}\in\pi_{i}\cap \sum^{o}_{i} }\eta^{*}_{i}(s_{i}, \sigma^{o'}_{i})}\times T^{*}_{i}(s_{i}, \sigma^{o}_{i})$$
+$$T_{i}^{*}(s_{i}, \sigma^{o}_{i})=\sum_{s_{i}'\in S_{i}}\left[ P^{2}_{i}(s_{i}, \sigma^{o}_{i}, s'_{i}) \times \left( R_{i}^{2}(s_{i}, \pi_{i}, s'_{i})+\gamma\max_{\pi'_{i}\in\Pi_{i}(s_{i}')}Q^{*}_{i}(s'_{i}, \pi_{i}') \right)\right]$$
+
+
+Therefore, 
+$$Q^{*}_{i}(s_{i}, \pi_{i})=\sum_{\sigma^{o}_{i}\in\pi_{i}\cap \sum^{o}_{i}} [P_{i}^{1}(s_{i}, \pi_{i}, \sigma^{o}_{i})\times T^{*}_{i}(s_{i}, \sigma^{o}_{i})]$$
+
 
 # Notations
 
