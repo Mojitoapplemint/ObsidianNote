@@ -6,7 +6,6 @@
       {
         "id": "8351a07e0202286e",
         "type": "tabs",
-        "dimension": 60.57692307692307,
         "children": [
           {
             "id": "af4c5180e9d1bc15",
@@ -47,27 +46,23 @@
               "icon": "lucide-file",
               "title": "Q-Learning"
             }
-          }
-        ]
-      },
-      {
-        "id": "fff6f6d7cf05ee2e",
-        "type": "tabs",
-        "dimension": 39.42307692307692,
-        "children": [
+          },
           {
-            "id": "e28467d419a17dc5",
+            "id": "aca992afc8b0685e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf"
+                "file": "Mathematics/Real Analysis/7. Derivatives.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "DES ReinforcementLearning 2005"
+              "icon": "lucide-file",
+              "title": "7. Derivatives"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -224,10 +218,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "af4c5180e9d1bc15",
+  "active": "aca992afc8b0685e",
   "lastOpenFiles": [
-    "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
+    "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/Q-Learning.md",
     "Mathematics/Real Analysis/7. Derivatives.md",
     "Computer Science/Algorithm/6. Minimum Spanning Tree.md",
