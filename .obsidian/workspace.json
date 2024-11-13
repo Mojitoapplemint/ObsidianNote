@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -232,11 +232,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "32b3017348ca859c",
+  "active": "aca992afc8b0685e",
   "lastOpenFiles": [
+    "Mathematics/Real Analysis/6. Continuous Function.md",
     "Mathematics/Real Analysis/7. Derivatives.md",
     "Untitled.md",
-    "Mathematics/Real Analysis/6. Continuous Function.md",
     "Mathematics/Real Analysis/5. Function.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/Q-Learning.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
