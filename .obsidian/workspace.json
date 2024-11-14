@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -234,10 +234,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "32b3017348ca859c",
+  "active": "26dd6824d1baa43b",
   "lastOpenFiles": [
-    "Mathematics/Real Analysis/3. Sequences.md",
     "Mathematics/Real Analysis/5. Function.md",
+    "Mathematics/Real Analysis/3. Sequences.md",
     "Mathematics/Real Analysis/4. Series.md",
     "Mathematics/Real Analysis/6. Continuous Function.md",
     "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
