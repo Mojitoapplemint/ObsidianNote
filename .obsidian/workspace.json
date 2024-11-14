@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Real Analysis/7. Derivatives.md",
+                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Derivatives"
+              "title": "Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning"
             }
           },
           {
@@ -236,9 +236,10 @@
   },
   "active": "32b3017348ca859c",
   "lastOpenFiles": [
+    "Computer Science/AI & TensorFlow/Reinforcement Learning/1. Reinforcement Learning Fundamental.md",
+    "Mathematics/Real Analysis/7. Derivatives.md",
     "Mathematics/Real Analysis/6. Continuous Function.md",
     "Mathematics/Real Analysis/3. Sequences.md",
-    "Mathematics/Real Analysis/7. Derivatives.md",
     "Mathematics/Real Analysis/5. Function.md",
     "Mathematics/Real Analysis/4. Series.md",
     "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
@@ -272,7 +273,6 @@
     "Personal/Data Science/MATH1311/7. Probability.md",
     "Personal/Data Science/MATH1311/5. Normal Distribution.md",
     "Personal/Data Science/MATH1311/6. Visualizing Data.md",
-    "Personal/Data Science/MATH1311/2. Central Tendency.md",
     "Attached Files/Pasted image 20241106131607.png",
     "Attached Files/Pasted image 20241106131357.png",
     "Attached Files/Pasted image 20241106131211.png",
