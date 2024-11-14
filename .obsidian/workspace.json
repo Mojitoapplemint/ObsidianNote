@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Real Analysis/3. Sequences.md",
+                "file": "Mathematics/Real Analysis/6. Continuous Function.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Sequences"
+              "title": "6. Continuous Function"
             }
           },
           {
@@ -237,11 +237,11 @@
   "active": "32b3017348ca859c",
   "lastOpenFiles": [
     "Mathematics/Real Analysis/6. Continuous Function.md",
+    "Mathematics/Real Analysis/3. Sequences.md",
     "Mathematics/Real Analysis/7. Derivatives.md",
     "Mathematics/Real Analysis/5. Function.md",
     "Mathematics/Real Analysis/4. Series.md",
     "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
-    "Mathematics/Real Analysis/3. Sequences.md",
     "Computer Science/Algorithm/2. Asymptotic Notation.md",
     "Computer Science/Algorithm/4. Greedy Algorithm.md",
     "Computer Science/Algorithm/5. Huffman Code.md",
