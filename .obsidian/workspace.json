@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
+                "file": "Mathematics/Real Analysis/7. Derivatives.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning"
+              "title": "7. Derivatives"
             }
           },
           {
@@ -236,6 +236,7 @@
   },
   "active": "32b3017348ca859c",
   "lastOpenFiles": [
+    "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/1. Reinforcement Learning Fundamental.md",
     "Mathematics/Real Analysis/7. Derivatives.md",
     "Mathematics/Real Analysis/6. Continuous Function.md",
@@ -251,7 +252,6 @@
     "Pasted image 20241113211121.png",
     "Untitled.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/Q-Learning.md",
-    "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
     "Textbook/A First Course in Complex Analysis.pdf",
     "Textbook/Mathematics and Statistics for the Quantitative Sciences.pdf",
