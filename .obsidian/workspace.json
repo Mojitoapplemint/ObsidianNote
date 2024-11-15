@@ -39,14 +39,12 @@
             "id": "32b3017348ca859c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Mathematics/Linear Algebra/2. Linear System.md",
-                "mode": "source",
-                "source": false
+                "file": "Textbook/Introduction to linear and matrix algebra.pdf"
               },
-              "icon": "lucide-file",
-              "title": "2. Linear System"
+              "icon": "lucide-file-text",
+              "title": "Introduction to linear and matrix algebra"
             }
           },
           {
@@ -134,7 +132,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -236,6 +235,7 @@
   },
   "active": "32b3017348ca859c",
   "lastOpenFiles": [
+    "Mathematics/Linear Algebra/2. Linear System.md",
     "Mathematics/Real Analysis/7. Derivatives.md",
     "Mathematics/Real Analysis/6. Continuous Function.md",
     "Mathematics/Discrete Math/2. Set.md",
@@ -272,7 +272,6 @@
     "Personal/Data Science/MATH1311/Birthday Paradox Example.md",
     "Personal/Data Science/MATH1311/8. Conditional Probability.md",
     "Personal/Data Science/MATH1311/9. Discrete Probability Distribution.md",
-    "Personal/Data Science/MATH1311/7. Probability.md",
     "Attached Files/Pasted image 20241106131607.png",
     "Attached Files/Pasted image 20241106131357.png",
     "Attached Files/Pasted image 20241106131211.png",
