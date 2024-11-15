@@ -22,29 +22,29 @@
             }
           },
           {
-            "id": "26dd6824d1baa43b",
+            "id": "f05e78c3f381e6c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Algorithm/6. Minimum Spanning Tree.md",
+                "file": "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. Minimum Spanning Tree"
+              "title": "3. Divide-and-Conquer Algorithms"
             }
           },
           {
-            "id": "32b3017348ca859c",
+            "id": "26dd6824d1baa43b",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Textbook/Introduction to linear and matrix algebra.pdf"
+                "file": "Textbook/Algorithms Illuminated (Part 1) The Basics.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Introduction to linear and matrix algebra"
+              "title": "Algorithms Illuminated (Part 1) The Basics"
             }
           },
           {
@@ -60,23 +60,9 @@
               "icon": "lucide-file",
               "title": "6. Continuous Function"
             }
-          },
-          {
-            "id": "f05e78c3f381e6c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. Divide-and-Conquer Algorithms"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -234,9 +220,15 @@
   },
   "active": "26dd6824d1baa43b",
   "lastOpenFiles": [
+    "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
+    "Textbook/Algorithms Illuminated (Part 1) The Basics.pdf",
+    "Textbook/Introduction to linear and matrix algebra.pdf",
+    "Computer Science/Algorithm/6. Minimum Spanning Tree.md",
+    "Textbook/Algorithms Illuminated (Part 3) Greedy Algorithms and Dynamic Programming.pdf",
+    "Textbook/Algorithms Illuminated (Part 2) Graph Algorithms and Data Structure.pdf",
+    "Textbook/Algorithms Illuminated (Part 4) Algorithms for NP Hard Problems.pdf",
     "Computer Science/Algorithm/5. Huffman Code.md",
     "Computer Science/Algorithm/4. Greedy Algorithm.md",
-    "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
     "Mathematics/Real Analysis/7. Derivatives.md",
     "Mathematics/Real Analysis/6. Continuous Function.md",
     "Mathematics/Real Analysis/5. Function.md",
@@ -244,7 +236,6 @@
     "Mathematics/Number Theory/12. Perfect Number and Mersenne Primes.md",
     "Untitled.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
-    "Textbook/Introduction to linear and matrix algebra.pdf",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
     "Mathematics/Discrete Math/2. Set.md",
     "Mathematics/Discrete Math/4. Function.md",
@@ -252,7 +243,6 @@
     "Mathematics/Real Analysis/3. Sequences.md",
     "Mathematics/Real Analysis/4. Series.md",
     "Computer Science/Algorithm/2. Asymptotic Notation.md",
-    "Computer Science/Algorithm/6. Minimum Spanning Tree.md",
     "Computer Science/Algorithm/7. Dynamic Programming.md",
     "Pasted image 20241113211121.png",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/Q-Learning.md",
@@ -261,16 +251,11 @@
     "Textbook/Mathematics and Statistics for the Quantitative Sciences.pdf",
     "Textbook/A friendly approach to complex analysis.pdf",
     "Textbook/Object-Oriented Data Structures Using Java-Fourth Edition.pdf",
-    "Textbook/Discrete Mathematics With Graph Theory 3ed (2005).pdf",
-    "Textbook/Calculus_ Single and Multivariable.pdf",
-    "Textbook/Elementary Number Theory & its applications.pdf",
-    "Textbook",
     "To-do List.md",
     "Personal/Latex Suite Personal Setting.md",
     "Personal/Data Science/MATH1311/True, False, Positive, Negative.md",
     "Personal/Data Science/MATH1311/Monty Hall Example.md",
     "Personal/Data Science/MATH1311/Chlamydia Example.md",
-    "Personal/Data Science/MATH1311/Birthday Paradox Example.md",
     "Attached Files/Pasted image 20241106131607.png",
     "Attached Files/Pasted image 20241106131357.png",
     "Attached Files/Pasted image 20241106131211.png",
