@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Number Theory/9. Some Special Congruences.md",
+                "file": "Mathematics/Number Theory/10. Pseudoprime.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. Some Special Congruences"
+              "title": "10. Pseudoprime"
             }
           },
           {
@@ -222,6 +222,7 @@
   },
   "active": "26dd6824d1baa43b",
   "lastOpenFiles": [
+    "Mathematics/Number Theory/9. Some Special Congruences.md",
     "Mathematics/Number Theory/7. Conguents.md",
     "Textbook/Algorithms Illuminated (Part 1) The Basics.pdf",
     "Minimum Distance.md",
@@ -258,7 +259,6 @@
     "To-do List.md",
     "Personal/Latex Suite Personal Setting.md",
     "Personal/Data Science/MATH1311/True, False, Positive, Negative.md",
-    "Personal/Data Science/MATH1311/Monty Hall Example.md",
     "Attached Files/Pasted image 20241106131607.png",
     "Attached Files/Pasted image 20241106131357.png",
     "Attached Files/Pasted image 20241106131211.png",
