@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Number Theory/10. Pseudoprime.md",
+                "file": "Mathematics/Number Theory/11. Euler's Theorem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. Pseudoprime"
+              "title": "11. Euler's Theorem"
             }
           },
           {
@@ -222,8 +222,10 @@
   },
   "active": "26dd6824d1baa43b",
   "lastOpenFiles": [
-    "Mathematics/Number Theory/7. Conguents.md",
+    "Mathematics/Number Theory/12. Perfect Number and Mersenne Primes.md",
+    "Mathematics/Number Theory/11. Euler's Theorem.md",
     "Mathematics/Number Theory/10. Pseudoprime.md",
+    "Mathematics/Number Theory/7. Conguents.md",
     "Mathematics/Number Theory/9. Some Special Congruences.md",
     "Textbook/Algorithms Illuminated (Part 1) The Basics.pdf",
     "Minimum Distance.md",
@@ -239,7 +241,6 @@
     "Mathematics/Real Analysis/6. Continuous Function.md",
     "Mathematics/Real Analysis/5. Function.md",
     "Mathematics/Number Theory/13. RSA.md",
-    "Mathematics/Number Theory/12. Perfect Number and Mersenne Primes.md",
     "Untitled.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
@@ -258,7 +259,6 @@
     "Textbook/A friendly approach to complex analysis.pdf",
     "Textbook/Object-Oriented Data Structures Using Java-Fourth Edition.pdf",
     "To-do List.md",
-    "Personal/Latex Suite Personal Setting.md",
     "Attached Files/Pasted image 20241106131607.png",
     "Attached Files/Pasted image 20241106131357.png",
     "Attached Files/Pasted image 20241106131211.png",
