@@ -39,12 +39,14 @@
             "id": "26dd6824d1baa43b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Textbook/Algorithms Illuminated (Part 1) The Basics.pdf"
+                "file": "Mathematics/Number Theory/9. Some Special Congruences.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Algorithms Illuminated (Part 1) The Basics"
+              "icon": "lucide-file",
+              "title": "9. Some Special Congruences"
             }
           },
           {
@@ -220,8 +222,9 @@
   },
   "active": "26dd6824d1baa43b",
   "lastOpenFiles": [
-    "Minimum Distance.md",
+    "Mathematics/Number Theory/7. Conguents.md",
     "Textbook/Algorithms Illuminated (Part 1) The Basics.pdf",
+    "Minimum Distance.md",
     "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
     "Textbook/Introduction to linear and matrix algebra.pdf",
     "Computer Science/Algorithm/6. Minimum Spanning Tree.md",
