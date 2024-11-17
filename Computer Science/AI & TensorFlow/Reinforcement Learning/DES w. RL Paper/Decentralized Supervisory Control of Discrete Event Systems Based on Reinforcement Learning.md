@@ -196,8 +196,6 @@ $$Q^{new}(s_{t}, a_{t})=Q^{old}(s_{t},a_{t})+\alpha\Big[r_{t}+\gamma\cdot \max_{
 Difference
 - In typical Q value update equation, the reward, $r_{t}$, is reward obtained as the agent take an action $a$. However, in Eq. 21, the reward, $r^{2}_{i}$ is reward that obtained as $SV_{i}$ *observes* the event, not taking an action
 
-
-
 # Notations
 
 | Notation                                    | Meaning                                                                                                                                                                            |
