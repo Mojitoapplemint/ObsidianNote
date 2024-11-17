@@ -157,6 +157,7 @@ $$Q^{*}_{i}(s_{i}, \pi_{i})=\sum_{s_{i}'\in S_{i}}\left[P_{i}(s_{i}, \pi_{i}, s_
 ## Eq. 15
 $$P_{i}(s_{i}, \pi_{i}, s_{i}') = \sum_{\sigma^{o}_{i}\in \pi_{i}\cap \sum^{o}_{i} }P^{1}_{i}(s_{i}, \pi_{i}, \sigma^{o}_{i})\cdot P^{2}_{i}(s_{i}, \sigma^{o}_{i}, s'_{i})$$
 - $\pi_{i}\cap \sum^{o}_{i}$: What does this mean?
+	- Set of all controllable and observable events
 
 ## Eq. 16, 17
 $$P^{1}_{i}(s_{i}, \pi_{i}, s'_{i})=\frac{\eta^{*}_{i}(s_{i}, \sigma^{o}_{i})}{\displaystyle\sum_{\sigma^{o'}_{i}\in\pi_{i}\cap \sum^{o}_{i} }\eta^{*}_{i}(s_{i}, \sigma^{o'}_{i})}$$
