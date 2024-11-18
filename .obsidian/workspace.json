@@ -6,7 +6,6 @@
       {
         "id": "f0493068e6dc6e35",
         "type": "tabs",
-        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "f05e78c3f381e6c2",
@@ -215,8 +214,7 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "f05e78c3f381e6c2",
