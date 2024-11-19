@@ -116,7 +116,6 @@
     // Basic operations
     {trigger: "sr", replacement: "^{2}", options: "mA"},
 	{trigger: "cb", replacement: "^{3}", options: "mA"},
-	{trigger: "rd", replacement: "^{$0}$1", options: "mA"},
 	{trigger: "_", replacement: "_{$0}$1", options: "mA"},
 	{trigger: "sts", replacement: "_\\text{$0}", options: "mA"},
 	{trigger: "sq", replacement: "\\sqrt{ $0 }$1", options: "mA"},
