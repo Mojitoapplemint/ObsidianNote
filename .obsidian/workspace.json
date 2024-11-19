@@ -65,14 +65,12 @@
             "id": "bd383f3ee3646a09",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Introductory Logic/8. Syllogistic Logic.md",
-                "mode": "source",
-                "source": false
+                "file": "Textbook/Algorithms Illuminated (Part 3) Greedy Algorithms and Dynamic Programming.pdf"
               },
-              "icon": "lucide-file",
-              "title": "8. Syllogistic Logic"
+              "icon": "lucide-file-text",
+              "title": "Algorithms Illuminated (Part 3) Greedy Algorithms and Dynamic Programming"
             }
           }
         ],
@@ -132,7 +130,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -232,8 +231,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c57e60c07883afd8",
+  "active": "bd383f3ee3646a09",
   "lastOpenFiles": [
+    "Introductory Logic/8. Syllogistic Logic.md",
     "Mathematics/Number Theory/12. Perfect Number and Mersenne Primes.md",
     "Untitled.md",
     "Minimum Distance.md",
@@ -241,7 +241,6 @@
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
     "Computer Science/Git & GitHub.md",
     "Excalidraw/Drawing 2024-11-18 12.38.01.excalidraw.md",
-    "Introductory Logic/8. Syllogistic Logic.md",
     "Attached Files/Pasted image 20241118124344.png",
     "Mathematics/Real Analysis/7. Derivatives.md",
     "Mathematics/Real Analysis/6. Continuous Function.md",
