@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -231,8 +231,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bd383f3ee3646a09",
+  "active": "43921e1249c3a4c3",
   "lastOpenFiles": [
+    "Textbook/Algorithms Illuminated (Part 3) Greedy Algorithms and Dynamic Programming.pdf",
     "Introductory Logic/8. Syllogistic Logic.md",
     "Mathematics/Number Theory/12. Perfect Number and Mersenne Primes.md",
     "Untitled.md",
@@ -255,7 +256,6 @@
     "Mathematics/Number Theory/7. Conguents.md",
     "Textbook/Algorithms Illuminated (Part 1) The Basics.pdf",
     "Textbook/Introduction to linear and matrix algebra.pdf",
-    "Textbook/Algorithms Illuminated (Part 3) Greedy Algorithms and Dynamic Programming.pdf",
     "Textbook/Algorithms Illuminated (Part 2) Graph Algorithms and Data Structure.pdf",
     "Textbook/Algorithms Illuminated (Part 4) Algorithms for NP Hard Problems.pdf",
     "Computer Science/Algorithm/5. Huffman Code.md",
