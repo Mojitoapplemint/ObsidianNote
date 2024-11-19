@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Git & GitHub.md",
+                "file": "Mathematics/Number Theory/13. RSA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git & GitHub"
+              "title": "13. RSA"
             }
           },
           {
@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -231,16 +230,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "43921e1249c3a4c3",
+  "active": "71b5e72c4f5ae469",
   "lastOpenFiles": [
+    "Mathematics/Number Theory/12. Perfect Number and Mersenne Primes.md",
+    "Computer Science/Git & GitHub.md",
+    "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
     "Textbook/Algorithms Illuminated (Part 3) Greedy Algorithms and Dynamic Programming.pdf",
     "Introductory Logic/8. Syllogistic Logic.md",
-    "Mathematics/Number Theory/12. Perfect Number and Mersenne Primes.md",
     "Untitled.md",
     "Minimum Distance.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
-    "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
-    "Computer Science/Git & GitHub.md",
     "Excalidraw/Drawing 2024-11-18 12.38.01.excalidraw.md",
     "Attached Files/Pasted image 20241118124344.png",
     "Mathematics/Real Analysis/7. Derivatives.md",
