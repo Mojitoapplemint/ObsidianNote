@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -232,8 +232,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "71b5e72c4f5ae469",
+  "active": "43921e1249c3a4c3",
   "lastOpenFiles": [
+    "Computer Science/Git & GitHub.md",
     "Excalidraw/Drawing 2024-11-18 12.38.01.excalidraw.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
     "Introductory Logic/8. Syllogistic Logic.md",
@@ -242,7 +243,6 @@
     "Mathematics/Real Analysis/6. Continuous Function.md",
     "Computer Science/Algorithm/6. Minimum Spanning Tree.md",
     "Computer Science/Algorithm/7. Dynamic Programming.md",
-    "Computer Science/Git & GitHub.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
     "Mathematics/Number Theory/11. Euler's Theorem.md",
     "Mathematics/Number Theory/10. Pseudoprime.md",
