@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -232,10 +232,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "71b5e72c4f5ae469",
+  "active": "cc1a531cd0877c0d",
   "lastOpenFiles": [
-    "Personal/Latex Suite Personal Setting.md",
     "Mathematics/Number Theory/14. Order.md",
+    "Personal/Latex Suite Personal Setting.md",
     "Mathematics/Number Theory/13. RSA.md",
     "Mathematics/Number Theory/8. Chinese Remainder Theorem.md",
     "Mathematics/Number Theory/7. Conguents.md",
