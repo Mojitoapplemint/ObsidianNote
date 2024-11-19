@@ -1,0 +1,1 @@
+We've learned that if $gcd(a,n)=1$, then $a^{\phi(n)}\e$
