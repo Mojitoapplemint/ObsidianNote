@@ -6,7 +6,6 @@
       {
         "id": "f0493068e6dc6e35",
         "type": "tabs",
-        "dimension": 33.12841530054645,
         "children": [
           {
             "id": "43921e1249c3a4c3",
@@ -14,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Number Theory/11. Euler's Theorem.md",
+                "file": "Mathematics/Number Theory/10. Pseudoprime.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. Euler's Theorem"
+              "title": "10. Pseudoprime"
             }
           },
           {
@@ -47,15 +46,7 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2024-11-20 13.03.54.excalidraw"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "dbbaf8f3826acf22",
-        "type": "tabs",
-        "dimension": 66.87158469945356,
-        "children": [
+          },
           {
             "id": "0d379bea421c08e8",
             "type": "leaf",
@@ -68,7 +59,8 @@
               "title": "Elementary Number Theory & its applications"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -225,10 +217,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cc1a531cd0877c0d",
+  "active": "43921e1249c3a4c3",
   "lastOpenFiles": [
-    "Mathematics/Number Theory/7. Conguents.md",
+    "Mathematics/Number Theory/11. Euler's Theorem.md",
     "Mathematics/Number Theory/9. Some Special Congruences.md",
+    "Mathematics/Number Theory/7. Conguents.md",
     "Textbook/Elementary Number Theory & its applications.pdf",
     "Mathematics/Real Analysis/5. Function.md",
     "Mathematics/Number Theory/10. Pseudoprime.md",
@@ -243,7 +236,6 @@
     "Personal/Latex Suite Personal Setting.md",
     "Mathematics/Number Theory/13. RSA.md",
     "Mathematics/Number Theory/8. Chinese Remainder Theorem.md",
-    "Mathematics/Number Theory/11. Euler's Theorem.md",
     "Mathematics/Number Theory/12. Perfect Number and Mersenne Primes.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
     "Computer Science/Git & GitHub.md",
