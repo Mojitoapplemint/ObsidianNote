@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f05e78c3f381e6c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning"
-            }
-          },
-          {
-            "id": "71b5e72c4f5ae469",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Number Theory/14. Order.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "14. Order"
-            }
-          },
-          {
             "id": "43921e1249c3a4c3",
             "type": "leaf",
             "state": {
@@ -78,19 +50,19 @@
             }
           },
           {
-            "id": "bd383f3ee3646a09",
+            "id": "956b836c6972bf37",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "Textbook/Algorithms Illuminated (Part 3) Greedy Algorithms and Dynamic Programming.pdf"
+                "file": "Excalidraw/Drawing 2024-11-20 13.03.54.excalidraw.md"
               },
-              "icon": "lucide-file-text",
-              "title": "Algorithms Illuminated (Part 3) Greedy Algorithms and Dynamic Programming"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-20 13.03.54.excalidraw"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -249,6 +221,9 @@
   },
   "active": "0d379bea421c08e8",
   "lastOpenFiles": [
+    "Attached Files/Pasted image 20241120130448.png",
+    "Excalidraw/Drawing 2024-11-20 13.03.54.excalidraw.md",
+    "Introductory Logic/8. Syllogistic Logic.md",
     "Untitled.md",
     "Mathematics/Real Analysis/7. Derivatives.md",
     "Mathematics/Real Analysis/6. Continuous Function.md",
@@ -264,7 +239,6 @@
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
     "Computer Science/Git & GitHub.md",
     "Textbook/Algorithms Illuminated (Part 3) Greedy Algorithms and Dynamic Programming.pdf",
-    "Introductory Logic/8. Syllogistic Logic.md",
     "Minimum Distance.md",
     "Excalidraw/Drawing 2024-11-18 12.38.01.excalidraw.md",
     "Attached Files/Pasted image 20241118124344.png",
@@ -281,8 +255,6 @@
     "Computer Science/Algorithm/5. Huffman Code.md",
     "Computer Science/Algorithm/4. Greedy Algorithm.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
-    "Mathematics/Discrete Math/2. Set.md",
-    "Mathematics/Discrete Math/4. Function.md",
     "Attached Files/Pasted image 20241113211121.png",
     "Textbook/A First Course in Complex Analysis.pdf",
     "Textbook/Mathematics and Statistics for the Quantitative Sciences.pdf",
