@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Real Analysis/7. Derivatives.md",
+                "file": "Mathematics/Real Analysis/6. Continuous Function.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Derivatives"
+              "title": "6. Continuous Function"
             }
           },
           {
@@ -234,6 +234,7 @@
   },
   "active": "cc1a531cd0877c0d",
   "lastOpenFiles": [
+    "Mathematics/Real Analysis/7. Derivatives.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
     "Mathematics/Number Theory/14. Order.md",
     "Personal/Latex Suite Personal Setting.md",
@@ -250,7 +251,6 @@
     "Minimum Distance.md",
     "Excalidraw/Drawing 2024-11-18 12.38.01.excalidraw.md",
     "Attached Files/Pasted image 20241118124344.png",
-    "Mathematics/Real Analysis/7. Derivatives.md",
     "Mathematics/Real Analysis/6. Continuous Function.md",
     "Computer Science/Algorithm/6. Minimum Spanning Tree.md",
     "Computer Science/Algorithm/7. Dynamic Programming.md",
