@@ -36,18 +36,6 @@
             }
           },
           {
-            "id": "956b836c6972bf37",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-11-20 13.03.54.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-11-20 13.03.54.excalidraw"
-            }
-          },
-          {
             "id": "0d379bea421c08e8",
             "type": "leaf",
             "state": {
@@ -60,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -219,15 +207,15 @@
   },
   "active": "0d379bea421c08e8",
   "lastOpenFiles": [
-    "Mathematics/Number Theory/10. Pseudoprime.md",
-    "Mathematics/Number Theory/11. Euler's Theorem.md",
     "Mathematics/Number Theory/9. Some Special Congruences.md",
-    "Mathematics/Number Theory/7. Conguents.md",
+    "Excalidraw/Drawing 2024-11-20 13.03.54.excalidraw.md",
+    "Mathematics/Number Theory/10. Pseudoprime.md",
     "Textbook/Elementary Number Theory & its applications.pdf",
+    "Mathematics/Number Theory/11. Euler's Theorem.md",
+    "Mathematics/Number Theory/7. Conguents.md",
     "Mathematics/Real Analysis/5. Function.md",
     "Introductory Logic/8. Syllogistic Logic.md",
     "Attached Files/Pasted image 20241120130448.png",
-    "Excalidraw/Drawing 2024-11-20 13.03.54.excalidraw.md",
     "Untitled.md",
     "Mathematics/Real Analysis/7. Derivatives.md",
     "Mathematics/Real Analysis/6. Continuous Function.md",
