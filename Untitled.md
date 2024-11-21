@@ -183,14 +183,14 @@ Merge the pair of trees that causes the **minimum-possible increase** in the ave
 
 ## Example)
 
-| Symbol | Frequency |     | Symbol | Frequency |
-| ------ | --------- | --- | ------ | --------- |
-| A      | 3         |     | B      | 2         |
-| B      | 2         |     | E      | 2         |
-| C      | 6         |     | A      | 3         |
-| D      | 8         |     | C      | 6         |
-| E      | 2         |     | F      | 6         |
-| F      | 6         |     | D      | 8         |
+| Symbol | Frequency | $\to$ | Symbol | Frequency |
+| ------ | --------- | ----- | ------ | --------- |
+| A      | 3         |       | B      | 2         |
+| B      | 2         |       | E      | 2         |
+| C      | 6         |       | A      | 3         |
+| D      | 8         |       | C      | 6         |
+| E      | 2         |       | F      | 6         |
+| F      | 6         |       | D      | 8         |
 
 ![[Pasted image 20241014223832.png|300]]
 ![[Pasted image 20241014223841.png|300]]
@@ -223,7 +223,7 @@ Minimum spanning tree problem is about connecting a bunch of objects as cheaply 
 
 ---
 ## Pseudocode
-$X:=\{s\}$       **//** $s$ is an arbitrarily chosen vertex
+$X:=\{s\}$   **//** $s$ is an arbitrarily chosen vertex
 $T:=\emptyset$           **//** Invariant: the edges in $T$ span $X$
 
 **//** Main Loop
