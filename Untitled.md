@@ -1,860 +1,710 @@
-In this course, function we talk about with be ones whose domain is $\mathbb{R}$ (or some subset of $\mathbb{R}$), and whose codomain is $\mathbb{R}$
+# Proposition
+If $ab\equiv x\text{ (mod }m)$ and $cd\equiv y\text{ (mod }m)$, then $abcd\equiv xy\text{ (mod }m)$
 
-# Precise Definition of $\lim_{ x \to a }f(x)$
-$\lim_{ x \to a }f(x)$ may...
-1) Not exist
-2) Exists, but not equal to $f(a)$
-3) Is $f(a)$
-	- Later we will define $f$ to be continuous if this happens for all $a$
+# Wilson's Theorem
+If $p$ is prime, then $(p-1)!\equiv -1\text{ (mod }p)$
 
-# Why Consider $\lim_{ x \to a }f(x)$?
-1) Want to understand this kind of behaviour
-2) We can define function be continuous
-	- $\lim_{ x \to a }f(x)=f(a)$ gives meaning to "the function" has no breaks or jump
-3) Define derivative precisely requires considering limit of function whose value doesn't even exist at that point
+**Proof)**
+Suppose $p$ is prime
 
-# Epsilon-Delta Definition of limit
-![[Pasted image 20241011115203.png|250]]
-Suppose $f(x)$ is a function
-- Whose domain is some subset of $\mathbb{R}$ and codomain $\mathbb{R}$
-and $a,L\in\mathbb{R}$, then we say that "the limit of $f(x)$ as $x$ approaches a equals to $L$", and write $\lim_{ x \to a }f(x)=L$ if for all $\epsilon>0$, there exists $\delta>0$ so that for all $x$ such that 
-- If $0<|x-a|<\delta$, then $|f(x)-L|<\epsilon$
+i) If $p=2$, then $(p-1)\neq 1\equiv -1 \text{ (mod }2)$
 
-"No matter how close you want $f(x)$ to set to $L$, you can do this so long as $x$ is sufficiently close to $a$, but except at $x=a$"
+ii) When $p>2$ ($p$ is odd)
+Consider $a\in\{1,2,3\dots p-1\}$. Since $p$ is prime, $gcd(a,p)=1$
 
-**Note)** as with the definition of sequence convergence, the $\delta$ wil vary depending on $\epsilon$
+$\therefore$ a has inverse $\bar{a}$ modulo $p$
 
-## Example) $\lim_{ x \to 5 }(4x-3)=17$
-Rough Work) 
-Given any $\epsilon>0$, we need to set $|f(x)-L|<\epsilon$ and we can make $|x-a|$ small
+[[7. Conguents#Theorem 4.12|Theorem 4.12]]  told us $a^{2}\equiv 1 \text{ (mod }p)$ iff $a\equiv 1$ or $a\equiv -1 \text{ (mod }p)$
+- So, the only integer in $\{1,2,\dots p-1\}$ that one their own inverses are 1 and $p-1$
+- Thus, let's consier $\{2,3\dots p-1\}$
 
-$$|4x-3-17|=|4x-20|=|4| |x-5|<\epsilon$$
-$$\implies|x-5|<\frac{\epsilon}{4}$$
-Let $\epsilon>0$ and set $\delta=\frac{\epsilon}{4}$
-- Let $x$ be such that $0<|x-5|<\delta$
+We group $2,3,\dots p-2$ into $\frac{p-3}{2}$ pairs that are congruent to $1\text{ (mod }p)$
 
-Then consider $|f(x)-17|$
-$$=|4x-3-17|=|4x-20|=4 |x-5|<4\delta=4\cdot\left( \frac{\epsilon}{4} \right)=\epsilon$$
+**Claim)** No two integers in my list have the same inverse mod $p$
 
-So since $\epsilon$ was arbitrary, we have shown that $\lim_{ x \to 5 }(4x-3)=17$
+Proof by contradiction: Suppose $ax\equiv 1\text{ (mod }p)$ and $(a+j)x\equiv 1\text{ (mod }p)$
+- $2\leq a,a+j, x\leq p-2$
+- $1\leq j\leq p-3$
+- $a,a+j\neq x$
+
+Then,
+- $p\text{ | }ax-1$
+- $p\text{ | }(a+j)x-1$
+
+$pq=ax-1$ for some $q\in \mathbb{Z}$
+- Then $ax+jx-1=pq+jx \implies p\text{ | }(pq+jx) \implies py=pq+jx$ for some $y\in\mathbb{Z}$
+- $p(y-q)=jx$, thus $p\text{ | }jx$. Since $p$ is prime, $p\text{ | }j$ or $p\text{ | }x$
+- This contradicts that $x\leq p-2<p$ and $j\leq p-3<p$, thus $p$ can't divide $j$ and $x$
+(End of proving Claim)
+
+Then, by the claim, every integer in $\{2,3\dots p-2\}$ has distinct inverse mod $p$ from the set
+- $2\cdot 3\dots(p-2)\equiv 1\text{ (mod }p)$
+
+Therefore, $1\cdot 2\cdot 3\dots(p-1)\equiv p-1\equiv -1\text{ (mod }p)$
+
+# Theorem 6.2
+Let $n\geq 2$ be an integer, If $(n-1)!\equiv -1\text{ (mod }n)$, then $n$ is prime
+
+**Proof)**
+Let $n\geq{2}$ be an integer for which $(n-1)!\equiv -1\text{ (mod }n)$
+
+Proof by Contradiction: Suppose $n$ is composite, $n=ab\text{ }(a,b\in\mathbb{Z}\text{, }1<a\leq b<n)$
+
+As $1<a<n$, we know $a$ is one of the integers in the products $(n-1)!$
+- $a\text{ | }(n-1)!$ 
+
+Since $(n-1)!\equiv -1 \text{ (mod }n)$ by given condition, $n\text{ | }[(n-1)!+1]$
+- Since $a\text{ | }n$ and $n\text{ | }[(n-1)!+1]$, $a\text{ | }[(n-1)!+1]$
+
+Since $a$ divides both $(n-1)!$ and $(n-1)!+1$, $a$ would divide their difference
+- $a\text{ | }1$
+
+This contradicts since $1<a$. Thus, $n$ is prime by proof by contradiction
+
+# Theorem 6.3: Fermat's Little Theorem
+If $p$ is prime and $a$ is an integer with $p\text{ }|\not\text{ }a$, then $a^{p-1}\equiv 1 \text{ (mod }p)$
+
+## Idea
+| x (mod 7)  | 1   | 2   | 3   | 4   | 5   | 6   |
+| ---------- | --- | --- | --- | --- | --- | --- |
+| 3x (mod 7) | 3   | 6   | 2   | 5   | 1   | 4   |
+Therefore,
+$$(3\cdot 1)\cdot(3\cdot 2)\cdot(3\cdot 3)\cdot(3\cdot 4)\cdot(3\cdot 5)\cdot(3\cdot 6)\equiv 1\cdot2 \cdot 3\cdot 4 \cdot5\cdot 6\text{ (mod }7)$$
+$$3^{6}\cdot 6!\equiv 6! \text{ (mod }7)$$
+Since $6!$ and 7 are relatively prime, we can cancel $6!$ for both sides
+$\therefore 3^{6}\equiv 1\text{ (mod }7)$
+
+## Lemma 4.1 Complete System of Residue
+A set of $p$ incongruent integers modulo $p$ forms a complete system of residue mod $p$
+
+Ex) $p=5$ $\implies \{0,1,2,3,4\}$ is complete set of residue
+- Each number is just a representative of each equivalent class
+
+## Theorem 4.7
+If $r_{1}, r_{2}\dots r_{n}$ is a complete system of residue mod $n$, and $gcd(m,n)=1$ for some $a\in\mathbb{Z}^{+}$, then $mr_{1}+i, mr_{2}+i, mr_{n}+i$ is also complete system of residue mod $n$
+
+## Very Useful Claim
+Claim: Let $p$ be prime such that $p\text{ }|\not\text{ }a$. The integers $a, 2a, 3a\dots(p-1)a \text{ (mod }p)$ are the same as the integers $1,2,3\dots(p-1)$ though they may appear in a different order
+
+Let $p$ be prime, $a\in\mathbb{Z}$, $p\text{ }|\not\text{ }a$
+
+i)
+Observe that none of $a, 2a, 3a\dots(p-1)a \text{ (mod }p)$ are divisible by $p$
+- $p$ be prime, thus $p\text{ }|\not\text{ }i$ if $1\leq i\leq p-1$ 
+- $p\text{ }|\not\text{ }a$
+
+ii)
+Observe that no two of $a, 2a, 3a\dots(p-1)a$ are congruent modulo p
+**Proof by Contradiction)**
+Suppose $ja\equiv ka(\text{mod }p)$ for $1\leq k<j\leq p-1$ 
+Then $p\text{ | }(j-k)a$
+- Since $p\text{ }|\not\text{ }a$, $p\text{ | }(j-k)$
+
+Since $1\leq k<j\leq p-1$, $j-k$ must be smaller than $p$.
+- This contradicts that $p$ can't divide $j-k$
+
+Therefore, $a, 2a, 3a\dots(p-1)a$ are a set of $p-1$ integers, none congruent to $0\text{ (mod }p)$ and no two are congruent modulo $p$
+- If we include 0, then we have $p$ incongruent integers $\text{mod }p$, which is a complete system of residue by lemma 4.1
+
+From that complete system of residue, excluding 0, then we have the integers $1,2,\dots(p-1)$
+
+## Proving Fermat's Little Theorem
+Let $p$ be prime, $a\in\mathbb{Z}$, $p\text{ }|\not\text{ }a$
+
+By the very useful claim, 
+$$a\cdot 2a\cdot 3a \dots(p-1)a\equiv 1\cdot 2\cdot 3 \dots(p-1)\text{ (mod }p)$$
+$$a^{p-1}(p-1)!\equiv (p-1)!\text{ (mod }p)$$
+Since $(p-1)!$ and $p$ are relatively prime, we can cancel $(p-1)!$ to both side
+$$\therefore a^{p-1}\equiv 1\text{ (mod p})$$
 
 **Note)**
-- **Let** is indicating that some value is arbitrary and **set** is fixing some value
+Why we can cancel $(p-1)!$ out?
 
-## Example)
-If $f(x)$
-- $5x\text{ }(x\in\mathbb{Q})$
-- $0\text{ }(x\not\in \mathbb{Q})$
-Does $\lim_{ x \to a }f(x)$ exist some $a$'s?
-- One can show that it doesn't exist for any $a\neq{0}$
-- And it does exist for $a=0$
+From $a^{p-1}(p-1)!\equiv (p-1)!\text{ (mod }p)$, 
+- $p\text{ | }[(a^{p-1}-1)(p-1)!]$
+- $p\text{ } |\not\text{ }(p-1)!$, so $p|(a^{p-1}-1)$
 
-Claim: $\lim_{ x \to 0 }f(x)=0$
-Given $\epsilon>0$, let $\delta=\frac{\epsilon}{5}$
-Suppose $x$ is such that $0<|x-a|<\delta$, then there are two cases, either $x$ is rational or irrational
-
-i) $x$ is irrational
-$$|f(x)-0|=|0-0|=0<\epsilon$$
-
-ii) $x$ is rational
-$$|f(x)-0|=|5x-0|=5|x|<5\delta=5\cdot\left( \frac{\epsilon}{5} \right)=\epsilon$$
-
-Regardless $x$ being rational or irrational, if $0<|x-a|<\delta$, then $|f(x)-0|<\epsilon$, 
-so since $\epsilon$ is an arbitrary, $\lim_{ x \to 0 }f(x)=0$
-
-Note) Even if this function is defined as $f(0)\neq {0}$, this definition would still work since $0<|x-0|$, thus $0<|x|$
-- It only cares points near 0, not at 0
-
-## Example) What is $\lim_{ x \to 0 }|x|$?
-Let $\epsilon>0$, set $\delta=\epsilon$
-
-Let $x$ such that $0<|x-0|<\delta$
-- We need $|f(x)-0|<\epsilon$
-- We can have $x>0$ or $x<0$
-
-i) $x>0$, $|f(x)-0|=|f(x)| = |x|<\delta=\epsilon$
-
-ii) $x<0$, $|f(x)-0| = |-x|=|x|<\delta=\epsilon$
-
-So in all cases, $|f(x)-0|<\epsilon$
-
-Since $\epsilon$ is arbitrary, this shows $\lim_{ x \to 0 }|x|=0$
-
-# Theorem 39. Sequence Criterion for Function Convergence
-Relationship between Sequence Convergence and Function Convergence
-
-Let $a,L\in\mathbb{R}$. Suppose $f(x)$ is a function. 
-Then $\lim_{ x \to a }f(x)=L$ **iff** for any sequence $\{x_{n}\}$ which converges to $a$, $\{f(x_{n})\}$ converges to $L$
-- No $\{x_{i}\}$ equals $a$
-
-## Forward Proof)
-Assume $\lim_{ x \to a }f(x)=L$ and we have sequence $\{x_{n}\}$ which converges to $a$, we need to show $\{f(x_{n})\}$ converges to $L$
-
-Let $\epsilon>0$
-i) Then, since $\lim_{ x \to a }f(x)=L$, there exists somce $\delta$ so that if $0<|x-a|<\delta$, $|f(x)-L|<\epsilon$
-
-ii) So then, since $\{x_{n}\}$ converges to $a$, there is some $K$ so that $\forall \text{ }n>K$, $|x_{n}-a|<\delta$
-
-Then for $n>K$, since $|x_{n}-a|<\delta$, $|f(x_{n})-L|<\epsilon$ by i)
-
-So, indeed $\{f(x_{n})\}$ converges to $L$
-
-## Backward Proof)
-Proof by Contrapositive)
-- If $\lim_{ x \to a }f(x)\neq L$, then there exists a sequence $\{x_{n}\}$ with $\forall \text{ }n\in\mathbb{N}, x_{n}\neq a$, $\lim_{ n \to \infty }x_{n}=a$, and $\lim_{ n \to \infty }f(x_{n})\neq L$
-
-What does hypothesis mean
-- There exists $\epsilon>0$ so that $\forall \text{ }\delta>0$, there exists some $x$ with $0<|x-a|<\delta$ but $|f(x)-L|\geq\epsilon$
-
-If we take $\delta=1$, there is some $x$ call it $x_{1}$ so that $0<|x_{1}-a|<1$, but $|f(x_{1})-L|\geq\epsilon$
-
-Let's try with smaller $\delta$ because we want $x$ gets closer to $a$
-- So then, if we take $\delta=\frac{1}{2}$, there exists some $x$, call it $x_{2}$, so that $0<|x_{2}-a|<\frac{1}{2}$, but $|f(x_{2})-L|\geq\epsilon$
-- Do this for every $n\in\mathbb{N}$, if we take $\delta=\frac{1}{n}$, there exists some $x$, call it $x_{n}$, so that $0<|x_{n}-a|<\frac{1}{n}$, but $|f(x_{n})-L|\geq \epsilon$
-
-1) Since, for all $a\in\mathbb{N}$, $0<|x_{n}-a|$, we have $x_{n}\neq a$
-
-2) We also need $\lim_{ n \to \infty }x_{n}=a$, but since $\forall \text{ }n\in\mathbb{N}$, $|x_{n}-a|<\frac{1}{n}$
-	- $a-\frac{1}{n}<x_{n}<a+\frac{1}{n}$
-	- Then, by sequeeze theorem, $\lim_{ n \to \infty }x_{n}=a$
-
-3) And, since we have some $\epsilon>0$ such that $\forall \text{ }n\in \mathbb{N}$, $|f(x_{n})-L|\geq\epsilon$
-	- We have $\lim_{ n \to \infty }f(x_{n})$ cannot be $L$
-
-Thus, by 1), 2), and 3), contrapositive statement is true, the original statement is true by proof by contrapositive
-
-# Theorem 40. Arithmetic Theorem for Function Limit
-
-For any $a,L, M\in\mathbb{R}$, functions $f(x)$ and $g(x)$ such that $\lim_{ x \to a }f(x)=L$ and $\lim_{ x \to a }g(x)=M$
-## 1. $\lim_{ x \to a }x=a$
-Let $\epsilon>0$ and set $\delta=\epsilon$
-
-Let $x$ such that $0<|x-a|<\delta$
-
-Consider $|f(x)-a|$
-$=|x-a|<\delta=\epsilon$
-	$\therefore |f(x)-a|<\epsilon$
-
-Since $\epsilon>0$ is arbitrary, $\lim_{ x \to a }x=a$ 
-
-## 2. $\lim_{ x \to a }k=k$
-Let $\epsilon>0$, set $\delta=\epsilon$
-- In fact, $\delta$ can be any real number
-
-Let $s$ such that $0<|x-a|<\delta$
-
-Consier $|f(k)-k|$
-$=|k-k|=0<\epsilon$
-- $|f(x)-k|<\epsilon$
-
-Since $\epsilon$ is arbitrary, $\lim_{ x \to a }k=k$
-## 3. For any $c\in\mathbb{R}$, if $\lim_{ x \to a }f(x)=L$, then $\lim_{ x \to a }cf(x)=cL$
-
-Since $\lim_{ x \to a }f(x)=L$, $\forall \text{ }\epsilon>0$, $\exists \text{ }\delta>0$ such that $\forall \text{ }x$ such that $0<|x-a|<\delta$, $|f(x)-L|<\frac{\epsilon}{|c|}$
-Let $\epsilon>0$
-Let $x$ such that $0<|x-a|<\delta$
-
-Consider $|cf(x)-cL|$
-- $=|c||f(x)-L|<|c|\cdot\frac{\epsilon}{|c|}=\epsilon$
-
-## 4. $\lim_{ x \to a }(f(x)+g(x))=L+M$
-Rough Work)
-Would need to set $|f(x)+g(x)-(L+M)|\leq|f(x)-L|+|g(x)-M|$
-- We can set both are less than or equal to $\frac{\epsilon}{2}$
-
-Let $\epsilon>0$
-Since $\lim_{ x \to a }f(x)=L$, there is some $\delta_{1}$ such that if $0<|x-n|<\delta_{1}$ , $|f(x)-L|<\frac{\epsilon}{2}$
-
-Since $\lim_{ x \to a }g(x)=M$, there is some $\delta_{2}$, such that if $0<|x-n|<\delta_{2}$ , $|g(x)-M|<\frac{\epsilon}{2}$
-
-Let $\delta=\min(\delta_{1}, \delta_{2})$
-
-Suppose that $0<|x-n|<\delta$
-Consider $|f(x)+g(x)-(L+M)|$
-$$|f(x)+g(x)-(L+M)|\leq|f(x)-L|+|g(x)-M|$$
-$$<\frac{\epsilon}{2}+\frac{\epsilon}{2}=\epsilon$$
-
-Since $\epsilon>0$ is arbitrary, $\lim_{ x \to a }(f(x)+g(x))=L+M$
-
-
-## 5. $\lim_{ x \to a }f(x)g(x)=LM$
-Suppose $\{x_{n}\}$ is some sequence such that $\forall \text{ }n\in\mathbb{N}, x_{n}\neq a$ and $\lim_{ n \to \infty }x_{n}=a$
-- We need to show that $\lim_{ n \to \infty }f(x_{n})g(x_{n})=LM$
-
-By forward direction of Sequence Criterion Theorem,
-- $\lim_{ n \to \infty }f(x_{n})=L$
-- $\lim_{ n \to \infty }g(x_{n})=M$
-
-Then, by the Arithmetic Theorem of Sequence Convergence, 
-- $\lim_{ n \to \infty }f(x_{n})g(x_{n})=LM$
-
-Then, by the backward direction of Sequence Criterion Theorem, 
-- $\lim_{ n \to \infty }f(x)g(x)-LM$
-
-## 6. If $M\neq 0$ and $\forall \text{ }x\in\mathbb{R}, g(x)\neq{0}$, then $\lim_{ x \to a }\frac{f(x)}{g(x)}=\frac{L}{M}$
-Suppose $\{x_{n}\}$ is some sequence such that $\forall \text{ }n\in\mathbb{N}, x_{n}\neq a$ and $\lim_{ n \to \infty }x_{n}=a$
-By forward direction of SCFC,
-- $\lim_{ x \to a }g(x_{n})=M$
-
-Then, by Arithmetic Theorem of Sequence Convergence, 
-- $\lim_{ x \to a }\frac{1}{g(x_{n})}=\frac{1}{M}$
-
-By, backward direction of SCFC,
-- $\lim_{ x \to a }\frac{1}{g(x)}=\frac{1}{M}$
-
-By Rule 5 of Arithmetic Theorem for Function Limit, 
-$\lim_{ x \to a }\frac{f(x)}{g(x)}=\lim_{ x \to a }f(x)\cdot\frac{1}{g(x)} =\lim_{ x \to a }f(x)\cdot \lim_{ x \to a }\frac{1}{g(x)} =L\cdot\frac{1}{M}=\frac{L}{M}$
-
-# Special Type of Function Limit
-1. $\lim_{ x \to a^{-} } f(x)$
-2. $\lim_{ x \to a^{+} } f(x)$
-3. $\lim_{ x \to \infty }f(x)$
-4. $\lim_{ x \to -\infty }f(x)$
-How can we change the definition to define those states?
-## $\lim_{ x \to a^{-} } f(x)$
-$\lim_{ x \to a }f(x)=L$ if for all $\epsilon>0$, there exists $\delta>0$ so that for all $x$ such that 
-- If $0<a-x<\delta$, then $|f(x)-L|<\epsilon$
-
-## $\lim_{ x \to a^{+} }f(x)$
-$\lim_{ x \to a }f(x)=L$ if for all $\epsilon>0$, there exists $\delta>0$ so that for all $x$ such that 
-- If $0<x-a<\delta$, then $|f(x)-L|<\epsilon$
-
-## $\lim_{ x \to \infty }f(x)$
-$\lim_{ x \to a }f(x)=L$ if for all $\epsilon>0$, there exists $\delta>0$ so that for all $x$ such that 
-- If $\delta<x$, then $|f(x)-L|<\epsilon$
-
-## $\lim_{ x \to -\infty }f(x)$
-$\lim_{ x \to a }f(x)=L$ if for all $\epsilon>0$, there exists $\delta>0$ so that for all $x$ such that 
-- If $\delta>x$, then $|f(x)-L|<\epsilon$
-
-## Proposition 41
-Suppose $f(x)$ is a function, and $a,L\in\mathbb{R}$. Then, 
-$$\lim_{ x \to a }f(x)=L\text{ iff }\lim_{ x \to a^{-} }f(x)=L \text{ and } \lim_{ x \to a^{+} }f(x) =L $$
-
-# Continuous Function(cts)
-Continuous at Point
-- For function $f(x)$, say that it is continuous at $a$, if $f$ defined at $a$ and $\lim_{ x \to a }f(x)=f(a)$
-
-Continuous at Set
-- Say $f(x)$ is continuou on a set $A\subseteq \mathbb{R}$ if it is continuous at all pomints of $A$
-
-
-**Ex)**
-$$f(x) = \{^{x\text{ (x}\in\mathbb{Q})}_{o\text{ (x}\not\in\mathbb{Q})}$$
-This function is cts at 0, but not at any other point
-- $\lim_{ x \to 0 }f(x)=0=f(0)$
-
-## Prop 42. 
-$f$ is cts at $a$ iff $f$ is defined at $a$ and $\lim_{ x \to a^{-} } f(x) = \lim_{ x \to a^{+} } f(x)=f(a)$
-
-## Prop 43. Sequence Criterion for Continuity
-$f$ is cts at $a$ iff
-1) $f$ is defined at $a$
-2) For any sequence $\{x_{n}\}$ such that $\lim_{ x \to \infty }x_{n}=a$, $\lim_{ x \to a }f(x)=f(a)$
-
-# Defining More Function
-If $f$ and $g$ are functions and $c\in\mathbb{R}$, define new function as follows
-1) $cf$ is defined as $(cf)(x)=c\cdot f(x)$
-2) $f+g$ is defined as $(f+g)(x)=f(x)+g(x)$
-3) $fg$ is defined as $(fg)(x)=f(x)g(x)$
-4) For $x$ such tht $g(x)\neq0$, $\frac{f}{g}$ is defined as $\left( \frac{f}{g} \right)(x) =\frac{f(x)}{g(x)}$
-5) $f \circ g$ is defined as $(f\circ g)(x) = f(g(x))$
-
-# Theorem 44. Arithmetic Theorem for Continuous Function
-Suppose $f,g$ are cts at $a$ and $c\in\mathbb{R}$
-1) $f(x)=k$ is cts for all $\mathbb{R}$
-2) Indentity Function: $f(x)=x$ is cts for all $\mathbb{R}$
-3) $cf$ is cts at a
-4) $f+g$ is cts at a
-5) $fg$ is cts at a
-6) If $\frac{f}{g}$ defined for all $x\in\mathbb{R}$, then $\frac{f}{g}$ is cts at $a$
-
-## Prove 4)
-We know
-- $\lim_{ x \to a }f(x)=f(a)$
-- $\lim_{ x \to a }g(x)=g(a)$
-
-Then, by Limit Arithmetic Theorem, $\lim_{ x \to a }(f(x)+g(x))=f(a)+g(a)$
-- So, $f+g$ is cts at $a$
-
-**Note)** Rest can be proved similarly
-
-## Corollary 45
-For all polynomial function
-$$f(x)=a_{0}+a_{1}x+a_{2}x^{2}\dots a_{n}x^{n}=\sum^{n}_{i=1}a_{i}x^{i} $$
-is cts for all points
-
-# Prop 46. Composite Function Continuity
-If $f$ is cts at $a$ and $g$ is cts at $f(a)$, then $g\circ f$ is cts at $a$
+# Theorem 6.4
+If $p$ prime and $a\in\mathbb{Z}^{+}$, then $a^{p}\equiv a\text{ (mod }p)$
 
 **Proof)**
-Let's use Sequence Criterion
+Let $p$ be prime and $a\in\mathbb{Z}^{+}$
 
-Suppose $\{x_{n}\}$ conv to $a$
-- $\lim_{ n \to \infty }x_{n}=a$
+Proof by Cases
 
-Since $f$ is cts at $a$, $\lim_{ n \to \infty }f(x_{n})=f(a)$
+i) $p\text{ }|\not\text{ }a$
+Then, by Fermat's Little Theorem,
+- $a^{p-1}\equiv 1\text{ (mod p})$
 
-Then, since $g$ is cts at $f(a)$, $\lim_{ n \to \infty }g(f(x_{n}))=g(f(a))$
+And we can multiply $a$ to the bothsides and get the result we want
 
-Since $\{x_{n}\}$ was an arbitrary sequence conv to $a$, we get $g\circ f$ is cts at $a$
+ii) $p\text{ | }a$
+If $p \text{ | } a$, then $p\text{ | }a^p$
+Thus $p\text{ | }(a^{p}-a)$, $a^{p}\equiv a\text{ (mod }p)$
 
-# Intermediate Value Theorem
-cts functions are guaranteed to take retain value
+# Witness
+Suppose $n$ is a very large number
+- How can we determine that $n$ is prime? Let's utlize FLT
 
-## Lemma 47. Special Case of the Intermediate Value Theorem
-Suppose $a,b\in\mathbb{R}$, $a<b$, $f$ is a function which is cts on $[a,b]$ and $f(a)<0$ and $f(b)>0$
-Then, there exists a $c\in[a,b]$ so that $f(c)=0$
+Suppose $a=2$, if $n$ is prime, by FLT, $2^{n-1}\equiv 1\text{ (mod }n)$
+- If $n$ is prime, then $2^{n}\equiv 2\text{ (mod }n)$
 
-**Proof)**
-Define $A=\{x\in[a,b]:f(x)<0\}$ and let's find $\text{sup}$ of it
-- Non-empty: $f(a)\in A$
-- Bounded Above: all $x\in A, x\leq b$
+Consider its contrapositive: If $2^{n}\not\equiv 2\text{ (mod }n)$, then $n$ is not prime
+- What if $2^{n}\equiv 2$?
+- Then $n$ may/may not be prime
 
-By completeness axiom, $\text{sup}(A)$ exists, let's call it $c$
-- $c<b$ is guaranteed that $c$ is $\text{sup}(A)$ and $b$ is an upper bound of $A$
-- $a<c$ is guaranteed since $c$ is $\text{sup}(A)$ and $a\in A$
+Suppose we pick other values for $a$.
+- $3^{n}\equiv 3\text{ (mod }n)$
+- $4^{n}\equiv 4\text{ (mod }n)$
+- $\vdots$
+- $100^{n}\equiv 100\text{ (mod }n)$
+Even if all of the above holds, we still can't say that $n$ is prime, but it seems probable.
 
-Let's show that $f(c)=0$
-- We will show that $f(c)\not<0$ and $f(c)\not>0$, thus by totality, $f(c)=0$
+We say $a$ is a **witness** for $n$ if $a^{n}\not\equiv a\text{ (mod }n)$
+- If $n$ is prime, it has no witnesses
 
-### i) $f(c)\not<0$
-Proof by Contradiction) Suppose $f(c)<0$
-- We will find a point $d$ "just to the right of $c$" for which $f(d)<0$ also
-- Since $c=\text{sup}(A)$, $f(d)<0$ should not happen
+## Example) $n=561$
+Consider $n=561=3\cdot 11\cdot 17$
+- It is not prime
+- It has no witnesses
 
-Let $\epsilon=\frac{-f(c)}{2}>0$
+To prove $a^{561}\equiv a\text{ (mod }561)$
 
-Since $f$ is cts at $c$, there is some $\delta>0$ so that $\forall \text{ }x$ with $0<|x-c|<\delta$, $f(c)-\epsilon<f(x)<f(c)+\epsilon$
-$$f(c)-(\frac{-f(c)}{2})<f(x)<f(c)+\frac{-f(c)}{2}$$
-$$\frac{3f(c)}{2}<f(x)<\frac{f(c)}{2}$$
-Since $f(c)<0$, $\frac{f(c)}{2}<0$, so for any such $x$, $f(x)<0$
+We could show
+1. $a^{561}\equiv a\text{ (mod }3)$
+2. $a^{561}\equiv a\text{ (mod }11)$
+3. $a^{561}\equiv a\text{ (mod }17)$
 
-Then, let $d$ be such that $c<d<\min(c+\delta, b)$ and $|d-c|<\delta$
-- This $d$ has the property that $d<b$ and $f(d)<0$, thus $d\in A$
-- But, we also have $c<d$, but $c=\text{sup}(A)$
-- Contradiction as we've found a point in $A$ that is greater than $\text{sup}(A)$
+Prove 1) 
+i) If $3|a$
+Then, $a\equiv 0\text{ (mod }3)$ and $a^{561}\equiv 0\text{ (mod }3)$
 
-### ii) $f(c)\not>0$
-Exercise
-- Should get a contradiction with $f(c)$ being the least upper bound
+ii) If $3\text{ }|\not\text{ }a$
+Then FLT says $a^{560}\equiv 1\text{ (mod }3)$
+- Thus, $a^{561}\equiv a\text{ (mod }3)$
 
+# Fermat Pseudoprime
+Let $b\in\mathbb{Z}^{+}$
 
-## Theorem 48. Intermediate Value Theorem
-Suppose $a,b\in\mathbb{R}$, $a<b$, $f$ is cts on $[a,b]$ and $v$ is some point between $f(a)$ and $f(b)$
-- Then, there exists a $c\in[a,b]$ so that $f(c)=v$
+If $n$ is a composite positive integer and $b^{n}\equiv b\text{ (mod }n)$ then $n$ is a **(Fermat) Pseudoprime** to the base $b$
 
-**Proof)**
-Suppose $f(a)<f(b)$ (The case for $f(b)>f(a)$ is similar)
+**Ex)** 15 is a Fermat Pseudoprime to the base 4, so $4^{15}\equiv 4\text{ (mod }15)$
 
-Define a new function $g(x)=f(x)-v$
-- Then, $g$ is also cts since both $f(x)$ and $v$ are continuous, thus by Arithmetic Theorem for Continuous Function, $g$ is continuous
-- And also $g(a)=f(a)-v<0$ since $f(a)<v$ and $g(b)=f(b)-v>0$ since $f(b)>v$
+## Drive more pseudoprimes from one pseudoprime
+We've got some big integer $n$ and we found $2^{n}\equiv{2}\text{ (mod }n)$
+- Either $n$ is *prime or a pseudoprime to the base 2*
 
-Then, by Lemma 47, $\exists \text{ }c\in [a,b]$ so that $g(c)=0$
-- Therefore, $f(c)=g(c)+v=v$
+Suppose $n$ is not prime.
 
-### Example)
-Consider $f(x)=x^{2}$
-- cts everywhere by the Arithmetic Theorem
-- Also, $f(1)=1$ and $f(2)=4$
-- By IVT, there exists a  $c\in(1,2)$ so that $f(c)=2$
-	- I.e. $c^{2}=2$
-	- Now, we proved that $c=\sqrt{ 2 }$ is a real number
-		- First example of irational real number
+$2^{n-1}\equiv 1\text{ (mod }n)$
 
-### Example)
-Show that $x^{3}-8x+4=0$ has at least one solution
-- Find some $a,b$ such that $f(a)<0$ and $f(b)>0$
-- Then, by IVT, there is some solution
+Let $m=2^{n}-1$ and we want to prove that this is also pseudoprime
+1) Show $m$ is composite
+2) Show $m$ is pseudoprime to the base 2
 
+i) Show $m=2^{n}-1$ is composite
 
-## Proposition 49
-There is a real number $x$ such that $1\leq x\leq 2$ and $x^{2}=2$, and $x$ is irrational. We notate this number as $\sqrt{ 2 }$
+Since $n$ is composite, $n=k\cdot l$ for some integer $1<k,l<n$
+- Let's show $(2^{k}-1)\text{ | }m$
 
-Proved by Example 1) above
+Consider $x^{l}-1=(x-1)(x^{l-1}+x^{l-2}\dots+1)$ (binomial identity)
 
-# There are infinitely many irrational number between any two rational number
-## Lemma 50
-Suppose $q\in\mathbb{R}$ is irrational, then
-1) Then, $q^{-1}$ is also irrational
-2) If $r\neq 0$ is rational, then $qr$ is also irrational
+Let $x=2^{k}$, Then by binomial identity
+$$m=2^{n}-1=2^{kl}-1=(2^{k}-1)(2^{k(l-1)}+2^{k(l-2)}\dots 2^{k}+1)$$
+$$\therefore (2^{k}-1)\text{ | }m$$
 
-Prove 1)
-Suppose for contradiction, $q^{-1}$ is rational, so $q^{-1}=\frac{m}{n}$ for some $m,n\in\mathbb{Z}$ and $n\neq 0$
-- Then $q=\frac{n}{m}$, which is rational, contradicting the assumpsion
+ii) Show $m$ is pseudoprime to the base 2
 
-Prove 2) 
-Exercise
+$2^{n}\equiv 2\text{ (mod }n)\implies ny=2^{n}-2\text{ }(y\in\mathbb{Z})$
 
-## Theorem 51. Density of Rationals and Irrationals
-Suppose $a,b\in\mathbb{R}$, $a<b$. Then there exists a rational number $r$ and irrational number $q$ such that $a<r<b$ and $a<q<b$
+Since $m=2^{n}-1$,
+$2^{m-1}-1=2^{2^{n}-2}-1=2^{ny}-1$
 
-Proof by Cases)
+Then, by binomial identity,
+$$2^{ny}-1=(2^{n}-1)(2^{n(y-1)}+2^{n(y-2)}\dots 2^{n}+1)$$
+$$2^{m-1}=m(2^{n(y-1)}+2^{n(y-2)}\dots 2^{n}+1)$$
+$$\therefore  m\text{ | }(2^{m-1}-1)\implies 2^{m-1}\equiv 1\text{ (mod }m)\implies 2^{m}\equiv 2 \text{ (mod }m)$$
 
-i) $a=0$ and $b>0$
+Therefore, $m$ is a pseusdoprime to the base 2
 
-Recall [[2. Upper & Lower Bound#Prop 18. Archimedean Property of $ mathbb{R}$|Prop 18.]] 
-So for rational number, by Prop 18, $\exists \text{ }n\in \mathbb{N}$ such that $nb>1>0$, so then $0<\frac{1}{n}<b$
-- $r=\frac{1}{n}$
+**Note)**
+$q=2^{m}-1$ will also be a pseudoprime. Therefore, there are **infinite amount of pesudoprime to the baes 2** by repeating this process
+
+# Absolute Fermat Pseudoprime (Carmichael Number)
+A Carmichael Number is a composite number $n$ where $a^{n-1}\equiv 1\text{ (mod }n)$ for every positive integer $a$ where $gcd(a,n)=1$
+- Also called **Absolute (Fermat) Pseudoprime**
+- Pseudoprime for all base
+
+**Ex)** 561, 1105, 1729, 2465, 2821, 6601, 8911
+$561=3\cdot 11\cdot 17$
+$1105=5\cdot 13\cdot 17$
+$1729=7\cdot 13\cdot 19$
+$2465=5\cdot 17\cdot 29$
+$2821=7\cdot 13\cdot 31$
+$6601=7\cdot 23\cdot 41$
+$8911=7\cdot 19\cdot 67$
+
+## Properties
+1. Odd
+2. All prime factors are distinct (No squares)
+3. If $p$ is a prime number of $n$, $(p-1)|(n-1)$
+
+### Prove 1): Odd
+Let $n$ be a Carmichael number. Suppose $a=n-1$
+
+Then, $(n-1)^{n}\equiv (n-1)\text{ (mod }n)$
+- But $n-1\equiv -1\text{ (mod }n)$
+
+Then, $(-1)^{n}\equiv -1\text{ (mod }n)$
+
+If $n=2$, then $(-1)^{2} =1\equiv -1\text{ (mod }2)$
+- Since Carmichael number is composite, $n$ can't be Carmichael Number
+
+If $n>2$ and even, $(-1)^{n}=1\equiv -1 \text{ (mod }n)$
+- This contradicts that since $n>2$, $1\equiv -1 \text{ (mod }n)$ is impossible
+
+Therefore, If $n>2$ and odd, then $(-1)^{n}=-1\text{ (mod }n)$
+
+
+### Prove 2) All prime factors are distinct (No squares)
+Next, we show that if $p$ is prime divisor of Carmichael number $n$, then 
+$$p^{2}\text{ }|\not \text{ }n$$
+Proof by Contradiction)
+Let $p^{k}$ be the highest prime power dividing $n$. 
+- $n=p^{k}y$ $(y\in\mathbb{Z}\text{ and }gcd(p,y)=1)$ 
+- And we assume $k\geq 2$
+
+Let $a=1+py$
+- Magical Number
+- We will show $a^{n-1}\not\equiv 1 \text{ (mod }n)$ 
+
+Assume that $gcd(a,n)=1$
+- Assignment Question
+
+Note $gcd(a,y)=1$
+- Suppose for contradiction, suppose $gcd(a,y)=d>1$, then $dl=y$ and $dk=a$
+- $a=1+py\implies dk=1+pdl\implies d(k-pl)=1$
+- $d\text{ | }1$, thus contradiction
+
+Consider $a^{n-1}=(1+py)^{n-1}$
+By Binomial Theorem, 
+$$(1+py)^{n-1}=1+(n-1)(py)^{1}+{}_{n-1}C_{2}\cdot (py)^{2}\dots (n-1)(py)^{n-2}+(py)^{n-1}$$
+$$=1+(n-1)py+p^{2}(\text{mumbo jumbo})$$
+Let's think about this in $\text{mod } p^{2}$
+$$\equiv 1+(n-1)py\text{ (mod }p^{2})$$
+$$=1+npy-py\text{ (mod }p^{2})$$
+$$=1+(p^{k}y)py-py\text{ (mod }p^{2})$$
+Since $k\geq 2$, $(p^{k}y)py\equiv 0\text{ (mod }p^{2})$
+$$\equiv 1-py \text{ (mod }p^{2})$$
+
+Observe $1-yp\not\equiv 1\text{ (mod }p^{2})$
+- Suppose for Contradiction, $1-yp \equiv 1\text{ (mod }p^{2})$
+- Then, $p^{2}\text{ | }(-yp)$
+- Contradicts $gcd(p,y)=1$
+
+Therefore, $a^{n-1}\not\equiv 1\text{ (mod }p^{2})$
+
+This yields a contradiction, since $n$ is Carmichael number and $gcd(a,n)=1$, we know 
+- $a^{n-1}\equiv 1 \text{ (mod }n)$
+- $a^{n-1}\equiv 1 \text{ (mod }p^{k}y)$
+	- $a^{n-1}\equiv 1 \text{ (mod }p^{2}p^{k-2}y)$
+	- $a^{n-1}\equiv 1\text{ (mod }p^{2})$
+- So our assumption that $k\geq2$ was incorrect
+
+# Korselt's Criterion
+Let $n$ be composite, then $n$ is Carmichael number iff
+- $n$ is odd
+- Every prime dividing $n$ satisfies two conditions
+	1) $p^{2}\text{ }|\not\text{ }n$
+	2) $(p-1)\text{ | }(n-1)$
+
+# Miller's Test
+Let $n$ is some be a big odd integer. We want to determine if $n$ is prime.
+
+For some $b\in \mathbb{Z}^{+}$, $gcd(n,b)=1$ and $b^{n-1}\equiv 1\text{ (mod }n)$
+Then, either $n$ is prime, or is a (Fermat) Pseudoprime to the base $b$
+
+Let $x=b^{\frac{n-1}{2}}$, then $x^{2}=b^{n-1}\equiv 1\text{ (mod }n)$
+- Recall [[7. Conguents#Theorem 4.12|Theorem 4.12]].
+- So if $n$ is prime, $x=b^{\frac{n-1}{2}}\equiv \pm{1}\text{ (mod }n)$
+	- Another primality test
+	- If $b^{\frac{n-1}{2}}\equiv 1\text{ (mod }n)$, then consider $b^{\frac{n-1}{2\cdot 2}}$
+	- Repeat until $x\equiv -1 \text{ (mod }n)$
+
+## Miller's Test
+Let $n\in\mathbb{Z}$ with $n>2$ and $n-1=2^{s}t$ ($s$ is some non-neg and $t$ is odd positive)
+
+$n$ passes Miller's Test for the base $b$ if
+1) $b^{t}\equiv 1\text{ (mod }n)$
+Or
+2) $b^{2^{j}t}\equiv -1\text{ (mod }n)$ for some $j:0\leq j\leq s-1$
+
+## Theorem 6.8
+If $n$ is prime and $b\in\mathbb{Z}^{+}$ with $n \text{ }|\not\text{ }b$, then $n$ passes Miller's Test for base $b$
+- Contrapositive: If $n$ does not passes, then $n$ is not prime
+
+## Example) Our Carmichael Number 561
+$n=561$, then $n-1=560=2^{4}\cdot35$
+- $s=4$ and $t=35$
+
+Let's try with $b=2$
+1) $b^{t}=2^{35}\equiv 263 \text{ (mod }561)$
+2) There is no $j$ that $b^{2^{j}t}\equiv -1\text{ (mod }n)$
+	$2^{2\cdot 35}\equiv 166 \text{ (mod }561)$
+	$2^{2^{2}\cdot 35}\equiv 67 \text{ (mod }561)$
+	$2^{2^{3}\cdot 35}\equiv 1 \text{ (mod }561)$
+
+561 does not pass the Miller's Theorem, thus it is not prime
+
+# Theorem 6.10
+If $n$ is an odd positive composite integer, then $n$ passes Miller's Test for at most $\frac{n-1}{4}$ bases $b$ with $b\in\{1,2,\dots n-1\}$
+- Take $k$ random integers from $\{1,2,\dots n-1\}$. If $n$ is composite, the probability that $n$ passes all $k$ test is $<\left( \frac{1}{4} \right)^{k}$
+
+## Can we restrict $b$ more?
+Suppose $n$ is some composite and we consider $b:1\leq b\leq n-1$
+- What happen if $gcd(b,n)=d>1$?
+- $dk=n$ and $dl=b$ 
+
+Suppose for contrapositive, assume passes Miller's Test, $b^{y}=\pm 1\text{ (mod }n)$
+- $nq= b^{y}\pm 1$
+
+Then, 
+- $dkq = d^{y}\cdot l^{y}\pm 1$
+- $d(kq- d^{y-1}\cdot l^{y})=\pm 1$
+
+Implies $d\text{ | }1$ or $d\text{ | }-1$
+- This contradicts that $d>1$, thus $n$ does not pass Miller's Test if $gcd(b,n)>1$
+
+Therefore, we can restrict $b$ value that $1\leq b\leq n-1$ and $gcd(n,b)=1$
+- Defined as $\phi(n)$
 
-For irrational number, we know $1\leq \sqrt{ 2}$, so $0<\frac{1}{\sqrt{ 2 }}\leq 1$
-- Thus, by multiplying this and $0<\frac{1}{n}<b$, $0<\frac{1}{n\sqrt{ 2 }}<b$
-- By Lemma 50, $\frac{1}{n\sqrt{ 2 }}$ is irrational, $q=\frac{1}{n\sqrt{ 2 }}$
-
-ii) $0<a<b$
-In this case, $0<b-a$, So by case 1, there exists a rational numner $r$ and irrational $q$ such that $0<r<b-a$ and $0<q<b-a$
-
-Then, by Prop 18, there is some $n\in\mathbb{N}$ such that $nr>a$
-- Let $k$ be the smallest natural number such that $kr>a$
-	- Exercise: Why such $k$ exist?
-- Then, since $k$ is the smallest, $(k-1)r\leq a$ 
-	- By adding this with $r<b-a$, $kr<b$
-- Therefore, $a<kr<b$
-	- Since $r$ is rational and $k$ is natural number, $kr$ is still a rational number
-
-Similar proof for $q$, setting $k_{2}\in\mathbb{N}$ such that $a<k_{2}q<b$ is irrational
-
-iii) $a<0\leq b$
-Since we've already prove that there is some rational $r$ and irrational $q$ such that $0<r<b$ and $0<q<b$ by case 1, it indeed $a<r<b$ and $a<q<b$ since $a<0$
-
-iv) $a<b<0$
-Then, $0<-b<-a$. By case 2, $\exists \text{ }$ rational $r$ and irrational $q$ between $-b$ and $-a$
-- $-b<r<-a$ and $-b<q<-a$
-
-Then, $a<-r<b$ and $a<-q<b$
-- $r$ is still rational
-- $q$ is still irrational by Lemma 50
-
-Therefore, the statement is true by proof by cases
-
-## Corollary 52
-For any $a,b\in\mathbb{R}$ if $a<b$ then there exist an infinite number of rational and irrational numbers between $a$ and $b$
-
-Proof by Contradiction) Suppose there is only finite number of rationals between $a$ and $b$
-- $a<r_{1}<r_{2}<r_{3}\dots r_{n}<b$
-- But then by Theorem 51, there is another rational number between $a$ and $r_{1}$, contradicting that the there are only $n$ rationals
-
-Similarly for irrationals
-
-## Cardinality
-Cardinality of Rationals is the same with Cardinality of $\mathbb{N}$, but Cardinality of Irrationals is not, the same as Cardinality of $\mathbb{R}$
-- Rationals are Countable!
-
-# Extreme Value Theorem
-Is about conditions which ensure a function has a largest or smallest value
-- In all $\mathbb{R}$
-- Or in some closed interval $[a,b]$
-
-Does this always happen?
-- If $f$ is cts on $[a,b]$, does it always have a max and min in $[a,b]$?
-- Yes!
-
-## Lemma 53
-Suppose $a,b\in\mathbb{R}$, $a<b$ and  $f$ is cts on $[a,b]$, then $f$ is bounded on $[a,b]$
-- $\exists \text{ }M,N\in\mathbb{R}$ such that $\forall \text{ }x\in[a,b]$, $N\leq f(x)\leq M$
-
-**Proof)**
-Suppose for contradiction, such an $M$ does not exist
-
-So, $M=1$ does not work, so there exists some $x_{1}\in[a,b]$, call it $x_{1}$, so that $f(x_{1})>1$
-So, $M=2$ does not work, so there exists some $x_{2}\in[a,b]$, call it $x_{2}$, so that $f(x_{2})>2$
-  $\vdots$
-
-i.e. for every $n\in\mathbb{N}$, there is some $x_{n}\in[a,b]$ so that $f(x_{n})>n$
-- So, we have a sequence $\{x_{n}\}$ such that $\forall \text{ }x_{n}\in[a,b], f(x_{n})>n$
-
-Since $\{x_{n}\}$ is bounded, by Bolzano-Weierstraus Theorem, it has a convergent subseqeuence $\{x_{n_{k}}\}$, that converges to some $L$
-- Since $f$ is cts, by Sequence Criterion, $\{f(x_{n_{k}})\}$ conv to $f(L)$
-- The sequence $\{f(x_{n_{k}})\}$ is bounded since it is convergent
-
-This contradicts how defined $f(x_{n})$ since $n\in\mathbb{N}$, $f(x_{n})>n$
-- Therefore, $M$ must exist by proof by contradiction
-
-Similar for $N$
-
-## Theorem 54. Extreme Value Theorem
-Suppose $a,b\in\mathbb{R}$, $a<b$ and  $f$ is cts on $[a,b]$. Then $f$ acieves a maximum and minimum on $[a,b]$
-- $\exists \text{ }c,d\in[a,b]$ so that $\forall \text{ }x\in[a,b]$, $f(c)\leq f(x) \leq f(d)$
-- Note) $c,d$ are not necessarily unique
-
-Let $\mathrm{Im}(f)=\{f(x):x\in[a,b]\}$
-- By Lemma 53, it is bounded above
-- It is non-empty, $f(a)\in \mathrm{Im}(f)$
-- By completeness axiom, $\text{sup}(\mathrm{Im}(f))$ exists, call it $L$
-- We want to find a $d\in[a,b]$ so that $f(d)=L$
-
-For any $n\in\mathbb{N}$, $L-\frac{1}{n}$ is not an upper bound, thus there must be an $x_{n}\in[a,b]$, $L-\frac{1}{n} <f(x_{n})$
-- And we know that $f(x_{n})\leq L$
-
-So $\{x_{n}\}$ is a sequence of points, each in $[a,b]$ and $\forall \text{ }n\in\mathbb{N}$, $L-\frac{1}{n}<f(x_{n})\leq L$
-- By Sequeeze Theorem, $f(x_{n})$ converges to $L$
-- Do we know that $\{x_{n}\}$ converges?
-
-Since $\{x_{n}\}$ is bounded, then by Bolzano-Weierstrause Theorem, there is some subsequence $\{x_{n_{k}}\}$ that converges
-- Let $d=\lim_{ k \to \infty }x_{n_{k}}$
-- So by continuity of $f$ and Sequence Criterion, $\{f(x_{n_{k}})\}$ converges to $f(d)$
-
-Since the whole sequence converges to $L$, so the subsequence must converge to $L$, so $f(d)=L$
-- Since $L=\text{sup}(\mathrm{Im}(f))$, $\forall \text{ }x\in[a,b]$, $f(x)\leq L=f(d)$
-
-Similar for $c$
-- Use $\text{inf}(\mathrm{Im}(f))$ to set existence of $c$
-
-# Definition of Derivatives
-If $f$ is a function defined at some $a\in\mathbb{R}$, then if $$\lim_{ x \to a } \frac{f(x)-f(a)}{x-a}$$exists, we say that $f$ is differentiable at $a$ (i.e. derivative exists at $a$), call it $f'(a)$
-- Note that this function is not defined at $a$
-
-## Example)
-Let $f(x)=x^{2}$ what is $f'(3)$?
-$$\lim_{ x \to 3 }\frac{f(x)-f(3)}{x-3}=\lim_{ x \to 3 }\frac{x^{2}-9}{x-3}=\lim_{ x \to 3 }\frac{(x+3)(x-3)}{x-3}=\lim_{ x \to 3 } (x+3)=6$$
-
-## Example)
-Let $f(x)=\large\{^{x^{2}\text{ (if }x\geq0)}_{0 \text{ (if }x<0)}$. Does $f'(0)$ exists?
-$$\lim_{ x \to 0 } \frac{f(x)-f(0)}{x-0}=\lim_{ x \to 0 } \frac{f(x)-0}{x-0}=\lim_{ x \to 0 } \frac{f(x)}{x}$$
-
-To find this let's consider RH limit and LH limit separately.
-
-i) LH
-$$\lim_{ x \to 0^{-} } \frac{f(x)}{x}=\lim_{ x \to 0 } \frac{0}{x}=0$$
-ii) RH
-$$\lim_{ x \to 0^{+} }\frac{f(x)}{x}=\lim_{ x \to 0^{+} }\frac{x^{2}}{x}=\lim_{ x \to 0^{+} } x=0  $$
-
-Since RH and LH leads to the same limit value, $\lim_{ x \to 0 }\frac{f(x)}{x}=0$, $f'(0)$ exists and equals to 0
-
-## Example)
-Let $f(x)=|x|$. Does $f'(0)$ exists?
-
-$$\lim_{ x \to 0 } \frac{f(x)-f(0)}{x-0}=\lim_{ x \to 0 } \frac{f(x)-0}{x-0}=\lim_{ x \to 0 } \frac{f(x)}{x}$$
-
-To find this let's consider RH limit and LH limit separately.
-
-i) LH
-$$\lim_{ x \to 0^{-} } \frac{f(x)}{x}=\lim_{ x \to 0 } \frac{-x}{x}=-1$$
-ii) RH
-$$\lim_{ x \to 0^{+} }\frac{f(x)}{x}=\lim_{ x \to 0^{+} }\frac{x}{x}=1  $$
-
-Since RH and LH does not lead to the same limit value, $\lim_{ x \to 0 }\frac{f(x)}{x}$ does not exists, thus $f'(0)$ does not exist
-
-# Prop 51. If $f$ is differentiable at $a$, then $f$ is continuous at $a$
-(Note that this is one-way implication)
-
-We know $\lim_{ x \to a }\frac{f(x)-f(a)}{x-a}$ exists, we want $\lim_{ x \to a }f(x)=f(a)$
-
-Consider $\lim_{ x \to a }f(x)-f(a)$
-- We want to prove this exsits and equals to 0
-- $=\lim_{ x \to a }\frac{f(x)-f(a)}{x-a}\cdot(x-a)$
-
-Since $\lim_{ x \to a }\frac{f(x)-f(a)}{x-a}$ and $\lim_{ x \to a }(x-a)$ both exist, by Arithmetic Theorem of Function Limit, their product exists
-- $\lim_{ x \to a }(f(x)-f(a))$ exists
-
-Furthermore,  $\lim_{ x \to a }\frac{f(x)-f(a)}{x-a}\cdot(x-a)=\lim_{ x \to a }\frac{f(x)-f(a)}{x-a}\cdot\lim_{ x \to a }(x-a)=f'(a)\cdot(a-a)=f'(a)\cdot 0=0$
-- Since $\lim_{ x \to a }(f(x)-f(a))=0$, $\lim_{ x \to a }f(x)=f(a)$
-
-# Chain Rule
-$$(g\circ f)'(a)=g'(f(a))f'(a)$$
-
-$(g\circ f)'(a)=\lim_{ x \to a }\frac{g(f(x))-g(f(a))}{x-a}$
-
-$g'(f(a))f'(a)=\left( \lim_{ x \to f(a) }\frac{g(x)-g(f(a))}{x-f(a)} \right)\left( \lim_{ x \to a }\frac{f(x)-f(a)}{x-a} \right)$
-
-Unfortunately, we can't directly prove from definition immediately. Let's consider following theorem
-
-## Thm 56. Derivative Existence Theorem (Caratheodory's Theorem)
-Suppose $f$ is defined at some $a\in\mathbb{R}$. Then $f$ is differentiable at $a$ iff there exists some function $S$ which has two properties
-1. $\forall \text{ }x\neq a$, $S(x)(x-a)=f(x)-f(a)$
-2. $S$ is cts at $a$
-In this case, $f'(a)=S(a)$
-
-### Example)
-Suppose we want to find $f'(3)$ when $f(x)=x^{2}$
-Consider $f(x)-f(a)=x^{2}-9=(x-3)(x+3)$
-- $x+3$ could be $S(x)$, is this function cts at 3?
-	- Yes
-
-Then, by Derivative Existence Theorem, $f'(3)$ exists and equals to $3+3=6$
-
-### Forward Direction)
-Suppose $f$ is differentiable at $a$
-Define $S(x)$ to be
-$$S(x)=\large\{^{\frac{f(x)-f(a)}{x-a}\text{ if }x\neq a}_{f'(a)\text{ if }x=a} $$
-By definition, if $x \neq a$ $S(x)(x-a)=f(x)-f(a)$
-- So, $S$ satisfies 1.
-
-Consider $\lim_{ x \to a }S(x) = \lim_{ x \to a }\frac{f(x)-f(a)}{x-a}=f'(a)=S(a)$
-- Thus, indeed $S$ is continuous at $a$
-
-### Backward Direction)
-Assume such an $S$ exists
-By 1. for $x\neq a$, since $S(x)(x-a)=f(x)-f(a)$
-- $S(x)=\frac{f(x)-f(a)}{x-a}$
-
-Then, $\lim_{ x \to a }\frac{f(x)-f(a)}{x-a}=\lim_{ x \to a }S(x)$
-
-Since $S$ is continuous by 2. 
-- $\lim_{ x \to a }S(x)=S(a)$
-
-So, $\lim_{ x \to a }\frac{f(x)-f(a)}{x-a}$ does exists and equals $S(a)$
-
-## Prove using DET
-Suppose $f,g$ are differentiable at $a$, and we want to show that $f+g$ is differentiable at $a$
-
-By forward direction of DET, there are functions $S,T$ so that 
-- $\forall \text{ }x\neq a$, $S(x)(x-a)=f(x)-f(a)$ and $T(x)(x-a)=g(x)-g(a)$
-- $S,T$ are cts at $a$, thus $S(a)=f'(a)$ and $T(a)=g'(a)$
-
-Consider $(f+g)(x)-(f+g)(a)$
-$$=f(x)+g(x)-f(a)-g(a)$$
-$$=S(x)(x-a)+T(x)(x-a)=(x-a)(S(x)+T(x))$$
-- $S(x)+T(x)$ is cts by Continuity Arithmetic Theorem
-
-Then, $S(x)+T(x)$ satisfies 1. and 2. for the DET for $f+g$ at $a$
-- So, $(f+g)(a)$ exists and equals to $S(a)+T(a)=  f'(a)+g'(a)$ by DET
-
-## Prop 57. Chain Rule
-If $f$ is differentiable at $a$ and $g$ is differentiable at $f(a)$, then $g\circ f$ is differentiable at $a$ and
-$$(g\circ f)'(a)=g'(f(a))f'(a)$$
-
-**Proof)**
-By DET forward direction, there exist functions $S,T$ so that
-1. $\forall \text{ }x\neq a$, $S(x)(x-a)=f(x)-f(a)$, $S$ is cts at $a$  and $S(a)=f'(a)$
-2.  $\forall \text{ }y\neq f(a)$, $T(y)(y-f(a))=g(y)-g(f(a))$, $T$ is cts at $f(a)$, $T(f(a))=g'(f(a))$
-
-Consider $g(f(x))-g(f(a))$
-$$=T(f(x))(f(x)-f(a))$$
-by substitute $y=f(x)$ to 2.
-$$T(f(x))S(x)(x-a)$$
-by 1.
-
-Then, is $T(f(x))S(x)$ cts at $a$?
-- $S(x)$ is cts at $a$ by 1
-- $f$ is differentiable at $a$ and $T$ is cts at $f(a)$, by [[6. Continuous Function#Prop 46. Composite Function Continuity|Prop 46(Composite Function Continuity)]], $T(f(x))$ is cts at $a$
-
-So by the Continuity Arithmetic Theorem, $T(f(x))S(x)$ is cts at $a$
-
-So by DET, $g\circ f$ is differentiable at $a$, and also
-$$g\circ f'(a)=[T(f(x))S(x)](a)=T(f(a))S(a)=g'(f(a))f'(a)$$
-
-# Basic Derivative Rules
-
-## 1. For any $k\in\mathbb{R}$, $f(x)=k$, then $\forall \text{ }a\in\mathbb{R}, f'(a)=0$
-## 2. If $f(x)=x$, then $\forall \text{ }a\in\mathbb{R}, f'(a)=1$
-
-$f,g$ are differentiable at $a$,
-## 3. $\forall \text{ }c\in\mathbb{R}$, $(cf)'(a)=cf'(a)$
-## 4. $(f+g)'(a) = f'(a)+g'(a)$
-## 5. $(fg)'(a) = f'(a)g(a)+f(a)g'(a)$
-## 6. $\left( \frac{f}g{} \right)'(a)=\frac{f'(a)g(a)-g'(a)f(a)}{g(a)^{2}}$
-
-# Prop 59. Power Rule
-If $n\in\mathbb{N}$ and $f(x)=x^{n}$, then $f'(x)=nx^{n-1}$
-
-**Proof by Induction)**
-For $n=1$, then $f(x)=x$ and $f'(x)=1$ by Basic Derivative Rule
-- $1x^{1-1} = 1$
-- Base Case hold
-
-Assume the result holds for $n=k$, i.e. if $f(x)=x^{k}$, then $f'(x)=kx^{k-1}$
-- Need to show that if $g(x)=x^{k+1}$, then $g'(x)=(k+1){x^{k}}$
-
-$g(x)=x(x^{k})$, then by product rule, $g'(x)=x^{k}+x\cdot(kx^{k-1})=x^{k}+kx^{k}=(k+1)x^{k}$
-- Thus Inductive step holds
-
-Therefore, if $n\in\mathbb{N}$ and $f(x)=x^{n}$, then $f'(x)=nx^{n-1}$, by proof by induction
-
-# Power Rule with non natural number power?
-
-## Negative Power
-Assignment Q
-
-## Fractional Power
-Consider $x^{\frac{1}{3}}$
-- Since this is an inverse of $x^{3}$, it will be useful if we have a derivative rule for this
-
-## Inverse
-For a function $f$, and inverse for $f$ is a function $g$ so that
-- $\forall \text{ }x$ in the domain of $f$, $g(f(x))=x$ and $\forall \text{ }y$ in domain of $g$, $f(g(y))=y$
-
-# Theorem 60. Inverse Function Theorem
-Suppose $f$ has an inverse funciton $g$, $f$ is differentiable at $a$, and $f'(a)\neq 0$
-- Then $g'(f(a))$ exists and equals $\frac{1}{f'(a)}$
-Also, if you let $b=f(a)$, then $g(b)=g(f(a))=a$
-- $g'(b)=g'(f(a))=\frac{1}{f'(g(b))}$
-
-**Ex)**
-For $n\in\mathbb{N}$, the inverse of $f(x)=x^{n}$ is $g(x)=x^{\frac{1}{n}}$
-Then, by inverse function theorem, 
-$$g'(b)=\frac{1}{f'(g(b))}=\frac{1}{n\left( b^{\frac{1}{n}} \right)^{n-1}}=\frac{1}{n}\cdot\frac{1}{b^{1-\frac{1}{n}}}=\frac{1}{n}\cdot b^{\frac{1}{n}-1}$$
-Thus, the derivative of $x^{\frac{1}{n}}$ is $\frac{1}{n}\cdot x^{\frac{1}{n}-1}$
-
-**Ex)**
-Suppose we had defined 
-$$f(x)=e^{x}=\lim_{ n \to \infty } \left( 1+\frac{x}{n} \right)^{n}$$
-and showed $f'(x)=e^{x}$
-Its inverse function is $g(x)=\ln(x)$
-
-Then, by inverse function theorem, 
-$$g'(x)=\frac{1}{f'(g(x))}=\frac{1}{f'(\ln x)}=\frac{1}{e^{\ln x}}=\frac{1}{x}$$
-Therefore, $g'(x)=\frac{1}{x}$
-
-## Proof)
-By DET forward direction, there exists function $S$ so that 
-- $\forall \text{ }x\neq a$, $f(x)-f(a)=(x-a)S(x)$
-- $S$ is cts at $a$
-- and $S(a)=f'(a)$
-
-Now, want to look at differentiability of $g$ at $f(a)$, so consider for some $y\neq f(a)$, $g(y)-g(f(a))$
-- Since $f$ and $g$ are inverse, $=g(y)-a$
-
-Let $x=g(y)$ so that $f(x)=f(g(y))=y$
-- $g(y)-a=x-a$
-
-Suppose $S(x)\neq 0$
-- $=\frac{f(x)-f(a)}{S(x)}=\frac{y-f(a)}{S(g(y))}=\frac{1}{S(g(y))}\cdot(y-f(a))$
-
-Then, $\frac{1}{S(g(y))}$ satisfies 2. condition for DET
-- Need to show it is cts at $f(a)$
-
-If $f$ is cts at $a$ and $S(g(f(a)))=S(a)$ and $S$ is cts at $a$ by assumption
-- by the DET, $g'(f(a))$ exists and equals to $\frac{1}{S(g(f(a)))}=\frac{1}{S(a)}=\frac{1}{f'(a)}$
-
-# How the Derivative of $f$ related to shape of graph
-## Open Interval
-An Open Interval in $\mathbb{R}$ is a subset of the form
-$$\{ x\in\mathbb{R}: a<x<b \}$$
-for some $a,b\in\mathbb{R}$ and $a<B$
-- Denoted as $(a,b)$
-
-## Proposition 61
-Suppose $f$ is a function, $a\in\mathbb{R}$, $I$ is some open interval containing $a$ and $\forall \text{ }x\in I, f(x)\geq M$ for some $M\in\mathbb{R}$
-- Then if $\lim_{ x \to a }f(x)=L$ exists, then $L\geq M$ also
-
-**Exercise)**
-Suppose for contradiction, $L<M$. 
-Take $\epsilon =|M-L|$.
-Then, there is some $\delta>0$ such that $|x-a|<\delta$
-
-## Local Minimum and Maximum
-Suppose $f$ is a function. 
-- Say that $f$ has a local minimum at $a\in\mathbb{R}$ if there is some open interval $I$ containing $a$ so that $\forall \text{ }x\in I$, $f(x)\geq f(a)$
-- Similarly, $f$ has a local maximum at $a\in\mathbb{R}$ if there is some open interval $I$ containing $a$ so that  $\forall \text{ }x\in I, f(a)\geq f(x)$
-
-# Theorem 62 (Fermat's Theorem)
-Suppose $f$ has a local minimum or maximum at $a$
-- Then either $f'(a)$ does not exist or $f'(a)=0$
-
-**Proof)** Suppose $a$ is a local minimum
-- If $f'(a)$ does not exist, we are done
-
-Suppose $f'(a)$ exists
-- Show $f'(a)\geq0$ and $f'(a)\leq 0$
-
-Consider $x>a$, then
-$f'(a)=\lim_{ x \to a }\frac{f(x)-f(a)}{x-a}=\lim_{ x \to a^{+} }\frac{f(x)-f(a)}{x-a}$
-- Since $a$ is a local minimum says $f(x)\geq f(a)$ and $x-a>0$ since $x>a$, $\frac{f(x)-f(a)}{x-a}\geq0$
-- By Prop 61, $\lim_{ x \to a^{+} }\frac{f(x)-f(a)}{x-a}\geq 0$ also
-
-Similarly, consider $x< a$
-$f'(a)=\lim_{ x \to a }\frac{f(x)-f(a)}{x-a}=\lim_{ x \to a^{-} }\frac{f(x)-f(a)}{x-a}$
-- Since $f(x)\geq f(a)$ and $x<a$, $\frac{f(x)-f(a)}{x-a} \leq 0$
-- By Prop 61, $\lim_{ x \to a^{-} }\frac{f(x)-f(a)}{x-a} \leq 0$ as well
-
-Thus, $f'(a)\geq0$ and $f'(a) \leq 0$, $f'(a) = 0$
-
-Similar for $a$ being local maximum
-
-# Increasing Function
-$f$ is said to be increasing on an interval $I$, if $\forall \text{ }x_{1}<x_{2}$ in $I$, $f(x_{1})\leq f(x_{2})$
-- Decreasing on an interval $I$, if $\forall \text{ }x_{1}<x_{2}$ in $I$, $f(x_{1})\geq f(x_{2})$
-
-# Proposition 63
-If $f$ is increasing on an open interval $I$, and differentiable on all of $I$, then $\forall \text{ }a\in I$, $f'(a)\geq 0$
-- Decreasing on an open interval $I$, and differentiable on all of $I$, then $\forall \text{ }a\in I, f'(a)\leq 0$
-
-**Proof)**
-Assignment
-
-# Lemma 64. Rolle's Theorem
-Suppose $a,b\in\mathbb{R}$, $f$ is cts on $[a,b]$ and differentiable on $(a,b)$ and $f(a)=f(b)$
-- Then there exists $c\in(a,b)$ so that $f'(c)=0$
-
-**Proof)**
-By Extreme Value Theorem, $f$ has a maximum and minimum in $[a,b]$
-- If either of these is in $(a,b)$, then say at $c$, then it will be a local min or max, and by Fermat's Theorem, $f'(c)=0$
-- Otherwise, local minimum and maximum are at $a$ and $b$, but $f(a)=f(b)$, thus $\max = \min$, thus this is constant function. Thus, for any $c\in(a,b)$, $f'(c)=0$
-
-# Theorem 65. Mean Value Theorem
-Suppose $a,b\in\mathbb{R}$, $a<b$, $f$ is cts on $[a,b]$ and differentiable on $(a,b)$
-- Then there exists a point $c\in(a,b)$ so that $f'(c)=\frac{f(b)-f(a)}{b-a}$
-
-**Note)** MVT says you can "Find a place where the derivative is the slope of the line connecting $a$ and $b$"
-
-## Proof)
-Define
-$L(x)=\left( \frac{f(b)-f(a)}{b-a} \right)(x-a)+f(a)$
-Then, define
-$h(x)=L(x)-f(x)$
-
-We'll show we can use Rolle's Theorem on the function $h$
-
-Since $(x-a)$ is differentiable, $L(x)$ is differentiable by Basic Derivative Rule
-- Then, $h(x)$ is also differentiable by Basic Derivative Rule, as both $L(x)$ and $f(x)$ are differentiable
-- Now, we need $h(a)=h(b)$
-
-$h(a)=L(a)-f(a)=\left( \frac{f(b)-f(a)}{b-a} \right)(a-a)+f(a)-f(a)=0$
-$h(b)=L(b)-f(b)=\left( \frac{f(b)-f(a)}{b-a} \right)(b-a)+f(a)-f(b)=f(b)-f(a)+f(a)-f(b)=0$
-- $h(a)=h(b)$
-
-By Rolle's Theorem, there is a $c\in(a,b)$ so that $h'(c)=0$
-- $h'(c)=L'(c)-f'(c)=\frac{f(b)-f(a)}{b-a}-f'(c)$
-- $0=\frac{f(b)-f(a)}{b-a}-f'(c)$
-
-Therefore, $f'(c)=\frac{f(b)-f(a)}{b-a}$
-
-# Proposition 66
-If $f$ is differentiable on an open interval $I$, and $\forall \text{ }a\in I, f'(a)\geq 0$, then $f$ is increasing on $I$
-- We want if $x_{1}<x_{2}$, then $f(x_{1})\leq f(x_{2})$
-- Unfortunately, we can't directly prove this from the definition since it only tells information about $f(x)$ for $x$ near $x_{1}$, not between $x_{1}$ and $x_{2}$
-- Thus, we need MVT
-
-Suppose $x_{1}<x_{2}$ for some $x_{1}, x_{2}\in I$.
-- By MVT, $\exists \text{ }c\in(x_{1}, x_{2})$ so that $f'(c)=\frac{f(x_{2})-f(x_{1})}{x_{2}-x_{1}}$
-- Then, $f(x_{2})-f(x_{1})=f'(c)(x_{2}-x_{1})$
-
-We know that $f'(c)\geq0$ by assumption and $x_{2}-x_{1}>0$
-- Therefore, $f(x_{2})-f(x_{1})\geq 0$
-- $f(x_{2})\geq f(x_{1})$
-
-Since $x_{1}$ and $x_{2}$ are arbitrary, $f$ is increasing on $I$
 
 ---
-# Example
-Show that $f(x)=\displaystyle\Big\{^{5x \text{ if x is rational}}_{0\text{ if x is irrational}}$
-is not cts at $a$ if $a\neq 0$
+# Binomial Theorem
+$$(s+t)^{k}=\sum^{k}_{i=0} {}_{k}C_{i} \cdot s^{k-i}\cdot t^{i}$$
 
-We can prove this directly, or using previous results
-## Directly
-Want to show that if $a\neq 0$, $\lim_{ x \to a }f(x)\neq f(a)$
-- Actually, we will show that $\lim_{ x \to a }f(x)$ doesn't even exist
-- From the definition, need to find an $\epsilon>0$ which makes the definition not work
 
-Take $\epsilon=|5a|$. If $\lim_{ x \to a }f(x)=f(a)$, then we'd have $\delta>0$ so that for any $x$ such that $0<|x-a|<\delta$, $|f(x)-f(a)|<\epsilon$
+Suppose we wish to know if there is some power (depending on $m$) such that $a^{?}\equiv 1\text{ (mod }m)$
 
-If $a$ is irrational, $f(a)=0$, and suppose also $a>0$
-- Then, we can find a rational $x$ so that $a<x<a+\delta$ by density of rational
-- Thus, $0<|x-a|<\delta$, but $|f(x)|=5x>5a$, thus $|f(x)|\not<\epsilon$
+Impossible if $a$ and $m$ are not relatively prime
+- If $a^{k}\equiv 1\text{ (mod }m)$
+	 $my=a^{k}-1$
+	 $a^{k}-my=1$
+	 $a(a^{k-1})+m(-y)=1$
+	 $\therefore gcd(a,m)=1$
 
-Similar proof for $a$ being rational
+Consider a set $A=\{a\text{ | } 1\leq a\leq m \text{ \& }gcd(a,m)=1\}$
+- $\phi(m)$
 
-## Using Sequence Criterion
-Use a sequence of rationals $\{ x_{n} \}$ converging to $a$ and sequence of irrationals $\{ y_{n} \}$ converging to $a$, then 
-- $\{ f(x_{n}) \}=\{ 5x_{n} \}$ conv to $5a$ since $\{ x_{n} \}$ converges to $a$
-- $\{ f(y_{n}) \}=\{ 0 \}$ conv to 0
+# Euler Phi Function $\phi(m)$
+Let $m\in\mathbb{Z}^{+}$. Then Euler Phi Function $\phi(m)$ is defined to be the number of positive integers not exceeding $m$ that are relatively prime to $m$
 
-So, the limit would only exist if $5a=0$, which is only $a=0$
+Ex)
+If $m$ is prime, then $\phi(m)=m-1$
 
-Note) How do we even know such sequence $\{ x_{n} \}$ and $\{ y_{n} \}$ exist?
-We should be able to set such sequences using density of rationals and irrationals, but how?
-- For each $n$, find a rational $q_{n}$ such that $a<q_{n}<a+\frac{1}{n}$
-- Then $\lim_{ n \to \infty }q_{n}=a$ by Sequeeze Theorem
+Ex)
+Suppose we want a power of 7 that is congruent to 1 modulo 10
+- $7^{k}\equiv 1\text{ (mod }10)$
+
+Consider $\phi(10)=4 \implies \{1,3,7,9\}$
+
+Multiply each number by 7 $\implies \{7,21,49,63\}$
+
+By taking mod 10 $\implies\{7,1,9,3\}$
+- We got the same set again
+- Looks like Fermat's Little Theorem
+
+Then, 
+$$(7\cdot(1))(7\cdot(3))(7\cdot(7))(7\cdot(9))\equiv 1\cdot 3\cdot 7 \cdot 9\text{ (mod }10)$$
+$$7^{4}(1\cdot 3\cdot 5\cdot 7) \equiv 1\cdot 3\cdot 5\cdot 7\text{ (mod }10)$$
+$$7^{4}\equiv 1\text{ (mod }10)$$
+It seems liek $7^{\phi(10)}\equiv 1\text{ (mod }10)$
+
+# Theorem 6.14: Euler's Theorem
+If $m\in\mathbb{Z}^{+}$ and $a$ is an integer such that $gcd(a,m)=1$, then
+$$a^{\phi(m)}\equiv 1\text{ (mod }m)$$
+
+**Note)**
+Since Euler's Theorem consider numbers that are relatively prime with $m$, we can't use complete system of residue, like we did to prove Fermat's Little Theorem. Instead, let's define another system
+
+## Reduced Residue System Modulo $m$
+Integers such that each element of the set if relatively prime to $m$ and no two distinct elements in the set are congruent modulo $m$
+- Simply is a set of $\phi(m)$
+- Start from Complete Residue System and remove element that is not relatively prime with $m$
+
+Ex) 
+Consider 6
+- Complete Residue System mod 6 : $\{0,1,2,3,4, 5\}$
+- Reduced Residue System mod 6 : $\{1,5\}$
+
+## Proof)
+Let $r_{1}, r_{2}\dots r_{\phi(m)}$ be reduced residue system mod $m$ were $r_{i}$ is the least positive residue mod $m$
+
+Let $a$ be an integer such that $gcd(a,m)=1$
+- Then, let's show $ar_{1}, ar_{2}, \dots ar_{\phi(m)}$ is a reduced residue system mod $m$
+
+First $gcd(a,m)=1$ by assertion, and $gcd(r_{i}, m)=1$
+- Then $gcd(ar_{i}, m)=1$
+
+Suppose $ar_{i}\equiv ar_{j}\text{ (mod }m)$ for some $i\neq j$ and $1\leq i,j\leq\phi(m)$
+- So, $m|a(r_{i}-r_{j})$
+
+Since $gcd(a,m)=1$ this means $m|(r_{i}-r_{j})$
+- Thus, $r_{i}\equiv r_{j}\text{ (mod }m)$
+- But this is a contradiction since $r_{1}, r_{2}\dots r_{\phi(m)}$ is a reduced residue system mod $m$, thus $r_{i}\not\equiv r_{j}\text{ (mod }m)$ where $i\neq j$
+
+So, $ar_{1}, ar_{2}\dots ar_{\phi(m)}$ is a reduced residue system mod $m$
+
+So the least positive integers (mod $m$) of $ar_{1}, ar_{2}, \dots ar_{\phi(m)}$ are $r_{1}, r_{2}\dots r_{\phi(m)}$
+- Not necessarily in the same order
+
+Therefore, 
+$$(ar_{1})(ar_{2})\dots(ar_{\phi(m)})\equiv r_{1}\cdot r_{2}\dots r_{\phi(m)}\text{ (mod }m)$$
+$$a^{\phi(m)}\cdot r_{1}\cdot r_{2}\dots r_{\phi(m)}\equiv r_{1}\cdot r_{2}\dots r_{\phi(m)}\text{ (mod }m)$$
+We can cancel $r_{i}$'s since each is relativelt prime to $m$,
+$$\therefore  a^{\phi(m)}\equiv 1 \text{ (mod }m)$$
+## Example)
+Find the least non negative residue of $2^{121}$ mod $9$
+
+So, $a=2$ and $m=9$, then $gcd(a,m)=1$
+
+Then by Euler's Theorem, $2^{\phi(9)}\equiv 1\text{ (mod }9)$
+
+Consider $\phi(9) \to\{1,2,4,5,7,8\}$
+- $\phi(9)=6$
+
+Since $121 = 20\cdot{6}+1$, 
+- $2^{121} = (2^{6})^{20}\cdot 2\equiv 2\text{ (mod }9)$
+
+## Example 2)
+Find least positive residue $x\text{ (mod }10)$ of $3x\equiv 7\text{ (mod }10)$
+
+Let $m=10$ and $a=3$.
+
+Since $gcd(3,10)=1$, then by Euler's Theorem, 
+$$3^{\phi(10)}\equiv 1\text{ (mod }10)$$
+$\phi(10)=4$ $(\{1,3,7,9\})$
+- Thus, $3^{4}\equiv 1\text{ (mod }10)$
+
+This tells use that $3$ and $3^{3}$ are inverses mod $10$
+- And $3^{2}$ is its own inverse
+
+Multiply $3^{3}$ to both sides to the equation above
+$3^{3}\cdot 3x\equiv 3^{3}\cdot7\text{ (mod }10)$
+$3^{4}x\equiv x\equiv 3^{3}\cdot 7=27\cdot7\equiv9 \text{ (mod }m)$
+
+---
+# Chapter 7: Euler-Phi Function
+How can we find $\phi(m)$?
+
+If $m$ is prime, then $\phi(m)=m-1$
+- How about its converse?
+
+Suppose $m$ is an positive integer with $\phi(m)=m-1$
+
+i) If $m$ is prime
+
+ii) If $m=1$
+- $\phi(1)=1\neq m-1=0$
+- $m$ can't be $1$
+
+iii) If $m$ is composite
+- Then, $m$ would have some $d$ such that $d|m$ where $1<d<m$
+- But $gcd(d,m)=d>1$
+- Then, $\phi(m)\leq m-2$
+- Which contradicts $\phi(m)=m-1$
+- Thus, $m$ can't be conposite
+
+# Multiplicative
+An arithmetic function $f$ is called **multiplicative** if $f(mn)=f(m)f(n)$ whenever $m$ and $n$ are relatively prime positive integers
+- Arithmetic Funtion means functions defined for all positive integer
+
+And $f$ is **completely multiplicative** if $f(mn)=f(m)f(n)$ for all positive integers $m,n$
+
+# Theorem 7.1
+If $f$ is multiplicative function and if $n=p_{1}^{a_{1}}p_{2}^{a_{2}}\dots p_{s}^{a_{s}}$ is the prime factorization of positive integer $n$, then
+$$f(n)=f(p_{1}^{a_{1}})\cdot f(p_{2}^{a_{2}})\dots f(p_{s}^{a_{s}})$$
+
+# Theorem 7.2
+Let $m\in \mathbb{Z}^{+}$, then $\phi(m)=m-1$ iff $m$ is prime
+
+# Theorem 7.3
+Let $p$ be prime, $k\in\mathbb{Z}^{+}$, then $\phi(p^{k})=p^{k}-p^{k-1}$
+
+Let $m=p^{k}$ where $p$ is prime, $k$ is an integer $\geq 2$
+- Let's count the integers $a:1\leq a\leq p^{k}$ that are not relatively prime to $m$
+	- $p, 2p, 3p, \dots p^{k-1}p$
+- $\phi(p^{k})=p^{k}-p^{k-1}$
+
+# Theorem 7.4
+Let $m,n$ be relatively prime positive integers, then $\phi(mn)=\phi(m)\cdot \phi(n)$
+
+## Rough Work
+Consider $\phi(42)$ and $\phi(6)\cdot\phi(7)$
+Since $\phi(6)=2$, (1 and 5), Let's consider row 1 and 5 only at the below
+- Then, crossout integers that is not relatively prime with 7
+
+**1**   7  **13  19  25  31  37**
+2  8  14  20  26  32  38
+3  9  15  21  27  33  39
+4 10 16  22  28  34  40
+**5  11  17  23  29**  35  **41**
+6 12 18  24  30  36  42
+
+Consider row $i$
+$$i\text{ / } 6+i\text{ / } 2(6)+i\text{ / } 3(6)+i\text{ / } 4(6)+i\text{ / } 5(6)+i\text{ / } 6(6)+i$$
+$$=i\text{ / } 6+i \text{ / }12+i\text{ / } 18+i\text{ / } 24+i\text{ / } 30+i\text{ / } 36+i$$
+$$\equiv i\text{ / }6+i\text{ / }5+i\text{ / }4+i\text{ / }3+i \text{ / } 2+i\text{ / }1+i\text{ (mod }7)$$
+
+And this is a complete system of residue mod $7$ by [[9. Some Special Congruences#Lemma 4.1|Lemma 4.1]]
+- Then, there is a reduced residue system mod $7$ of $\phi(7)$ integers, each relatively prime to $7$
+
+As a result, there are $\phi(6)$ rows that contains some integers that are relatively prime with 42, and in each row, there are $\phi(7)$ integers that are relatively prime with 42
+
+## Formal Proof
+Consider following table,
+
+1   $m+1$   $2m+1$   $\dots$   $(n-1)m+1$
+2   $m+2$   $2m+2$   $\dots$   $(n-1)m+2$
+3   $m+3$   $2m+3$   $\dots$   $(n-1)m+3$
+$\vdots$        $\vdots$             $\vdots$                         $\vdots$
+$m$     $2m$        $3m$     $\dots$           $nm$
+
+Look at $\phi(m)$ rows where $m$ and $i$ are relatively prime
+
+Consider row $i$, where $gcd(m,i)=1$
+ 
+$$i\text{ / } m+i\text{ / }2m+i\text{ / }\dots\text{ / }(n-1)m+i$$
+are all relatively prime to $m$
+- Suppose for contradiction, $\exists \text{ }0\leq k\leq n-1$ such that $gcd(km+i, m)=d>1$
+- $dx=m$, $dy=km+i$ for some $x,y\in\mathbb{Z}$
+- Then, $i=d(y-kx)$, thus $d\text{ | }i$
+- This contradicts $d\text{ | m}$ and $gcd(m,i)=1$
+
+[[9. Some Special Congruences#Theorem 4.7|Theorem 4.7]] tells us that any row $i$ where $gcd(i,m)=1$, that row is a complete system of residue mod $n$
+- Then, there are $\phi(n)$ integers in a reduced system of residue mod $n$ in that row
+- And there are $\phi(m)$ possible rows
+
+Therefore, there are $\phi(m)\cdot\phi(n)$ number of integers that is relatively prime to both $m$ and $n$, thus with $mn$
+
+# Theorem 7.5
+Let $n=p_{1}^{a_{1}}p_{2}^{a_{2}}\dots p_{k}^{a_{k}}$ be the prime power factoriation of $n$
+$$\phi(n) = n \prod^{k}_{i=1}\left( 1-\frac{1}{p_{i}} \right)$$
+
+**Proof)**
+For each $\phi(p_{i}^{a_{i}})$, 
+$=p_{i}^{a_{i}}-p_{i}^{a_{i-1}}$ by Theorem 7.3
+$=p_{i}^{a_{i}}\left( 1-\frac{1}{p_{i}} \right)$
+
+Therefore,
+$$\phi(n)=\phi(p_{1}^{a_{1}})\phi(p_{2}^{a_{2}})\dots \phi(p_{k}^{a_{k}})$$
+$$=p_{1}^{a_{1}}\left( 1-\frac{1}{p_{1}} \right)p_{2}^{a_{2}}\left( 1-\frac{1}{p_{2}} \right)\dots p_{k}^{a_{k}}\left( 1-\frac{1}{p_{k}} \right)$$
+$$=p_{1}^{a_{1}}p_{2}^{a_{2}}\dots p_{k}^{a_{k}}\left( 1-\frac{1}{p_{1}} \right)\left( 1-\frac{1}{p_{2}} \right)\dots\left( 1-\frac{1}{p_{k}} \right)$$
+$$=n\cdot \prod^{k}_{i=1}\left( 1-\frac{1}{p_{i}} \right)$$
+
+
+# $\sigma$ Function
+$\sigma$ is defined by setting $\sigma(n)$ equal to the sum of all positive divisor of $n$
+
+**Ex)**
+$\sigma(4) = 1+2+4=7$
+$\sigma(9) = 1+3+9=13$
+
+## Perfect Number
+If $n\in\mathbb{Z}^{+}$ and $\sigma(n)=2n$ then $n$ is called a perfect number
+
+## $\sigma(mn)$ is multiplicative
+If $gcd(m,n)=1$, then $\sigma(mn)=\sigma(m)\sigma(n)$
+
+## Lemma 7.1 
+For $n=p^{a}$ where $p$ is prime and $a\in\mathbb{Z}^{+}$, 
+$$\sigma(n)=\frac{p^{a+1}-1}{p-1}$$
+
+Let $n=p^{a}$ where $p$ is prime, $a\in\mathbb{Z}^{+}$
+- Then, $\sigma(n)=1+p+p^{2}\dots p^{a}$
+- Since this is a geometric series, $\sigma(n)=\frac{p^{a+1}-1}{p-1}$
+
+# Theorem 7.9
+Let $n=p_{1}^{a_{1}}p_{2}^{a_{2}}\dots p_{k}^{a_{k}}$ be the prime power factorization of $n$, then
+$$\sigma(n)=\prod^{k}_{i=1}\sigma(p_{i}^{a_{i}})$$
+$$=\prod^{k}_{i=1}\left( \frac{p^{a_{i}+1}-1}{p_{i}-1} \right)$$
+
+# Mersenne Prime
+Consider Geometric Series
+$$1+x+x^{2}+\dots x^{n-1}=\frac{x^{n}-1}{x-1}$$
+$$(x-1)(1+x+x^{2}\dots x^{n-1})=x^{n}-1$$
+So, $(x-1)\text{ | }(x^{n}-1)$
+
+Assuming $x\in\mathbb{Z}, n\in \mathbb{Z}^{+}$, if $x>2$, then $x^{n}$ is composite
+- Since $x-1$ which is neither $1$ nor $x^{n}-1$ can divide $x^{n}-1$
+
+Then, consider when $x=2$
+- Is $2^{n}-1$ prime or composite?
+	- $n=2\implies 3$
+	- $n= 4 \implies 15$
+- It can be both
+
+## $n$ is composite
+Suppose $n$ is composite. Then $n=st$ for some $s,t\in\mathbb{Z}$, where $1<s\leq t<n$
+
+Consider $2^{n}-1$
+$$=(2^{s})^{t}-1$$
+$$=(2^{s}-1)(1+2^{s}+(2^{s})^{2}\dots +(2^{s})^{t-2}+(2^{s})^{t-1})$$
+
+Thus, 
+$$(2^{s}-1)\text{ | }(2^{n}-1)$$
+Since $s>1$, $2^{s}-1\neq 1$.
+- Therefore, if $n$ is composite, then $2^{n}-1$ is also composite
+
+## $n$ is prime
+$2^{n}-1$ still can be prime or composite
+- $2^{3}-1=7$
+- $2^{11}-1 = 23\cdot 89$
+
+## Mersenne Number / Mersenne Prime
+Let $n\in\mathbb{Z}^{+}$. Then $M_{n}=2^{n}-1$  is the $n^{th}$ Mersenne number
+
+Let $p$ is prime, if $M_{p} = 2^{p}-1$ is prime, then $M_{p}$ is a Mersenne Prime
+
+## Theorem 7.10
+Let $n$ be even positive integer. Then, $n$ is a perfect number iff $n=2^{m-1}(2^{m}-1)$ where $m\in\mathbb{Z}^{+},m\geq2$ and $2^{m}-1$ is prime
+
+**Forward Direction)**
+Suppose $n$ is even positive integer, $\sigma(n)=2n$
+Let $n=2^{s}t$ where $s,t\in\mathbb{Z}^{+}$ and $t$ is odd
+$$\sigma(n)=2n=2^{s+1}t$$
+Since $2$ and $t$ are relatively prime, 
+$$\sigma(n)=\sigma(2^{s}t)=\sigma(2^{s})\sigma(t)=(2^{s+1}-1)\sigma(t)$$
+
+Therefore, 
+$$2^{s+1}t=(2^{s+1}-1)\sigma(t)$$
+- Since $2^{s+1}-1$ is odd, $\sigma(t)$ must be even
+- $\therefore{2}^{s+1}\text{ | }\sigma(t)$
+- $\sigma(t)=2^{s+1}k$ $(k\in\mathbb{Z}^{+})$
+
+So, 
+$$2^{s+1}t=(2^{s+1}-1)2^{s+1}k$$
+$$t=(2^{s+1}-1)k$$
+- $k\neq t$ but $k\text{ | }t$
+$$t=2^{s+1}k-k=\sigma(t)-k$$
+$$\sigma(t)=k+t$$
+1. If $k=1$, then $\sigma(t)=t+1\implies$ tells us that $t$ must be prime
+2. If $k\neq 1$, then $t\neq 2^{s+1}-1$
+	- Thus, $t$ has at least three divisor $(2^{s+1}-1)\text{ | }t$, $k\text{ | }t$ and $t\text{ | }t$ 
+	- $\sigma(t)\geq (2^{s+1}-1)+k+t>\sigma(t)=k+t$
+	- This is an contradiction, so $k\neq 1$
+
+**Backward Direction)**
+Suppose $2^{m}-1$ is prime for some $m\in\mathbb{Z}^{+}, m\geq 2$
+- Then, $\sigma(2^{m}-1)=1+2^{m}-1=2^{m}$
+
+Consider $\sigma(2^{m-1})$. Since this is sum of geometric series, 
+- $=\frac{2^{m}-1}{2-1}=2^{m}-1$
+
+Consider $\sigma(2^{m-1}(2^{m}-1))=\sigma(2^{m-1})\sigma(2^{m}-1)=2^{m}\cdot(2^{m}-1)=2(2^{m-1})(2^{m}-1)$
+- Thus $2^{m-1}(2^{m}-1)$ is a perfect number
+- Let's call this $n$
+	- Then $n$ is even
+
+
 
