@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Mathematics/Number Theory/11. Euler's Theorem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "11. Euler's Theorem"
             }
           },
           {
@@ -206,8 +206,8 @@
   },
   "active": "cc1a531cd0877c0d",
   "lastOpenFiles": [
-    "Mathematics/Number Theory/12. Perfect Number and Mersenne Primes.md",
     "Untitled.md",
+    "Mathematics/Number Theory/12. Perfect Number and Mersenne Primes.md",
     "Mathematics/Number Theory/11. Euler's Theorem.md",
     "Mathematics/Number Theory/10. Pseudoprime.md",
     "Mathematics/Number Theory/9. Some Special Congruences.md",
