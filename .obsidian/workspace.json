@@ -47,7 +47,8 @@
               "title": "Elementary Number Theory & its applications"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -204,10 +205,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "43921e1249c3a4c3",
+  "active": "0d379bea421c08e8",
   "lastOpenFiles": [
-    "Textbook/Elementary Number Theory & its applications.pdf",
     "Mathematics/Number Theory/11. Euler's Theorem.md",
+    "Textbook/Elementary Number Theory & its applications.pdf",
     "Mathematics/Number Theory/12. Perfect Number and Mersenne Primes.md",
     "Mathematics/Number Theory/9. Some Special Congruences.md",
     "Mathematics/Number Theory/7. Conguents.md",
