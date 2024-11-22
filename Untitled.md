@@ -287,7 +287,7 @@ Assume that there are $n$ vertices and $m$ edges.
 	- Then, it would be $m\log(m)$
 	- However, we can express this in different way
 - The minimum number of edges required to create the spanning tree is $n-1$
-- And the maximum number of edges required is $_{n}C_{2}=\frac{n(n-1)}{2}$
+- And the maximum number of edges possible is $_{n}C_{2}=\frac{n(n-1)}{2}$
 - Then,
 $$n-1\leq m \leq\frac{n(n-1)}{2}$$
 $$\implies \log(n)\leq \log(m) \leq 2\log(n)$$
