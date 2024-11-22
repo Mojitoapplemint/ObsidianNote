@@ -6,7 +6,6 @@
       {
         "id": "f0493068e6dc6e35",
         "type": "tabs",
-        "dimension": 39.543269230769226,
         "children": [
           {
             "id": "43921e1249c3a4c3",
@@ -49,15 +48,7 @@
               "icon": "lucide-file",
               "title": "Untitled"
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "615fa77e906bca3f",
-        "type": "tabs",
-        "dimension": 60.456730769230774,
-        "children": [
+          },
           {
             "id": "1d1d15a6acc33f15",
             "type": "leaf",
@@ -70,7 +61,8 @@
               "title": "Algorithms Illuminated (Part 3) Greedy Algorithms and Dynamic Programming"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -227,11 +219,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aa9b86a862e93bfc",
+  "active": "1d1d15a6acc33f15",
   "lastOpenFiles": [
+    "Untitled.md",
     "Textbook/Algorithms Illuminated (Part 3) Greedy Algorithms and Dynamic Programming.pdf",
     "Computer Science/Algorithm/5. Huffman Code.md",
-    "Untitled.md",
     "Computer Science/Algorithm/6. Minimum Spanning Tree.md",
     "Computer Science/Algorithm/4. Greedy Algorithm.md",
     "Mathematics/Number Theory/11. Euler's Theorem.md",
