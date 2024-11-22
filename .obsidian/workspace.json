@@ -60,6 +60,18 @@
               "icon": "lucide-file-text",
               "title": "Algorithms Illuminated (Part 3) Greedy Algorithms and Dynamic Programming"
             }
+          },
+          {
+            "id": "58cc535e345ce3bf",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Textbook/Algorithms Illuminated (Part 3) Greedy Algorithms and Dynamic Programming.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Algorithms Illuminated (Part 3) Greedy Algorithms and Dynamic Programming"
+            }
           }
         ],
         "currentTab": 3
@@ -118,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ea82c962bd26e10b",
