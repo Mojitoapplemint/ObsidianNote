@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/듣고 싶은 강의.md",
+                "file": "Mathematics/Real Analysis/8. Metric Space.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "듣고 싶은 강의"
+              "title": "8. Metric Space"
             }
           }
         ],
@@ -208,6 +208,7 @@
   },
   "active": "aa9b86a862e93bfc",
   "lastOpenFiles": [
+    "Personal/듣고 싶은 강의.md",
     "Introductory Logic/8. Syllogistic Logic.md",
     "Mathematics/Real Analysis/8. Metric Space.md",
     "Mathematics/Discrete Math/3. Relation.md",
@@ -238,7 +239,6 @@
     "Excalidraw/Drawing 2024-11-18 12.38.01.excalidraw.md",
     "Attached Files/Pasted image 20241118124344.png",
     "Computer Science/Algorithm/7. Dynamic Programming.md",
-    "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
     "Textbook/Algorithms Illuminated (Part 1) The Basics.pdf",
     "Textbook/Introduction to linear and matrix algebra.pdf",
     "Textbook/Algorithms Illuminated (Part 2) Graph Algorithms and Data Structure.pdf",
