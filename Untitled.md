@@ -24,4 +24,4 @@ Then, since $p\equiv 1\text{ (mod }3)$, $3\text{ | }(p-1)\cdots (2)$
 
 By (1) and (2), $3\text{ | }\phi(n)$, which contradicts $\phi(n)\equiv 2\text{ (mod }3)$
 
-Therefore since there are contradictions in both cases, 
+Therefore since there are contradictions in both cases, $\phi(n)=2p$ does not have any solutions.
