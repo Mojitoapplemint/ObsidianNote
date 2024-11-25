@@ -14,7 +14,6 @@ kanban-plugin: board
 
 ## Number Theory
 
-- [ ] RSA Note
 - [ ] Assignment
 
 
