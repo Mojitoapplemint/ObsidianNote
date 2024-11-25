@@ -39,12 +39,14 @@
             "id": "9666e01170630def",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf"
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "DES ReinforcementLearning 2005"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           },
           {
@@ -220,8 +222,9 @@
   },
   "active": "9666e01170630def",
   "lastOpenFiles": [
-    "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Yamasaki_and_Ushio_Notation_translated (6).pdf",
+    "To-do List.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
+    "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Yamasaki_and_Ushio_Notation_translated (6).pdf",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
     "Mathematics/Number Theory/14. Order.md",
     "Mathematics/Number Theory/11. Euler's Theorem.md",
@@ -258,7 +261,6 @@
     "Attached Files/Pasted image 20241113211121.png",
     "Textbook/A First Course in Complex Analysis.pdf",
     "Textbook/Mathematics and Statistics for the Quantitative Sciences.pdf",
-    "Textbook/A friendly approach to complex analysis.pdf",
     "Attached Files/Pasted image 20241106131607.png",
     "Attached Files/Pasted image 20241106131357.png",
     "Attached Files/Pasted image 20241106131211.png",
