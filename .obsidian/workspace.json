@@ -25,14 +25,12 @@
             "id": "9666e01170630def",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Mathematics/Real Analysis/3. Sequences.md",
-                "mode": "source",
-                "source": false
+                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf"
               },
-              "icon": "lucide-file",
-              "title": "3. Sequences"
+              "icon": "lucide-file-text",
+              "title": "DES ReinforcementLearning 2005"
             }
           },
           {
@@ -58,7 +56,8 @@
               "title": "To-do List"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,10 +213,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8e05c079bdf76b7a",
+  "active": "9666e01170630def",
   "lastOpenFiles": [
-    "Mathematics/Real Analysis/8. Metric Space.md",
+    "Introductory Logic/8. Syllogistic Logic.md",
+    "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
     "Mathematics/Real Analysis/3. Sequences.md",
+    "Mathematics/Real Analysis/8. Metric Space.md",
     "Computer Science/Algorithm/6. Minimum Spanning Tree.md",
     "Computer Science/Algorithm/5. Huffman Code.md",
     "Computer Science/Algorithm/4. Greedy Algorithm.md",
@@ -229,7 +230,6 @@
     "Mathematics/Number Theory/13. RSA.md",
     "Mathematics/Number Theory/Untitled.md",
     "Mathematics/Number Theory/11. Euler's Theorem.md",
-    "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Yamasaki_and_Ushio_Notation_translated (6).pdf",
     "Mathematics/Number Theory/14. Order.md",
     "Mathematics/Number Theory/8. Chinese Remainder Theorem.md",
@@ -237,7 +237,6 @@
     "Mathematics/Number Theory/9. Some Special Congruences.md",
     "Mathematics/Number Theory/10. Pseudoprime.md",
     "Personal/듣고 싶은 강의.md",
-    "Introductory Logic/8. Syllogistic Logic.md",
     "Mathematics/Discrete Math/3. Relation.md",
     "Textbook/Algorithms Illuminated (Part 3) Greedy Algorithms and Dynamic Programming.pdf",
     "Textbook/Elementary Number Theory & its applications.pdf",
@@ -246,7 +245,6 @@
     "Mathematics/Real Analysis/5. Function.md",
     "Attached Files/Pasted image 20241120130448.png",
     "Mathematics/Real Analysis/6. Continuous Function.md",
-    "Personal/Latex Suite Personal Setting.md",
     "Attached Files/Pasted image 20241118124344.png",
     "Textbook/Algorithms Illuminated (Part 1) The Basics.pdf",
     "Textbook/Introduction to linear and matrix algebra.pdf",
