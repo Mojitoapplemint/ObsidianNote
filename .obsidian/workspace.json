@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,13 +218,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "174ebe27667e2f41",
+  "active": "9666e01170630def",
   "lastOpenFiles": [
+    "Mathematics/Number Theory/14. Order.md",
     "Mathematics/Number Theory/11. Euler's Theorem.md",
     "Mathematics/Number Theory/12. Perfect Number and Mersenne Primes.md",
     "Mathematics/Number Theory/9. Some Special Congruences.md",
     "Mathematics/Real Analysis/8. Metric Space.md",
-    "Mathematics/Number Theory/14. Order.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
     "Mathematics/Discrete Math/3. Relation.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
