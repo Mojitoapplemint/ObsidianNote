@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -246,8 +246,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "817c688c74c218a0",
+  "active": "bf7b59e9f44aaa30",
   "lastOpenFiles": [
+    "Computer Science/Algorithm/7. Dynamic Programming.md",
     "Introductory Logic/3. Various Arguments.md",
     "Introductory Logic/4. Conditional Proofs.md",
     "Introductory Logic/7. Statement Logic as Formal System.md",
@@ -267,7 +268,6 @@
     "Computer Science/Algorithm/6. Minimum Spanning Tree.md",
     "Computer Science/Algorithm/5. Huffman Code.md",
     "Computer Science/Algorithm/4. Greedy Algorithm.md",
-    "Computer Science/Algorithm/7. Dynamic Programming.md",
     "Mathematics/Real Analysis/7. Derivatives.md",
     "Untitled.md",
     "Mathematics/Number Theory/13. RSA.md",
