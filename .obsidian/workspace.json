@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introductory Logic/7. Statement Logic as Formal System.md",
+                "file": "Introductory Logic/3. Various Arguments.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Statement Logic as Formal System"
+              "title": "3. Various Arguments"
             }
           },
           {
@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -146,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -247,8 +246,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "47ecbfa4d43ac48d",
+  "active": "817c688c74c218a0",
   "lastOpenFiles": [
+    "Introductory Logic/4. Conditional Proofs.md",
     "Introductory Logic/7. Statement Logic as Formal System.md",
     "Introductory Logic/8. Syllogistic Logic.md",
     "Mathematics/Real Analysis/8. Metric Space.md",
@@ -278,7 +278,6 @@
     "Textbook/Algorithms Illuminated (Part 3) Greedy Algorithms and Dynamic Programming.pdf",
     "Textbook/Elementary Number Theory & its applications.pdf",
     "Mathematics/Number Theory/7. Conguents.md",
-    "Excalidraw/Drawing 2024-11-20 13.03.54.excalidraw.md",
     "Attached Files/Pasted image 20241120130448.png",
     "Attached Files/Pasted image 20241118124344.png",
     "Textbook/Algorithms Illuminated (Part 1) The Basics.pdf",
