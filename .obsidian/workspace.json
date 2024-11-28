@@ -61,7 +61,8 @@
               "title": "12. Perfect Number and Mersenne Primes"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -218,7 +219,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8e05c079bdf76b7a",
+  "active": "174ebe27667e2f41",
   "lastOpenFiles": [
     "Mathematics/Number Theory/12. Perfect Number and Mersenne Primes.md",
     "Mathematics/Number Theory/11. Euler's Theorem.md",
