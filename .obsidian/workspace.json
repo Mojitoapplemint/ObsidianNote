@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Discrete Math/4. Function.md",
+                "file": "Mathematics/Real Analysis/8. Metric Space.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Function"
+              "title": "8. Metric Space"
             }
           },
           {
@@ -219,6 +219,7 @@
   },
   "active": "8e05c079bdf76b7a",
   "lastOpenFiles": [
+    "Mathematics/Discrete Math/4. Function.md",
     "Mathematics/Discrete Math/2. Set.md",
     "Mathematics/Real Analysis/3. Sequences.md",
     "Mathematics/Number Theory/14. Order.md",
