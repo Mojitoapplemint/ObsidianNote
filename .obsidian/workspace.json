@@ -25,12 +25,12 @@
             "id": "df5907c9f21fc88a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "pdf",
               "state": {
-                "currentVersion": "1.7.7"
+                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "icon": "lucide-file-text",
+              "title": "DES ReinforcementLearning 2005"
             }
           },
           {
