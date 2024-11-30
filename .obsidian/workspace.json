@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "df5907c9f21fc88a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
+          },
+          {
             "id": "9666e01170630def",
             "type": "leaf",
             "state": {
@@ -61,7 +73,8 @@
               "title": "12. Perfect Number and Mersenne Primes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,7 +230,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8e05c079bdf76b7a",
+  "active": "df5907c9f21fc88a",
   "lastOpenFiles": [
     "Introductory Logic/9. Asyllogistic Logic.md",
     "Mathematics/Real Analysis/8. Metric Space.md",
