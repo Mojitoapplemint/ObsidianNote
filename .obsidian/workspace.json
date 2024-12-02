@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -231,12 +231,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "174ebe27667e2f41",
+  "active": "47ecbfa4d43ac48d",
   "lastOpenFiles": [
+    "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
     "Mathematics/Real Analysis/8. Metric Space.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
     "Mathematics/Number Theory/12. Perfect Number and Mersenne Primes.md",
-    "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
     "Introductory Logic/9. Asyllogistic Logic.md",
     "Mathematics/Discrete Math/4. Function.md",
     "Mathematics/Discrete Math/2. Set.md",
@@ -259,7 +259,6 @@
     "To-do List.md",
     "Computer Science/Algorithm/6. Minimum Spanning Tree.md",
     "Computer Science/Algorithm/5. Huffman Code.md",
-    "Computer Science/Algorithm/4. Greedy Algorithm.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Yamasaki_and_Ushio_Notation_translated (6).pdf",
     "Textbook/Algorithms Illuminated (Part 3) Greedy Algorithms and Dynamic Programming.pdf",
     "Textbook/Elementary Number Theory & its applications.pdf",
