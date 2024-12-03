@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/술 노트.md",
+                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "술 노트"
+              "title": "3. Finite Markov Decision Process"
             }
           }
         ],
@@ -232,6 +232,7 @@
   },
   "active": "47ecbfa4d43ac48d",
   "lastOpenFiles": [
+    "Personal/술 노트.md",
     "Introductory Logic/7. Statement Logic as Formal System.md",
     "Introductory Logic/8. Syllogistic Logic.md",
     "Introductory Logic/9. Asyllogistic Logic.md",
