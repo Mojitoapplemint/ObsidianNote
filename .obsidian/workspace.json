@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Algorithm/7. Dynamic Programming.md",
+                "file": "Mathematics/Real Analysis/8. Metric Space.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Dynamic Programming"
+              "title": "8. Metric Space"
             }
           },
           {
@@ -236,6 +236,7 @@
   },
   "active": "df5907c9f21fc88a",
   "lastOpenFiles": [
+    "Computer Science/Algorithm/7. Dynamic Programming.md",
     "Textbook/Introduction to Reinforcement Learning.pdf",
     "Computer Science/AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
     "Computer Science/AI & TensorFlow/TensorFlow Bootcamp/0. Deep Learning Basics.md",
