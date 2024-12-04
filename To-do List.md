@@ -6,15 +6,16 @@ kanban-plugin: board
 
 ## Algorithm Analysis
 
+- [ ] Note Ttaking about DP
 
 
 ## Real Analysis
 
+- [ ] Assignment
 
 
 ## Number Theory
 
-- [ ] Assignment
 
 
 ## Independent Study
@@ -23,7 +24,7 @@ kanban-plugin: board
 
 ## Logic
 
-- [ ] Assignment
+- [ ] Note Taking about Identity
 
 
 ## CO;Ders
