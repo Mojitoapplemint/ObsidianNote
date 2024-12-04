@@ -25,12 +25,14 @@
             "id": "df5907c9f21fc88a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Textbook/Introduction to Reinforcement Learning.pdf"
+                "file": "Computer Science/Algorithm/7. Dynamic Programming.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Introduction to Reinforcement Learning"
+              "icon": "lucide-file",
+              "title": "7. Dynamic Programming"
             }
           },
           {
@@ -234,11 +236,11 @@
   },
   "active": "df5907c9f21fc88a",
   "lastOpenFiles": [
+    "Textbook/Introduction to Reinforcement Learning.pdf",
     "Computer Science/AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
     "Computer Science/AI & TensorFlow/TensorFlow Bootcamp/0. Deep Learning Basics.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
-    "Textbook/Introduction to Reinforcement Learning.pdf",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
     "Introductory Logic/8. Syllogistic Logic.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/Q-Learning.md",
@@ -264,7 +266,6 @@
     "Mathematics/Number Theory/8. Chinese Remainder Theorem.md",
     "Mathematics/Number Theory/9. Some Special Congruences.md",
     "Mathematics/Number Theory/5. Euclidean Algorithm.md",
-    "Computer Science/Algorithm/7. Dynamic Programming.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Yamasaki_and_Ushio_Notation_translated (6).pdf",
     "Textbook/Algorithms Illuminated (Part 3) Greedy Algorithms and Dynamic Programming.pdf",
     "Textbook/Elementary Number Theory & its applications.pdf",
