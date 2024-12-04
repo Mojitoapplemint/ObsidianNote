@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
+                "file": "Mathematics/Complex Analysis/2. Basic Topology in C.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Finite Markov Decision Process"
+              "title": "2. Basic Topology in C"
             }
           },
           {
@@ -236,13 +236,15 @@
   },
   "active": "df5907c9f21fc88a",
   "lastOpenFiles": [
+    "Mathematics/Complex Analysis/2. Basic Topology in C.md",
+    "Mathematics/Real Analysis/8. Metric Space.md",
+    "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
     "Computer Science/Algorithm/7. Dynamic Programming.md",
     "Textbook/Introduction to Reinforcement Learning.pdf",
     "Computer Science/AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
     "Computer Science/AI & TensorFlow/TensorFlow Bootcamp/0. Deep Learning Basics.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
-    "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
     "Introductory Logic/8. Syllogistic Logic.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/Q-Learning.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/1. Reinforcement Learning Fundamental.md",
@@ -254,7 +256,6 @@
     "Personal/술 노트.md",
     "Introductory Logic/7. Statement Logic as Formal System.md",
     "Introductory Logic/9. Asyllogistic Logic.md",
-    "Mathematics/Real Analysis/8. Metric Space.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
     "Mathematics/Number Theory/12. Perfect Number and Mersenne Primes.md",
     "Mathematics/Discrete Math/4. Function.md",
@@ -266,7 +267,6 @@
     "Mathematics/Number Theory/10. Pseudoprime.md",
     "Mathematics/Number Theory/8. Chinese Remainder Theorem.md",
     "Mathematics/Number Theory/9. Some Special Congruences.md",
-    "Mathematics/Number Theory/5. Euclidean Algorithm.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Yamasaki_and_Ushio_Notation_translated (6).pdf",
     "Textbook/Algorithms Illuminated (Part 3) Greedy Algorithms and Dynamic Programming.pdf",
     "Textbook/Elementary Number Theory & its applications.pdf",
