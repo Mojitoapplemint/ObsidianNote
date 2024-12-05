@@ -1,27 +1,27 @@
-Suppose for Contradiction, let $n$ satisfies $\phi(n)=2p$. Let $n=p_1^{a_{1}}p_{2}^{a_{2}}\dots p_{k}^{a_{k}}$ be prime factorization. Then, by Theorem 7.1 and Theorem 7.3, 
-$$\phi(n)=p_{1}^{a_{1}-1}(p_{1}-1)\cdot p_{2}^{a_{2}-1}(p_{2}-1)\cdots p_{k}^{a_{k}-1}(p_{k}-1)$$
+\hspace{0.15in} Then, using those Returns, MDPs estimates how "good" it is for the agent to be in a given state and/or to perform a given action. This is called a \textbf{value} and the function that estimates the value is called the \textbf{Value function}. It calculates values with respect to either the state, or the pair of (state, action), which are respectively called \textbf{State Value function}, and \textbf{(State) Action Value function}. Considering the fact that the agent will eventually choose its action in which leads to the highest value and the Value function literally provides that information, Value function is typically defined with respect to \textbf{Policy} $\pi$, the way the agent would behave at each state. Formally, a policy is a mapping from states to probability of selecting each possible actions; $\pi(a|s)$ means the probability of taking action $a$ if the current state is $s$. Then, the value, the expected return, at a state $s$ and following policy $\pi$, denoted as $v_\pi(s)$, is defined as:
+\begin{equation}
+    v_\pi(s) := \mathbb{E}_\pi[G_t|S_t=s]=\mathbb{E} \Big[\sum^{\infty}_{k=0}\gamma^k R_{t+k+1} \Big| S_t=a \Big] \quad\text{(by Eq (2))}
+\end{equation}
+Similarly, the value of taking action $a$ at a state $s$ under policy $\pi$, denoted as $q_\pi(s,a)$, is defined as:
+\begin{equation}
+    q_\pi(s,a):=\mathbb{E}_\pi[G_t|S_t=s, A_t=a]=\mathbb{E} \Big[\sum^{\infty}_{k=0}\gamma^k R_{t+k+1} \Big| S_t=a, A_t=a \Big] \quad\text{(by Eq (2))}
+\end{equation}
+Where $\mathbb{E}$ denoted as \textit{expected} value. Obviously, there are more than one way to estimate the value, which implies that one might be better than the others (Note that "better" means if the one gives greater expected return than other for every state). Then, there is always at least one value function that is better than or equal to all other policy, this is called \textbf{Optimal Value Function}, denoted as $v_*(s)$ or $q_*(s,a)$. And the policy defined with respect to the optimal value function is called \textbf{Optimal Policy}, denoted as $\pi_*$.
+\begin{equation}
+    v_{*}(s) := \max_\pi q_\pi(s,a)
+\end{equation}
 
-i) If $p\text{ }|\not\text{ }n$ (i.e. $p\not\in \{ p_{1},p_{2}..p_{k} \}$)
+\begin{equation}
+    q_{*}(s,a) := \max_\pi q_\pi(s,a)
+\end{equation}
 
-Observe that $p\neq 1$ since $p$ is prime
+However, applying this equation to actual problems to find  has 
 
-Observe that $p\neq 2$ since $p \equiv 1\text{ (mod }3)$, then $p$ is odd. 
 
-Therefore, since $\forall \text{ }i\text{ }(1\leq i\leq k)$, $p_{i}-1$ is either even or 1, $p\not\in \{ p_{1}-1,p_{2}-1\dots p_{k}-1 \}$
-
-This implies that $\forall \text{ }i\text{ }(1\leq i\leq k)$, $p\neq p_{i}^{a_{i}-1}$ and $p\neq p_{i}-1$
-
-Thus, $p\text{ }|\not\text{ }\phi(n)$ which contradicts that $\phi(n)=2p$
-
-ii) If $p\text{ | }\phi(n)$, then let $n=p_1^{a_{1}}p_{2}^{a_{2}}\dots p^{a}\dots p_{k}^{a_{k}}$ Then, 
-$$\phi(n)=p_{1}^{a_{1}-1}(p_{1}-1)\cdot p_{2}^{a_{2}-1}(p_{2}-1)\cdots p^{a-1}(p-1)\dots p_{k}^{a_{k}-1}(p_{k}-1)$$
-
-Thus, $(p-1)\text{ | }\phi(n) \cdots (1)$ 
-
-Since $\phi(n)=2p$, $\phi(n)\equiv 2\text{ (mod }3)$
-
-Then, since $p\equiv 1\text{ (mod }3)$, $3\text{ | }(p-1)\cdots (2)$
-
-By (1) and (2), $3\text{ | }\phi(n)$, which contradicts $\phi(n)\equiv 2\text{ (mod }3)$
-
-Therefore since there are contradictions in both cases, $\phi(n)=2p$ does not have any solutions.
+\begin{equation}
+\begin{aligned}
+    G_t&:=R_{t+1}+\gamma R_{t+2}+\gamma^2R_{t+3}\cdots\\
+    &=R_{t+1}+\gamma (R_{t+2}+\gamma R_{t+3}\cdots)\\
+    &=R_{t+1}+\gamma G_{t+1}
+\end{aligned}
+\end{equation}
