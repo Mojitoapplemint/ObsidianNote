@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introductory Logic/Identity.md",
+                "file": "Mathematics/Discrete Math/2. Set.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Identity"
+              "title": "2. Set"
             }
           },
           {
@@ -236,8 +236,8 @@
   },
   "active": "df5907c9f21fc88a",
   "lastOpenFiles": [
-    "To-do List.md",
     "Introductory Logic/Identity.md",
+    "To-do List.md",
     "Mathematics/Real Analysis/8. Metric Space.md",
     "Mathematics/Complex Analysis/2. Basic Topology in C.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
