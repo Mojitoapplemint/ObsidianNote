@@ -237,4 +237,4 @@ What does control pattern exactlt mean?
 # Possible Problem
 The reward is typically only used as a way to specify the objective of the task. It is generally not observed during execution. The assumption of a common shared reward allows very general formulations without having to specify sub-rewards for sub-goals.
 - But this paper assigned reward to observing the event
-- Not even
+
