@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -246,8 +247,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9666e01170630def",
+  "active": "d8a787bfbf50d6ba",
   "lastOpenFiles": [
+    "Mathematics/Real Analysis/8. Metric Space.md",
     "Questions.md",
     "Untitled.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
@@ -260,7 +262,6 @@
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
     "Mathematics/Discrete Math/2. Set.md",
     "Introductory Logic/Identity.md",
-    "Mathematics/Real Analysis/8. Metric Space.md",
     "Mathematics/Complex Analysis/2. Basic Topology in C.md",
     "Computer Science/Algorithm/7. Dynamic Programming.md",
     "Computer Science/AI & TensorFlow/TensorFlow Bootcamp/1. TF Fundamentals.md",
