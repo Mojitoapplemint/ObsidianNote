@@ -25,3 +25,5 @@ However, applying this equation to actual problems to find  has
     &=R_{t+1}+\gamma G_{t+1}
 \end{aligned}
 \end{equation}
+
+    
