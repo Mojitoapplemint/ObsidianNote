@@ -27,10 +27,20 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Oliehoek12RLBook.pdf"
+                "file": "Textbook/Introduction to Reinforcement Learning.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Oliehoek12RLBook"
+              "title": "Introduction to Reinforcement Learning"
+            }
+          },
+          {
+            "id": "fa72f85dc56e6591",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
@@ -193,20 +203,20 @@
   },
   "active": "9666e01170630def",
   "lastOpenFiles": [
-    "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
+    "Textbook/Introduction to Reinforcement Learning.pdf",
+    "Mathematics/Real Analysis/8. Metric Space.md",
+    "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
+    "Computer Science/AI & TensorFlow/Reinforcement Learning/Q-Learning.md",
+    "Computer Science/AI & TensorFlow/Reinforcement Learning/1. Reinforcement Learning Fundamental.md",
+    "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Oliehoek12RLBook.pdf",
+    "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DecPOMDP-survey-final.pdf",
     "Computer Science/Git & GitHub.md",
-    "Mathematics/Real Analysis/8. Metric Space.md",
     "Questions.md",
-    "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
-    "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
     "Untitled.md",
-    "Computer Science/AI & TensorFlow/Reinforcement Learning/Q-Learning.md",
     "To-do List.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/2. Multi-Armed Bandits.md",
-    "Computer Science/AI & TensorFlow/Reinforcement Learning/1. Reinforcement Learning Fundamental.md",
-    "Textbook/Introduction to Reinforcement Learning.pdf",
     "Mathematics/Discrete Math/2. Set.md",
     "Introductory Logic/Identity.md",
     "Mathematics/Complex Analysis/2. Basic Topology in C.md",
@@ -233,7 +243,6 @@
     "Textbook/Algorithms Illuminated (Part 1) The Basics.pdf",
     "Textbook/Introduction to linear and matrix algebra.pdf",
     "Textbook/Algorithms Illuminated (Part 2) Graph Algorithms and Data Structure.pdf",
-    "Textbook/Algorithms Illuminated (Part 4) Algorithms for NP Hard Problems.pdf",
     "Attached Files/Pasted image 20241113211121.png",
     "Attached Files/Pasted image 20241106131607.png",
     "Attached Files/Pasted image 20241106131357.png",
