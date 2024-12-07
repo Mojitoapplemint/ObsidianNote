@@ -27,10 +27,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf"
+                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Oliehoek12RLBook.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "DES ReinforcementLearning 2005"
+              "title": "Oliehoek12RLBook"
             }
           }
         ],
@@ -190,11 +190,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c57e60c07883afd8",
+  "active": "9666e01170630def",
   "lastOpenFiles": [
+    "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
+    "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Oliehoek12RLBook.pdf",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DecPOMDP-survey-final.pdf",
     "Computer Science/Git & GitHub.md",
-    "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
     "Mathematics/Real Analysis/8. Metric Space.md",
     "Questions.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
@@ -233,7 +234,6 @@
     "Textbook/Algorithms Illuminated (Part 2) Graph Algorithms and Data Structure.pdf",
     "Textbook/Algorithms Illuminated (Part 4) Algorithms for NP Hard Problems.pdf",
     "Attached Files/Pasted image 20241113211121.png",
-    "Textbook/A First Course in Complex Analysis.pdf",
     "Attached Files/Pasted image 20241106131607.png",
     "Attached Files/Pasted image 20241106131357.png",
     "Attached Files/Pasted image 20241106131211.png",
