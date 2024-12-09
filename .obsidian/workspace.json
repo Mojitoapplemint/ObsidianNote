@@ -27,24 +27,22 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Textbook/Introduction to Reinforcement Learning.pdf"
+                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Oliehoek12RLBook.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Introduction to Reinforcement Learning"
+              "title": "Oliehoek12RLBook"
             }
           },
           {
             "id": "fa72f85dc56e6591",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DecPOMDP-survey-final.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "icon": "lucide-file-text",
+              "title": "DecPOMDP-survey-final"
             }
           },
           {
@@ -60,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -217,13 +215,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fa44e8064119edae",
+  "active": "fa72f85dc56e6591",
   "lastOpenFiles": [
+    "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Yamasaki_and_Ushio_Notation_translated (6).pdf",
+    "Untitled.md",
+    "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Oliehoek12RLBook.pdf",
     "Textbook/Introduction to Reinforcement Learning.pdf",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
     "Untitled 1.md",
-    "Untitled.md",
     "Mathematics/Real Analysis/8. Metric Space.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DecPOMDP-survey-final.pdf",
     "To-do List.md",
@@ -231,7 +231,6 @@
     "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/1. Reinforcement Learning Fundamental.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/Q-Learning.md",
-    "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Oliehoek12RLBook.pdf",
     "Computer Science/Git & GitHub.md",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/2. Multi-Armed Bandits.md",
     "Mathematics/Discrete Math/2. Set.md",
@@ -251,7 +250,6 @@
     "Mathematics/Linear Algebra/2. Linear System.md",
     "Mathematics/Number Theory/12. Perfect Number and Mersenne Primes.md",
     "Mathematics/Discrete Math/4. Function.md",
-    "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Yamasaki_and_Ushio_Notation_translated (6).pdf",
     "Textbook/Algorithms Illuminated (Part 3) Greedy Algorithms and Dynamic Programming.pdf",
     "Textbook/Elementary Number Theory & its applications.pdf",
     "Attached Files/Pasted image 20241120130448.png",
