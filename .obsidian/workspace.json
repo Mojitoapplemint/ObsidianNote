@@ -69,7 +69,8 @@
               "title": "Introduction to Reinforcement Learning"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "96e39727f6860fce",
@@ -248,10 +249,10 @@
   },
   "active": "bc3579da4d12c4e8",
   "lastOpenFiles": [
-    "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
-    "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
-    "Textbook/Introduction to Reinforcement Learning.pdf",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
+    "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
+    "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
+    "Textbook/Introduction to Reinforcement Learning.pdf",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Oliehoek12RLBook.pdf",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DecPOMDP-survey-final.pdf",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Yamasaki_and_Ushio_Notation_translated (6).pdf",
