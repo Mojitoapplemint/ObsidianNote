@@ -45,7 +45,8 @@
               "title": "Introduction to Reinforcement Learning"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,10 +203,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9666e01170630def",
+  "active": "fa44e8064119edae",
   "lastOpenFiles": [
-    "Textbook/Introduction to Reinforcement Learning.pdf",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/3. Finite Markov Decision Process.md",
+    "Textbook/Introduction to Reinforcement Learning.pdf",
     "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
     "Untitled.md",
     "Untitled 1.md",
