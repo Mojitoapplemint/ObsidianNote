@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Real Analysis/4. Series.md",
+                "file": "Mathematics/Real Analysis/5. Function.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Series"
+              "title": "5. Function"
             }
           },
           {
@@ -206,8 +206,8 @@
   },
   "active": "24e521f29a78d102",
   "lastOpenFiles": [
-    "Mathematics/Real Analysis/3. Sequences.md",
     "Mathematics/Real Analysis/4. Series.md",
+    "Mathematics/Real Analysis/3. Sequences.md",
     "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
     "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "Mathematics/Real Analysis/8. Metric Space.md",
