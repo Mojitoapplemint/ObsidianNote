@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
+                "file": "Mathematics/Real Analysis/3. Sequences.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Upper & Lower Bound"
+              "title": "3. Sequences"
             }
           },
           {
@@ -205,8 +205,8 @@
   },
   "active": "9666e01170630def",
   "lastOpenFiles": [
-    "Mathematics/Real Analysis/3. Sequences.md",
     "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
+    "Mathematics/Real Analysis/3. Sequences.md",
     "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "Mathematics/Real Analysis/8. Metric Space.md",
     "Mathematics/Real Analysis/7. Derivatives.md",
