@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Real Analysis/3. Sequences.md",
+                "file": "Mathematics/Real Analysis/6. Continuous Function.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Sequences"
+              "title": "6. Continuous Function"
             }
           },
           {
@@ -219,8 +219,8 @@
   },
   "active": "9666e01170630def",
   "lastOpenFiles": [
-    "Mathematics/Real Analysis/4. Series.md",
     "Mathematics/Real Analysis/3. Sequences.md",
+    "Mathematics/Real Analysis/4. Series.md",
     "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Mathematics/Real Analysis/7. Derivatives.md",
