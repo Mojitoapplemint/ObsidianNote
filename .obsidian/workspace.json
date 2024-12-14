@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Real Analysis/8. Metric Space.md",
+                "file": "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. Metric Space"
+              "title": "2. Upper & Lower Bound"
             }
           },
           {
@@ -103,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -206,12 +205,12 @@
   },
   "active": "9666e01170630def",
   "lastOpenFiles": [
-    "Mathematics/Real Analysis/3. Sequences.md",
+    "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "Mathematics/Real Analysis/8. Metric Space.md",
+    "Mathematics/Real Analysis/3. Sequences.md",
     "Mathematics/Real Analysis/7. Derivatives.md",
     "Mathematics/Real Analysis/6. Continuous Function.md",
     "Mathematics/Real Analysis/4. Series.md",
-    "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Personal/술 노트.md",
     "Mathematics/Discrete Math/3. Relation.md",
