@@ -47,8 +47,7 @@
               "title": "Introduction to Reinforcement Learning"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,12 +203,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "84b5a960d95c2bcd",
+  "active": "9666e01170630def",
   "lastOpenFiles": [
+    "Mathematics/Real Analysis/3. Sequences.md",
     "Mathematics/Real Analysis/8. Metric Space.md",
     "Mathematics/Real Analysis/7. Derivatives.md",
     "Mathematics/Real Analysis/6. Continuous Function.md",
-    "Mathematics/Real Analysis/3. Sequences.md",
     "Mathematics/Real Analysis/4. Series.md",
     "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
