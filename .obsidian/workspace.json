@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Computer Science/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf"
+                "file": "Computer Science/Reinforcement Learning/DES w. RL Paper/Oliehoek12RLBook.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "DES ReinforcementLearning 2005"
+              "title": "Oliehoek12RLBook"
             }
           },
           {
@@ -101,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -203,6 +204,7 @@
   },
   "active": "9666e01170630def",
   "lastOpenFiles": [
+    "Computer Science/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
     "Computer Science/Reinforcement Learning/DES w. RL Paper/DecPOMDP-survey-final.pdf",
     "Computer Science/Reinforcement Learning/Q-Learning.md",
     "Mathematics/Real Analysis/8. Metric Space.md",
@@ -219,7 +221,6 @@
     "Computer Science/TensorFlow Bootcamp/0. Deep Learning Basics.md",
     "Computer Science/TensorFlow Bootcamp/7. Time Series Forecast.md",
     "Computer Science/TensorFlow Bootcamp/Activation Functions.md",
-    "Computer Science/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
     "Computer Science/Reinforcement Learning/3. Finite Markov Decision Process.md",
     "Textbook/Introduction to Reinforcement Learning.pdf",
     "Untitled.md",
