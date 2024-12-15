@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Computer Science/Reinforcement Learning/DES w. RL Paper/Oliehoek12RLBook.pdf"
+                "file": "Computer Science/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Oliehoek12RLBook"
+              "title": "DES ReinforcementLearning 2005"
             }
           },
           {
@@ -204,6 +204,8 @@
   },
   "active": "9666e01170630def",
   "lastOpenFiles": [
+    "Computer Science/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
+    "Computer Science/Reinforcement Learning/DES w. RL Paper/Oliehoek12RLBook.pdf",
     "Computer Science/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
     "Computer Science/Reinforcement Learning/DES w. RL Paper/DecPOMDP-survey-final.pdf",
     "Computer Science/Reinforcement Learning/Q-Learning.md",
@@ -225,8 +227,6 @@
     "Textbook/Introduction to Reinforcement Learning.pdf",
     "Untitled.md",
     "Untitled 1.md",
-    "Computer Science/Reinforcement Learning/DES w. RL Paper/Oliehoek12RLBook.pdf",
-    "Computer Science/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
     "Computer Science/Reinforcement Learning/DES w. RL Paper/Yamasaki_and_Ushio_Notation_translated (6).pdf",
     "To-do List.md",
     "Questions.md",
