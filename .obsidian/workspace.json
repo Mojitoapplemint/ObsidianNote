@@ -46,9 +46,21 @@
               "icon": "lucide-file-text",
               "title": "Introduction to Reinforcement Learning"
             }
+          },
+          {
+            "id": "6e69f13b1d2d3377",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Computer Science/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "DES ReinforcementLearning 2005"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -204,8 +216,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "84b5a960d95c2bcd",
+  "active": "6e69f13b1d2d3377",
   "lastOpenFiles": [
+    "Textbook/Introduction to Reinforcement Learning.pdf",
+    "Computer Science/Algorithm/1. Introduction.md",
     "Computer Science/Algorithm/2. Asymptotic Notation.md",
     "Computer Science/Algorithm/7. Dynamic Programming.md",
     "Computer Science/Algorithm/6. Minimum Spanning Tree.md",
@@ -230,13 +244,10 @@
     "Computer Science/TensorFlow Bootcamp/7. Time Series Forecast.md",
     "Computer Science/TensorFlow Bootcamp/Activation Functions.md",
     "Computer Science/Reinforcement Learning/3. Finite Markov Decision Process.md",
-    "Textbook/Introduction to Reinforcement Learning.pdf",
     "Untitled.md",
     "Untitled 1.md",
     "Computer Science/Reinforcement Learning/DES w. RL Paper/Yamasaki_and_Ushio_Notation_translated (6).pdf",
     "To-do List.md",
-    "Questions.md",
-    "Computer Science/Reinforcement Learning/1. Reinforcement Learning Fundamental.md",
     "Attached Files/Pasted image 20241202211458.png",
     "Attached Files/Pasted image 20241202211255.png",
     "Attached Files/Pasted image 20241202210425.png",
