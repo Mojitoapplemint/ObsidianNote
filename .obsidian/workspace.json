@@ -11,12 +11,14 @@
             "id": "9666e01170630def",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Computer Science/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf"
+                "file": "Computer Science/Algorithm/7. Dynamic Programming.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "DES ReinforcementLearning 2005"
+              "icon": "lucide-file",
+              "title": "7. Dynamic Programming"
             }
           },
           {
@@ -101,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -204,9 +205,9 @@
   },
   "active": "9666e01170630def",
   "lastOpenFiles": [
+    "Computer Science/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
     "Computer Science/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
     "Computer Science/Reinforcement Learning/DES w. RL Paper/Oliehoek12RLBook.pdf",
-    "Computer Science/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
     "Computer Science/Reinforcement Learning/DES w. RL Paper/DecPOMDP-survey-final.pdf",
     "Computer Science/Reinforcement Learning/Q-Learning.md",
     "Mathematics/Real Analysis/8. Metric Space.md",
