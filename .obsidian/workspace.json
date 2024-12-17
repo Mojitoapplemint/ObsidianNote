@@ -47,7 +47,8 @@
               "title": "Introduction to Reinforcement Learning"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,10 +204,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9666e01170630def",
+  "active": "84b5a960d95c2bcd",
   "lastOpenFiles": [
-    "Computer Science/Algorithm/7. Dynamic Programming.md",
     "Computer Science/Algorithm/6. Minimum Spanning Tree.md",
+    "Computer Science/Algorithm/7. Dynamic Programming.md",
     "Mathematics/Real Analysis/3. Sequences.md",
     "Computer Science/Algorithm/5. Huffman Code.md",
     "Computer Science/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
