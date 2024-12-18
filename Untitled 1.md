@@ -25,7 +25,7 @@ Focuses on the rate of growth of running time of the algorithm as the input size
 # Asymptotic Notation
 $$\text{"Suppress Constant Factors and Lower-Order Terms"}$$
 - Constant factors generally highly depend on the environment
-- Lower Oder terms become increasingly irrelevant as inputs is getting large
+- Lower Order terms become increasingly irrelevant as inputs is getting large
 - Consider $n$ approaches infinity (When size of input is infinitely large)
 
 $6n\log_{2}(n)+6n$

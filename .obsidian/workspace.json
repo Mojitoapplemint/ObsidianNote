@@ -4,59 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f0493068e6dc6e35",
+        "id": "87e9b3633ed00fdf",
         "type": "tabs",
         "children": [
           {
-            "id": "9666e01170630def",
+            "id": "33714b05ccc00e1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
-            }
-          },
-          {
-            "id": "84b5a960d95c2bcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Algorithm/7. Dynamic Programming.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7. Dynamic Programming"
-            }
-          },
-          {
-            "id": "ab3019153562dfa8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Textbook/Introduction to Reinforcement Learning.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Introduction to Reinforcement Learning"
-            }
-          },
-          {
-            "id": "6e69f13b1d2d3377",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Computer Science/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "DES ReinforcementLearning 2005"
+              "title": "3. Divide-and-Conquer Algorithms"
             }
           }
         ]
@@ -115,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -216,19 +177,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9666e01170630def",
+  "active": "33714b05ccc00e1e",
   "lastOpenFiles": [
-    "Computer Science/Algorithm/7. Dynamic Programming.md",
-    "Untitled 2.md",
-    "Textbook/Introduction to Reinforcement Learning.pdf",
+    "Computer Science/Algorithm/2. Asymptotic Notation.md",
+    "Computer Science/Algorithm/1. Introduction.md",
     "Computer Science/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
+    "Textbook/Introduction to Reinforcement Learning.pdf",
+    "Computer Science/Algorithm/7. Dynamic Programming.md",
     "Untitled 1.md",
+    "Untitled 2.md",
     "Computer Science/Algorithm/6. Minimum Spanning Tree.md",
     "Computer Science/Algorithm/5. Huffman Code.md",
     "Computer Science/Algorithm/4. Greedy Algorithm.md",
     "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
-    "Computer Science/Algorithm/1. Introduction.md",
-    "Computer Science/Algorithm/2. Asymptotic Notation.md",
     "Untitled.md",
     "Mathematics/Real Analysis/3. Sequences.md",
     "Computer Science/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
@@ -247,7 +208,6 @@
     "Mathematics/Discrete Math/3. Relation.md",
     "Computer Science/TensorFlow Bootcamp/0. Deep Learning Basics.md",
     "Computer Science/TensorFlow Bootcamp/7. Time Series Forecast.md",
-    "Computer Science/TensorFlow Bootcamp/Activation Functions.md",
     "Computer Science/Reinforcement Learning/DES w. RL Paper/Yamasaki_and_Ushio_Notation_translated (6).pdf",
     "Attached Files/Pasted image 20241202211458.png",
     "Attached Files/Pasted image 20241202211255.png",
