@@ -287,7 +287,7 @@ GreedyDiff
 GreedyRatio
 - Schedule the jobs in decreasing order of $\frac{w_{j}}{\mathscr{l}_{j}}$
 ## Theorem: Correctness of Greedy Ratio 
-For every set of positive job weights $w_{1}, w_{2}\dots w_{n}$ and positive job lengths $\mathscr{l}_{1}, \mathscr{l}_{2}\dots \mathscr{l}_{n}$, the Greedy RAtio algorithm outputs a schedule with the minimum possible usm of weighted completion times
+For every set of positive job weights $w_{1}, w_{2}\dots w_{n}$ and positive job lengths $\mathscr{l}_{1}, \mathscr{l}_{2}\dots \mathscr{l}_{n}$, the Greedy Ratio algorithm outputs a schedule with the minimum possible usm of weighted completion times
 
 # Huffman Code
 # Definitions
@@ -410,14 +410,313 @@ Merge the pair of trees that causes the **minimum-possible increase** in the ave
 Thus, the answer is
 ![[Pasted image 20241014224120.png|400]]
 
+# Spanning Tree Problem
+Minimum spanning tree problem is about connecting a bunch of objects as cheaply as possible
+- Modeled with Graphs
+	- $G(V,E)$ has two ingredients: vertices and edges
+	- For this problem, we will consider only undirected graph
+
+**Input:** Undirected graph $G(V,E)$ in which each edge $e$ has a rea;-valued cost $c_{e}$
+
+**Output:** Compute a spanning tree of the graph with the minimum possible fum of edge costs
+
+**Properties of Spanning Tree**
+1) It should not contain a cycle
+2) Should include a path between every pait of vertices
+
+# Prim's Algorithm
+1. Choose an arbitrary vertex. 
+2. Observe all possible edges from the vertex in the current spanning tree
+3. Choose the cheapest edge if it doesn't cause a cycle
+4. Repeat this until all vertex are included
+
+---
+## Pseudocode
+$X:=\{s\}$   **//** $s$ is an arbitrarily chosen vertex
+$T:=\emptyset$           **//** Invariant: the edges in $T$ span $X$
+
+**//** Main Loop
+**while** there is an edge $(v,w)$ with $v\in X$, $w\not\in X$ **do**
+	$(v^{*}, w^{*}) :=$ a Minimum-cost such edge
+	add vertex $w^{*}$ to $X$
+	add edge $(v^{*}, w^{*})$ to $T$
+**return** $T$
+
+- $T$ keeps track of the edges chosen
+- $X$ keeps track the vertices spanned
+- Each iteration is responsible for adding one new edge to $T$
+- After $n-1$ iterations, $X$ contains all vertices
+---
+## Running Time: $\mathcal{O}(mn)$
+Assume there are $n$ vertices and $m$ edges
+
+Consider 
+$$\text{(Total Running Time)}=\text{(\# Iteration)}\times \text{(\# Operations per Iteration)}$$
+
+1. $\text{\# Iteration}$
+- While loop iterates until it contains all vertices in the graph
+	- Thus it iterates $n-1$ times
+	- $\mathcal{O}(n)$
+
+2. $\text{\# Operations per Iteration }$
+- In each iteration, it searches all possible edges for the cheapest one
+	- There are total $m$ edges
+	- $\mathcal{O}(m)$
+
+3. $\text{Total Running Time}$
+- $\mathcal{O}(mn)$
+
+# Kruskal's Algorithm
+Unlike Prim's, rather than growing a single tree from a starting vertex, it can grow multiple trees in parallel
+- It will create a single tree at the end
+- Can choose the cheapest edge that is not connected to the starting vertex
+
+1. Sort the list of edges in increasing order
+2. From the beginning of the list (the cheapest edge), observe an edge
+3. If that does not cause cycle, then add them in the current spanning tree
+4. Repeat this until all vertex are included
+
+---
+## Pseudocode
+**//** Preprocessing
+$T:=\emptyset$
+$\text{sort edges of E by cost}$   **//** e.g. using MergeSort
+**//** Main Loop
+**for** each $e\in E$, in nondecreasing order of cost **do**
+	**if** $T\cup \{ e \}$ is acyclic **then**
+		$T:=T\cup \{ e \}$
+**return** $T$
+
+---
+
+## Running Time of Preprocessing: $\mathcal{O}(m\log (n))$
+Assume that there are $n$ vertices and $m$ edges. 
+- Sorting $m$ edges by its costs
+	- Assume that we use MergeSort
+	- Then, it would be $m\log(m)$
+	- However, we can express this in different way
+- The minimum number of edges required to create the spanning tree is $n-1$
+- And the maximum number of edges required is $_{n}C_{2}=\frac{n(n-1)}{2}$
+- Then,
+$$n-1\leq m \leq\frac{n(n-1)}{2}$$
+$$\implies \log(n)\leq \log(m) \leq 2\log(n)$$
+- Thus $\log(m)$ and $\log(n)$ are interchangeable
+- $\therefore \mathcal{O}(m\log(n))$
+
+## Running Time for Main Loop: $\mathcal{O}(mn)$
+1. for loop is iterating for all edges, thus there are $m$ iterations
+2. In each iteration, it checks whether termination vertex is included in $T$ or not, thus linear search
+	- Therefore, $\mathcal{O}(n)$
+3. Total Running Time for Main Loop is $\mathcal{O}(mn)$
+
+## Total Running Time: $\mathcal{O}(mn)$
+It would be 
+$$\mathcal{O}(m\log(n))+\mathcal{O}(mn)\approx \mathcal{O}(mn)$$
 
 
+# Union-Find Based Kruskal
+Kruskal's Algorithm check cycle in every iteration
+- Adding an edge $(v,w)$ to $T$ creates a cycle iff $T$ already contain $v-w$ path
+	- $v-w$ path does not necessarily be an one edge
+
+To identify whether $T$ contains a path between a given pair of vertices, we utilize the Union-Find Data Structure
+- Maintain a partition of the static set of objects
+- In the initial partition, each object is in its own set
+- Once some sets are merged, they never split
+
+$v$ and $w$ being in the same set of the partition means that $T$ contains $v-w$ path
+
+## Use union-find data structure to keep track of the connected components of the so-far solution
+1. Each vertex is in its own connected component at the beginning
+	- Initialize
+2. When $(v,w)$ is added to the so-far solution, components that contain $v$ and $w$ merge into one
+3. Checking cycle is checking whether $v$ and $w$ are already in the same component
+
+## Operators
+**Initialize:** Given an array $X$ of objects, create a union-find structure with each object $x\in X$ in its own set
+- $\mathcal{O}(n)$
+
+**Find:** Find object $x$ in the data structure, and return the name of the set that contains $x$
+- $\mathcal{O}(\log(n))$
+
+**Union:** Merge the sets that contain $x$ and $y$ into a single set
+- If two objects are already in the same set, do nothing
+- $\mathcal{O}(\log(n))$
+
+---
+## Pseudocode
+**//** Initialization
+$T:=\emptyset$
+$U:=\text{ Initialization(V)}$  
+$\text{sort edges of E by cost}$ 
+**//** Main loop
+**for** each $(v,w)\in E$ in nondecreasing order of cost **do**
+	**if** $\text{Find}(U,v)\neq \text{Find}(U,w)$ **then**
+		**//** no $v-w$ path in $T$, so OK to add $(v,w)$
+		$T:=T\cup \{ (v,w) \}$
+		**//** update due to component fusion
+		$\text{Union}(U, v,w)$
+**return** $T$
+
+---
+## Total Running Time: $\mathcal{O}((m+n)\log(n))$
+$\text{(Total Running Time)}=\text{(Preprocessing)}+\text{(Total Running Time for Find)}+\text{(Total Running time for Union)}$
+1. $\text{(Preprocessing)}=\text{(Initialization)+(Sorting Edges)}=\mathcal{O}(n)+\mathcal{O}(m\log(n))$
+
+2. $(\text{Total Running Time for Find})=\text{(\# Iteration)}\times \text{(\# Find per iteration)}\times \mathcal{O}(\log(n))$
+	- There are 2 $\text{Find}$ operations per iteration
+	- And we iterates this $m$ times
+	- $=2\cdot m\cdot \log(n)\implies\mathcal{O}(m\log(n))$
+
+3. $\text{(Total Running Time for Union)}=\text{(\# Iteration)}\times \text{(\# Union per Iteration)}\times \mathcal{O}(\log(n))$
+	- There are one $\text{Union}$ operation per iteration
+	- And we iterate this $n-1$ times
+		- Technically, we iterate this $m$ times, but minimum required number of edges is $n-1$
+	- $(n-1)\cdot\log(n)\implies \mathcal{O}(n\log(n))$
+
+$\therefore \text{(Total Running Time)}=(m+n)\log(n)$
+
+# The Weighted Independent Set Problem (WIS)
+Let $G=(V,E)$ be an undirected graph
+
+The independent set of $G$ is a subst of $S\subseteq V$ of mutually non-adjacent vertices
+- For all $v,w\in S$, $(v,w)\not\in E$
+- Includes $\emptyset$ and singleton
+
+**Ex)**
+![[Pasted image 20241113211121.png|150]]
+- 6 Independent set
+	- $\emptyset$
+	- 5 singletons
+
+## Maximum Weighted Independent Set
+**Input)** An undirected graph $G=(V,E)$ and nonnegative weight $w_{v}$ for each vertex $v\in V$
+**Output)** An independent set $S\subseteq V$ of $G$ with maximum possible sum $\displaystyle\sum_{v\in S}w_{v}$ of vertex weights
+Maximum Weighted Independent Set(MWIS)
+- Optimal Solution to the WIS
 
 
+# Lemma: WIS Optimal Substructure
+Let $S$ be an MWIS of a path graph $G$ with $n\geq{2}$ vertices
+Let $G_{i}$ denote the subgraph of $G$ comprising its first $i$ vertices and $i-1$ edges
 
+Then, $S$ is either 
+- An MWIS of $G_{n-1}$
+- An MWIS of $G_{n-2}$, supplemented with the final vertex of $G$, $v_{n}$
 
+Singles out the only two possibilities of an MWIS. So Bigger one from them is the optimal solution
 
+## Prove
+Let $G=(V,E)$ denote a $n$-vertex path graph with edges $(v_{1},v_{2}), (v_{2},v_{3})\dots (v_{n-1}, v_{n})$
+- Each vertex have a nonnegative weight $w_{i}$
+- Suppose $S$ is MWIS with total weight $W$
+	- Then, $S$ either contains the final vertex $v_{n}$ or does not
 
+i) Suppose $v_{n}\not\in S$
+- Obtain the $(n-1)$-vertex path graph $G_{n-1}$ by removing $v_{n}$ and $(v_{n-1},v_{n})$ from $G_{n}$
+- Then, $S$ is an independent set of $G_{n-1}$ with total weight $W$
+- If $S^{*}$ is an independent set of $G_{n-1}$ with total weight $W^{*}>W$, then $S^{*}$ would also constitute an independent set of total weight $W^{*}$ in the larger graph $G$
+	- This would contradict that $S$ is the optimal solution
 
+Once you know that an MWIS excludes that last vertex, you know exactly what it looks like-an MWIS of the smaller graph $G_{n-1}$
 
+ii) Suppose $v_{n}\in S$
+- Then $v_{n-1}\not\in S$
+- We can obtain $(n-2)$-vertex path graph $G_{n-2}$ from $G$ by removing $v_{n}, v_{n-1}$ and $(v_{n-2}, v_{n-1}), (v_{n-1}, v_{n})$
+	- $S$ is **not** an independent set of $G_{n-2}$ since $v_{n}\not\in G_{n-2}$ 
+	- Consider $S-\{ v_{n} \}$, then it contains neither $v_{n}$ nor $v_{n-1}$
+	- So, $S-\{ v_{n} \}$ can be regarded as an independent set of the smaller graph $G_{n-2}$, with total weight of $W-w_{n}$
+	- That means $S-\{ v_{n} \}$ must be an MWIS of $G_{n-2}$
+- Suppose that $S^{*}$ were an independent set of $G_{n-2}$ with total weight  $W^{*}>W-w_{n}$
+	- Because $G_{n-2}$ does not  contain $v_{n-1}$ adding $v_{n}$ to $S^{*}$ is valid
+	- Then, $W^{*}+w_{n}>W$
+	- This contradicts that $S$ is the optimal solution
 
+# WIS Recurrence
+With the assumption and notation of WIS Optimal Substructure, let $W_{i}$ denote the total weight of an MWIS of $G_{i}$. Then,
+$$W_{n}=\max\{W_{n-1}, W_{n-2}+w_{n}\}$$
+
+Or more generally, for evey $i=2,3,\dots n$
+$$W_{n}=\max\{W_{i-1}, W_{i-2}+w_{i}\}$$
+---
+## Pseudocode
+- Input: A path graph $G$ with vertex set $\{ v_{1},v_{2}\dots v_{n} \}$ and nonnegative weight $w_{i}$ for each vertex $v_{i}$
+- Output: A MWIS of $G$
+
+**if** $n=0$ **then**
+	**return** the empty set
+**if** $n=1$ **then**
+	**return** $\{ v_{1} \}$
+
+**//** Recursion when $n\geq{2}$
+$S_{1}:=$ recursively compute an MWIS of $G_{n-1}$
+$S_{2}:=$ recursively compute an MWIS of $G_{n-2}$
+**return** $S_{1}$ or $S_{2}\cup \{ v_{n} \}$, whichever has higher weight
+
+---
+## Running Time
+Same with running time for Fibonacci Sequence
+- At each level of recursion, the number of calling the algorithm gets doubled, so it grows exponentially
+
+# Dynamic Programming Approach
+So, the exponential running time of the recursive WIS algorithm is because of solving the same subproblems from scratch over and over again
+- Let's store the solution of each subproblem 
+
+Since there are total $n+1$ subgraph(including $\emptyset$), now its linear since we can solve each subproblem only once.
+
+---
+## Pseudocode 1: Return weight only
+$A:=$ length$-(n+1)$ array  **//** Subproblem solutions
+$A[0]:=0$    **//** Base case #1
+$A[1]:=w_{1}$  **//** Base case #2
+
+**for** $i=2$ to $n$ **do**
+	$A[i]:=\max\{ A[i-1], A[i-2]+w_{i} \}$
+
+**return** $A[n]$ **//** Solution to the largest subproblems
+
+---
+## Pseudocode 2: Return weight and MWIS
+$A:=$ length$-(n+1)$ array  **//** Subproblem solutions
+$A[0]:=0$    **//** Base case #1
+$A[1]:=w_{1}$  **//** Base case #2
+
+**for** $i=2$ to $n$ **do**
+	$A[i]:=\max\{ A[i-1], A[i-2]+w_{i} \}$
+
+**return** $A[n]$ **//** Solution to the largest subproblems
+
+---
+## Theorem
+For every path graph and nonnegative vertex weights, the WIS algorithm runs in linear time and returns the total weight of a maximum-weight independent set.
+
+# Dynamic Programming Paradigm
+Systematically solve all the sub problems one by one, working from smallest to largest, and extract the f inal solution from those of the subproblems
+1) Identify a relatively small collection of subproblems
+2) Show how to quickly and correctly solve larger subproblems given the solutions to smaller ones
+3) Show how to quickly and correctly infer the final solution from the solutions to all of the subproblems
+
+## VS Divide-and-Conquer
+### 1. Flexibility of Dividing the Input
+Each recursive call of a typical DnC algorithm commits to a single way of dividing the input into smaller subproblem
+Each recursive call of DP keep its options open, considering multipl ways of defining smaller subproblems and choosing the best of them
+
+### 2. Repetitive Subproblem
+In DP, subproblmes generally recur across different recursive calls. That's why we want to store these in some data structure
+In DnC, all subproblems are distinct and there is no point in caching their solutions
+
+### 3. Running Time Improvement
+DnC often replace a straightforward polynomial-time algorithm with a faster DnC version
+DP gives polynomial-time algorithm for optimization problem for which straightforward solution (eg. Exhaustive search) require an exponential running time
+
+### 4. Purpose of Subproblem Selection
+In DnC, subproblems are chosen to optimize running time, correctness often takes care of itself
+In DP, subproblems are usually chosen for correctness, come what may with the running time
+
+### 5. Size of Subproblem
+DnC generally recurses on subproblem with sie at most a constant fraction(50%) of the input
+DP can recurse on subproblem that are barely smaller than the input, if necessary
+
+### 6. Range of Application
+As the more sophisticated paradigm, dynamic programming applies to a wider range of problems than divide-and-conquer
+The divide-and-conquer paradigm can be viewed as a special case of dynamic programming, in which each recursive call chooses a fixed collection of subproblems to solve recursively
