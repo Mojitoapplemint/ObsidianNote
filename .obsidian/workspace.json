@@ -59,8 +59,7 @@
               "title": "DES ReinforcementLearning 2005"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,12 +216,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "84b5a960d95c2bcd",
+  "active": "9666e01170630def",
   "lastOpenFiles": [
+    "Computer Science/Algorithm/7. Dynamic Programming.md",
+    "Untitled 2.md",
     "Textbook/Introduction to Reinforcement Learning.pdf",
     "Computer Science/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
     "Untitled 1.md",
-    "Computer Science/Algorithm/7. Dynamic Programming.md",
     "Computer Science/Algorithm/6. Minimum Spanning Tree.md",
     "Computer Science/Algorithm/5. Huffman Code.md",
     "Computer Science/Algorithm/4. Greedy Algorithm.md",

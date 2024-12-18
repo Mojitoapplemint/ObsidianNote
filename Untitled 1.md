@@ -677,12 +677,18 @@ $A[1]:=w_{1}$  **//** Base case #2
 
 ---
 ## Pseudocode 2: Return weight and MWIS
-$A:=$ length$-(n+1)$ array  **//** Subproblem solutions
-$A[0]:=0$    **//** Base case #1
-$A[1]:=w_{1}$  **//** Base case #2
+- Input: A path graph $G$ with vertex set $\{ v_{1},v_{2}\dots v_{n} \}$ and nonnegative weight $w_{i}$ for each vertex $v_{i}$
+- Output: A MWIS of $G$
+
+$A:=$ length$-(n+1)$ array  **//** Subproblem solutions, each entry is (weight, set) pair
+$A[0]:=(0, \emptyset)$    **//** Base case #1
+$A[1]:=(w_{1}, \{ v_{1} \})$  **//** Base case #2
 
 **for** $i=2$ to $n$ **do**
-	$A[i]:=\max\{ A[i-1], A[i-2]+w_{i} \}$
+	**if** $A[i-1, 0]> A[i-2, 0]+w_{i}$ **then**  **//** Second index of 0 represents weight
+		$A[i]=A[i-1]$
+	**else**
+		$A[i]=(A[i-2, 0]+w_{i}, A[i-2, 1]\cup\{v_{i}\})$
 
 **return** $A[n]$ **//** Solution to the largest subproblems
 
