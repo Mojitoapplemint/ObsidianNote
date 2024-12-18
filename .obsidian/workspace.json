@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,8 +217,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ab3019153562dfa8",
+  "active": "84b5a960d95c2bcd",
   "lastOpenFiles": [
+    "Textbook/Introduction to Reinforcement Learning.pdf",
     "Computer Science/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
     "Untitled 1.md",
     "Computer Science/Algorithm/7. Dynamic Programming.md",
@@ -229,7 +230,6 @@
     "Computer Science/Algorithm/1. Introduction.md",
     "Computer Science/Algorithm/2. Asymptotic Notation.md",
     "Untitled.md",
-    "Textbook/Introduction to Reinforcement Learning.pdf",
     "Mathematics/Real Analysis/3. Sequences.md",
     "Computer Science/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
     "Computer Science/Reinforcement Learning/DES w. RL Paper/Oliehoek12RLBook.pdf",
