@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -217,8 +217,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6e69f13b1d2d3377",
+  "active": "ab3019153562dfa8",
   "lastOpenFiles": [
+    "Computer Science/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
     "Untitled 1.md",
     "Computer Science/Algorithm/7. Dynamic Programming.md",
     "Computer Science/Algorithm/6. Minimum Spanning Tree.md",
@@ -228,7 +229,6 @@
     "Computer Science/Algorithm/1. Introduction.md",
     "Computer Science/Algorithm/2. Asymptotic Notation.md",
     "Untitled.md",
-    "Computer Science/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
     "Textbook/Introduction to Reinforcement Learning.pdf",
     "Mathematics/Real Analysis/3. Sequences.md",
     "Computer Science/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
@@ -248,7 +248,6 @@
     "Computer Science/TensorFlow Bootcamp/0. Deep Learning Basics.md",
     "Computer Science/TensorFlow Bootcamp/7. Time Series Forecast.md",
     "Computer Science/TensorFlow Bootcamp/Activation Functions.md",
-    "Computer Science/Reinforcement Learning/3. Finite Markov Decision Process.md",
     "Computer Science/Reinforcement Learning/DES w. RL Paper/Yamasaki_and_Ushio_Notation_translated (6).pdf",
     "Attached Files/Pasted image 20241202211458.png",
     "Attached Files/Pasted image 20241202211255.png",
