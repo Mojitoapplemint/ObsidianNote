@@ -59,7 +59,8 @@
               "title": "DES ReinforcementLearning 2005"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -115,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -215,11 +217,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9666e01170630def",
+  "active": "6e69f13b1d2d3377",
   "lastOpenFiles": [
+    "Untitled 1.md",
     "Computer Science/Algorithm/7. Dynamic Programming.md",
     "Computer Science/Algorithm/6. Minimum Spanning Tree.md",
-    "Untitled 1.md",
     "Computer Science/Algorithm/5. Huffman Code.md",
     "Computer Science/Algorithm/4. Greedy Algorithm.md",
     "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
