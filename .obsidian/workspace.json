@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Algorithm/7. Dynamic Programming.md",
+                "file": "Introductory Logic/7. Statement Logic as Formal System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Dynamic Programming"
+              "title": "7. Statement Logic as Formal System"
             }
           }
         ],
@@ -264,6 +264,9 @@
   },
   "active": "33714b05ccc00e1e",
   "lastOpenFiles": [
+    "Introductory Logic/8. Syllogistic Logic.md",
+    "Introductory Logic/9. Asyllogistic Logic.md",
+    "Computer Science/Algorithm/7. Dynamic Programming.md",
     "Computer Science/Algorithm/6. Minimum Spanning Tree.md",
     "Computer Science/Algorithm/5. Huffman Code.md",
     "Computer Science/Algorithm/4. Greedy Algorithm.md",
@@ -272,7 +275,6 @@
     "Computer Science/Algorithm/1. Introduction.md",
     "Introductory Logic/3. Various Arguments.md",
     "Introductory Logic/1. Arguments Fundamental.md",
-    "Computer Science/Algorithm/7. Dynamic Programming.md",
     "Computer Science/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
     "Textbook/Introduction to Reinforcement Learning.pdf",
     "Untitled 1.md",
@@ -292,8 +294,6 @@
     "Mathematics/Real Analysis/1. Real Number Fundamental.md",
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Personal/술 노트.md",
-    "Mathematics/Discrete Math/3. Relation.md",
-    "Computer Science/TensorFlow Bootcamp/0. Deep Learning Basics.md",
     "Computer Science/Reinforcement Learning/DES w. RL Paper/Yamasaki_and_Ushio_Notation_translated (6).pdf",
     "Attached Files/Pasted image 20241202211458.png",
     "Attached Files/Pasted image 20241202211255.png",
