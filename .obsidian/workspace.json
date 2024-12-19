@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Algorithm/7. Dynamic Programming.md",
+                "file": "Introductory Logic/1. Arguments Fundamental.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Dynamic Programming"
+              "title": "1. Arguments Fundamental"
             }
           },
           {
@@ -264,8 +264,8 @@
   },
   "active": "ba487ec2ba67129d",
   "lastOpenFiles": [
-    "Computer Science/Algorithm/6. Minimum Spanning Tree.md",
     "Computer Science/Algorithm/7. Dynamic Programming.md",
+    "Computer Science/Algorithm/6. Minimum Spanning Tree.md",
     "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
     "Computer Science/Algorithm/2. Asymptotic Notation.md",
     "Computer Science/Algorithm/1. Introduction.md",
