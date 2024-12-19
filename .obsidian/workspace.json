@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introductory Logic/1. Arguments Fundamental.md",
+                "file": "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Arguments Fundamental"
+              "title": "3. Divide-and-Conquer Algorithms"
             }
           },
           {
@@ -264,6 +264,8 @@
   },
   "active": "ba487ec2ba67129d",
   "lastOpenFiles": [
+    "Introductory Logic/3. Various Arguments.md",
+    "Introductory Logic/1. Arguments Fundamental.md",
     "Computer Science/Algorithm/7. Dynamic Programming.md",
     "Computer Science/Algorithm/6. Minimum Spanning Tree.md",
     "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
@@ -292,7 +294,6 @@
     "Personal/술 노트.md",
     "Mathematics/Discrete Math/3. Relation.md",
     "Computer Science/TensorFlow Bootcamp/0. Deep Learning Basics.md",
-    "Computer Science/TensorFlow Bootcamp/7. Time Series Forecast.md",
     "Computer Science/Reinforcement Learning/DES w. RL Paper/Yamasaki_and_Ushio_Notation_translated (6).pdf",
     "Attached Files/Pasted image 20241202211458.png",
     "Attached Files/Pasted image 20241202211255.png",
