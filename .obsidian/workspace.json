@@ -95,14 +95,12 @@
             "id": "33714b05ccc00e1e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Introductory Logic/7. Statement Logic as Formal System.md",
-                "mode": "source",
-                "source": false
+                "file": "Textbook/Introduction to Reinforcement Learning.pdf"
               },
-              "icon": "lucide-file",
-              "title": "7. Statement Logic as Formal System"
+              "icon": "lucide-file-text",
+              "title": "Introduction to Reinforcement Learning"
             }
           }
         ],
@@ -264,6 +262,8 @@
   },
   "active": "33714b05ccc00e1e",
   "lastOpenFiles": [
+    "Textbook/Introduction to linear and matrix algebra.pdf",
+    "Introductory Logic/7. Statement Logic as Formal System.md",
     "Introductory Logic/8. Syllogistic Logic.md",
     "Introductory Logic/9. Asyllogistic Logic.md",
     "Computer Science/Algorithm/7. Dynamic Programming.md",
@@ -292,8 +292,6 @@
     "Mathematics/Real Analysis/4. Series.md",
     "Mathematics/Real Analysis/2. Upper & Lower Bound.md",
     "Mathematics/Real Analysis/1. Real Number Fundamental.md",
-    "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
-    "Personal/술 노트.md",
     "Computer Science/Reinforcement Learning/DES w. RL Paper/Yamasaki_and_Ushio_Notation_translated (6).pdf",
     "Attached Files/Pasted image 20241202211458.png",
     "Attached Files/Pasted image 20241202211255.png",
@@ -303,7 +301,6 @@
     "Attached Files/Pasted image 20241120130448.png",
     "Attached Files/Pasted image 20241118124344.png",
     "Textbook/Algorithms Illuminated (Part 1) The Basics.pdf",
-    "Textbook/Introduction to linear and matrix algebra.pdf",
     "Textbook/Algorithms Illuminated (Part 2) Graph Algorithms and Data Structure.pdf",
     "Attached Files/Pasted image 20241113211121.png",
     "Attached Files/Pasted image 20241106131607.png",
