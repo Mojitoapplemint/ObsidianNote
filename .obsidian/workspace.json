@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/AI & TensorFlow/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
+                "file": "Mathematics/Linear Algebra/2. Linear System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning"
+              "title": "Backlinks for 2. Linear System"
             }
           },
           {
@@ -170,8 +170,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
