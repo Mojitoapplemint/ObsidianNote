@@ -35,7 +35,8 @@
               "title": "1. Vector Fundamentals"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Linear Algebra/3. Subspace.md",
+                "file": "Mathematics/Linear Algebra/1. Vector Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3. Subspace"
+              "title": "Backlinks for 1. Vector Fundamentals"
             }
           },
           {
@@ -191,10 +191,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e262744902fb167f",
+  "active": "3d3746c72015bc82",
   "lastOpenFiles": [
-    "Mathematics/Linear Algebra/2. Linear System.md",
     "Mathematics/Linear Algebra/3. Subspace.md",
+    "Mathematics/Linear Algebra/2. Linear System.md",
     "Untitled 1.md",
     "Attached Files/Pasted image 20241222132653.png",
     "Mathematics/Linear Algebra/1. Vector Fundamentals.md",
