@@ -41,4 +41,9 @@ Thus, We can find $\vec{x}$ by solving homogenous system $[(I-P)\text{ | }\vec{0
 **Ex)** Example from Mouse Maze
 $1-P=\begin{bmatrix}1&0&0 \\ 0&1&0 \\ 0&0&1\end{bmatrix}-\begin{bmatrix}0&\frac{1}{3}&\frac{1}{3} \\ \frac{1}{2}&0&\frac{2}{3} \\\frac{1}{2}&\frac{2}{3}&0 \end{bmatrix}=\begin{bmatrix}1&-\frac{1}{3}&-\frac{1}{3} \\ -\frac{1}{2}&1&-\frac{2}{3} \\-\frac{1}{2}&-\frac{2}{3}&1 \end{bmatrix}$
 
-$\begin{bmatrix}1&-\frac{1}{3}&-\frac{1}{3}&|&0 \\ -\frac{1}{2}&1&-\frac{2}{3}&|&0 \\-\frac{1}{2}&-\frac{2}{3}&1 &|&0\end{bmatrix}=\begin{bmatrix}1&0&-\frac{2}{3}&|&0 \\ &&&|&0 \\ &&&|&0\end{bmatrix}$
+$\begin{bmatrix}1&-\frac{1}{3}&-\frac{1}{3}&|&0 \\ -\frac{1}{2}&1&-\frac{2}{3}&|&0 \\-\frac{1}{2}&-\frac{2}{3}&1 &|&0\end{bmatrix}=\begin{bmatrix}1&0&-\frac{2}{3}&|&0 \\ 0&1&-1&|&0 \\ 0&0&1&|&0\end{bmatrix}$
+
+$\vec{x}=\begin{bmatrix}x_{1} \\ x_{2} \\ x_{3}\end{bmatrix}=\begin{bmatrix}\frac{2}{3}x_{3} \\ x_{3} \\ x_{3}\end{bmatrix}$
+
+Since this is a probabilistic system, solumns must add up to 1
+- $\vec{x}=\begin{bmatrix}\frac{1}{4} \\ \frac{3}{8} \\ \frac{3}{8}\end{bmatrix}$
