@@ -24,5 +24,21 @@ Let $\vec{x_{n}}$ : Probability for the state at step $n$
 $\vec{x_{1}}=P\cdot\vec{x_{0}}=\begin{bmatrix}0&\frac{1}{3}&\frac{1}{3} \\ \frac{1}{2}&0&\frac{2}{3} \\\frac{1}{2}&\frac{2}{3}&0 \end{bmatrix}\cdot \begin{bmatrix}1 \\ 0 \\ 0\end{bmatrix}=\begin{bmatrix}0 \\ \frac{1}{2} \\ \frac{1}{2}\end{bmatrix}$
 
 $\vec{x_{2}}=P\cdot\vec{x_{1}}=\begin{bmatrix}0&\frac{1}{3}&\frac{1}{3} \\ \frac{1}{2}&0&\frac{2}{3} \\\frac{1}{2}&\frac{2}{3}&0 \end{bmatrix}\cdot \begin{bmatrix}0 \\ \frac{1}{2} \\ \frac{1}{2}\end{bmatrix}=\begin{bmatrix}\frac{1}{3} \\ \frac{1}{3} \\ \frac{1}{3}\end{bmatrix}$
+  $\vdots$
 
-$\vec{x_{n}}=P\cdot \vec{x_{n-1}}=P^{n}\cdot$
+$\vec{x_{n}}=P\cdot \vec{x_{n-1}}=P^{n}\cdot \vec{x_{0}}$
+
+# Steady State
+When the probability state vector becomes constant
+$$P\cdot  \vec{x}=\vec{x}$$
+- Markov Chain always have steady state
+
+$P\cdot \vec{x}=I\cdot\vec{x}$
+$\implies (I-P)\vec{x}=\vec{0}$
+
+Thus, We can find $\vec{x}$ by solving homogenous system $[(I-P)\text{ | }\vec{0}]$
+
+**Ex)** Example from Mouse Maze
+$1-P=\begin{bmatrix}1&0&0 \\ 0&1&0 \\ 0&0&1\end{bmatrix}-\begin{bmatrix}0&\frac{1}{3}&\frac{1}{3} \\ \frac{1}{2}&0&\frac{2}{3} \\\frac{1}{2}&\frac{2}{3}&0 \end{bmatrix}=\begin{bmatrix}1&-\frac{1}{3}&-\frac{1}{3} \\ -\frac{1}{2}&1&-\frac{2}{3} \\-\frac{1}{2}&-\frac{2}{3}&1 \end{bmatrix}$
+
+$\begin{bmatrix}1&-\frac{1}{3}&-\frac{1}{3}&|&0 \\ -\frac{1}{2}&1&-\frac{2}{3}&|&0 \\-\frac{1}{2}&-\frac{2}{3}&1 &|&0\end{bmatrix}=\begin{bmatrix}1&0&-\frac{2}{3}&|&0 \\ &&&|&0 \\ &&&|&0\end{bmatrix}$
