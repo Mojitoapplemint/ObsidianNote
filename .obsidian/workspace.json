@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Linear Algebra/Markov Chain.md",
+                "file": "Mathematics/Linear Algebra/5. Matrix Advance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Markov Chain"
+              "title": "5. Matrix Advance"
             }
           },
           {
@@ -63,7 +63,8 @@
               "title": "3. Subspace"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,16 +219,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e262744902fb167f",
+  "active": "6606a7a95bbf7ce6",
   "lastOpenFiles": [
-    "Mathematics/Linear Algebra/Markov Chain.md",
-    "Mathematics/Linear Algebra/4. Matrices.md",
     "Mathematics/Linear Algebra/3. Subspace.md",
-    "Mathematics/Linear Algebra/1. Vector Fundamentals.md",
+    "Mathematics/Linear Algebra/2. Linear System.md",
+    "Mathematics/Linear Algebra/Markov Chain.md",
     "Mathematics/Linear Algebra/5. Matrix Advance.md",
+    "Mathematics/Linear Algebra/4. Matrices.md",
+    "Mathematics/Linear Algebra/1. Vector Fundamentals.md",
     "Personal/Latex Suite Personal Setting.md",
     "Attached Files/Pasted image 20241229182942.png",
-    "Mathematics/Linear Algebra/2. Linear System.md",
     "Attached Files/Pasted image 20241222132653.png",
     "Untitled.md",
     "Computer Science/Algorithm/5. Dynamic Programming.md",
