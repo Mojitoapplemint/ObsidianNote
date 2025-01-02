@@ -47,18 +47,22 @@ $\vec{x}=\begin{bmatrix}x_{1} \\ x_{2} \\ x_{3}\end{bmatrix}=\begin{bmatrix}\fra
 Since this is a probabilistic system, solumns must add up to 1
 - $\vec{x}=\begin{bmatrix}\frac{1}{4} \\ \frac{3}{8} \\ \frac{3}{8}\end{bmatrix}$
 
-## Markov Chain always have steady state
+## Prop 1. Markov Chain always have steady state
 
 **Proof)**
 Let $P$ is a transition matrix, then each column sum to 1
 
 Consider $P^{T}\cdot \vec{1}$
 	$=(i^{th}\text{ row of }P^{T})\cdot\vec{1}$
+	$=(i^{th}\text{ column of }P)\cdot\vec{1}$
 
+Then each entry is going to be sum of each column of $P$
+- Since $P$ is transition matrix, each column sum to 1
+	$\therefore P^{T}\cdot\vec{1}=\vec{1}$
 
+$\implies$ 1 is eigenvalue of $P^{T}$
 
+By Determinant Properties 8), $P$ has eigenvalue of 1
+$\therefore P\cdot\vec{x}=1\cdot \vec{x}$
 
-
-	$=(\text{sum of all entries of } i^{th}\text{ row of }P^{T})$
-	$=(\text{sum of all entries of } i^{th}\text{ column of }P)$
-	$=$
+## Prop 2. Steady state does not depend on the starting state
