@@ -77,8 +77,7 @@
               "title": "Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
+                "file": "Mathematics/Linear Algebra/5. Matrix Advance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning"
+              "title": "Backlinks for 5. Matrix Advance"
             }
           },
           {
@@ -233,8 +233,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7a4302fb593d9155",
+  "active": "e262744902fb167f",
   "lastOpenFiles": [
+    "Computer Science/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
     "Computer Science/Reinforcement Learning/1. Reinforcement Learning Fundamental.md",
     "Mathematics/Linear Algebra/5. Matrix Advance.md",
     "Mathematics/Linear Algebra/4. Matrices.md",
@@ -264,7 +265,6 @@
     "Personal/Introductory Logic/1. Arguments Fundamental.md",
     "Computer Science/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
     "Mathematics/Real Analysis/3. Sequences.md",
-    "Computer Science/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
     "Computer Science/Reinforcement Learning/DES w. RL Paper/Oliehoek12RLBook.pdf",
     "Computer Science/Reinforcement Learning/DES w. RL Paper/DecPOMDP-survey-final.pdf",
     "Computer Science/Reinforcement Learning/Q-Learning.md",
