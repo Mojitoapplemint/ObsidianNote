@@ -31,7 +31,6 @@ $\vec{x_{n}}=P\cdot \vec{x_{n-1}}=P^{n}\cdot \vec{x_{0}}$
 # Steady State
 When the probability state vector becomes constant
 $$P\cdot  \vec{x}=\vec{x}$$
-- Markov Chain always have steady state
 
 $P\cdot \vec{x}=I\cdot\vec{x}$
 $\implies (I-P)\vec{x}=\vec{0}$
@@ -47,3 +46,19 @@ $\vec{x}=\begin{bmatrix}x_{1} \\ x_{2} \\ x_{3}\end{bmatrix}=\begin{bmatrix}\fra
 
 Since this is a probabilistic system, solumns must add up to 1
 - $\vec{x}=\begin{bmatrix}\frac{1}{4} \\ \frac{3}{8} \\ \frac{3}{8}\end{bmatrix}$
+
+## Markov Chain always have steady state
+
+**Proof)**
+Let $P$ is a transition matrix, then each column sum to 1
+
+Consider $P^{T}\cdot \vec{1}$
+	$=(i^{th}\text{ row of }P^{T})\cdot\vec{1}$
+
+
+
+
+
+	$=(\text{sum of all entries of } i^{th}\text{ row of }P^{T})$
+	$=(\text{sum of all entries of } i^{th}\text{ column of }P)$
+	$=$
