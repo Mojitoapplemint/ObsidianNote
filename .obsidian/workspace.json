@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Vector Calculus/1..md",
+                "file": "Mathematics/Vector Calculus/1. Path and Curves.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1."
+              "title": "1. Path and Curves"
             }
           },
           {
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Vector Calculus/1..md",
+                "file": "Mathematics/Vector Calculus/1. Path and Curves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1."
+              "title": "Backlinks for 1. Path and Curves"
             }
           },
           {
@@ -207,7 +207,7 @@
   "active": "e262744902fb167f",
   "lastOpenFiles": [
     "Mathematics/Linear Algebra/6. Vector Space.md",
-    "Mathematics/Vector Calculus/1..md",
+    "Mathematics/Vector Calculus/1. Path and Curves.md",
     "Mathematics/Vector Calculus",
     "Mathematics/Untitled.md",
     "Personal/Latex Suite Personal Setting.md",
