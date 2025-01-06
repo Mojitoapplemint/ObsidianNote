@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "6e5a4246536d372b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-01-06 12.53.28.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-06 12.53.28.excalidraw"
+            }
+          },
+          {
             "id": "6606a7a95bbf7ce6",
             "type": "leaf",
             "state": {
@@ -206,8 +218,10 @@
   },
   "active": "e262744902fb167f",
   "lastOpenFiles": [
-    "Mathematics/Linear Algebra/6. Vector Space.md",
+    "Attached Files/Pasted image 20250106125753.png",
+    "Excalidraw/Drawing 2025-01-06 12.53.28.excalidraw.md",
     "Mathematics/Vector Calculus/1. Path and Curves.md",
+    "Mathematics/Linear Algebra/6. Vector Space.md",
     "Mathematics/Vector Calculus",
     "Mathematics/Untitled.md",
     "Personal/Latex Suite Personal Setting.md",
@@ -234,10 +248,8 @@
     "Questions.md",
     "Computer Science/Algorithm/4. Greedy Algorithm.md",
     "Computer Science/Algorithm/6. Minimum Spanning Tree.md",
-    "Computer Science/Algorithm/5. Huffman Code.md",
     "Textbook/Introduction to Reinforcement Learning.pdf",
     "Textbook/Introduction to linear and matrix algebra.pdf",
-    "Personal/Introductory Logic/7. Statement Logic as Formal System.md",
     "Computer Science/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
     "Computer Science/Reinforcement Learning/DES w. RL Paper/Oliehoek12RLBook.pdf",
     "Computer Science/Reinforcement Learning/DES w. RL Paper/DecPOMDP-survey-final.pdf",
