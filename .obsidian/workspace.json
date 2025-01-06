@@ -61,7 +61,8 @@
               "title": "4. Matrices"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Vector Calculus/1. Path and Curves.md",
+                "file": "Excalidraw/Drawing 2025-01-06 12.53.28.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1. Path and Curves"
+              "title": "Backlinks for Drawing 2025-01-06 12.53.28.excalidraw"
             }
           },
           {
@@ -216,11 +217,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e262744902fb167f",
+  "active": "6e5a4246536d372b",
   "lastOpenFiles": [
+    "Mathematics/Vector Calculus/1. Path and Curves.md",
     "Attached Files/Pasted image 20250106125753.png",
     "Excalidraw/Drawing 2025-01-06 12.53.28.excalidraw.md",
-    "Mathematics/Vector Calculus/1. Path and Curves.md",
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Mathematics/Vector Calculus",
     "Mathematics/Untitled.md",
@@ -262,7 +263,6 @@
     "Attached Files/Pasted image 20241120130448.png",
     "Attached Files/Pasted image 20241118124344.png",
     "Attached Files/Pasted image 20241113211121.png",
-    "Attached Files/Pasted image 20241106131607.png",
-    "Attached Files/Pasted image 20241106131357.png"
+    "Attached Files/Pasted image 20241106131607.png"
   ]
 }
