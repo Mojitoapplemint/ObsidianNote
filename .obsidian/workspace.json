@@ -25,12 +25,14 @@
             "id": "6e5a4246536d372b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-01-06 12.53.28.excalidraw.md"
+                "file": "Mathematics/Vector Calculus/1. Path and Curves.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-06 12.53.28.excalidraw"
+              "icon": "lucide-file",
+              "title": "1. Path and Curves"
             }
           },
           {
@@ -67,16 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
+                "file": "Mathematics/Vector Calculus/1. Path and Curves.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Computer Abstractions and Technology"
+              "title": "1. Path and Curves"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
+                "file": "Mathematics/Vector Calculus/1. Path and Curves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1. Computer Abstractions and Technology"
+              "title": "Backlinks for 1. Path and Curves"
             }
           },
           {
@@ -231,12 +233,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "82ff840704e1900a",
+  "active": "6e5a4246536d372b",
   "lastOpenFiles": [
-    "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
-    "Computer Science/Computer Organization and Arch",
     "Excalidraw/Drawing 2025-01-06 12.53.28.excalidraw.md",
     "Mathematics/Vector Calculus/1. Path and Curves.md",
+    "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
+    "Computer Science/Computer Organization and Arch",
     "Attached Files/Pasted image 20250106125753.png",
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Mathematics/Vector Calculus",
