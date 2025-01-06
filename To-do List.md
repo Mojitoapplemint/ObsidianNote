@@ -4,17 +4,16 @@ kanban-plugin: board
 
 ---
 
-## Algorithm Analysis
-
-- [ ] Note Ttaking about DP
+## CO;Ders
 
 
-## Real Analysis
 
-- [ ] Assignment
+## Advanced LA
+
+- [ ] Assignment(Due 13th)
 
 
-## Number Theory
+## Vector Calc
 
 
 
@@ -22,12 +21,11 @@ kanban-plugin: board
 
 
 
-## Logic
-
-- [ ] Note Taking about Identity
+## Computer Org & Arc
 
 
-## CO;Ders
+
+## Theory of Computation
 
 
 
