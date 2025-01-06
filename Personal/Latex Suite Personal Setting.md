@@ -26,6 +26,9 @@
     {trigger: "\\R", replacement: "\\mathbb{R}", options: "tmA"},
     {trigger: "\\Z", replacement: "\\mathbb{Z}", options: "tmA"},
     {trigger: "\\N", replacement: "\\mathbb{N}", options: "tmA"},
+    {trigger: "\\F", replacement: "\\mathbb{F}", options: "tmA"},
+    {trigger: "\\cF", replacement: "\\mathcal{F}", options: "tmA"},
+    {trigger: "\\V", replacement: "\\mathcal{V}", options: "tmA"},
     {trigger: "Pd", replacement: "\\partial ", options: "mA"},
     {trigger: "thus", replacement: "\\therefore ", options: "mA"},
     {trigger: "aprx", replacement: "\\approx ", options: "mA"},
@@ -51,7 +54,7 @@
 
 ```json
 [
-    {trigger: "\\l", replacement: "\\mathscr{l}", options: "tmA"},
+    {trigger: "\\sl", replacement: "\\mathscr{l}", options: "tmA"},
     {trigger: "sup", replacement: "\\text{sup}($0)", options: "mA"},
     {trigger: "inf", replacement: "\\text{inf}($0)", options: "mA"},
     {trigger: "/", replacement: "\\frac{$0}{$1}", options: "mA"},
