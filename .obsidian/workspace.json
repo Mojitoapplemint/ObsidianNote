@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Linear Algebra/3. Subspace.md",
+                "file": "Mathematics/Linear Algebra/1. Vector Fundamentals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Subspace"
+              "title": "1. Vector Fundamentals"
             }
           },
           {
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -235,6 +234,8 @@
   },
   "active": "e262744902fb167f",
   "lastOpenFiles": [
+    "Mathematics/Linear Algebra/1. Vector Fundamentals.md",
+    "Mathematics/Linear Algebra/2. Linear System.md",
     "Mathematics/Linear Algebra/3. Subspace.md",
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Personal/Latex Suite Personal Setting.md",
@@ -258,9 +259,7 @@
     "Mathematics/Differential Equation/8. Constant Coefficient DE.md",
     "Mathematics/Differential Equation/7. Linear Second Order DE.md",
     "Mathematics/Linear Algebra/5. Matrix Advance.md",
-    "Mathematics/Linear Algebra/2. Linear System.md",
     "Computer Science/Reinforcement Learning/1. Reinforcement Learning Fundamental.md",
-    "Mathematics/Linear Algebra/1. Vector Fundamentals.md",
     "Attached Files/Pasted image 20241229182942.png",
     "Attached Files/Pasted image 20241222132653.png",
     "Computer Science/Algorithm/5. Dynamic Programming.md",
