@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Latex Suite Personal Setting.md",
+                "file": "Mathematics/Linear Algebra/6. Vector Space.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Latex Suite Personal Setting"
+              "title": "6. Vector Space"
             }
           },
           {
@@ -234,9 +234,9 @@
   },
   "active": "e262744902fb167f",
   "lastOpenFiles": [
+    "Personal/Latex Suite Personal Setting.md",
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Untitled.md",
-    "Personal/Latex Suite Personal Setting.md",
     "Mathematics/Linear Algebra/1. Vector Fundamentals.md",
     "Mathematics/Linear Algebra/4. Matrices.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
