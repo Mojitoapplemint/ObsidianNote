@@ -30,6 +30,8 @@
     {trigger: "\\cF", replacement: "\\mathcal{F}", options: "tmA"},
     {trigger: "\\cS", replacement: "\\mathcal{S}", options: "tmA"},
     {trigger: "\\V", replacement: "\\mathcal{V}", options: "tmA"},
+    {trigger: "mb", replacement: "\\mathbb{V}", options: "tmA"},
+    {trigger: "\\V", replacement: "\\mathcal{V}", options: "tmA"},
     {trigger: "Pd", replacement: "\\partial ", options: "mA"},
     {trigger: "thus", replacement: "\\therefore ", options: "mA"},
     {trigger: "aprx", replacement: "\\approx ", options: "mA"},
