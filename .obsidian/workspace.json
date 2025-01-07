@@ -63,7 +63,8 @@
               "title": "1. Path and Curves"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -135,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Linear Algebra/5. Matrix Advance.md",
+                "file": "Mathematics/Linear Algebra/4. Matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 5. Matrix Advance"
+              "title": "Backlinks for 4. Matrices"
             }
           },
           {
@@ -219,10 +220,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e262744902fb167f",
+  "active": "3d3746c72015bc82",
   "lastOpenFiles": [
-    "Mathematics/Linear Algebra/4. Matrices.md",
     "Mathematics/Linear Algebra/5. Matrix Advance.md",
+    "Mathematics/Linear Algebra/4. Matrices.md",
     "Mathematics/Linear Algebra/1. Vector Fundamentals.md",
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
