@@ -28,6 +28,7 @@
     {trigger: "\\N", replacement: "\\mathbb{N}", options: "tmA"},
     {trigger: "\\F", replacement: "\\mathbb{F}", options: "tmA"},
     {trigger: "\\cF", replacement: "\\mathcal{F}", options: "tmA"},
+    {trigger: "\\cS", replacement: "\\mathcal{S}", options: "tmA"},
     {trigger: "\\V", replacement: "\\mathcal{V}", options: "tmA"},
     {trigger: "Pd", replacement: "\\partial ", options: "mA"},
     {trigger: "thus", replacement: "\\therefore ", options: "mA"},
