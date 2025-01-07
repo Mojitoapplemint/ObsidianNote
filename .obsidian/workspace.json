@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -233,8 +232,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e262744902fb167f",
+  "active": "c57e60c07883afd8",
   "lastOpenFiles": [
+    "Mathematics/Theory of Computation",
     "Personal/Latex Suite Personal Setting.md",
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Untitled.md",
