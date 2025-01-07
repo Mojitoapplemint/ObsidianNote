@@ -133,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -234,11 +235,12 @@
   },
   "active": "e262744902fb167f",
   "lastOpenFiles": [
+    "Personal/Latex Suite Personal Setting.md",
+    "Mathematics/Linear Algebra/6. Vector Space.md",
     "Mathematics/Linear Algebra/1. Vector Fundamentals.md",
+    "Mathematics/Linear Algebra/4. Matrices.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
     "Mathematics/Linear Algebra/3. Subspace.md",
-    "Mathematics/Linear Algebra/6. Vector Space.md",
-    "Personal/Latex Suite Personal Setting.md",
     "Mathematics/Vector Calculus/1. Path and Curves.md",
     "Attached Files/Pasted image 20250106182714.png",
     "Excalidraw/Drawing 2025-01-06 12.53.28.excalidraw.md",
@@ -248,7 +250,6 @@
     "Mathematics/Vector Calculus",
     "Mathematics/Untitled.md",
     "Mathematics/Linear Algebra/Markov Chain.md",
-    "Mathematics/Linear Algebra/4. Matrices.md",
     "Untitled.md",
     "Untitled 1.md",
     "To-do List.md",
