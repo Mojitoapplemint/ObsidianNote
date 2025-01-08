@@ -32,6 +32,7 @@
     {trigger: "\\V", replacement: "\\mathcal{V}", options: "tmA"},
     {trigger: "mb", replacement: "\\mathbb{$0}", options: "mA"},
     {trigger: "mc", replacement: "\\mathcal{$0}", options: "mA"},
+    {trigger: "\\oo", replacement: "\\infty", options: "mA"},
     {trigger: "Pd", replacement: "\\partial ", options: "mA"},
     {trigger: "thus", replacement: "\\therefore ", options: "mA"},
     {trigger: "aprx", replacement: "\\approx ", options: "mA"},
