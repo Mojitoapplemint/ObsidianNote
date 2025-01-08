@@ -39,12 +39,14 @@
             "id": "3d3746c72015bc82",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Textbook/Advanced Linear and Matrix Algebra.pdf"
+                "file": "Mathematics/Linear Algebra/6. Vector Space.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Advanced Linear and Matrix Algebra"
+              "icon": "lucide-file",
+              "title": "6. Vector Space"
             }
           },
           {
@@ -134,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Textbook/Advanced Linear and Matrix Algebra.pdf",
+                "file": "Mathematics/Linear Algebra/6. Vector Space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Advanced Linear and Matrix Algebra"
+              "title": "Backlinks for 6. Vector Space"
             }
           },
           {
@@ -220,6 +222,7 @@
   },
   "active": "3d3746c72015bc82",
   "lastOpenFiles": [
+    "Textbook/Advanced Linear and Matrix Algebra.pdf",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Textbook/Vector Calculus, 5th Edition.pdf",
     "Textbook/Introduction to the Theory of Computation, Third Edition.pdf",
@@ -256,7 +259,6 @@
     "Untitled 1.md",
     "To-do List.md",
     "Computer Science/Reinforcement Learning/DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
-    "Textbook/Advanced Linear and Matrix Algebra.pdf",
     "Mathematics/Differential Equation/0. Differential Equation.md",
     "Attached Files/Pasted image 20241229182942.png",
     "Attached Files/Pasted image 20241222132653.png",
