@@ -62,6 +62,18 @@
               "icon": "lucide-file",
               "title": "0. Introduction"
             }
+          },
+          {
+            "id": "48c11287b7119544",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-01-08 12.39.55.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-08 12.39.55.excalidraw"
+            }
           }
         ],
         "currentTab": 1
@@ -223,6 +235,9 @@
   },
   "active": "3d3746c72015bc82",
   "lastOpenFiles": [
+    "Attached Files/Pasted image 20250108124255.png",
+    "Excalidraw/Drawing 2025-01-08 12.39.55.excalidraw.md",
+    "Mathematics/Vector Calculus/1. Path and Curves.md",
     "Attached Files/Pasted image 20250108122732.png",
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Personal/Data Science/MATH1311/Birthday Paradox Example.md",
@@ -250,7 +265,6 @@
     "Attached Files/Pasted image 20250107220749.png",
     "Attached Files/Pasted image 20250107220135.png",
     "Mathematics/Linear Algebra/3. Subspace.md",
-    "Mathematics/Vector Calculus/1. Path and Curves.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
     "Mathematics/Theory of Computation",
     "Untitled.md",
@@ -261,13 +275,11 @@
     "Mathematics/Vector Calculus",
     "Mathematics/Untitled.md",
     "Mathematics/Linear Algebra/Markov Chain.md",
-    "Untitled 1.md",
     "Attached Files/Pasted image 20241229182942.png",
     "Attached Files/Pasted image 20241222132653.png",
     "Textbook/Introduction to Reinforcement Learning.pdf",
     "Textbook/Introduction to linear and matrix algebra.pdf",
     "Computer Science/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
-    "Attached Files/Pasted image 20241202211458.png",
-    "Attached Files/Pasted image 20241202211255.png"
+    "Attached Files/Pasted image 20241202211458.png"
   ]
 }
