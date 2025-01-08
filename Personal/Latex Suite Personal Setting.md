@@ -11,6 +11,7 @@
 ```json
 //new
 	{trigger: "\\l", replacement: "\\mathscr{l}", options: "tmA"},
+	{trigger: "<-", replacement: "\\leftarrow ", options: "tmA"},
     {trigger: "sup", replacement: "\\text{sup}($0)", options: "mA"},
     {trigger: "c.", replacement: "\\cdot ", options: "mA"},
     {trigger: "inf", replacement: "\\text{inf}($0)", options: "mA"},

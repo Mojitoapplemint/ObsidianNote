@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Linear Algebra/6. Vector Space.md",
+                "file": "Personal/Latex Suite Personal Setting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. Vector Space"
+              "title": "Latex Suite Personal Setting"
             }
           },
           {
@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -232,20 +233,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3d3746c72015bc82",
+  "active": "e262744902fb167f",
   "lastOpenFiles": [
+    "Personal/Latex Suite Personal Setting.md",
+    "Mathematics/Linear Algebra/6. Vector Space.md",
+    "Mathematics/Linear Algebra/1. Vector Fundamentals.md",
     "Mathematics/Vector Calculus/1. Path and Curves.md",
     "Attached Files/20250108-1709-35.0166765.mp4",
     "Attached Files/94132137-7d4fc100-fe7c-11ea-8512-69f90cb65e48.gif",
     "Attached Files/Pasted image 20250108124255.png",
     "Excalidraw/Drawing 2025-01-08 12.39.55.excalidraw.md",
     "Attached Files/Pasted image 20250108122732.png",
-    "Mathematics/Linear Algebra/6. Vector Space.md",
     "Personal/Data Science/MATH1311/Birthday Paradox Example.md",
     "Personal/Data Science/MATH1311/Monty Hall Example.md",
     "Personal/Data Science/MATH1311/Chlamydia Example.md",
-    "Personal/Latex Suite Personal Setting.md",
-    "Mathematics/Linear Algebra/1. Vector Fundamentals.md",
     "Mathematics/Linear Algebra/5. Matrix Advance.md",
     "Textbook/Advanced Linear and Matrix Algebra.pdf",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
