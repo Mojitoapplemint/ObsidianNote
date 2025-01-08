@@ -39,14 +39,12 @@
             "id": "3d3746c72015bc82",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Mathematics/Theory of Computation/1. Automata Theory.md",
-                "mode": "source",
-                "source": false
+                "file": "Textbook/Advanced Linear and Matrix Algebra.pdf"
               },
-              "icon": "lucide-file",
-              "title": "1. Automata Theory"
+              "icon": "lucide-file-text",
+              "title": "Advanced Linear and Matrix Algebra"
             }
           },
           {
@@ -136,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Theory of Computation/1. Automata Theory.md",
+                "file": "Textbook/Advanced Linear and Matrix Algebra.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1. Automata Theory"
+              "title": "Backlinks for Advanced Linear and Matrix Algebra"
             }
           },
           {
@@ -222,6 +220,9 @@
   },
   "active": "3d3746c72015bc82",
   "lastOpenFiles": [
+    "Textbook/Vector Calculus, 5th Edition.pdf",
+    "Textbook/Introduction to the Theory of Computation, Third Edition.pdf",
+    "Mathematics/Theory of Computation/1. Automata Theory.md",
     "Attached Files/Pasted image 20250107230029.png",
     "Attached Files/Pasted image 20250107230012.png",
     "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
@@ -241,7 +242,6 @@
     "Mathematics/Linear Algebra/3. Subspace.md",
     "Mathematics/Vector Calculus/1. Path and Curves.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
-    "Mathematics/Theory of Computation/1. Automata Theory.md",
     "Mathematics/Theory of Computation",
     "Personal/Latex Suite Personal Setting.md",
     "Untitled.md",
@@ -264,9 +264,7 @@
     "Computer Science/Reinforcement Learning/DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
     "Computer Science/Reinforcement Learning/DES w. RL Paper/Oliehoek12RLBook.pdf",
     "Computer Science/Reinforcement Learning/DES w. RL Paper/DecPOMDP-survey-final.pdf",
-    "Computer Science/Reinforcement Learning/DES w. RL Paper/Yamasaki_and_Ushio_Notation_translated (6).pdf",
     "Attached Files/Pasted image 20241202211458.png",
-    "Attached Files/Pasted image 20241202211255.png",
-    "Attached Files/Pasted image 20241202210425.png"
+    "Attached Files/Pasted image 20241202211255.png"
   ]
 }
