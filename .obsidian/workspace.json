@@ -118,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -220,13 +221,13 @@
   },
   "active": "e262744902fb167f",
   "lastOpenFiles": [
-    "Textbook/Algorithms Illuminated (Part 3) Greedy Algorithms and Dynamic Programming.pdf",
+    "Mathematics/Linear Algebra/6. Vector Space.md",
     "Mathematics/Theory of Computation/1. Automata Theory.md",
+    "Textbook/Algorithms Illuminated (Part 3) Greedy Algorithms and Dynamic Programming.pdf",
     "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
     "Computer Science/Algorithm/4. Greedy Algorithm.md",
     "Personal/Latex Suite Personal Setting.md",
     "Mathematics/Linear Algebra/1. Vector Fundamentals.md",
-    "Mathematics/Linear Algebra/6. Vector Space.md",
     "Mathematics/Linear Algebra/4. Matrices.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
     "Excalidraw/Drawing 2025-01-08 12.39.55.excalidraw.md",
