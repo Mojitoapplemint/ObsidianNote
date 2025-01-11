@@ -59,12 +59,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Theory of Computation/1. Automata Theory.md",
+                "file": "Mathematics/Theory of Computation/1. Finite Automata.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Automata Theory"
+              "title": "1. Finite Automata"
             }
           }
         ]
@@ -227,7 +227,7 @@
   "active": "00ef702f9c456c5e",
   "lastOpenFiles": [
     "Textbook/Introduction to the Theory of Computation.pdf",
-    "Mathematics/Theory of Computation/1. Automata Theory.md",
+    "Mathematics/Theory of Computation/1. Finite Automata.md",
     "Textbook/Algorithms Illuminated (Part 3) Greedy Algorithms and Dynamic Programming.pdf",
     "Textbook/Introduction to the Theory of Computation, Third Edition.pdf",
     "Computer Science/Computer Organization and Arch/0. Introduction.md",
