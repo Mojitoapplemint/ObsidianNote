@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Textbook/Algorithms Illuminated (Part 3) Greedy Algorithms and Dynamic Programming.pdf"
+                "file": "Textbook/Introduction to the Theory of Computation, Third Edition.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Algorithms Illuminated (Part 3) Greedy Algorithms and Dynamic Programming"
+              "title": "Introduction to the Theory of Computation, Third Edition"
             }
           },
           {
@@ -47,8 +47,7 @@
               "title": "6. Vector Space"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,19 +204,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "82ff840704e1900a",
+  "active": "3d3746c72015bc82",
   "lastOpenFiles": [
+    "Textbook/Algorithms Illuminated (Part 3) Greedy Algorithms and Dynamic Programming.pdf",
+    "Computer Science/Computer Organization and Arch/0. Introduction.md",
     "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
     "Mathematics/Vector Calculus/1. Path and Curves.md",
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Mathematics/Linear Algebra/4. Matrices.md",
-    "Computer Science/Computer Organization and Arch/0. Introduction.md",
     "Mathematics/Linear Algebra/5. Matrix Advance.md",
     "Computer Science/System Porgramming/6. C Techniques and Functions.md",
     "Computer Science/System Porgramming/12. Assembly Language and Memory Management.md",
     "Untitled 1.md",
     "Mathematics/Theory of Computation/1. Automata Theory.md",
-    "Textbook/Algorithms Illuminated (Part 3) Greedy Algorithms and Dynamic Programming.pdf",
     "Computer Science/Algorithm/4. Greedy Algorithm.md",
     "Personal/Latex Suite Personal Setting.md",
     "Mathematics/Linear Algebra/1. Vector Fundamentals.md",
@@ -248,7 +247,6 @@
     "Mathematics/Theory of Computation",
     "Untitled.md",
     "Attached Files/Pasted image 20250106182714.png",
-    "Excalidraw/Drawing 2025-01-06 12.53.28.excalidraw.md",
     "Computer Science/Computer Organization and Arch",
     "Attached Files/Pasted image 20250106125753.png",
     "Mathematics/Vector Calculus",
