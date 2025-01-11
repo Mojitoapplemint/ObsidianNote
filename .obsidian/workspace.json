@@ -53,16 +53,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Linear Algebra/4. Matrices.md",
+                "file": "Mathematics/Linear Algebra/6. Vector Space.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Matrices"
+              "title": "6. Vector Space"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -218,8 +219,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "82ff840704e1900a",
+  "active": "48c11287b7119544",
   "lastOpenFiles": [
+    "Mathematics/Linear Algebra/4. Matrices.md",
+    "Mathematics/Vector Calculus/1. Path and Curves.md",
     "Computer Science/Computer Organization and Arch/0. Introduction.md",
     "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
     "Mathematics/Linear Algebra/5. Matrix Advance.md",
@@ -232,11 +235,9 @@
     "Computer Science/Algorithm/4. Greedy Algorithm.md",
     "Personal/Latex Suite Personal Setting.md",
     "Mathematics/Linear Algebra/1. Vector Fundamentals.md",
-    "Mathematics/Linear Algebra/4. Matrices.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
     "Excalidraw/Drawing 2025-01-08 12.39.55.excalidraw.md",
     "Attached Files/Pasted image 20250108164521.png",
-    "Mathematics/Vector Calculus/1. Path and Curves.md",
     "Attached Files/20250108-1709-35.0166765.mp4",
     "Attached Files/94132137-7d4fc100-fe7c-11ea-8512-69f90cb65e48.gif",
     "Attached Files/Pasted image 20250108124255.png",
