@@ -6,7 +6,6 @@
       {
         "id": "05066f2b8e4b60d6",
         "type": "tabs",
-        "dimension": 56.93527080581242,
         "children": [
           {
             "id": "3d3746c72015bc82",
@@ -48,38 +47,8 @@
               "title": "6. Vector Space"
             }
           }
-        ]
-      },
-      {
-        "id": "5aac96bf7537cf38",
-        "type": "tabs",
-        "dimension": 43.064729194187585,
-        "children": [
-          {
-            "id": "00ef702f9c456c5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Theory of Computation/1. Finite Automata.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Finite Automata"
-            }
-          },
-          {
-            "id": "282cac4b8d843721",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -236,7 +205,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "00ef702f9c456c5e",
+  "active": "48c11287b7119544",
   "lastOpenFiles": [
     "Textbook/Introduction to the Theory of Computation.pdf",
     "Mathematics/Theory of Computation/1. Finite Automata.md",
