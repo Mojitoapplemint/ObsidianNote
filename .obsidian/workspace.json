@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Git & GitHub.md",
+                "file": "Mathematics/Linear Algebra/6. Vector Space.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git & GitHub"
+              "title": "6. Vector Space"
             }
           }
         ],
@@ -207,10 +207,11 @@
   },
   "active": "82ff840704e1900a",
   "lastOpenFiles": [
-    "Computer Science/Computer Organization and Arch/0. Introduction.md",
-    "Computer Science/Git & GitHub.md",
-    "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Linear Algebra/6. Vector Space.md",
+    "Mathematics/Linear Algebra/7. Linear Transformation.md",
+    "Mathematics/Linear Algebra/5. Matrix Advance.md",
+    "Computer Science/Git & GitHub.md",
+    "Computer Science/Computer Organization and Arch/0. Introduction.md",
     "Textbook/Introduction to the Theory of Computation.pdf",
     "Mathematics/Theory of Computation/1. Finite Automata.md",
     "Textbook/Algorithms Illuminated (Part 3) Greedy Algorithms and Dynamic Programming.pdf",
@@ -218,7 +219,6 @@
     "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
     "Mathematics/Vector Calculus/1. Path and Curves.md",
     "Mathematics/Linear Algebra/4. Matrices.md",
-    "Mathematics/Linear Algebra/5. Matrix Advance.md",
     "Computer Science/System Porgramming/6. C Techniques and Functions.md",
     "Computer Science/System Porgramming/12. Assembly Language and Memory Management.md",
     "Untitled 1.md",
