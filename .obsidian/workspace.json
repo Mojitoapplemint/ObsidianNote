@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -204,8 +204,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "82ff840704e1900a",
+  "active": "48c11287b7119544",
   "lastOpenFiles": [
+    "Attached Files/Pasted image 20250117121911.png",
+    "Attached Files/Pasted image 20250117121832.png",
+    "Mathematics/Linear Algebra/6. Vector Space.md",
     "Mathematics/Theory of Computation/1. Finite Automata.md",
     "Attached Files/Pasted image 20250117120442.png",
     "Attached Files/Pasted image 20250117120419.png",
@@ -215,7 +218,6 @@
     "Attached Files/Pasted image 20250117115611.png",
     "Attached Files/Pasted image 20250117115531.png",
     "Attached Files/Pasted image 20250117115503.png",
-    "Mathematics/Linear Algebra/6. Vector Space.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
@@ -237,7 +239,6 @@
     "Excalidraw/Drawing 2025-01-08 12.39.55.excalidraw.md",
     "Attached Files/Pasted image 20250108164521.png",
     "Attached Files/20250108-1709-35.0166765.mp4",
-    "Attached Files/94132137-7d4fc100-fe7c-11ea-8512-69f90cb65e48.gif",
     "Personal/Data Science/MATH1311/Birthday Paradox Example.md",
     "Personal/Data Science/MATH1311/Monty Hall Example.md",
     "Personal/Data Science/MATH1311/Chlamydia Example.md",
