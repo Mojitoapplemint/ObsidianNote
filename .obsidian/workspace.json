@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,8 +204,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "48c11287b7119544",
+  "active": "82ff840704e1900a",
   "lastOpenFiles": [
+    "Mathematics/Theory of Computation/1. Finite Automata.md",
+    "Attached Files/Pasted image 20250117120442.png",
+    "Attached Files/Pasted image 20250117120419.png",
+    "Attached Files/Pasted image 20250117120321.png",
+    "Attached Files/Pasted image 20250117120258.png",
     "Attached Files/Pasted image 20250117115726.png",
     "Attached Files/Pasted image 20250117115611.png",
     "Attached Files/Pasted image 20250117115531.png",
@@ -214,7 +219,6 @@
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
-    "Mathematics/Theory of Computation/1. Finite Automata.md",
     "Mathematics/Linear Algebra/5. Matrix Advance.md",
     "Computer Science/Git & GitHub.md",
     "Computer Science/Computer Organization and Arch/0. Introduction.md",
@@ -234,21 +238,16 @@
     "Attached Files/Pasted image 20250108164521.png",
     "Attached Files/20250108-1709-35.0166765.mp4",
     "Attached Files/94132137-7d4fc100-fe7c-11ea-8512-69f90cb65e48.gif",
-    "Attached Files/Pasted image 20250108124255.png",
-    "Attached Files/Pasted image 20250108122732.png",
     "Personal/Data Science/MATH1311/Birthday Paradox Example.md",
     "Personal/Data Science/MATH1311/Monty Hall Example.md",
     "Personal/Data Science/MATH1311/Chlamydia Example.md",
     "Textbook/Advanced Linear and Matrix Algebra.pdf",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Textbook/Vector Calculus, 5th Edition.pdf",
-    "Attached Files/Pasted image 20250107230029.png",
-    "Attached Files/Pasted image 20250107230012.png",
     "Computer Science/System Porgramming/Dynamic Linking an Loading.md",
     "Computer Science/System Porgramming/5. Introduction of C.md",
     "Computer Science/System Porgramming/7. C Memory Management.md",
     "Computer Science/System Porgramming/1. Computer Arcitecture.md",
-    "Attached Files/Pasted image 20250107220749.png",
     "Mathematics/Theory of Computation",
     "Computer Science/Computer Organization and Arch",
     "Mathematics/Vector Calculus"
