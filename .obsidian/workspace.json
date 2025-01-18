@@ -67,10 +67,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Computer Science/Reinforcement Learning/DES w. RL Paper/DecPOMDP-survey-final.pdf"
+                "file": "Computer Science/Reinforcement Learning/DES w. RL Paper/Oliehoek12RLBook.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "DecPOMDP-survey-final"
+              "title": "Oliehoek12RLBook"
             }
           }
         ],
@@ -232,6 +232,7 @@
   },
   "active": "380e06fe448f725f",
   "lastOpenFiles": [
+    "Computer Science/Reinforcement Learning/DES w. RL Paper/DecPOMDP-survey-final.pdf",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
