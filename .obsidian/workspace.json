@@ -67,7 +67,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Computer Science/Reinforcement Learning/DES w. RL Paper/DecPOMDP-survey-final.pdf"
+                "file": "Computer Science/Dec POMDP/Papers/DecPOMDP-survey-final.pdf"
               },
               "icon": "lucide-file-text",
               "title": "DecPOMDP-survey-final"
@@ -232,15 +232,24 @@
   },
   "active": "380e06fe448f725f",
   "lastOpenFiles": [
-    "Computer Science/Reinforcement Learning/DES w. RL Paper/Oliehoek12RLBook.pdf",
-    "Computer Science/Reinforcement Learning/DES w. RL Paper/DecPOMDP-survey-final.pdf",
+    "Computer Science/Dec POMDP/Papers/1301.3836v1.pdf",
+    "Computer Science/Dec POMDP/Untitled.md",
+    "Computer Science/Dec POMDP/Papers/SeukenZilberstein 2008.pdf",
+    "Computer Science/Dec POMDP/Papers/OliehoekAmato16book.pdf",
+    "Computer Science/Dec POMDP/Papers/marl-book.pdf",
+    "Computer Science/Dec POMDP/Papers/dibangoye18a.pdf",
+    "Computer Science/Dec POMDP/Papers/DecPOMDP-survey-final.pdf",
+    "Computer Science/Dec POMDP/Papers",
+    "Personal/IS 24FALL - DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
+    "Computer Science/Dec POMDP",
+    "Computer Science/Untitled.md",
+    "Personal/IS 24FALL - DES w. RL Paper/Oliehoek12RLBook.pdf",
+    "Personal/IS 24FALL - DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
-    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Attached Files/Pasted image 20250118142702.png",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Linear Algebra/6. Vector Space.md",
-    "Textbook/Introduction to the Theory of Computation.pdf",
     "Attached Files/Pasted image 20250118001354.png",
     "Attached Files/Pasted image 20250118001300.png",
     "Computer Science/Computer Organization and Arch/0. Introduction.md",
@@ -254,8 +263,6 @@
     "Attached Files/Pasted image 20250117120419.png",
     "Mathematics/Linear Algebra/5. Matrix Advance.md",
     "Computer Science/Git & GitHub.md",
-    "Textbook/Algorithms Illuminated (Part 3) Greedy Algorithms and Dynamic Programming.pdf",
-    "Textbook/Introduction to the Theory of Computation, Third Edition.pdf",
     "Mathematics/Vector Calculus/1. Path and Curves.md",
     "Mathematics/Linear Algebra/4. Matrices.md",
     "Computer Science/System Porgramming/6. C Techniques and Functions.md",
@@ -266,17 +273,9 @@
     "Mathematics/Linear Algebra/1. Vector Fundamentals.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
     "Excalidraw/Drawing 2025-01-08 12.39.55.excalidraw.md",
-    "Attached Files/20250108-1709-35.0166765.mp4",
     "Personal/Data Science/MATH1311/Birthday Paradox Example.md",
     "Personal/Data Science/MATH1311/Monty Hall Example.md",
     "Personal/Data Science/MATH1311/Chlamydia Example.md",
-    "Textbook/Advanced Linear and Matrix Algebra.pdf",
-    "Textbook/Vector Calculus, 5th Edition.pdf",
-    "Computer Science/System Porgramming/Dynamic Linking an Loading.md",
-    "Computer Science/System Porgramming/5. Introduction of C.md",
-    "Computer Science/System Porgramming/7. C Memory Management.md",
-    "Computer Science/System Porgramming/1. Computer Arcitecture.md",
-    "Mathematics/Theory of Computation",
-    "Computer Science/Computer Organization and Arch"
+    "Computer Science/System Porgramming/Dynamic Linking an Loading.md"
   ]
 }
