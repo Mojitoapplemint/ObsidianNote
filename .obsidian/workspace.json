@@ -58,13 +58,7 @@
               "icon": "lucide-file",
               "title": "2. RISC-V Instructions"
             }
-          }
-        ]
-      },
-      {
-        "id": "ffdbe600f0e6452f",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "de855134d2c0465e",
             "type": "leaf",
@@ -79,7 +73,8 @@
               "title": "1. Computer Abstractions and Technology"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
