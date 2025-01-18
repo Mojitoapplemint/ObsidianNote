@@ -4,9 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "477bfab9332dedfb",
+        "id": "05066f2b8e4b60d6",
         "type": "tabs",
-        "dimension": 62.94583883751651,
         "children": [
           {
             "id": "f4ec642ccc711acf",
@@ -19,14 +18,7 @@
               "icon": "lucide-file-text",
               "title": "Computer Organization and Design RISC V Edition The HardwareSoftware Interface"
             }
-          }
-        ]
-      },
-      {
-        "id": "05066f2b8e4b60d6",
-        "type": "tabs",
-        "dimension": 37.05416116248349,
-        "children": [
+          },
           {
             "id": "3d3746c72015bc82",
             "type": "leaf",
@@ -39,20 +31,6 @@
               },
               "icon": "lucide-file",
               "title": "7. Linear Transformation"
-            }
-          },
-          {
-            "id": "82ff840704e1900a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Computer Organization and Arch/0. Introduction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0. Introduction"
             }
           },
           {
@@ -82,9 +60,21 @@
               "icon": "lucide-file",
               "title": "1. Computer Abstractions and Technology"
             }
+          },
+          {
+            "id": "380e06fe448f725f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Computer Science/Reinforcement Learning/DES w. RL Paper/DecPOMDP-survey-final.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "DecPOMDP-survey-final"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -140,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -241,17 +230,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "48c11287b7119544",
+  "active": "380e06fe448f725f",
   "lastOpenFiles": [
-    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
+    "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
+    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Attached Files/Pasted image 20250118142702.png",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Textbook/Introduction to the Theory of Computation.pdf",
     "Attached Files/Pasted image 20250118001354.png",
     "Attached Files/Pasted image 20250118001300.png",
-    "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
     "Computer Science/Computer Organization and Arch/0. Introduction.md",
     "Mathematics/Theory of Computation/1. Finite Automata.md",
     "Attached Files/Pasted image 20250117220658.png",
