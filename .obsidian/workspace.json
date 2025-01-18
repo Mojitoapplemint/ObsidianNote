@@ -6,6 +6,7 @@
       {
         "id": "05066f2b8e4b60d6",
         "type": "tabs",
+        "dimension": 59.84147952443857,
         "children": [
           {
             "id": "f4ec642ccc711acf",
@@ -13,10 +14,22 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf"
+                "file": "Computer Science/Dec POMDP/Papers/OliehoekAmato16book.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Computer Organization and Design RISC V Edition The HardwareSoftware Interface"
+              "title": "OliehoekAmato16book"
+            }
+          },
+          {
+            "id": "93fb0390c09ca023",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Computer Science/Dec POMDP/Papers/marl-book.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "marl-book"
             }
           },
           {
@@ -60,21 +73,30 @@
               "icon": "lucide-file",
               "title": "1. Computer Abstractions and Technology"
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "28f592979657fee8",
+        "type": "tabs",
+        "dimension": 40.158520475561424,
+        "children": [
           {
             "id": "380e06fe448f725f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Computer Science/Dec POMDP/Papers/DecPOMDP-survey-final.pdf"
+                "file": "Computer Science/Reinforcement Learning/Temporal Difference Learning.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "DecPOMDP-survey-final"
+              "icon": "lucide-file",
+              "title": "Temporal Difference Learning"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -230,25 +253,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "380e06fe448f725f",
+  "active": "93fb0390c09ca023",
   "lastOpenFiles": [
-    "Computer Science/Dec POMDP/Papers/1301.3836v1.pdf",
-    "Computer Science/Dec POMDP/Untitled.md",
-    "Computer Science/Dec POMDP/Papers/SeukenZilberstein 2008.pdf",
-    "Computer Science/Dec POMDP/Papers/OliehoekAmato16book.pdf",
+    "Computer Science/Reinforcement Learning/Temporal Difference Learning.md",
     "Computer Science/Dec POMDP/Papers/marl-book.pdf",
+    "Computer Science/Dec POMDP/Papers/OliehoekAmato16book.pdf",
+    "Computer Science/Dec POMDP/Papers/SeukenZilberstein 2008.pdf",
+    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Dec POMDP/Papers/dibangoye18a.pdf",
     "Computer Science/Dec POMDP/Papers/DecPOMDP-survey-final.pdf",
+    "Mathematics/Linear Algebra/7. Linear Transformation.md",
+    "Computer Science/Dec POMDP/Papers/1301.3836v1.pdf",
+    "Computer Science/Dec POMDP/Untitled.md",
     "Computer Science/Dec POMDP/Papers",
     "Personal/IS 24FALL - DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
     "Computer Science/Dec POMDP",
     "Computer Science/Untitled.md",
-    "Personal/IS 24FALL - DES w. RL Paper/Oliehoek12RLBook.pdf",
     "Personal/IS 24FALL - DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
     "Attached Files/Pasted image 20250118142702.png",
-    "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Attached Files/Pasted image 20250118001354.png",
     "Attached Files/Pasted image 20250118001300.png",
@@ -275,7 +299,6 @@
     "Excalidraw/Drawing 2025-01-08 12.39.55.excalidraw.md",
     "Personal/Data Science/MATH1311/Birthday Paradox Example.md",
     "Personal/Data Science/MATH1311/Monty Hall Example.md",
-    "Personal/Data Science/MATH1311/Chlamydia Example.md",
-    "Computer Science/System Porgramming/Dynamic Linking an Loading.md"
+    "Personal/Data Science/MATH1311/Chlamydia Example.md"
   ]
 }
