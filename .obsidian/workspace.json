@@ -58,7 +58,13 @@
               "icon": "lucide-file",
               "title": "2. RISC-V Instructions"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "ffdbe600f0e6452f",
+        "type": "tabs",
+        "children": [
           {
             "id": "de855134d2c0465e",
             "type": "leaf",
@@ -230,12 +236,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f4ec642ccc711acf",
+  "active": "de855134d2c0465e",
   "lastOpenFiles": [
+    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
-    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Computer Organization and Arch/0. Introduction.md",
+    "Textbook/Introduction to the Theory of Computation.pdf",
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Mathematics/Theory of Computation/1. Finite Automata.md",
     "Attached Files/Pasted image 20250117220658.png",
@@ -251,7 +258,6 @@
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Linear Algebra/5. Matrix Advance.md",
     "Computer Science/Git & GitHub.md",
-    "Textbook/Introduction to the Theory of Computation.pdf",
     "Textbook/Algorithms Illuminated (Part 3) Greedy Algorithms and Dynamic Programming.pdf",
     "Textbook/Introduction to the Theory of Computation, Third Edition.pdf",
     "Mathematics/Vector Calculus/1. Path and Curves.md",
