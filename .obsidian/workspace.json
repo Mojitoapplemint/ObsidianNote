@@ -4,39 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9d849a3e2d4aa0aa",
-        "type": "tabs",
-        "dimension": 61.16248348745046,
-        "children": [
-          {
-            "id": "f4ec642ccc711acf",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Computer Organization and Design RISC V Edition The HardwareSoftware Interface"
-            }
-          }
-        ]
-      },
-      {
         "id": "05066f2b8e4b60d6",
         "type": "tabs",
-        "dimension": 38.837516512549534,
         "children": [
           {
             "id": "3d3746c72015bc82",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Textbook/Introduction to the Theory of Computation.pdf"
+                "file": "Mathematics/Linear Algebra/7. Linear Transformation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Introduction to the Theory of Computation"
+              "icon": "lucide-file",
+              "title": "7. Linear Transformation"
             }
           },
           {
@@ -80,9 +62,20 @@
               "icon": "lucide-file",
               "title": "1. Computer Abstractions and Technology"
             }
+          },
+          {
+            "id": "f4ec642ccc711acf",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Computer Organization and Design RISC V Edition The HardwareSoftware Interface"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,15 +232,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f4ec642ccc711acf",
+  "active": "3d3746c72015bc82",
   "lastOpenFiles": [
+    "Textbook/Introduction to the Theory of Computation.pdf",
+    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Attached Files/Pasted image 20250118001354.png",
     "Attached Files/Pasted image 20250118001300.png",
     "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
-    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Computer Organization and Arch/0. Introduction.md",
-    "Textbook/Introduction to the Theory of Computation.pdf",
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Mathematics/Theory of Computation/1. Finite Automata.md",
     "Attached Files/Pasted image 20250117220658.png",
