@@ -67,10 +67,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Computer Science/Reinforcement Learning/DES w. RL Paper/Oliehoek12RLBook.pdf"
+                "file": "Computer Science/Reinforcement Learning/DES w. RL Paper/DecPOMDP-survey-final.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Oliehoek12RLBook"
+              "title": "DecPOMDP-survey-final"
             }
           }
         ],
@@ -232,6 +232,7 @@
   },
   "active": "380e06fe448f725f",
   "lastOpenFiles": [
+    "Computer Science/Reinforcement Learning/DES w. RL Paper/Oliehoek12RLBook.pdf",
     "Computer Science/Reinforcement Learning/DES w. RL Paper/DecPOMDP-survey-final.pdf",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
@@ -276,7 +277,6 @@
     "Computer Science/System Porgramming/7. C Memory Management.md",
     "Computer Science/System Porgramming/1. Computer Arcitecture.md",
     "Mathematics/Theory of Computation",
-    "Computer Science/Computer Organization and Arch",
-    "Mathematics/Vector Calculus"
+    "Computer Science/Computer Organization and Arch"
   ]
 }
