@@ -4,9 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "a00b2146b5bf6b78",
+        "id": "05066f2b8e4b60d6",
         "type": "tabs",
-        "dimension": 56.73712021136063,
         "children": [
           {
             "id": "f4ec642ccc711acf",
@@ -19,14 +18,7 @@
               "icon": "lucide-file-text",
               "title": "Computer Organization and Design RISC V Edition The HardwareSoftware Interface"
             }
-          }
-        ]
-      },
-      {
-        "id": "05066f2b8e4b60d6",
-        "type": "tabs",
-        "dimension": 43.26287978863937,
-        "children": [
+          },
           {
             "id": "3d3746c72015bc82",
             "type": "leaf",
@@ -81,8 +73,7 @@
               "title": "1. Computer Abstractions and Technology"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,13 +230,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "48c11287b7119544",
+  "active": "f4ec642ccc711acf",
   "lastOpenFiles": [
     "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
+    "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Computer Organization and Arch/0. Introduction.md",
     "Mathematics/Linear Algebra/6. Vector Space.md",
-    "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Mathematics/Theory of Computation/1. Finite Automata.md",
     "Attached Files/Pasted image 20250117220658.png",
     "Attached Files/Pasted image 20250117220533.png",
