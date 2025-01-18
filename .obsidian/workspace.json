@@ -4,8 +4,28 @@
     "type": "split",
     "children": [
       {
+        "id": "477bfab9332dedfb",
+        "type": "tabs",
+        "dimension": 62.94583883751651,
+        "children": [
+          {
+            "id": "f4ec642ccc711acf",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Computer Organization and Design RISC V Edition The HardwareSoftware Interface"
+            }
+          }
+        ]
+      },
+      {
         "id": "05066f2b8e4b60d6",
         "type": "tabs",
+        "dimension": 37.05416116248349,
         "children": [
           {
             "id": "3d3746c72015bc82",
@@ -62,20 +82,9 @@
               "icon": "lucide-file",
               "title": "1. Computer Abstractions and Technology"
             }
-          },
-          {
-            "id": "f4ec642ccc711acf",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Computer Organization and Design RISC V Edition The HardwareSoftware Interface"
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -232,11 +241,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3d3746c72015bc82",
+  "active": "48c11287b7119544",
   "lastOpenFiles": [
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
-    "Mathematics/Linear Algebra/6. Vector Space.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
+    "Mathematics/Linear Algebra/6. Vector Space.md",
     "Textbook/Introduction to the Theory of Computation.pdf",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Attached Files/Pasted image 20250118001354.png",
