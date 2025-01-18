@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -231,10 +231,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "de855134d2c0465e",
+  "active": "48c11287b7119544",
   "lastOpenFiles": [
-    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
+    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Computer Science/Computer Organization and Arch/0. Introduction.md",
     "Textbook/Introduction to the Theory of Computation.pdf",
