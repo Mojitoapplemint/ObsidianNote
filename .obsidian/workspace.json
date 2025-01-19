@@ -88,12 +88,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Reinforcement Learning/Temporal Difference Learning.md",
+                "file": "Computer Science/Dec POMDP/1. Models of Multi-Agent Interaction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Temporal Difference Learning"
+              "title": "1. Models of Multi-Agent Interaction"
             }
           }
         ]
@@ -253,10 +253,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "93fb0390c09ca023",
+  "active": "380e06fe448f725f",
   "lastOpenFiles": [
+    "Attached Files/Pasted image 20250118195621.png",
     "Computer Science/Reinforcement Learning/Temporal Difference Learning.md",
     "Computer Science/Dec POMDP/Papers/marl-book.pdf",
+    "Computer Science/Dec POMDP/1. Models of Multi-Agent Interaction.md",
     "Computer Science/Dec POMDP/Papers/OliehoekAmato16book.pdf",
     "Computer Science/Dec POMDP/Papers/SeukenZilberstein 2008.pdf",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
@@ -264,7 +266,6 @@
     "Computer Science/Dec POMDP/Papers/DecPOMDP-survey-final.pdf",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Computer Science/Dec POMDP/Papers/1301.3836v1.pdf",
-    "Computer Science/Dec POMDP/Untitled.md",
     "Computer Science/Dec POMDP/Papers",
     "Personal/IS 24FALL - DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
     "Computer Science/Dec POMDP",
