@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Linear Algebra/7. Linear Transformation.md",
+                "file": "Mathematics/Linear Algebra/6. Vector Space.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Linear Transformation"
+              "title": "6. Vector Space"
             }
           },
           {
@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -228,11 +228,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "de855134d2c0465e",
+  "active": "3d3746c72015bc82",
   "lastOpenFiles": [
+    "Mathematics/Linear Algebra/7. Linear Transformation.md",
+    "Textbook/Introduction to linear and matrix algebra.pdf",
     "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
     "Computer Science/Dec POMDP/Papers/marl-book.pdf",
-    "Textbook/Introduction to linear and matrix algebra.pdf",
     "Computer Science/Dec POMDP/1. Models of Multi-Agent Interaction.md",
     "Mathematics/Linear Algebra/4. Matrices.md",
     "Mathematics/Linear Algebra/5. Matrix Advance.md",
@@ -243,7 +244,6 @@
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Dec POMDP/Papers/dibangoye18a.pdf",
     "Computer Science/Dec POMDP/Papers/DecPOMDP-survey-final.pdf",
-    "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Computer Science/Dec POMDP/Papers/1301.3836v1.pdf",
     "Computer Science/Dec POMDP/Papers",
     "Personal/IS 24FALL - DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
