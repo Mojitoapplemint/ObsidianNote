@@ -6,7 +6,6 @@
       {
         "id": "05066f2b8e4b60d6",
         "type": "tabs",
-        "dimension": 63.0779392338177,
         "children": [
           {
             "id": "f4ec642ccc711acf",
@@ -57,14 +56,7 @@
               "icon": "lucide-file-text",
               "title": "Introduction to linear and matrix algebra"
             }
-          }
-        ]
-      },
-      {
-        "id": "f99437bf43a18793",
-        "type": "tabs",
-        "dimension": 36.9220607661823,
-        "children": [
+          },
           {
             "id": "48c11287b7119544",
             "type": "leaf",
@@ -79,7 +71,8 @@
               "title": "2. RISC-V Instructions"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -238,10 +231,10 @@
   },
   "active": "48c11287b7119544",
   "lastOpenFiles": [
-    "Attached Files/Pasted image 20250120154523.png",
-    "Attached Files/Pasted image 20250120154111.png",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
+    "Attached Files/Pasted image 20250120154523.png",
+    "Attached Files/Pasted image 20250120154111.png",
     "Attached Files/Pasted image 20250120153713.png",
     "Computer Science/Dec POMDP/Papers/OliehoekAmato16book.pdf",
     "Mathematics/Linear Algebra/6. Vector Space.md",
@@ -270,7 +263,6 @@
     "Attached Files/Pasted image 20250117220658.png",
     "Attached Files/Pasted image 20250117220533.png",
     "Attached Files/Pasted image 20250117220503.png",
-    "Attached Files/Pasted image 20250117121911.png",
     "Computer Science/Git & GitHub.md",
     "Mathematics/Vector Calculus/1. Path and Curves.md",
     "Computer Science/System Porgramming/6. C Techniques and Functions.md",
