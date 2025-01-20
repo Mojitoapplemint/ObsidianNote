@@ -6,7 +6,6 @@
       {
         "id": "05066f2b8e4b60d6",
         "type": "tabs",
-        "dimension": 47.14828897338403,
         "children": [
           {
             "id": "f4ec642ccc711acf",
@@ -64,39 +63,16 @@
             "id": "de855134d2c0465e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
-                "mode": "source",
-                "source": false
+                "file": "Textbook/Introduction to linear and matrix algebra.pdf"
               },
-              "icon": "lucide-file",
-              "title": "1. Computer Abstractions and Technology"
+              "icon": "lucide-file-text",
+              "title": "Introduction to linear and matrix algebra"
             }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "28f592979657fee8",
-        "type": "tabs",
-        "dimension": 52.851711026615966,
-        "children": [
-          {
-            "id": "380e06fe448f725f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Dec POMDP/1. Models of Multi-Agent Interaction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Models of Multi-Agent Interaction"
-            }
-          }
-        ]
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -252,13 +228,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "380e06fe448f725f",
+  "active": "de855134d2c0465e",
   "lastOpenFiles": [
+    "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
+    "Computer Science/Dec POMDP/Papers/marl-book.pdf",
     "Textbook/Introduction to linear and matrix algebra.pdf",
+    "Computer Science/Dec POMDP/1. Models of Multi-Agent Interaction.md",
     "Mathematics/Linear Algebra/4. Matrices.md",
     "Mathematics/Linear Algebra/5. Matrix Advance.md",
-    "Computer Science/Dec POMDP/1. Models of Multi-Agent Interaction.md",
-    "Computer Science/Dec POMDP/Papers/marl-book.pdf",
     "Attached Files/Pasted image 20250118195621.png",
     "Computer Science/Reinforcement Learning/Temporal Difference Learning.md",
     "Computer Science/Dec POMDP/Papers/OliehoekAmato16book.pdf",
@@ -270,11 +247,9 @@
     "Computer Science/Dec POMDP/Papers/1301.3836v1.pdf",
     "Computer Science/Dec POMDP/Papers",
     "Personal/IS 24FALL - DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
-    "Computer Science/Dec POMDP",
     "Computer Science/Untitled.md",
     "Personal/IS 24FALL - DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
-    "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
     "Attached Files/Pasted image 20250118142702.png",
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Attached Files/Pasted image 20250118001354.png",
