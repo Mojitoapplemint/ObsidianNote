@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Computer Science/Dec POMDP/Papers/OliehoekAmato16book.pdf"
+                "file": "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "OliehoekAmato16book"
+              "title": "Computer Organization and Design RISC V Edition The HardwareSoftware Interface"
             }
           },
           {
@@ -71,8 +71,7 @@
               "title": "Introduction to linear and matrix algebra"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,8 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -225,11 +223,15 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3d3746c72015bc82",
+  "active": "f4ec642ccc711acf",
   "lastOpenFiles": [
+    "Computer Science/Dec POMDP/Papers/OliehoekAmato16book.pdf",
+    "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
+    "Mathematics/Linear Algebra/6. Vector Space.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Textbook/Introduction to linear and matrix algebra.pdf",
     "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
@@ -239,7 +241,6 @@
     "Mathematics/Linear Algebra/5. Matrix Advance.md",
     "Attached Files/Pasted image 20250118195621.png",
     "Computer Science/Reinforcement Learning/Temporal Difference Learning.md",
-    "Computer Science/Dec POMDP/Papers/OliehoekAmato16book.pdf",
     "Computer Science/Dec POMDP/Papers/SeukenZilberstein 2008.pdf",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Dec POMDP/Papers/dibangoye18a.pdf",
@@ -249,9 +250,7 @@
     "Personal/IS 24FALL - DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
     "Computer Science/Untitled.md",
     "Personal/IS 24FALL - DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
-    "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Attached Files/Pasted image 20250118142702.png",
-    "Mathematics/Linear Algebra/6. Vector Space.md",
     "Attached Files/Pasted image 20250118001354.png",
     "Attached Files/Pasted image 20250118001300.png",
     "Computer Science/Computer Organization and Arch/0. Introduction.md",
