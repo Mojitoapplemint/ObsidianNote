@@ -49,12 +49,14 @@
             "id": "de855134d2c0465e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Textbook/Introduction to linear and matrix algebra.pdf"
+                "file": "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Introduction to linear and matrix algebra"
+              "icon": "lucide-file",
+              "title": "1. Computer Abstractions and Technology"
             }
           },
           {
@@ -128,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -231,16 +232,17 @@
   },
   "active": "48c11287b7119544",
   "lastOpenFiles": [
+    "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
+    "Textbook/Introduction to linear and matrix algebra.pdf",
+    "Attached Files/Pasted image 20250120160542.png",
     "Attached Files/Pasted image 20250120154523.png",
     "Attached Files/Pasted image 20250120154111.png",
     "Attached Files/Pasted image 20250120153713.png",
     "Computer Science/Dec POMDP/Papers/OliehoekAmato16book.pdf",
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
-    "Textbook/Introduction to linear and matrix algebra.pdf",
-    "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
     "Computer Science/Dec POMDP/Papers/marl-book.pdf",
     "Computer Science/Dec POMDP/1. Models of Multi-Agent Interaction.md",
     "Mathematics/Linear Algebra/4. Matrices.md",
@@ -262,7 +264,6 @@
     "Mathematics/Theory of Computation/1. Finite Automata.md",
     "Attached Files/Pasted image 20250117220658.png",
     "Attached Files/Pasted image 20250117220533.png",
-    "Attached Files/Pasted image 20250117220503.png",
     "Computer Science/Git & GitHub.md",
     "Mathematics/Vector Calculus/1. Path and Curves.md",
     "Computer Science/System Porgramming/6. C Techniques and Functions.md",
