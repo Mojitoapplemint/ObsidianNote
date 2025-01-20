@@ -6,6 +6,7 @@
       {
         "id": "05066f2b8e4b60d6",
         "type": "tabs",
+        "dimension": 63.0779392338177,
         "children": [
           {
             "id": "f4ec642ccc711acf",
@@ -46,6 +47,25 @@
             }
           },
           {
+            "id": "de855134d2c0465e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Textbook/Introduction to linear and matrix algebra.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Introduction to linear and matrix algebra"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f99437bf43a18793",
+        "type": "tabs",
+        "dimension": 36.9220607661823,
+        "children": [
+          {
             "id": "48c11287b7119544",
             "type": "leaf",
             "state": {
@@ -57,18 +77,6 @@
               },
               "icon": "lucide-file",
               "title": "2. RISC-V Instructions"
-            }
-          },
-          {
-            "id": "de855134d2c0465e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Textbook/Introduction to linear and matrix algebra.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Introduction to linear and matrix algebra"
             }
           }
         ]
@@ -127,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -227,10 +236,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f4ec642ccc711acf",
+  "active": "48c11287b7119544",
   "lastOpenFiles": [
-    "Computer Science/Dec POMDP/Papers/OliehoekAmato16book.pdf",
+    "Attached Files/Pasted image 20250120154111.png",
+    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
+    "Attached Files/Pasted image 20250120153713.png",
+    "Computer Science/Dec POMDP/Papers/OliehoekAmato16book.pdf",
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Textbook/Introduction to linear and matrix algebra.pdf",
@@ -242,7 +254,6 @@
     "Attached Files/Pasted image 20250118195621.png",
     "Computer Science/Reinforcement Learning/Temporal Difference Learning.md",
     "Computer Science/Dec POMDP/Papers/SeukenZilberstein 2008.pdf",
-    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Dec POMDP/Papers/dibangoye18a.pdf",
     "Computer Science/Dec POMDP/Papers/DecPOMDP-survey-final.pdf",
     "Computer Science/Dec POMDP/Papers/1301.3836v1.pdf",
@@ -260,7 +271,6 @@
     "Attached Files/Pasted image 20250117220503.png",
     "Attached Files/Pasted image 20250117121911.png",
     "Attached Files/Pasted image 20250117121832.png",
-    "Attached Files/Pasted image 20250117120442.png",
     "Computer Science/Git & GitHub.md",
     "Mathematics/Vector Calculus/1. Path and Curves.md",
     "Computer Science/System Porgramming/6. C Techniques and Functions.md",
