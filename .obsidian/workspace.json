@@ -4,6 +4,24 @@
     "type": "split",
     "children": [
       {
+        "id": "4e89068a7847bf80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c5484eaebd177a5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Textbook/Introduction to the Theory of Computation.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Introduction to the Theory of Computation"
+            }
+          }
+        ]
+      },
+      {
         "id": "05066f2b8e4b60d6",
         "type": "tabs",
         "children": [
@@ -219,6 +237,8 @@
   },
   "active": "766350d1fe40f0c0",
   "lastOpenFiles": [
+    "Textbook/Introduction to the Theory of Computation.pdf",
+    "Mathematics/Theory of Computation/1. Finite Automata.md",
     "Attached Files/Pasted image 20250121185841.png",
     "Computer Science/Dec POMDP/Papers/marl-book.pdf",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
@@ -250,9 +270,7 @@
     "Attached Files/Pasted image 20250118001354.png",
     "Attached Files/Pasted image 20250118001300.png",
     "Computer Science/Computer Organization and Arch/0. Introduction.md",
-    "Mathematics/Theory of Computation/1. Finite Automata.md",
     "Attached Files/Pasted image 20250117220658.png",
-    "Attached Files/Pasted image 20250117220533.png",
     "Computer Science/Git & GitHub.md",
     "Mathematics/Vector Calculus/1. Path and Curves.md",
     "Computer Science/System Porgramming/6. C Techniques and Functions.md",
