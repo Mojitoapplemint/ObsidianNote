@@ -116,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -218,6 +219,7 @@
   },
   "active": "766350d1fe40f0c0",
   "lastOpenFiles": [
+    "Attached Files/Pasted image 20250121185841.png",
     "Computer Science/Dec POMDP/Papers/marl-book.pdf",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
