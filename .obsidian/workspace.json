@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -297,14 +297,14 @@
       }
     ]
   },
-  "active": "fba8f192b7e2ad04",
+  "active": "84d905b3434f5862",
   "lastOpenFiles": [
     "Mathematics/Differential Equation/1. Ordinary Differential Equation.md",
+    "Computer Science/Dec POMDP/Papers/marl-book.pdf",
     "Computer Science/Dec POMDP/1. Models of Multi-Agent Interaction.md",
     "Mathematics/Differential Equation/0. Differential Equation.md",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
-    "Computer Science/Dec POMDP/Papers/marl-book.pdf",
     "Mathematics/Linear Algebra/2. Linear System.md",
     "Computer Science/Reinforcement Learning/1. Reinforcement Learning Fundamental.md",
     "Computer Science/Dec POMDP/2. Solutions to the Game.md",
@@ -343,7 +343,6 @@
     "Mathematics/Vector Calculus/1. Path and Curves.md",
     "Computer Science/System Porgramming/6. C Techniques and Functions.md",
     "Computer Science/System Porgramming/12. Assembly Language and Memory Management.md",
-    "Untitled 1.md",
-    "Computer Science/Algorithm/4. Greedy Algorithm.md"
+    "Untitled 1.md"
   ]
 }
