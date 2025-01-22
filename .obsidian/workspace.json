@@ -6,7 +6,7 @@
       {
         "id": "05066f2b8e4b60d6",
         "type": "tabs",
-        "dimension": 60,
+        "dimension": 66.13861386138615,
         "children": [
           {
             "id": "3d3746c72015bc82",
@@ -50,14 +50,12 @@
             "id": "b7d6b946a9ae7704",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Mathematics/Linear Algebra/6. Vector Space.md",
-                "mode": "source",
-                "source": false
+                "file": "Textbook/Advanced Linear and Matrix Algebra.pdf"
               },
-              "icon": "lucide-file",
-              "title": "6. Vector Space"
+              "icon": "lucide-file-text",
+              "title": "Advanced Linear and Matrix Algebra"
             }
           }
         ],
@@ -66,7 +64,7 @@
       {
         "id": "bf8f28d58b87efc0",
         "type": "tabs",
-        "dimension": 40,
+        "dimension": 33.86138613861387,
         "children": [
           {
             "id": "de855134d2c0465e",
@@ -167,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -320,10 +319,11 @@
       }
     ]
   },
-  "active": "64e51b875620ff39",
+  "active": "b7d6b946a9ae7704",
   "lastOpenFiles": [
-    "Mathematics/Linear Algebra/6. Vector Space.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
+    "Textbook/Advanced Linear and Matrix Algebra.pdf",
+    "Mathematics/Linear Algebra/6. Vector Space.md",
     "Computer Science/Dec POMDP/2. Solutions to the Game.md",
     "Computer Science/Dec POMDP/Papers/marl-book.pdf",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
@@ -353,7 +353,6 @@
     "Computer Science/Dec POMDP/Papers/dibangoye18a.pdf",
     "Computer Science/Dec POMDP/Papers/DecPOMDP-survey-final.pdf",
     "Computer Science/Dec POMDP/Papers/1301.3836v1.pdf",
-    "Computer Science/Dec POMDP/Papers",
     "Computer Science/Untitled.md",
     "Personal/IS 24FALL - DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
     "Attached Files/Pasted image 20250118142702.png",
