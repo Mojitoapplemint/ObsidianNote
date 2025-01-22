@@ -45,18 +45,6 @@
               "icon": "lucide-file-text",
               "title": "marl-book"
             }
-          },
-          {
-            "id": "57596a7121a0c997",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Computer Science/Dec POMDP/Papers/marl-book.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "marl-book"
-            }
           }
         ],
         "currentTab": 2
