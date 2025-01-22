@@ -314,7 +314,7 @@
         "y": 109,
         "width": 1025,
         "height": 801,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0.5
       }
     ]
