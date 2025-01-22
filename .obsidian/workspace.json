@@ -165,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -266,10 +265,50 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "93fb0390c09ca023",
+  "floating": {
+    "id": "1f0536df0e9401e0",
+    "type": "floating",
+    "children": [
+      {
+        "id": "745342a9df2329bb",
+        "type": "window",
+        "children": [
+          {
+            "id": "c3421dfe2bceef53",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a15bb067f2925684",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Mathematics/Linear Algebra/7. Linear Transformation.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "7. Linear Transformation"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 960,
+        "y": 0,
+        "width": 747,
+        "height": 1019,
+        "maximize": true,
+        "zoom": 0.5
+      }
+    ]
+  },
+  "active": "a15bb067f2925684",
   "lastOpenFiles": [
     "Computer Science/Dec POMDP/Papers/marl-book.pdf",
     "Computer Science/Dec POMDP/2. Solutions to the Game.md",
+    "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Computer Science/Dec POMDP/1. Models of Multi-Agent Interaction.md",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
@@ -293,7 +332,6 @@
     "Attached Files/Pasted image 20250120154111.png",
     "Attached Files/Pasted image 20250120153713.png",
     "Computer Science/Dec POMDP/Papers/OliehoekAmato16book.pdf",
-    "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Attached Files/Pasted image 20250118195621.png",
     "Computer Science/Dec POMDP/Papers/SeukenZilberstein 2008.pdf",
     "Computer Science/Dec POMDP/Papers/dibangoye18a.pdf",
