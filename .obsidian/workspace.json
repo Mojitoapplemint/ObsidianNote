@@ -78,18 +78,28 @@
             "id": "014a0c32f844fc82",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Mathematics/Theory of Computation/1. Finite Automata.md",
-                "mode": "source",
-                "source": false
+                "file": "Computer Science/Dec POMDP/Papers/marl-book.pdf"
               },
-              "icon": "lucide-file",
-              "title": "1. Finite Automata"
+              "icon": "lucide-file-text",
+              "title": "marl-book"
+            }
+          },
+          {
+            "id": "ed7d125f6db98b76",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Computer Science/Dec POMDP/Papers/dibangoye18a.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "dibangoye18a"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       },
       {
         "id": "d2aaa0d4a64106c6",
@@ -166,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -320,11 +329,15 @@
       }
     ]
   },
-  "active": "84d905b3434f5862",
+  "active": "014a0c32f844fc82",
   "lastOpenFiles": [
-    "Computer Science/Dec POMDP/2. Solutions to the Game.md",
+    "Computer Science/Dec POMDP/Papers/dibangoye18a.pdf",
     "Computer Science/Dec POMDP/Papers/marl-book.pdf",
+    "Computer Science/Dec POMDP/Papers/DecPOMDP-survey-final.pdf",
+    "Computer Science/Dec POMDP/Papers/1301.3836v1.pdf",
+    "Computer Science/Dec POMDP/Papers/OliehoekAmato16book.pdf",
     "Mathematics/Theory of Computation/1. Finite Automata.md",
+    "Computer Science/Dec POMDP/2. Solutions to the Game.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Personal/Latex Suite Personal Setting.md",
     "Mathematics/Differential Equation/1. Ordinary Differential Equation.md",
@@ -353,11 +366,8 @@
     "Attached Files/Pasted image 20250120154523.png",
     "Attached Files/Pasted image 20250120154111.png",
     "Attached Files/Pasted image 20250120153713.png",
-    "Computer Science/Dec POMDP/Papers/OliehoekAmato16book.pdf",
     "Attached Files/Pasted image 20250118195621.png",
     "Computer Science/Dec POMDP/Papers/SeukenZilberstein 2008.pdf",
-    "Computer Science/Dec POMDP/Papers/dibangoye18a.pdf",
-    "Computer Science/Dec POMDP/Papers/DecPOMDP-survey-final.pdf",
     "Computer Science/Untitled.md",
     "Personal/IS 24FALL - DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
     "Attached Files/Pasted image 20250118142702.png",
