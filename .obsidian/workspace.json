@@ -6,7 +6,7 @@
       {
         "id": "05066f2b8e4b60d6",
         "type": "tabs",
-        "dimension": 56.53896961690885,
+        "dimension": 63.47424042272127,
         "children": [
           {
             "id": "3d3746c72015bc82",
@@ -94,7 +94,7 @@
       {
         "id": "f77a935b93e4a412",
         "type": "tabs",
-        "dimension": 43.46103038309115,
+        "dimension": 36.525759577278734,
         "children": [
           {
             "id": "9826dc1006af7647",
@@ -263,7 +263,8 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "floating": {
@@ -319,8 +320,9 @@
       }
     ]
   },
-  "active": "64e51b875620ff39",
+  "active": "84d905b3434f5862",
   "lastOpenFiles": [
+    "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Computer Science/Dec POMDP/2. Solutions to the Game.md",
     "Computer Science/Dec POMDP/Papers/marl-book.pdf",
     "Mathematics/Differential Equation/1. Ordinary Differential Equation.md",
@@ -332,7 +334,6 @@
     "Computer Science/Reinforcement Learning/1. Reinforcement Learning Fundamental.md",
     "Textbook/Introduction to Reinforcement Learning.pdf",
     "Textbook/Advanced Linear and Matrix Algebra.pdf",
-    "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Computer Science/Reinforcement Learning/3. Finite Markov Decision Process.md",
     "Computer Science/Reinforcement Learning/Q-Learning.md",
