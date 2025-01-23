@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "d2aaa0d4a64106c6",
@@ -345,13 +345,13 @@
       }
     ]
   },
-  "active": "923566ae8fff342d",
+  "active": "014a0c32f844fc82",
   "lastOpenFiles": [
+    "Computer Science/Dec POMDP/Papers/dibangoye18a.pdf",
+    "Computer Science/Dec POMDP/Papers/marl-book.pdf",
+    "Design Idea.md",
     "Computer Science/Dec POMDP/1. Models of Multi-Agent Interaction.md",
     "Computer Science/Dec POMDP/2. Solutions to the Game.md",
-    "Design Idea.md",
-    "Computer Science/Dec POMDP/Papers/marl-book.pdf",
-    "Computer Science/Dec POMDP/Papers/dibangoye18a.pdf",
     "Computer Science/Dec POMDP/Papers/DecPOMDP-survey-final.pdf",
     "Computer Science/Dec POMDP/Papers/1301.3836v1.pdf",
     "Computer Science/Dec POMDP/Papers/OliehoekAmato16book.pdf",
@@ -391,7 +391,6 @@
     "Computer Science/Computer Organization and Arch/0. Introduction.md",
     "Computer Science/Git & GitHub.md",
     "Mathematics/Vector Calculus/1. Path and Curves.md",
-    "Computer Science/System Porgramming/6. C Techniques and Functions.md",
-    "Computer Science/System Porgramming/12. Assembly Language and Memory Management.md"
+    "Computer Science/System Porgramming/6. C Techniques and Functions.md"
   ]
 }
