@@ -6,6 +6,7 @@
       {
         "id": "05066f2b8e4b60d6",
         "type": "tabs",
+        "dimension": 62.81373844121533,
         "children": [
           {
             "id": "3d3746c72015bc82",
@@ -86,7 +87,15 @@
               "icon": "lucide-file",
               "title": "1. Finite Automata"
             }
-          },
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "d2aaa0d4a64106c6",
+        "type": "tabs",
+        "dimension": 37.18626155878468,
+        "children": [
           {
             "id": "9826dc1006af7647",
             "type": "leaf",
@@ -101,8 +110,7 @@
               "title": "2. Solutions to the Game"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -311,14 +320,14 @@
       }
     ]
   },
-  "active": "64e51b875620ff39",
+  "active": "84d905b3434f5862",
   "lastOpenFiles": [
+    "Computer Science/Dec POMDP/2. Solutions to the Game.md",
+    "Computer Science/Dec POMDP/Papers/marl-book.pdf",
     "Mathematics/Theory of Computation/1. Finite Automata.md",
+    "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Personal/Latex Suite Personal Setting.md",
     "Mathematics/Differential Equation/1. Ordinary Differential Equation.md",
-    "Computer Science/Dec POMDP/2. Solutions to the Game.md",
-    "Mathematics/Linear Algebra/7. Linear Transformation.md",
-    "Computer Science/Dec POMDP/Papers/marl-book.pdf",
     "Computer Science/Dec POMDP/1. Models of Multi-Agent Interaction.md",
     "Mathematics/Differential Equation/0. Differential Equation.md",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
@@ -357,7 +366,6 @@
     "Computer Science/Git & GitHub.md",
     "Mathematics/Vector Calculus/1. Path and Curves.md",
     "Computer Science/System Porgramming/6. C Techniques and Functions.md",
-    "Computer Science/System Porgramming/12. Assembly Language and Memory Management.md",
-    "Untitled 1.md"
+    "Computer Science/System Porgramming/12. Assembly Language and Memory Management.md"
   ]
 }
