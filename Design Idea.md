@@ -1,3 +1,5 @@
+MARL algorithms are designed to learn a joint policy that satisfies the prop- erties of a specific solution concept (e.g., Nash equilibrium)
+
 1. Policies are conditioned on observation histories
 	- How many possible observation each agent can have?
 	- $\{ 1,2,3 \}\times \{ 3, \{ 4,5 \} \}\implies |O_{i}|=6$ local observation(projection)
@@ -7,3 +9,4 @@
 Q table
 - Column : All possible joint action
 	- Row: All possible Observation
+

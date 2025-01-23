@@ -134,8 +134,7 @@
               "title": "Design Idea"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -345,11 +344,11 @@
       }
     ]
   },
-  "active": "014a0c32f844fc82",
+  "active": "9826dc1006af7647",
   "lastOpenFiles": [
-    "Computer Science/Dec POMDP/Papers/dibangoye18a.pdf",
-    "Computer Science/Dec POMDP/Papers/marl-book.pdf",
     "Design Idea.md",
+    "Computer Science/Dec POMDP/Papers/marl-book.pdf",
+    "Computer Science/Dec POMDP/Papers/dibangoye18a.pdf",
     "Computer Science/Dec POMDP/1. Models of Multi-Agent Interaction.md",
     "Computer Science/Dec POMDP/2. Solutions to the Game.md",
     "Computer Science/Dec POMDP/Papers/DecPOMDP-survey-final.pdf",
