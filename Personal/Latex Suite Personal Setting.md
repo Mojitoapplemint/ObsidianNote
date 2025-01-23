@@ -37,11 +37,12 @@
     {trigger: "Pd", replacement: "\\partial ", options: "mA"},
     {trigger: "thus", replacement: "\\therefore ", options: "mA"},
     {trigger: "aprx", replacement: "\\approx ", options: "mA"},
-     {trigger: "int", replacement: "\\int^{$0}_{$1}$2 d{$3} $4", options: "mA"},
+    {trigger: "int", replacement: "\\int^{$0}_{$1}$2 d{$3} $4", options: "mA"},
     {trigger: "Int", replacement: "\\int $0 d{$1} $2", options: "mA"},
     {trigger: "sum", replacement: "\\sum^{$0}_{$1}$2 ", options: "mA"},
     {trigger: "Sum", replacement: "\\sum", options: "mA"},
     {trigger: "rra", replacement: "\\rightrightarrows", options: "mA"},
+    {trigger: "@ve", replacement: "\\varepsilon", options: "mA"},
 
 //Override
 	{trigger: "lim", replacement: "\\lim_{$0\\to $1}{$2}$3", options: "mA"},

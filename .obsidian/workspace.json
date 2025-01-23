@@ -6,7 +6,6 @@
       {
         "id": "05066f2b8e4b60d6",
         "type": "tabs",
-        "dimension": 63.474240422721266,
         "children": [
           {
             "id": "3d3746c72015bc82",
@@ -80,22 +79,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Differential Equation/1. Ordinary Differential Equation.md",
+                "file": "Mathematics/Theory of Computation/1. Finite Automata.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Ordinary Differential Equation"
+              "title": "1. Finite Automata"
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "f77a935b93e4a412",
-        "type": "tabs",
-        "dimension": 36.52575957727873,
-        "children": [
+          },
           {
             "id": "9826dc1006af7647",
             "type": "leaf",
@@ -110,7 +101,8 @@
               "title": "2. Solutions to the Game"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -166,8 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -320,12 +311,14 @@
       }
     ]
   },
-  "active": "9826dc1006af7647",
+  "active": "014a0c32f844fc82",
   "lastOpenFiles": [
-    "Mathematics/Linear Algebra/7. Linear Transformation.md",
-    "Computer Science/Dec POMDP/2. Solutions to the Game.md",
-    "Computer Science/Dec POMDP/Papers/marl-book.pdf",
+    "Personal/Latex Suite Personal Setting.md",
+    "Mathematics/Theory of Computation/1. Finite Automata.md",
     "Mathematics/Differential Equation/1. Ordinary Differential Equation.md",
+    "Computer Science/Dec POMDP/2. Solutions to the Game.md",
+    "Mathematics/Linear Algebra/7. Linear Transformation.md",
+    "Computer Science/Dec POMDP/Papers/marl-book.pdf",
     "Computer Science/Dec POMDP/1. Models of Multi-Agent Interaction.md",
     "Mathematics/Differential Equation/0. Differential Equation.md",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
@@ -341,7 +334,6 @@
     "Mathematics/Linear Algebra/5. Matrix Advance.md",
     "Mathematics/Linear Algebra/4. Matrices.md",
     "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
-    "Mathematics/Theory of Computation/1. Finite Automata.md",
     "Attached Files/Pasted image 20250121192503.png",
     "Attached Files/Pasted image 20250121191923.png",
     "Textbook/Introduction to the Theory of Computation.pdf",
