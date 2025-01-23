@@ -263,8 +263,7 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-kanban:Create new board": false
     }
   },
   "floating": {
@@ -311,16 +310,16 @@
           }
         ],
         "direction": "vertical",
-        "x": 341,
-        "y": 109,
-        "width": 1025,
-        "height": 801,
+        "x": 340,
+        "y": 108,
+        "width": 1030,
+        "height": 806,
         "maximize": false,
         "zoom": 0.5
       }
     ]
   },
-  "active": "84d905b3434f5862",
+  "active": "64e51b875620ff39",
   "lastOpenFiles": [
     "Computer Science/Dec POMDP/2. Solutions to the Game.md",
     "Computer Science/Dec POMDP/Papers/marl-book.pdf",
