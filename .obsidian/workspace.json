@@ -90,12 +90,14 @@
             "id": "ed7d125f6db98b76",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Computer Science/Dec POMDP/Papers/dibangoye18a.pdf"
+                "file": "Personal/Latex Suite Personal Setting.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "dibangoye18a"
+              "icon": "lucide-file",
+              "title": "Latex Suite Personal Setting"
             }
           }
         ],
@@ -112,12 +114,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Dec POMDP/2. Solutions to the Game.md",
+                "file": "Computer Science/Dec POMDP/3. Multi-Agent Reinforcement Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Solutions to the Game"
+              "title": "3. Multi-Agent Reinforcement Learning"
             }
           },
           {
@@ -346,17 +348,18 @@
   },
   "active": "9826dc1006af7647",
   "lastOpenFiles": [
-    "Design Idea.md",
     "Computer Science/Dec POMDP/Papers/marl-book.pdf",
+    "Computer Science/Dec POMDP/3. Multi-Agent Reinforcement Learning.md",
+    "Personal/Latex Suite Personal Setting.md",
     "Computer Science/Dec POMDP/Papers/dibangoye18a.pdf",
-    "Computer Science/Dec POMDP/1. Models of Multi-Agent Interaction.md",
     "Computer Science/Dec POMDP/2. Solutions to the Game.md",
+    "Design Idea.md",
+    "Computer Science/Dec POMDP/1. Models of Multi-Agent Interaction.md",
     "Computer Science/Dec POMDP/Papers/DecPOMDP-survey-final.pdf",
     "Computer Science/Dec POMDP/Papers/1301.3836v1.pdf",
     "Computer Science/Dec POMDP/Papers/OliehoekAmato16book.pdf",
     "Mathematics/Theory of Computation/1. Finite Automata.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
-    "Personal/Latex Suite Personal Setting.md",
     "Mathematics/Differential Equation/1. Ordinary Differential Equation.md",
     "Mathematics/Differential Equation/0. Differential Equation.md",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
@@ -389,7 +392,6 @@
     "Attached Files/Pasted image 20250118001354.png",
     "Computer Science/Computer Organization and Arch/0. Introduction.md",
     "Computer Science/Git & GitHub.md",
-    "Mathematics/Vector Calculus/1. Path and Curves.md",
-    "Computer Science/System Porgramming/6. C Techniques and Functions.md"
+    "Mathematics/Vector Calculus/1. Path and Curves.md"
   ]
 }
