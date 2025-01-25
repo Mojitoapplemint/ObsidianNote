@@ -87,7 +87,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       },
       {
         "id": "d2aaa0d4a64106c6",
@@ -146,8 +146,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -357,10 +356,10 @@
       }
     ]
   },
-  "active": "3884b014a5d5981b",
+  "active": "014a0c32f844fc82",
   "lastOpenFiles": [
-    "Computer Science/Dec POMDP/Papers/marl-book.pdf",
     "Computer Science/Dec POMDP/3. Multi-Agent Reinforcement Learning.md",
+    "Computer Science/Dec POMDP/Papers/marl-book.pdf",
     "Computer Science/Dec POMDP/2. Solutions to the Game.md",
     "Design Idea.md",
     "Personal/Latex Suite Personal Setting.md",
