@@ -150,7 +150,8 @@
               "title": "2. Solutions to the Game"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -360,11 +361,11 @@
       }
     ]
   },
-  "active": "9826dc1006af7647",
+  "active": "3884b014a5d5981b",
   "lastOpenFiles": [
     "Computer Science/Dec POMDP/Papers/marl-book.pdf",
-    "Computer Science/Dec POMDP/3. Multi-Agent Reinforcement Learning.md",
     "Computer Science/Dec POMDP/2. Solutions to the Game.md",
+    "Computer Science/Dec POMDP/3. Multi-Agent Reinforcement Learning.md",
     "Computer Science/Algorithm/4. Greedy Algorithm.md",
     "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
     "Computer Science/Algorithm/5. Dynamic Programming.md",
