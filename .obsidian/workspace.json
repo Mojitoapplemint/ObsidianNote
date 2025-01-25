@@ -135,6 +135,16 @@
               "icon": "lucide-file",
               "title": "2. Solutions to the Game"
             }
+          },
+          {
+            "id": "4f72318671cc30e0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
         "currentTab": 2
@@ -350,14 +360,14 @@
   "active": "3884b014a5d5981b",
   "lastOpenFiles": [
     "Computer Science/Dec POMDP/Papers/marl-book.pdf",
-    "Personal/Latex Suite Personal Setting.md",
-    "Computer Science/Dec POMDP/2. Solutions to the Game.md",
     "Computer Science/Dec POMDP/3. Multi-Agent Reinforcement Learning.md",
+    "Design Idea.md",
+    "Computer Science/Dec POMDP/2. Solutions to the Game.md",
+    "Personal/Latex Suite Personal Setting.md",
     "Computer Science/Algorithm/4. Greedy Algorithm.md",
     "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
     "Computer Science/Algorithm/5. Dynamic Programming.md",
     "Computer Science/Dec POMDP/Papers/dibangoye18a.pdf",
-    "Design Idea.md",
     "Computer Science/Dec POMDP/1. Models of Multi-Agent Interaction.md",
     "Computer Science/Dec POMDP/Papers/DecPOMDP-survey-final.pdf",
     "Computer Science/Dec POMDP/Papers/1301.3836v1.pdf",
