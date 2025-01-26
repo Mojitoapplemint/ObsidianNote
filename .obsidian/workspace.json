@@ -35,24 +35,12 @@
             }
           },
           {
-            "id": "84d905b3434f5862",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Computer Science/Dec POMDP/Papers/marl-book.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "marl-book"
-            }
-          },
-          {
             "id": "de855134d2c0465e",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Computer Science/Dec POMDP/Papers/OliehoekAmato16book.pdf"
+                "file": "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf"
               },
               "icon": "lucide-file-text",
               "title": "OliehoekAmato16book"
@@ -64,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Dec POMDP/1. Models of Multi-Agent Interaction.md",
+                "file": "Computer Science/Reinforcement Learning 1/MARL/1. Models of Multi-Agent Interaction.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,14 +66,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Computer Science/Dec POMDP/Papers/marl-book.pdf"
+                "file": "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf"
               },
               "icon": "lucide-file-text",
               "title": "marl-book"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "d2aaa0d4a64106c6",
@@ -98,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Dec POMDP/3. Multi-Agent Reinforcement Learning.md",
+                "file": "Computer Science/Reinforcement Learning 1/MARL/3. Multi-Agent Reinforcement Learning.md",
                 "mode": "source",
                 "source": false
               },
@@ -126,15 +114,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Dec POMDP/2. Solutions to the Game.md",
+                "file": "Computer Science/Reinforcement Learning 1/Dec-POMDP/1. Definition and Structure of Dec-POMDP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Solutions to the Game"
+              "title": "1. Definition and Structure of Dec-POMDP"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -344,51 +333,51 @@
       }
     ]
   },
-  "active": "de855134d2c0465e",
+  "active": "3884b014a5d5981b",
   "lastOpenFiles": [
-    "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
-    "Computer Science/Dec POMDP/Papers/marl-book.pdf",
-    "Computer Science/Dec POMDP/3. Multi-Agent Reinforcement Learning.md",
-    "Computer Science/Dec POMDP/2. Solutions to the Game.md",
+    "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
+    "Computer Science/Reinforcement Learning 1/Dec-POMDP/1. Definition and Structure of Dec-POMDP.md",
+    "Computer Science/Reinforcement Learning 1/Papers/DecPOMDP-survey-final.pdf",
+    "Computer Science/Reinforcement Learning 1/MARL/2. Solutions to the Game.md",
     "Design Idea.md",
+    "Computer Science/Reinforcement Learning 1/Dec-POMDP",
+    "Computer Science/Reinforcement Learning 1",
+    "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
+    "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
+    "Computer Science/Reinforcement Learning 1/MARL/3. Multi-Agent Reinforcement Learning.md",
     "Personal/Latex Suite Personal Setting.md",
     "Computer Science/Algorithm/4. Greedy Algorithm.md",
     "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
     "Computer Science/Algorithm/5. Dynamic Programming.md",
-    "Computer Science/Dec POMDP/Papers/dibangoye18a.pdf",
-    "Computer Science/Dec POMDP/1. Models of Multi-Agent Interaction.md",
-    "Computer Science/Dec POMDP/Papers/DecPOMDP-survey-final.pdf",
-    "Computer Science/Dec POMDP/Papers/1301.3836v1.pdf",
-    "Computer Science/Dec POMDP/Papers/OliehoekAmato16book.pdf",
+    "Computer Science/Reinforcement Learning 1/Papers/dibangoye18a.pdf",
+    "Computer Science/Reinforcement Learning 1/MARL/1. Models of Multi-Agent Interaction.md",
+    "Computer Science/Reinforcement Learning 1/Papers/1301.3836v1.pdf",
     "Mathematics/Theory of Computation/1. Finite Automata.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Differential Equation/1. Ordinary Differential Equation.md",
     "Mathematics/Differential Equation/0. Differential Equation.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Mathematics/Linear Algebra/2. Linear System.md",
-    "Computer Science/Reinforcement Learning/1. Reinforcement Learning Fundamental.md",
+    "Computer Science/Reinforcement Learning 1/SARL/1. Reinforcement Learning Fundamental.md",
     "Textbook/Introduction to Reinforcement Learning.pdf",
     "Textbook/Advanced Linear and Matrix Algebra.pdf",
     "Mathematics/Linear Algebra/6. Vector Space.md",
-    "Computer Science/Reinforcement Learning/3. Finite Markov Decision Process.md",
-    "Computer Science/Reinforcement Learning/Q-Learning.md",
+    "Computer Science/Reinforcement Learning 1/SARL/3. Finite Markov Decision Process.md",
+    "Computer Science/Reinforcement Learning 1/SARL/Q-Learning.md",
     "Computer Science/Reinforcement Learning/Temporal Difference Learning.md",
     "Mathematics/Linear Algebra/5. Matrix Advance.md",
     "Mathematics/Linear Algebra/4. Matrices.md",
     "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
     "Attached Files/Pasted image 20250121192503.png",
     "Attached Files/Pasted image 20250121191923.png",
-    "Textbook/Introduction to the Theory of Computation.pdf",
     "Attached Files/Pasted image 20250121185841.png",
     "Computer Science/System Porgramming/3. Shell Programming.md",
-    "Textbook/Introduction to linear and matrix algebra.pdf",
     "Attached Files/Pasted image 20250120160542.png",
     "Attached Files/Pasted image 20250120154523.png",
     "Attached Files/Pasted image 20250120154111.png",
     "Attached Files/Pasted image 20250120153713.png",
     "Attached Files/Pasted image 20250118195621.png",
     "Computer Science/Untitled.md",
-    "Personal/IS 24FALL - DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
     "Attached Files/Pasted image 20250118142702.png",
     "Attached Files/Pasted image 20250118001354.png"
   ]
