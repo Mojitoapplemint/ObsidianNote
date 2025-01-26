@@ -276,7 +276,8 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "floating": {
@@ -332,10 +333,11 @@
       }
     ]
   },
-  "active": "64e51b875620ff39",
+  "active": "3884b014a5d5981b",
   "lastOpenFiles": [
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Computer Science/Reinforcement Learning 1/Dec-POMDP/1. Definition and Structure of Dec-POMDP.md",
+    "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Computer Science/Reinforcement Learning 1/Papers/DecPOMDP-survey-final.pdf",
     "Computer Science/Reinforcement Learning 1/MARL/2. Solutions to the Game.md",
     "Design Idea.md",
@@ -352,7 +354,6 @@
     "Computer Science/Reinforcement Learning 1/MARL/1. Models of Multi-Agent Interaction.md",
     "Computer Science/Reinforcement Learning 1/Papers/1301.3836v1.pdf",
     "Mathematics/Theory of Computation/1. Finite Automata.md",
-    "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Differential Equation/1. Ordinary Differential Equation.md",
     "Mathematics/Differential Equation/0. Differential Equation.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
