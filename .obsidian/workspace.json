@@ -50,14 +50,12 @@
             "id": "de855134d2c0465e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
-                "mode": "source",
-                "source": false
+                "file": "Computer Science/Dec POMDP/Papers/OliehoekAmato16book.pdf"
               },
-              "icon": "lucide-file",
-              "title": "2. RISC-V Instructions"
+              "icon": "lucide-file-text",
+              "title": "OliehoekAmato16book"
             }
           },
           {
@@ -134,16 +132,6 @@
               },
               "icon": "lucide-file",
               "title": "2. Solutions to the Game"
-            }
-          },
-          {
-            "id": "4f72318671cc30e0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
             }
           }
         ]
@@ -358,6 +346,7 @@
   },
   "active": "de855134d2c0465e",
   "lastOpenFiles": [
+    "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Computer Science/Dec POMDP/Papers/marl-book.pdf",
     "Computer Science/Dec POMDP/3. Multi-Agent Reinforcement Learning.md",
     "Computer Science/Dec POMDP/2. Solutions to the Game.md",
@@ -375,7 +364,6 @@
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Differential Equation/1. Ordinary Differential Equation.md",
     "Mathematics/Differential Equation/0. Differential Equation.md",
-    "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Mathematics/Linear Algebra/2. Linear System.md",
     "Computer Science/Reinforcement Learning/1. Reinforcement Learning Fundamental.md",
