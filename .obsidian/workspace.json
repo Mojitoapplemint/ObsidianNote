@@ -6,7 +6,7 @@
       {
         "id": "0fd2f7f5a2c5c830",
         "type": "tabs",
-        "dimension": 66.90885072655219,
+        "dimension": 58.78326996197719,
         "children": [
           {
             "id": "014a0c32f844fc82",
@@ -47,12 +47,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "05066f2b8e4b60d6",
         "type": "tabs",
-        "dimension": 33.091149273447826,
+        "dimension": 41.21673003802282,
         "children": [
           {
             "id": "badc90361b012733",
@@ -248,7 +248,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -318,10 +318,11 @@
       }
     ]
   },
-  "active": "66f7835603f85754",
+  "active": "94a73696f9ad2935",
   "lastOpenFiles": [
-    "Mathematics/Linear Algebra/6. Vector Space.md",
     "Computer Science/Reinforcement Learning 1/MARL/3. Multi-Agent Reinforcement Learning.md",
+    "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
+    "Mathematics/Linear Algebra/6. Vector Space.md",
     "Computer Science/Reinforcement Learning 1/MARL/2. Solutions to the Game.md",
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Computer Science/Reinforcement Learning 1/Dec-POMDP/Design Idea.md",
@@ -342,7 +343,6 @@
     "Textbook/Introduction to the Theory of Computation.pdf",
     "Attached Files/Pasted image 20250126210912.png",
     "Attached Files/Pasted image 20250126210525.png",
-    "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/DecPOMDP-survey-final.pdf",
     "Computer Science/Reinforcement Learning 1/Dec-POMDP",
     "Computer Science/Reinforcement Learning 1",
