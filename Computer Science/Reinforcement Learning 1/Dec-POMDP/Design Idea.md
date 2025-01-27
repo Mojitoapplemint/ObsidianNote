@@ -10,7 +10,9 @@ Q table
 	- Row: All possible Observation
 
 # Reward Function
-1. 
+1. Have some instance variables that stores agents' state from previous time step
+2. If both cat and mouse moved after applying joint policy, they get +1
+3. (3,3) happens, then both get -100
 
 # Limitation
 The computation is not that efficient(?)
