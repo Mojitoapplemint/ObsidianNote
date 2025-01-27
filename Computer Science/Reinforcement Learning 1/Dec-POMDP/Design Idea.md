@@ -5,10 +5,12 @@ MARL algorithms are designed to learn a joint policy that satisfies the properti
 	- $\{ 1,2,3 \}\times \{ 3, \{ 4,5 \} \}\implies |O_{i}|=6$ local observation(projection)
 2. All agents share the common reward function
 
-
 Q table
 - Column : All possible joint action
 	- Row: All possible Observation
+
+# Reward Function
+1. 
 
 # Limitation
 The computation is not that efficient(?)
