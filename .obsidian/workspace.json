@@ -34,8 +34,7 @@
               "title": "6. Vector Space"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "05066f2b8e4b60d6",
@@ -139,7 +138,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -292,8 +292,9 @@
       }
     ]
   },
-  "active": "66f7835603f85754",
+  "active": "014a0c32f844fc82",
   "lastOpenFiles": [
+    "Mathematics/Linear Algebra/6. Vector Space.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Linear Algebra/5. Matrix Advance.md",
     "Computer Science/Reinforcement Learning 1/Dec-POMDP/1. Definition and Structure of Dec-POMDP.md",
@@ -330,7 +331,6 @@
     "Mathematics/Linear Algebra/2. Linear System.md",
     "Computer Science/Reinforcement Learning 1/SARL/1. Reinforcement Learning Fundamental.md",
     "Textbook/Introduction to Reinforcement Learning.pdf",
-    "Mathematics/Linear Algebra/6. Vector Space.md",
     "Computer Science/Reinforcement Learning 1/SARL/3. Finite Markov Decision Process.md",
     "Computer Science/Reinforcement Learning 1/SARL/Q-Learning.md",
     "Computer Science/Reinforcement Learning/Temporal Difference Learning.md",
