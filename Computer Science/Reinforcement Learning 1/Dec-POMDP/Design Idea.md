@@ -31,6 +31,9 @@ Repeat for every episodes:
 Each agent $i$ learns its own policy $\pi_{i}$ using only its local history of own observations, actions, and rewards, while ignoring the existence of other agents
 - Effects of other agent's actions are simply part of the environment dynamics in perspective of $i$
 
+From the perspective of each agent, policies of other agents become part of the environment's state transition function
+$$\mathcal{T}_{i}(s^{t+1}\text{ | }s^{t}, a^{6})\propto \sum_{a_{-i}\in A_{-i}}\mathcal{T}(s^{t+1}\text{ | }s^{t}\langle a^{t}_{i}, a_{-i} \rangle)\prod_{j\neq i}\pi_{j}(a_{j}\text{ | }s^{t})$$
+
 
 
 # Environment
