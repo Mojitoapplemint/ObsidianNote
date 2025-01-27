@@ -21,18 +21,6 @@
             }
           },
           {
-            "id": "66f7835603f85754",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "marl-book"
-            }
-          },
-          {
             "id": "94aede7e32d9d106",
             "type": "leaf",
             "state": {
@@ -56,6 +44,18 @@
               },
               "icon": "lucide-file-text",
               "title": "marl-book"
+            }
+          },
+          {
+            "id": "b9d75a308b5a963e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Computer Organization and Design RISC V Edition The HardwareSoftware Interface"
             }
           }
         ],
@@ -318,8 +318,12 @@
   },
   "active": "22cc47e5ef21e444",
   "lastOpenFiles": [
+    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
+    "To-do List.md",
     "Computer Science/Reinforcement Learning 1/MARL/3. Multi-Agent Reinforcement Learning.md",
+    "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
+    "Attached Files/Pasted image 20250127161554.png",
     "Computer Science/Reinforcement Learning 1/Dec-POMDP/Design Idea.md",
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Computer Science/Reinforcement Learning 1/MARL/2. Solutions to the Game.md",
@@ -327,8 +331,6 @@
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Linear Algebra/5. Matrix Advance.md",
     "Computer Science/Reinforcement Learning 1/Dec-POMDP/1. Definition and Structure of Dec-POMDP.md",
-    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
-    "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Attached Files/Pasted image 20250127001911.png",
     "Attached Files/Pasted image 20250126222655.png",
     "Attached Files/Pasted image 20250126220346.png",
@@ -358,10 +360,8 @@
     "Computer Science/Reinforcement Learning 1/SARL/3. Finite Markov Decision Process.md",
     "Computer Science/Reinforcement Learning 1/SARL/Q-Learning.md",
     "Computer Science/Reinforcement Learning/Temporal Difference Learning.md",
-    "Mathematics/Linear Algebra/4. Matrices.md",
     "Attached Files/Pasted image 20250121192503.png",
     "Attached Files/Pasted image 20250121191923.png",
-    "Attached Files/Pasted image 20250121185841.png",
-    "Attached Files/Pasted image 20250120160542.png"
+    "Attached Files/Pasted image 20250121185841.png"
   ]
 }
