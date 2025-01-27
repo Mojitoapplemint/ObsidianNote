@@ -359,12 +359,14 @@
       }
     ]
   },
-  "active": "533bb4de45eb9216",
+  "active": "545f3d22641d557b",
   "lastOpenFiles": [
+    "Mathematics/Theory of Computation/1. Finite Automata.md",
+    "Attached Files/Pasted image 20250126210912.png",
+    "Textbook/Introduction to the Theory of Computation.pdf",
     "Attached Files/Pasted image 20250126210525.png",
     "Computer Science/Reinforcement Learning 1/Dec-POMDP/1. Definition and Structure of Dec-POMDP.md",
     "Untitled 2.md",
-    "Textbook/Introduction to the Theory of Computation.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Computer Science/Reinforcement Learning 1/MARL/3. Multi-Agent Reinforcement Learning.md",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
@@ -382,7 +384,6 @@
     "Computer Science/Reinforcement Learning 1/Papers/dibangoye18a.pdf",
     "Computer Science/Reinforcement Learning 1/MARL/1. Models of Multi-Agent Interaction.md",
     "Computer Science/Reinforcement Learning 1/Papers/1301.3836v1.pdf",
-    "Mathematics/Theory of Computation/1. Finite Automata.md",
     "Mathematics/Differential Equation/1. Ordinary Differential Equation.md",
     "Mathematics/Differential Equation/0. Differential Equation.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
@@ -404,8 +405,6 @@
     "Attached Files/Pasted image 20250120154523.png",
     "Attached Files/Pasted image 20250120154111.png",
     "Attached Files/Pasted image 20250120153713.png",
-    "Attached Files/Pasted image 20250118195621.png",
-    "Attached Files/Pasted image 20250118142702.png",
-    "Attached Files/Pasted image 20250118001354.png"
+    "Attached Files/Pasted image 20250118195621.png"
   ]
 }
