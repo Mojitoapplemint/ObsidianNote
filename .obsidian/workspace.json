@@ -38,12 +38,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
+                "file": "Computer Science/Computer Organization and Arch/3. Procedures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. RISC-V Instructions"
+              "title": "3. Procedures"
             }
           }
         ],
@@ -267,8 +267,8 @@
   },
   "active": "fd7794deef884bac",
   "lastOpenFiles": [
-    "Computer Science/Computer Organization and Arch/3. Procedures.md",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
+    "Computer Science/Computer Organization and Arch/3. Procedures.md",
     "Computer Science/Computer Organization and Arch/Untitled.md",
     "Computer Science/Computer Organization and Arch/4. Character Data.md",
     "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
