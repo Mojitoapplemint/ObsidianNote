@@ -45,9 +45,21 @@
               "icon": "lucide-file",
               "title": "3. Multi-Agent Reinforcement Learning"
             }
+          },
+          {
+            "id": "457955624b1ab862",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "marl-book"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "05066f2b8e4b60d6",
@@ -320,12 +332,12 @@
   },
   "active": "94a73696f9ad2935",
   "lastOpenFiles": [
-    "Computer Science/Reinforcement Learning 1/MARL/3. Multi-Agent Reinforcement Learning.md",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
+    "Computer Science/Reinforcement Learning 1/MARL/3. Multi-Agent Reinforcement Learning.md",
+    "Computer Science/Reinforcement Learning 1/Dec-POMDP/Design Idea.md",
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Computer Science/Reinforcement Learning 1/MARL/2. Solutions to the Game.md",
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
-    "Computer Science/Reinforcement Learning 1/Dec-POMDP/Design Idea.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Linear Algebra/5. Matrix Advance.md",
     "Computer Science/Reinforcement Learning 1/Dec-POMDP/1. Definition and Structure of Dec-POMDP.md",

@@ -15,6 +15,18 @@ Q table
 | $s_{0}$   |       |       |       |       |
 | $\vdots$  |       |       |       |       |
 | $s_t$     |       |       |       |       |
+
+## CQL algorithm for stochastic games
+Initialize : $Q(s,a)=0$ for all $s\in S$ and $a\in A=A_{1}\dots A_{n}$
+Repeat for every episodes:
+**for** $t=0,1,\dots$ **do**
+- Observe current state $s'$
+- with probability $\epsilon$ : choose random joint action $a^{t}\in A$
+- Otherwise : Choose joing action $a^{t}=\arg\max_{a}Q(s^{t}, a)$
+- Apply joint action $a^{t}$, observe reward $r^{t}_{1}, \dots r^{t}_{n}$ and next state $s^{t+1}$
+- Transform $r^{t}_{1}\dots r^{t}_{n}$ into scalar reward $r^{t}$
+- $Q(s^{t}, a^{t})\leftarrow Q(s^{t}, a^{t})+\alpha[r^{t}+\gamma\displaystyle\max_{a'}Q(s^{t+1}, a')-Q(s^{t}, a^{t})]$
+
 # Environment
 ## Control Policy
 All doors are opened as default
@@ -29,7 +41,7 @@ All doors are opened as default
 
 **Note)**
 Negative Reward when closing the door?
-- For now, no 
+- For now, no because the reward should be assign on what we want to achieve or do not want to, not how
 
 # Limitation
 The computation is not that efficient(?)
