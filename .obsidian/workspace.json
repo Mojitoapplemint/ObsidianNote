@@ -311,7 +311,7 @@
         "y": 0,
         "width": 854,
         "height": 1019,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0.5
       }
     ]
@@ -319,10 +319,10 @@
   "active": "22cc47e5ef21e444",
   "lastOpenFiles": [
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
+    "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "To-do List.md",
     "Computer Science/Reinforcement Learning 1/MARL/3. Multi-Agent Reinforcement Learning.md",
-    "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Attached Files/Pasted image 20250127161554.png",
     "Computer Science/Reinforcement Learning 1/Dec-POMDP/Design Idea.md",
     "Mathematics/Linear Algebra/6. Vector Space.md",
