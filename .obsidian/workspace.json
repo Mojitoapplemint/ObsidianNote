@@ -85,12 +85,14 @@
             "id": "de855134d2c0465e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf"
+                "file": "Computer Science/Reinforcement Learning 1/Dec-POMDP/Design Idea.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "OliehoekAmato16book"
+              "icon": "lucide-file",
+              "title": "Design Idea"
             }
           },
           {
@@ -108,7 +110,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -265,14 +267,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "94a73696f9ad2935",
+  "active": "014a0c32f844fc82",
   "lastOpenFiles": [
+    "Computer Science/Reinforcement Learning 1/Dec-POMDP/Design Idea.md",
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Computer Science/Reinforcement Learning 1/Dec-POMDP/Infinite Horizon Dec-POMDPs.md",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
-    "Computer Science/Reinforcement Learning 1/Dec-POMDP/Design Idea.md",
-    "Computer Science/Reinforcement Learning 1/MARL/1. Models of Multi-Agent Interaction.md",
     "Computer Science/Reinforcement Learning 1/MARL/3. Multi-Agent Reinforcement Learning.md",
+    "Computer Science/Reinforcement Learning 1/MARL/1. Models of Multi-Agent Interaction.md",
     "Computer Science/Computer Organization and Arch/3. Procedures.md",
     "Computer Science/Reinforcement Learning 1/Dec-POMDP/1. Definition and Structure of Dec-POMDP.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
