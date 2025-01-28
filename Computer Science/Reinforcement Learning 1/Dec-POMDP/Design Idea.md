@@ -5,6 +5,15 @@ MARL algorithms are designed to learn a joint policy that satisfies the properti
 	- $\{ 1,2,3 \}\times \{ 3, \{ 4,5 \} \}\implies |O_{i}|=6$ local observation(projection)
 2. All agents share the common reward function
 
+# POSG Procedure
+1. The game starts in an initial state $s^{0}\in S$ sampled from $\mu$
+2. At time $t$, given the current state $s^{t}\in S$ and previous joint action $a^{t-1}\in A$ (for $t=0$, we set $a^{t-1}=\emptyset$), each agent receives an observation $o^{t}_{i}\in O_{i}$
+3. Each agent chooses an action $a^{t}_{i}\in A_{i}$ based on action probabilities given by its policy $\pi_{i}(a^{t}_{i}\text{ | }h^{t}_{i})$ which forms joint action
+	- $h^{t}$ here refers to agent $i$'s *observation history* $h^{t}_{i}=(o^{0}_{i}, \dots o^{t}_{i})$
+	- Note that agent's observation may or may not include other's action
+4. With joint action, the game transitions into the next state $s^{t+1}\in S$ with probability $\mathcal{T}(s^{t+1}\text{ | }s^{t}, a^{t})$ and each agent $i$ receives reward $r_{i}=\mathcal{R}_{i}(s^{t}, a^{t}, s^{t+1})$
+5. Repeat 1~4 until reaching a terminal state $s^{t}\in \bar{S}$
+
 # Central Q Learning
 Q table
 - Column : All possible joint action

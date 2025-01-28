@@ -6,7 +6,7 @@
       {
         "id": "0fd2f7f5a2c5c830",
         "type": "tabs",
-        "dimension": 58.78326996197719,
+        "dimension": 66.05019815059445,
         "children": [
           {
             "id": "014a0c32f844fc82",
@@ -45,14 +45,7 @@
               "icon": "lucide-file",
               "title": "3. Procedures"
             }
-          }
-        ]
-      },
-      {
-        "id": "05066f2b8e4b60d6",
-        "type": "tabs",
-        "dimension": 41.21673003802282,
-        "children": [
+          },
           {
             "id": "badc90361b012733",
             "type": "leaf",
@@ -66,7 +59,14 @@
               "icon": "lucide-file",
               "title": "3. Multi-Agent Reinforcement Learning"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "05066f2b8e4b60d6",
+        "type": "tabs",
+        "dimension": 33.949801849405546,
+        "children": [
           {
             "id": "3ff3308ce19a9d63",
             "type": "leaf",
@@ -118,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -278,11 +278,11 @@
   "active": "014a0c32f844fc82",
   "lastOpenFiles": [
     "Computer Science/Reinforcement Learning 1/Dec-POMDP/Design Idea.md",
-    "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
-    "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
+    "Computer Science/Reinforcement Learning 1/MARL/1. Models of Multi-Agent Interaction.md",
     "Computer Science/Reinforcement Learning 1/MARL/3. Multi-Agent Reinforcement Learning.md",
     "Computer Science/Computer Organization and Arch/3. Procedures.md",
-    "Computer Science/Reinforcement Learning 1/MARL/1. Models of Multi-Agent Interaction.md",
+    "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
+    "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Computer Science/Reinforcement Learning 1/Dec-POMDP/1. Definition and Structure of Dec-POMDP.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
