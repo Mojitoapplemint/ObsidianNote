@@ -46,8 +46,7 @@
               "title": "3. Procedures"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "05066f2b8e4b60d6",
@@ -107,9 +106,19 @@
               "icon": "lucide-file",
               "title": "Design Idea"
             }
+          },
+          {
+            "id": "272007ced5c8802a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -165,8 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -266,12 +274,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "94a73696f9ad2935",
+  "active": "272007ced5c8802a",
   "lastOpenFiles": [
-    "Computer Science/Reinforcement Learning 1/MARL/3. Multi-Agent Reinforcement Learning.md",
-    "Computer Science/Computer Organization and Arch/3. Procedures.md",
+    "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Computer Science/Reinforcement Learning 1/Dec-POMDP/Design Idea.md",
+    "Computer Science/Reinforcement Learning 1/MARL/3. Multi-Agent Reinforcement Learning.md",
+    "Computer Science/Computer Organization and Arch/3. Procedures.md",
     "Computer Science/Reinforcement Learning 1/MARL/1. Models of Multi-Agent Interaction.md",
     "Computer Science/Reinforcement Learning 1/Dec-POMDP/1. Definition and Structure of Dec-POMDP.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
@@ -284,7 +293,6 @@
     "Attached Files/Pasted image 20250127161554.png",
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Computer Science/Reinforcement Learning 1/MARL/2. Solutions to the Game.md",
-    "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Linear Algebra/5. Matrix Advance.md",
     "Attached Files/Pasted image 20250127001911.png",
