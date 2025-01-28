@@ -6,7 +6,6 @@
       {
         "id": "0fd2f7f5a2c5c830",
         "type": "tabs",
-        "dimension": 55.17503805175038,
         "children": [
           {
             "id": "014a0c32f844fc82",
@@ -59,54 +58,35 @@
             }
           },
           {
-            "id": "37dad6d07742e0a7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Textbook/Introduction to the Theory of Computation.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Introduction to the Theory of Computation"
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "be20f7bf8d073906",
-        "type": "tabs",
-        "dimension": 44.82496194824962,
-        "children": [
-          {
-            "id": "f3e45ea9ce08056e",
+            "id": "58e947b3420c3ac9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Theory of Computation/2. Nondeterministic Finite Automata.md",
+                "file": "Computer Science/Reinforcement Learning 1/Dec-POMDP/Design Idea.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Nondeterministic Finite Automata"
+              "title": "Design Idea"
             }
           },
           {
-            "id": "221f19b96b880f2e",
+            "id": "f3678afee71f112f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
+                "file": "Computer Science/Reinforcement Learning 1/Dec-POMDP/Infinite Horizon Dec-POMDPs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Deterministic Finite Automata"
+              "title": "Infinite Horizon Dec-POMDPs"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -262,23 +242,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "37dad6d07742e0a7",
+  "active": "f3678afee71f112f",
   "lastOpenFiles": [
+    "Computer Science/Reinforcement Learning 1/Dec-POMDP/1. Definition and Structure of Dec-POMDP.md",
+    "Computer Science/Reinforcement Learning 1/Dec-POMDP/Infinite Horizon Dec-POMDPs.md",
+    "Computer Science/Reinforcement Learning 1/Dec-POMDP/Design Idea.md",
+    "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
+    "Textbook/Introduction to the Theory of Computation.pdf",
     "Mathematics/Theory of Computation/3. Regular Expression.md",
     "Mathematics/Theory of Computation/2. Nondeterministic Finite Automata.md",
     "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
     "Attached Files/Pasted image 20250128120424.png",
     "Attached Files/Pasted image 20250128120146.png",
     "Computer Science/System Porgramming/4. Globing and Regular Expression.md",
-    "Computer Science/Reinforcement Learning 1/Dec-POMDP/Design Idea.md",
     "Computer Science/Reinforcement Learning 1/MARL/1. Models of Multi-Agent Interaction.md",
     "Computer Science/Computer Organization and Arch/3. Procedures.md",
-    "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
-    "Computer Science/Reinforcement Learning 1/Dec-POMDP/Infinite Horizon Dec-POMDPs.md",
     "Computer Science/Reinforcement Learning 1/MARL/3. Multi-Agent Reinforcement Learning.md",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Personal/IS 24FALL - DES w. RL Paper/Oliehoek12RLBook.pdf",
-    "Computer Science/Reinforcement Learning 1/Dec-POMDP/1. Definition and Structure of Dec-POMDP.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Computer Science/Computer Organization and Arch/Untitled.md",
@@ -298,7 +279,6 @@
     "Untitled 1.md",
     "Untitled 2.md",
     "Attached Files/Pasted image 20250126212023.png",
-    "Textbook/Introduction to the Theory of Computation.pdf",
     "Attached Files/Pasted image 20250126210912.png",
     "Attached Files/Pasted image 20250126210525.png",
     "Computer Science/Reinforcement Learning 1/Papers/DecPOMDP-survey-final.pdf",
