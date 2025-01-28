@@ -34,6 +34,19 @@ Each agent $i$ learns its own policy $\pi_{i}$ using only its local history of o
 From the perspective of each agent, policies of other agents become part of the environment's state transition function
 $$\mathcal{T}_{i}(s^{t+1}\text{ | }s^{t}, a^{6})\propto \sum_{a_{-i}\in A_{-i}}\mathcal{T}(s^{t+1}\text{ | }s^{t}\langle a^{t}_{i}, a_{-i} \rangle)\prod_{j\neq i}\pi_{j}(a_{j}\text{ | }s^{t})$$
 
+## Independent Q Learning
+// Algorithm controls agent $i$
+1. Initialize : $Q_{i}(s, a_{i})=0$ for all $s\in S, a_{i}\in A_{i}$
+2. Repeat for every episode : 
+3. **For** $t=0,1,2\dots$ **do** 
+	1. Observe current state $s'$
+	2. With probability $\epsilon$ : choose random joint action $a^{t}_{i}\in A_{i}$
+	3. Otherwise : Choose joing action $a^{t}_{i}=\arg\max_{a_{i}}Q_{i}(s^{t}, a_{i})$
+	4. (Meanwhile, other agents choose their action $a_{j}^{t}$)
+	5. Observe own reward $r^{t}$ and next state $s^{t+1}$
+	6. $Q(s^{t}, a^{t})\leftarrow Q(s^{t}, a^{t})+\alpha[r^{t}+\gamma\displaystyle\max_{a'}Q(s^{t+1}, a')-Q(s^{t}, a^{t})]$
+
+
 # Environment
 ## Control Policy
 All doors are opened as default

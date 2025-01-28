@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "05066f2b8e4b60d6",
@@ -266,15 +266,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "457955624b1ab862",
+  "active": "94a73696f9ad2935",
   "lastOpenFiles": [
-    "Computer Science/Reinforcement Learning 1/Dec-POMDP/Design Idea.md",
+    "Computer Science/Reinforcement Learning 1/MARL/3. Multi-Agent Reinforcement Learning.md",
+    "Computer Science/Computer Organization and Arch/3. Procedures.md",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
+    "Computer Science/Reinforcement Learning 1/Dec-POMDP/Design Idea.md",
     "Computer Science/Reinforcement Learning 1/MARL/1. Models of Multi-Agent Interaction.md",
     "Computer Science/Reinforcement Learning 1/Dec-POMDP/1. Definition and Structure of Dec-POMDP.md",
-    "Computer Science/Reinforcement Learning 1/MARL/3. Multi-Agent Reinforcement Learning.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
-    "Computer Science/Computer Organization and Arch/3. Procedures.md",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Computer Science/Computer Organization and Arch/Untitled.md",
     "Computer Science/Computer Organization and Arch/4. Character Data.md",
