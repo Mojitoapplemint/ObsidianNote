@@ -72,8 +72,7 @@
               "title": "OliehoekAmato16book"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "05066f2b8e4b60d6",
@@ -280,13 +279,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "457955624b1ab862",
+  "active": "014a0c32f844fc82",
   "lastOpenFiles": [
+    "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Computer Science/Reinforcement Learning 1/MARL/3. Multi-Agent Reinforcement Learning.md",
     "Computer Science/Reinforcement Learning 1/MARL/1. Models of Multi-Agent Interaction.md",
     "Computer Science/Reinforcement Learning 1/Dec-POMDP/Infinite Horizon Dec-POMDPs.md",
-    "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Computer Science/Reinforcement Learning 1/Dec-POMDP/Design Idea.md",
     "Personal/IS 24FALL - DES w. RL Paper/Oliehoek12RLBook.pdf",
     "Computer Science/Computer Organization and Arch/3. Procedures.md",
