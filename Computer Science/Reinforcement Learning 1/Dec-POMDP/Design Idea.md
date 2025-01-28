@@ -48,8 +48,6 @@ $$\mathcal{T}_{i}(s^{t+1}\text{ | }s^{t}, a^{6})\propto \sum_{a_{-i}\in A_{-i}}\
 	5. Observe own reward $r_{i}^{t}$ and next state $s^{t+1}$
 	6. $\small Q_{i}(s^{t}, a^{t}_{i})\leftarrow Q_{i}(s^{t}, a^{t}_{i})+\alpha[r^{t}_{i}+\gamma\displaystyle\max_{a_{i}'}Q_{i}(s^{t+1}, a_{i}')-Q_{i}(s^{t}, a^{t}_{i})]$
 
-
-
 # Environment
 ## Control Policy
 All doors are opened as default
