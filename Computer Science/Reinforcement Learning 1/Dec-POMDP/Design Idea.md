@@ -20,6 +20,7 @@ All doors are opened as default
 - Control Policy refers that which event should be disabled (a.k.a Which door should be closed)
 
 **Q)** Closed door is assumed to be opened automatically at the next time step?
+- No, still closed, they need to open it again
 
 ## Reward Function
 1. Have some instance variables that stores agents' state from previous time step
