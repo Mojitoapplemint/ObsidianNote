@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Reinforcement Learning 1/Dec-POMDP/Infinite Horizon Dec-POMDPs.md",
+                "file": "Computer Science/Reinforcement Learning 1/MARL/1. Models of Multi-Agent Interaction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Infinite Horizon Dec-POMDPs"
+              "title": "1. Models of Multi-Agent Interaction"
             }
           },
           {
@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -242,12 +242,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f3678afee71f112f",
+  "active": "457955624b1ab862",
   "lastOpenFiles": [
-    "Computer Science/Reinforcement Learning 1/Dec-POMDP/1. Definition and Structure of Dec-POMDP.md",
-    "Computer Science/Reinforcement Learning 1/Dec-POMDP/Infinite Horizon Dec-POMDPs.md",
-    "Computer Science/Reinforcement Learning 1/Dec-POMDP/Design Idea.md",
+    "Computer Science/Reinforcement Learning 1/MARL/2. Solutions to the Game.md",
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
+    "Computer Science/Reinforcement Learning 1/Dec-POMDP/Design Idea.md",
+    "Computer Science/Reinforcement Learning 1/MARL/3. Multi-Agent Reinforcement Learning.md",
+    "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
+    "Computer Science/Reinforcement Learning 1/Dec-POMDP/Infinite Horizon Dec-POMDPs.md",
+    "Computer Science/Reinforcement Learning 1/MARL/1. Models of Multi-Agent Interaction.md",
+    "Computer Science/Reinforcement Learning 1/Dec-POMDP/1. Definition and Structure of Dec-POMDP.md",
     "Textbook/Introduction to the Theory of Computation.pdf",
     "Mathematics/Theory of Computation/3. Regular Expression.md",
     "Mathematics/Theory of Computation/2. Nondeterministic Finite Automata.md",
@@ -255,10 +259,7 @@
     "Attached Files/Pasted image 20250128120424.png",
     "Attached Files/Pasted image 20250128120146.png",
     "Computer Science/System Porgramming/4. Globing and Regular Expression.md",
-    "Computer Science/Reinforcement Learning 1/MARL/1. Models of Multi-Agent Interaction.md",
     "Computer Science/Computer Organization and Arch/3. Procedures.md",
-    "Computer Science/Reinforcement Learning 1/MARL/3. Multi-Agent Reinforcement Learning.md",
-    "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Personal/IS 24FALL - DES w. RL Paper/Oliehoek12RLBook.pdf",
     "Mathematics/Linear Algebra/2. Linear System.md",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
@@ -269,7 +270,6 @@
     "To-do List.md",
     "Attached Files/Pasted image 20250127161554.png",
     "Mathematics/Linear Algebra/6. Vector Space.md",
-    "Computer Science/Reinforcement Learning 1/MARL/2. Solutions to the Game.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Linear Algebra/5. Matrix Advance.md",
     "Attached Files/Pasted image 20250127001911.png",
