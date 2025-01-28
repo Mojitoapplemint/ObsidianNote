@@ -49,12 +49,14 @@
             "id": "de3751c097d108e8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf"
+                "file": "Computer Science/Reinforcement Learning 1/MARL/3. Multi-Agent Reinforcement Learning.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "OliehoekAmato16book"
+              "icon": "lucide-file",
+              "title": "3. Multi-Agent Reinforcement Learning"
             }
           },
           {
@@ -85,8 +87,7 @@
               "title": "Infinite Horizon Dec-POMDPs"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,12 +243,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "457955624b1ab862",
+  "active": "014a0c32f844fc82",
   "lastOpenFiles": [
+    "Computer Science/Reinforcement Learning 1/MARL/3. Multi-Agent Reinforcement Learning.md",
     "Computer Science/Reinforcement Learning 1/MARL/2. Solutions to the Game.md",
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Computer Science/Reinforcement Learning 1/Dec-POMDP/Design Idea.md",
-    "Computer Science/Reinforcement Learning 1/MARL/3. Multi-Agent Reinforcement Learning.md",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Computer Science/Reinforcement Learning 1/Dec-POMDP/Infinite Horizon Dec-POMDPs.md",
     "Computer Science/Reinforcement Learning 1/MARL/1. Models of Multi-Agent Interaction.md",
