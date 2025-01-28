@@ -71,7 +71,6 @@ For each agent $i$,
 | $\vdots$    |     |     |
 | $s^{t}_{i}$ |     |     |
 
-
 ## Independent Q Learning
 // Algorithm controls agent $i$
 1. Initialize : $Q_{i}(s, a_{i})=0$ for all $s\in S, a_{i}\in A_{i}$

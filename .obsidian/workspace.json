@@ -59,8 +59,21 @@
               "icon": "lucide-file",
               "title": "3. Multi-Agent Reinforcement Learning"
             }
+          },
+          {
+            "id": "de3751c097d108e8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "OliehoekAmato16book"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "05066f2b8e4b60d6",
@@ -267,12 +280,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "014a0c32f844fc82",
+  "active": "de3751c097d108e8",
   "lastOpenFiles": [
-    "Computer Science/Reinforcement Learning 1/Dec-POMDP/Design Idea.md",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
-    "Computer Science/Reinforcement Learning 1/MARL/3. Multi-Agent Reinforcement Learning.md",
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
+    "Computer Science/Reinforcement Learning 1/MARL/3. Multi-Agent Reinforcement Learning.md",
+    "Personal/IS 24FALL - DES w. RL Paper/Oliehoek12RLBook.pdf",
+    "Computer Science/Reinforcement Learning 1/Dec-POMDP/Design Idea.md",
     "Computer Science/Reinforcement Learning 1/Dec-POMDP/Infinite Horizon Dec-POMDPs.md",
     "Computer Science/Reinforcement Learning 1/MARL/1. Models of Multi-Agent Interaction.md",
     "Computer Science/Computer Organization and Arch/3. Procedures.md",
@@ -310,7 +324,6 @@
     "Computer Science/Reinforcement Learning 1/Papers/dibangoye18a.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/1301.3836v1.pdf",
     "Mathematics/Differential Equation/1. Ordinary Differential Equation.md",
-    "Textbook/Introduction to Reinforcement Learning.pdf",
     "Attached Files/Pasted image 20250121192503.png",
     "Attached Files/Pasted image 20250121191923.png",
     "Attached Files/Pasted image 20250121185841.png"
