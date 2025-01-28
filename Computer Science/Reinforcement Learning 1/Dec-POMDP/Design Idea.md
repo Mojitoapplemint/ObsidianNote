@@ -44,7 +44,9 @@ $$\mathcal{T}_{i}(s^{t+1}\text{ | }s^{t}, a^{6})\propto \sum_{a_{-i}\in A_{-i}}\
 	3. Otherwise : Choose joing action $a^{t}_{i}=\arg\max_{a_{i}}Q_{i}(s^{t}, a_{i})$
 	4. (Meanwhile, other agents choose their action $a_{j}^{t}$)
 	5. Observe own reward $r^{t}$ and next state $s^{t+1}$
-	6. $Q(s^{t}, a^{t})\leftarrow Q(s^{t}, a^{t})+\alpha[r^{t}+\gamma\displaystyle\max_{a'}Q(s^{t+1}, a')-Q(s^{t}, a^{t})]$
+	6. $Q_{i}(s^{t}, a^{t}_{i})\leftarrow Q_{i}(s^{t}, a^{t}_{i})+\alpha[r^{t}_{i}+\gamma\displaystyle\max_{a_{i}'}Q_{i}(s^{t+1}, a_{i}')-Q(s^{t}, a^{t}_{i})]$
+
+
 
 # Environment
 ## Control Policy
