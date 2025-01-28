@@ -14,6 +14,29 @@ MARL algorithms are designed to learn a joint policy that satisfies the properti
 4. With joint action, the game transitions into the next state $s^{t+1}\in S$ with probability $\mathcal{T}(s^{t+1}\text{ | }s^{t}, a^{t})$ and each agent $i$ receives reward $r_{i}=\mathcal{R}_{i}(s^{t}, a^{t}, s^{t+1})$
 5. Repeat 1~4 until reaching a terminal state $s^{t}\in \bar{S}$
 
+# Environment
+## Control Policy
+All doors are opened as default
+- Control Policy refers that which event should be disabled (a.k.a Which door should be closed)
+
+**Q)** Closed door is assumed to be opened automatically at the next time step?
+
+## Reward Function
+1. Have some instance variables that stores agents' state from previous time step
+2. If both cat and mouse moved after applying joint policy, they get +1
+3. (3,3) happens, then both get -100
+
+**Note)**
+Negative Reward when closing the door?
+- For now, no because the reward should be assign on what we want to achieve or do not want to, not how
+
+# Limitation
+The computation is not that efficient(?)
+- [[marl-book.pdf#page=112&selection=50,0,52,38|The Complexity of Computing Equilibria]]
+
+
+
+---
 # Central Q Learning
 Q table
 - Column : All possible joint action
@@ -43,8 +66,6 @@ Each agent $i$ learns its own policy $\pi_{i}$ using only its local history of o
 From the perspective of each agent, policies of other agents become part of the environment's state transition function
 $$\mathcal{T}_{i}(s^{t+1}\text{ | }s^{t}, a^{6})\propto \sum_{a_{-i}\in A_{-i}}\mathcal{T}(s^{t+1}\text{ | }s^{t},\langle a^{t}_{i}, a_{-i} \rangle)\prod_{j\neq i}\pi_{j}(a_{j}\text{ | }s^{t})$$
 
-
-
 ## Independent Q Learning
 // Algorithm controls agent $i$
 1. Initialize : $Q_{i}(s, a_{i})=0$ for all $s\in S, a_{i}\in A_{i}$
@@ -56,26 +77,3 @@ $$\mathcal{T}_{i}(s^{t+1}\text{ | }s^{t}, a^{6})\propto \sum_{a_{-i}\in A_{-i}}\
 	4. (Meanwhile, other agents choose their action $a_{j}^{t}$)
 	5. Observe own reward $r_{i}^{t}$ and next state $s^{t+1}$
 	6. $\small Q_{i}(s^{t}, a^{t}_{i})\leftarrow Q_{i}(s^{t}, a^{t}_{i})+\alpha[r^{t}_{i}+\gamma\displaystyle\max_{a_{i}'}Q_{i}(s^{t+1}, a_{i}')-Q_{i}(s^{t}, a^{t}_{i})]$
-
-# Environment
-## Control Policy
-All doors are opened as default
-- Control Policy refers that which event should be disabled (a.k.a Which door should be closed)
-
-**Q)** Closed door is assumed to be opened automatically at the next time step?
-
-## Reward Function
-1. Have some instance variables that stores agents' state from previous time step
-2. If both cat and mouse moved after applying joint policy, they get +1
-3. (3,3) happens, then both get -100
-
-**Note)**
-Negative Reward when closing the door?
-- For now, no because the reward should be assign on what we want to achieve or do not want to, not how
-
-# Limitation
-The computation is not that efficient(?)
-- [[marl-book.pdf#page=112&selection=50,0,52,38|The Complexity of Computing Equilibria]]
-
-
-
