@@ -30,13 +30,6 @@ All doors are opened as default
 Negative Reward when closing the door?
 - For now, no because the reward should be assign on what we want to achieve or do not want to, not how
 
-# Limitation
-The computation is not that efficient(?)
-- [[marl-book.pdf#page=112&selection=50,0,52,38|The Complexity of Computing Equilibria]]
-
-
-
----
 # Central Q Learning
 Q table
 - Column : All possible joint action
@@ -44,9 +37,9 @@ Q table
 
 | $S$ \ $A$ | (O,O) | (O,X) | (X,O) | (X,X) |
 | --------- | ----- | ----- | ----- | ----- |
-| $s_{0}$   |       |       |       |       |
+| $s^{0}$   |       |       |       |       |
 | $\vdots$  |       |       |       |       |
-| $s_t$     |       |       |       |       |
+| $s^{t}$   |       |       |       |       |
 
 ## CQL algorithm for stochastic games
 Initialize : $Q(s,a)=0$ for all $s\in S$ and $a\in A=A_{1}\dots A_{n}$
@@ -66,6 +59,19 @@ Each agent $i$ learns its own policy $\pi_{i}$ using only its local history of o
 From the perspective of each agent, policies of other agents become part of the environment's state transition function
 $$\mathcal{T}_{i}(s^{t+1}\text{ | }s^{t}, a^{6})\propto \sum_{a_{-i}\in A_{-i}}\mathcal{T}(s^{t+1}\text{ | }s^{t},\langle a^{t}_{i}, a_{-i} \rangle)\prod_{j\neq i}\pi_{j}(a_{j}\text{ | }s^{t})$$
 
+Q table
+- Column : All possible Action
+- Row: All possible State
+
+For each agent $i$,
+
+| $S$ \ $A$   | O   | X   |
+| ----------- | --- | --- |
+| $s^{0}_{i}$ |     |     |
+| $\vdots$    |     |     |
+| $s^{t}_{i}$ |     |     |
+
+
 ## Independent Q Learning
 // Algorithm controls agent $i$
 1. Initialize : $Q_{i}(s, a_{i})=0$ for all $s\in S, a_{i}\in A_{i}$
@@ -77,3 +83,9 @@ $$\mathcal{T}_{i}(s^{t+1}\text{ | }s^{t}, a^{6})\propto \sum_{a_{-i}\in A_{-i}}\
 	4. (Meanwhile, other agents choose their action $a_{j}^{t}$)
 	5. Observe own reward $r_{i}^{t}$ and next state $s^{t+1}$
 	6. $\small Q_{i}(s^{t}, a^{t}_{i})\leftarrow Q_{i}(s^{t}, a^{t}_{i})+\alpha[r^{t}_{i}+\gamma\displaystyle\max_{a_{i}'}Q_{i}(s^{t+1}, a_{i}')-Q_{i}(s^{t}, a^{t}_{i})]$
+
+# Limitation
+The computation is not that efficient(?)
+- [[marl-book.pdf#page=112&selection=50,0,52,38|The Complexity of Computing Equilibria]]
+
+---
