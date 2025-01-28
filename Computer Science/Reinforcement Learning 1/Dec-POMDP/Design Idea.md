@@ -81,7 +81,6 @@ For each agent $i$,
 	4. (Meanwhile, other agents choose their action $a_{j}^{t}$)
 	5. Observe own reward $r_{i}^{t}$ and next state $s^{t+1}$
 	6. $\small Q_{i}(s^{t}, a^{t}_{i})\leftarrow Q_{i}(s^{t}, a^{t}_{i})+\alpha[r^{t}_{i}+\gamma\displaystyle\max_{a_{i}'}Q_{i}(s^{t+1}, a_{i}')-Q_{i}(s^{t}, a^{t}_{i})]$
-
 # Limitation
 The computation is not that efficient(?)
 - [[marl-book.pdf#page=112&selection=50,0,52,38|The Complexity of Computing Equilibria]]
@@ -101,3 +100,4 @@ In FSCs, there is designated initial node and following the action selection at 
 For Dec-POMDP, there is one FSC for each agent, thus set of controller provides the joint policy
 
 ### Moore and Mealy FSC
+Policy Iteration을 할거면 얘네들 둘 중 하나를 그려야 하는데, 둘다 어케 그려야 할지 감이 안옴
