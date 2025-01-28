@@ -51,7 +51,6 @@ Repeat for every episodes:
 - Apply joint action $a^{t}$, observe reward $r^{t}_{1}, \dots r^{t}_{n}$ and next state $s^{t+1}$
 - Transform $r^{t}_{1}\dots r^{t}_{n}$ into scalar reward $r^{t}$
 - $Q(s^{t}, a^{t})\leftarrow Q(s^{t}, a^{t})+\alpha[r^{t}+\gamma\displaystyle\max_{a'}Q(s^{t+1}, a')-Q(s^{t}, a^{t})]$
-
 # Independent Q Learning
 Each agent $i$ learns its own policy $\pi_{i}$ using only its local history of own observations, actions, and rewards, while ignoring the existence of other agents
 - Effects of other agent's actions are simply part of the environment dynamics in perspective of $i$
