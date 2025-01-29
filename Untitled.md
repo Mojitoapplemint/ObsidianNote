@@ -22,4 +22,4 @@ The set of supervisors based on partial observations
 
 $\forall \text{ }(i,j)\in\mathbb{Z}_{r}\times\mathbb{Z}_{r}, E_{o,i,j}\subseteq E_{o,i}$ and $p_{i,j}:E\to E_{o,i,j}$
 
-$\{ v_{k}\Big(p_{k}(s), \{ \forall \text{ }j\in\mathbb{Z}_{+}\text{\\}\{ k \}, \quad p_{j,k}(s) \}\Big) \mapsto E_{cp, k}\}$
+$\Big\{ v_{k}\Big(p_{k}(s), \{ \forall \text{ }j\in\mathbb{Z}_{+}\text{\\}\{ k \}, \quad p_{j,k}(s) \}\Big) \longmapsto E_{cp, k}\Big\}$
