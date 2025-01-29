@@ -21,7 +21,7 @@ Research proposals must be sound and do-able.
 - Be realistic
 - Be sure to state what the outcome/product will be
 
-
+---
 - Generative AI based on Deep Learning and Machine Learning has become so powerful
 	- One of the events that initiated the AI revolution / that made everyone recognize the power of AI was Alphago
 - Alphago was built based on fundamentally different learning algorithms with GPT that is interestingly not as popular as Deep Learning and Machine Learning
