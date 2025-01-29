@@ -105,12 +105,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Linear Algebra/2. Linear System.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Linear System"
+              "title": "Untitled"
             }
           }
         ],
@@ -166,12 +166,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -273,6 +273,7 @@
   },
   "active": "093f3f22ea44baf8",
   "lastOpenFiles": [
+    "Mathematics/Linear Algebra/2. Linear System.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Computer Organization and Arch/5. Program Translation.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
@@ -297,7 +298,6 @@
     "Attached Files/Pasted image 20250128120146.png",
     "Computer Science/System Porgramming/4. Globing and Regular Expression.md",
     "Personal/IS 24FALL - DES w. RL Paper/Oliehoek12RLBook.pdf",
-    "Mathematics/Linear Algebra/2. Linear System.md",
     "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
     "To-do List.md",
     "Attached Files/Pasted image 20250127161554.png",
