@@ -114,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -170,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -270,13 +271,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8eb5c29558db550b",
+  "active": "be043d45ae53e65d",
   "lastOpenFiles": [
-    "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Computer Science/Computer Organization and Arch/3. Procedures.md",
+    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
+    "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Computer Science/Computer Organization and Arch/Untitled.md",
-    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Reinforcement Learning 1/Dec-POMDP/Design Idea.md",
     "Computer Science/Reinforcement Learning 1/MARL/3. Multi-Agent Reinforcement Learning.md",
     "Computer Science/Reinforcement Learning 1/MARL/2. Solutions to the Game.md",
