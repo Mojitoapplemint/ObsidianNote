@@ -23,12 +23,14 @@
             "id": "457955624b1ab862",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf"
+                "file": "Computer Science/Computer Organization and Arch/3. Procedures.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "marl-book"
+              "icon": "lucide-file",
+              "title": "3. Procedures"
             }
           },
           {
@@ -112,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -168,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -269,14 +270,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "be043d45ae53e65d",
+  "active": "8eb5c29558db550b",
   "lastOpenFiles": [
+    "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
+    "Computer Science/Computer Organization and Arch/3. Procedures.md",
+    "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
+    "Computer Science/Computer Organization and Arch/Untitled.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Reinforcement Learning 1/Dec-POMDP/Design Idea.md",
-    "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Computer Science/Reinforcement Learning 1/MARL/3. Multi-Agent Reinforcement Learning.md",
     "Computer Science/Reinforcement Learning 1/MARL/2. Solutions to the Game.md",
-    "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Computer Science/Reinforcement Learning 1/Dec-POMDP/Infinite Horizon Dec-POMDPs.md",
     "Computer Science/Reinforcement Learning 1/MARL/1. Models of Multi-Agent Interaction.md",
     "Computer Science/Reinforcement Learning 1/Dec-POMDP/1. Definition and Structure of Dec-POMDP.md",
@@ -287,11 +290,9 @@
     "Attached Files/Pasted image 20250128120424.png",
     "Attached Files/Pasted image 20250128120146.png",
     "Computer Science/System Porgramming/4. Globing and Regular Expression.md",
-    "Computer Science/Computer Organization and Arch/3. Procedures.md",
     "Personal/IS 24FALL - DES w. RL Paper/Oliehoek12RLBook.pdf",
     "Mathematics/Linear Algebra/2. Linear System.md",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
-    "Computer Science/Computer Organization and Arch/Untitled.md",
     "Computer Science/Computer Organization and Arch/4. Character Data.md",
     "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
     "To-do List.md",
