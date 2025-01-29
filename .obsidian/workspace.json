@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -228,10 +228,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "badc90361b012733",
+  "active": "be043d45ae53e65d",
   "lastOpenFiles": [
-    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
+    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Computer Organization and Arch/3. Procedures.md",
     "Computer Science/Computer Organization and Arch/4. Character Data.md",
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
