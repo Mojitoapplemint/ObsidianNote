@@ -114,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -271,7 +271,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "be043d45ae53e65d",
+  "active": "8eb5c29558db550b",
   "lastOpenFiles": [
     "Computer Science/Computer Organization and Arch/3. Procedures.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
