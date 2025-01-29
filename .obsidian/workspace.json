@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -244,15 +244,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "457955624b1ab862",
+  "active": "42f97f11c26ebfd8",
   "lastOpenFiles": [
-    "Computer Science/Computer Organization and Arch/3. Procedures.md",
+    "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Computer Science/Computer Organization and Arch/5. Decoding Machine Code.md",
+    "Computer Science/Computer Organization and Arch/3. Procedures.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Computer Organization and Arch/4. Character Data.md",
     "Untitled.md",
-    "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Linear Algebra/Markov Chain.md",
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Computer Science/Reinforcement Learning 1/MARL/3. Multi-Agent Reinforcement Learning.md",
