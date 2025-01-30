@@ -44,6 +44,22 @@ Research proposals must be sound and do-able.
 	- This research will again prove the power of AI as undergraduate students find optimal solutions to the problem that would be attempted by doctoral or even post-doctoral students to solve 20 years ago  
 
 
+A one-page statement of preparation of your academic preparation, qualifications, and related experience for this project:
+
+- courses
+- research experience/employment
+- other employment
+- extra/co-curricular activities
+- other
+
+How this project fits with longer term plans, if appropriate:
+
+- honours
+- graduate studies
+- employment
+
+Formatting requirements: minimum 3/4 inch margins all around, minimum 11pt font, Calibri or Times New Roman (or equivalent) preferred.
+
 
 
 Let $G=(Q,E,f,q_{0})$ be deterministic finite automata
