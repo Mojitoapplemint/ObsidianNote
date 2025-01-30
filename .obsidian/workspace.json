@@ -86,9 +86,21 @@
               "icon": "lucide-file",
               "title": "Untitled"
             }
+          },
+          {
+            "id": "ed201879c5aad60c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "OliehoekAmato16book"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -245,13 +257,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "093f3f22ea44baf8",
+  "active": "ed201879c5aad60c",
   "lastOpenFiles": [
+    "Untitled.md",
     "Computer Science/Reinforcement Learning 1/SARL/1. Reinforcement Learning Fundamental.md",
     "Computer Science/Reinforcement Learning 1/MARL/3. Multi-Agent Reinforcement Learning.md",
     "Computer Science/Reinforcement Learning 1/MARL/1. Models of Multi-Agent Interaction.md",
     "Computer Science/Reinforcement Learning 1/Papers/SeukenZilberstein 2008.pdf",
-    "Untitled.md",
     "Computer Science/Computer Organization and Arch/5. Program Translation.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
