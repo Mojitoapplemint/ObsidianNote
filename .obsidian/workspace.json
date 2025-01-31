@@ -36,18 +36,6 @@
             }
           },
           {
-            "id": "8eb5c29558db550b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Computer Organization and Design RISC V Edition The HardwareSoftware Interface"
-            }
-          },
-          {
             "id": "611ccc2080096a6d",
             "type": "leaf",
             "state": {
@@ -114,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -271,11 +259,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "13852307486826c2",
+  "active": "611ccc2080096a6d",
   "lastOpenFiles": [
+    "Computer Science/System Porgramming/5. Introduction of C.md",
     "Computer Science/System Porgramming/6. C Techniques and Functions.md",
     "Computer Science/System Porgramming/7. C Memory Management.md",
-    "Computer Science/System Porgramming/5. Introduction of C.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Mathematics/Theory of Computation/3. Regular Expression.md",
     "Mathematics/Theory of Computation/2. Nondeterministic Finite Automata.md",
