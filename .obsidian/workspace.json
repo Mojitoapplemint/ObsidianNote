@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Computer Organization and Arch/5. Program Translation.md",
+                "file": "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Program Translation"
+              "title": "2. RISC-V Instructions"
             }
           },
           {
@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -259,12 +259,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "611ccc2080096a6d",
+  "active": "42f97f11c26ebfd8",
   "lastOpenFiles": [
+    "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
+    "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
+    "Computer Science/Computer Organization and Arch/5. Program Translation.md",
+    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/System Porgramming/5. Introduction of C.md",
     "Computer Science/System Porgramming/6. C Techniques and Functions.md",
     "Computer Science/System Porgramming/7. C Memory Management.md",
-    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Mathematics/Theory of Computation/3. Regular Expression.md",
     "Mathematics/Theory of Computation/2. Nondeterministic Finite Automata.md",
     "Untitled.md",
@@ -273,10 +276,8 @@
     "Computer Science/Reinforcement Learning 1/MARL/3. Multi-Agent Reinforcement Learning.md",
     "Computer Science/Reinforcement Learning 1/MARL/1. Models of Multi-Agent Interaction.md",
     "Computer Science/Reinforcement Learning 1/Papers/SeukenZilberstein 2008.pdf",
-    "Computer Science/Computer Organization and Arch/5. Program Translation.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
-    "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Computer Science/Computer Organization and Arch/3. Procedures.md",
     "Computer Science/Computer Organization and Arch/4. Character Data.md",
     "Mathematics/Linear Algebra/Markov Chain.md",
@@ -291,11 +292,9 @@
     "Attached Files/Pasted image 20250128120146.png",
     "Computer Science/System Porgramming/4. Globing and Regular Expression.md",
     "Personal/IS 24FALL - DES w. RL Paper/Oliehoek12RLBook.pdf",
-    "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
     "To-do List.md",
     "Attached Files/Pasted image 20250127161554.png",
     "Mathematics/Linear Algebra/6. Vector Space.md",
-    "Mathematics/Linear Algebra/5. Matrix Advance.md",
     "Attached Files/Pasted image 20250127001911.png",
     "Attached Files/Pasted image 20250126222655.png",
     "Attached Files/Pasted image 20250126220346.png",
