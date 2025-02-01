@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,12 +218,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d29a51e1a358eec5",
+  "active": "42f97f11c26ebfd8",
   "lastOpenFiles": [
+    "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
+    "Personal/IS 24FALL - DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
     "Untitled.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Textbook/Advanced Linear and Matrix Algebra.pdf",
-    "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Reinforcement Learning 1/SARL/1. Reinforcement Learning Fundamental.md",
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
@@ -263,7 +264,6 @@
     "Attached Files/Pasted image 20250126210525.png",
     "Computer Science/Reinforcement Learning 1/Papers/DecPOMDP-survey-final.pdf",
     "Computer Science/Reinforcement Learning 1/Dec-POMDP",
-    "Computer Science/Reinforcement Learning 1",
     "Attached Files/Pasted image 20250121192503.png"
   ]
 }
