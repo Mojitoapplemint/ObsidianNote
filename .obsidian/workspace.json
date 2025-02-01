@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,11 +218,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d29a51e1a358eec5",
+  "active": "42f97f11c26ebfd8",
   "lastOpenFiles": [
+    "Personal/IS 24FALL - DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
     "Untitled.md",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
-    "Personal/IS 24FALL - DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Textbook/Advanced Linear and Matrix Algebra.pdf",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
