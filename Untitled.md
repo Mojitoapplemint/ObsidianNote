@@ -62,6 +62,23 @@ Formatting requirements: minimum 3/4 inch margins all around, minimum 11pt font,
 
 
 
+- 1 year of independent study
+	- In detail
+	- Process(내가 주체적으로 문제를 해결했음을 강조)
+	- Started from prototype, detect problem, came up with improved model that solve the problem, repeat
+	- Result of the research
+- I kinda like researching
+	- Before I started independent study, I didn't have a clear future vision, just planning to find a job from math and comp sci field.
+	- However, throughout the independent study, every moment that I got stuck but finally made a progress, I got thrilled that I learned something new and I did it by myself.
+		- Tell them I aware of challenges and stress of researching
+		- However, after I finally solved the problem, or at least made a progress, the fact that I learned something new made myself proud and motivate to learn more, iterally until I fully understand every single possible aspect of it.
+	- I start having a strong intuition that I am suitable for researcher. This 1 year of independent study enlightened me the joy of studying and learning
+	- I decided to get Master's degree and even PHD
+- Since I am studying both computer science and math, finding a field that contains both theoretical computer science and mathematics and still interests me was tough.
+	- When I took online Deep Learning Bootcamp, the fact that I could not understand the reason why DL is work made me unsatisfied
+	- RL is literally the field that I was looking for
+
+
 Let $G=(Q,E,f,q_{0})$ be deterministic finite automata
 - $Q$ : Set of state
 - $q_{0}\in Q$ : Initial State
