@@ -46,9 +46,21 @@
               "icon": "lucide-file-text",
               "title": "Advanced Linear and Matrix Algebra"
             }
+          },
+          {
+            "id": "d29a51e1a358eec5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Personal/IS 24FALL - DES w. RL Paper/DES ReinforcementLearning 2005.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "DES ReinforcementLearning 2005"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -105,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -206,8 +217,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "42f97f11c26ebfd8",
+  "active": "d29a51e1a358eec5",
   "lastOpenFiles": [
+    "Untitled.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Textbook/Advanced Linear and Matrix Algebra.pdf",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
@@ -215,7 +227,6 @@
     "Computer Science/Reinforcement Learning 1/SARL/1. Reinforcement Learning Fundamental.md",
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Computer Science/System Porgramming/5. Introduction of C.md",
-    "Untitled.md",
     "Mathematics/Differential Equation/1. Ordinary Differential Equation.md",
     "Mathematics/Differential Equation/2. Growth and Decay.md",
     "Mathematics/Differential Equation/3. Separable Equations.md",
