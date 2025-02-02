@@ -4,28 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "a5ba0bbcf4f46047",
-        "type": "tabs",
-        "dimension": 54.95376486129459,
-        "children": [
-          {
-            "id": "c3a52ac4cb740185",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Computer Organization and Design RISC V Edition The HardwareSoftware Interface"
-            }
-          }
-        ]
-      },
-      {
         "id": "af07c3908dd6d754",
         "type": "tabs",
-        "dimension": 45.04623513870541,
         "children": [
           {
             "id": "53d428816c57e99b",
@@ -53,6 +33,18 @@
               },
               "icon": "lucide-file",
               "title": "3. Procedures"
+            }
+          },
+          {
+            "id": "c3a52ac4cb740185",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Computer Organization and Design RISC V Edition The HardwareSoftware Interface"
             }
           },
           {
@@ -84,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -242,18 +234,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "210b0458dfc465c9",
+  "active": "e943463dbd83992b",
   "lastOpenFiles": [
-    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
+    "Computer Science/Computer Organization and Arch/4. Character Data.md",
+    "Computer Science/Computer Organization and Arch/3. Procedures.md",
     "Computer Science/Computer Organization and Arch/5. Program Translation (Based on C).md",
+    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Attached Files/Pasted image 20250202155128.png",
     "Attached Files/Pasted image 20250202152728.png",
     "Attached Files/Pasted image 20250202152245.png",
-    "Computer Science/Computer Organization and Arch/3. Procedures.md",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Attached Files/Pasted image 20250202113505.png",
     "Attached Files/Pasted image 20250202113449.png",
-    "Computer Science/Computer Organization and Arch/4. Character Data.md",
     "Textbook/Introduction to Reinforcement Learning.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Textbook/Advanced Linear and Matrix Algebra.pdf",
