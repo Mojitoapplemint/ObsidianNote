@@ -4,8 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "af07c3908dd6d754",
+        "id": "a5ba0bbcf4f46047",
         "type": "tabs",
+        "dimension": 54.95376486129459,
         "children": [
           {
             "id": "c3a52ac4cb740185",
@@ -18,7 +19,14 @@
               "icon": "lucide-file-text",
               "title": "Computer Organization and Design RISC V Edition The HardwareSoftware Interface"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "af07c3908dd6d754",
+        "type": "tabs",
+        "dimension": 45.04623513870541,
+        "children": [
           {
             "id": "53d428816c57e99b",
             "type": "leaf",
@@ -76,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -236,9 +244,9 @@
   },
   "active": "210b0458dfc465c9",
   "lastOpenFiles": [
-    "Attached Files/Pasted image 20250202155128.png",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Computer Organization and Arch/5. Program Translation (Based on C).md",
+    "Attached Files/Pasted image 20250202155128.png",
     "Attached Files/Pasted image 20250202152728.png",
     "Attached Files/Pasted image 20250202152245.png",
     "Computer Science/Computer Organization and Arch/3. Procedures.md",
@@ -280,7 +288,6 @@
     "Attached Files/Pasted image 20250127161554.png",
     "Attached Files/Pasted image 20250127001911.png",
     "Attached Files/Pasted image 20250126222655.png",
-    "Attached Files/Pasted image 20250126220346.png",
     "Computer Science/Reinforcement Learning 1/Papers/DecPOMDP-survey-final.pdf"
   ]
 }
