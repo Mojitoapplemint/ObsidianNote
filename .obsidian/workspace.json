@@ -75,8 +75,7 @@
               "title": "5. Program Translation"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -234,11 +233,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e943463dbd83992b",
+  "active": "c3a52ac4cb740185",
   "lastOpenFiles": [
+    "Computer Science/Computer Organization and Arch/3. Procedures.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
-    "Computer Science/Computer Organization and Arch/3. Procedures.md",
     "Attached Files/Pasted image 20250202113505.png",
     "Attached Files/Pasted image 20250202113449.png",
     "Computer Science/Computer Organization and Arch/4. Character Data.md",
