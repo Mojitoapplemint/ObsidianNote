@@ -6,7 +6,7 @@
       {
         "id": "c6a754fec26568b7",
         "type": "tabs",
-        "dimension": 58.58652575957728,
+        "dimension": 63.27608982826949,
         "children": [
           {
             "id": "c3a52ac4cb740185",
@@ -25,7 +25,7 @@
       {
         "id": "af07c3908dd6d754",
         "type": "tabs",
-        "dimension": 41.41347424042272,
+        "dimension": 36.723910171730516,
         "children": [
           {
             "id": "53d428816c57e99b",
@@ -242,12 +242,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c3a52ac4cb740185",
+  "active": "210b0458dfc465c9",
   "lastOpenFiles": [
+    "Attached Files/Pasted image 20250202152728.png",
+    "Attached Files/Pasted image 20250202152245.png",
+    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Computer Organization and Arch/5. Program Translation.md",
     "Computer Science/Computer Organization and Arch/3. Procedures.md",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
-    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Attached Files/Pasted image 20250202113505.png",
     "Attached Files/Pasted image 20250202113449.png",
     "Computer Science/Computer Organization and Arch/4. Character Data.md",
@@ -287,7 +289,6 @@
     "Attached Files/Pasted image 20250126222655.png",
     "Attached Files/Pasted image 20250126220346.png",
     "Attached Files/Pasted image 20250126212023.png",
-    "Attached Files/Pasted image 20250126210912.png",
     "Computer Science/Reinforcement Learning 1/Papers/DecPOMDP-survey-final.pdf"
   ]
 }
