@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "af07c3908dd6d754",
+        "id": "c6a754fec26568b7",
         "type": "tabs",
         "children": [
           {
@@ -18,7 +18,13 @@
               "icon": "lucide-file-text",
               "title": "Computer Organization and Design RISC V Edition The HardwareSoftware Interface"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "af07c3908dd6d754",
+        "type": "tabs",
+        "children": [
           {
             "id": "53d428816c57e99b",
             "type": "leaf",
@@ -76,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
