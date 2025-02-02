@@ -4,11 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "0fd2f7f5a2c5c830",
+        "id": "bbab262739f16de0",
         "type": "tabs",
         "children": [
           {
-            "id": "457955624b1ab862",
+            "id": "c3a52ac4cb740185",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Computer Organization and Design RISC V Edition The HardwareSoftware Interface"
+            }
+          }
+        ]
+      },
+      {
+        "id": "af07c3908dd6d754",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53d428816c57e99b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,51 +40,45 @@
             }
           },
           {
-            "id": "42f97f11c26ebfd8",
+            "id": "e943463dbd83992b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf"
+                "file": "Computer Science/Computer Organization and Arch/3. Procedures.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "OliehoekAmato16book"
+              "icon": "lucide-file",
+              "title": "3. Procedures"
             }
           },
           {
-            "id": "177393bed07775a6",
+            "id": "cc77f926658ea1de",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Textbook/Advanced Linear and Matrix Algebra.pdf"
+                "file": "Computer Science/Computer Organization and Arch/4. Character Data.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Advanced Linear and Matrix Algebra"
+              "icon": "lucide-file",
+              "title": "4. Character Data"
             }
           },
           {
-            "id": "5ec26509961381a8",
+            "id": "210b0458dfc465c9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf"
+                "file": "Computer Science/Computer Organization and Arch/5. Program Translation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "marl-book"
-            }
-          },
-          {
-            "id": "b8e7f9fb5bdfd926",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Textbook/Introduction to Reinforcement Learning.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Introduction to Reinforcement Learning"
+              "icon": "lucide-file",
+              "title": "5. Program Translation"
             }
           }
         ],
@@ -224,21 +236,25 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "42f97f11c26ebfd8",
+  "active": "e943463dbd83992b",
   "lastOpenFiles": [
-    "Textbook/Advanced Linear and Matrix Algebra.pdf",
-    "Personal/IS 24FALL - DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
-    "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
-    "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
-    "Computer Science/Reinforcement Learning 1/MARL/3. Multi-Agent Reinforcement Learning.md",
-    "Textbook/Introduction to Reinforcement Learning.pdf",
-    "Untitled.md",
+    "Computer Science/Computer Organization and Arch/4. Character Data.md",
+    "Computer Science/Computer Organization and Arch/5. Program Translation.md",
+    "Computer Science/Computer Organization and Arch/3. Procedures.md",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
-    "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
+    "Textbook/Introduction to Reinforcement Learning.pdf",
+    "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
+    "Textbook/Advanced Linear and Matrix Algebra.pdf",
+    "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
+    "Personal/IS 24FALL - DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
+    "Computer Science/Reinforcement Learning 1/MARL/3. Multi-Agent Reinforcement Learning.md",
+    "Untitled.md",
+    "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Computer Science/Reinforcement Learning 1/SARL/1. Reinforcement Learning Fundamental.md",
     "Computer Science/System Porgramming/5. Introduction of C.md",
     "Mathematics/Differential Equation/1. Ordinary Differential Equation.md",
@@ -246,7 +262,6 @@
     "Mathematics/Differential Equation/3. Separable Equations.md",
     "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
     "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
-    "Computer Science/Computer Organization and Arch/5. Program Translation.md",
     "Computer Science/System Porgramming/6. C Techniques and Functions.md",
     "Computer Science/System Porgramming/7. C Memory Management.md",
     "Mathematics/Theory of Computation/3. Regular Expression.md",
@@ -254,8 +269,6 @@
     "Computer Science/Reinforcement Learning 1/MARL/1. Models of Multi-Agent Interaction.md",
     "Computer Science/Reinforcement Learning 1/Papers/SeukenZilberstein 2008.pdf",
     "Mathematics/Linear Algebra/2. Linear System.md",
-    "Computer Science/Computer Organization and Arch/3. Procedures.md",
-    "Computer Science/Computer Organization and Arch/4. Character Data.md",
     "Mathematics/Linear Algebra/Markov Chain.md",
     "Computer Science/Reinforcement Learning 1/Dec-POMDP/Design Idea.md",
     "Computer Science/Reinforcement Learning 1/MARL/2. Solutions to the Game.md",
