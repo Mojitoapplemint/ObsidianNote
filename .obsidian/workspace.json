@@ -6,6 +6,7 @@
       {
         "id": "c6a754fec26568b7",
         "type": "tabs",
+        "dimension": 58.58652575957728,
         "children": [
           {
             "id": "c3a52ac4cb740185",
@@ -24,6 +25,7 @@
       {
         "id": "af07c3908dd6d754",
         "type": "tabs",
+        "dimension": 41.41347424042272,
         "children": [
           {
             "id": "53d428816c57e99b",
@@ -240,15 +242,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "210b0458dfc465c9",
+  "active": "c3a52ac4cb740185",
   "lastOpenFiles": [
+    "Computer Science/Computer Organization and Arch/5. Program Translation.md",
     "Computer Science/Computer Organization and Arch/3. Procedures.md",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Attached Files/Pasted image 20250202113505.png",
     "Attached Files/Pasted image 20250202113449.png",
     "Computer Science/Computer Organization and Arch/4. Character Data.md",
-    "Computer Science/Computer Organization and Arch/5. Program Translation.md",
     "Textbook/Introduction to Reinforcement Learning.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Textbook/Advanced Linear and Matrix Algebra.pdf",
