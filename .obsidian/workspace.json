@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Computer Organization and Arch/5. Program Translation (Based on C).md",
+                "file": "Computer Science/Computer Organization and Arch/6. Compiler.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Program Translation (Based on C)"
+              "title": "6. Compiler"
             }
           },
           {
@@ -39,15 +39,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Linear Algebra/7. Linear Transformation.md",
+                "file": "Computer Science/Computer Organization and Arch/5. Program Translation (Based on C).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Linear Transformation"
+              "title": "5. Program Translation (Based on C)"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -204,14 +205,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e943463dbd83992b",
+  "active": "9eb404e1eb6c2550",
   "lastOpenFiles": [
-    "Untitled.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
+    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
+    "Computer Science/Computer Organization and Arch/6. Compiler.md",
+    "Computer Science/Computer Organization and Arch/5. Program Translation (Based on C).md",
+    "Untitled.md",
     "Computer Science/Computer Organization and Arch/3. Procedures.md",
     "Computer Science/Computer Organization and Arch/4. Character Data.md",
-    "Computer Science/Computer Organization and Arch/5. Program Translation (Based on C).md",
-    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Attached Files/Pasted image 20250202155128.png",
     "Attached Files/Pasted image 20250202152728.png",
     "Attached Files/Pasted image 20250202152245.png",
@@ -242,7 +244,6 @@
     "Computer Science/Reinforcement Learning 1/Dec-POMDP/Design Idea.md",
     "Computer Science/Reinforcement Learning 1/MARL/2. Solutions to the Game.md",
     "Computer Science/Reinforcement Learning 1/Dec-POMDP/Infinite Horizon Dec-POMDPs.md",
-    "Computer Science/Reinforcement Learning 1/Dec-POMDP/1. Definition and Structure of Dec-POMDP.md",
     "Textbook/Introduction to the Theory of Computation.pdf",
     "Attached Files/Pasted image 20250128120424.png",
     "Attached Files/Pasted image 20250128120146.png",
