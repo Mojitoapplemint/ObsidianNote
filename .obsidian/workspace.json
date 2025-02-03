@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Computer Organization and Arch/Untitled.md",
+                "file": "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "2. RISC-V Instructions"
             }
           },
           {
@@ -119,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -221,14 +222,14 @@
   },
   "active": "9eb404e1eb6c2550",
   "lastOpenFiles": [
-    "Computer Science/Computer Organization and Arch/6. Compiler.md",
+    "Computer Science/Computer Organization and Arch/3. Procedures.md",
     "Computer Science/Computer Organization and Arch/Untitled.md",
+    "Computer Science/Computer Organization and Arch/6. Compiler.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Computer Organization and Arch/5. Program Translation (Based on C).md",
     "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Untitled.md",
-    "Computer Science/Computer Organization and Arch/3. Procedures.md",
     "Computer Science/Computer Organization and Arch/4. Character Data.md",
     "Attached Files/Pasted image 20250202155128.png",
     "Attached Files/Pasted image 20250202152728.png",
