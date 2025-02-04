@@ -4,28 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "6099006476196255",
-        "type": "tabs",
-        "dimension": 61.69088507265522,
-        "children": [
-          {
-            "id": "5bbcc9739670ac06",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Textbook/Introduction to the Theory of Computation.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Introduction to the Theory of Computation"
-            }
-          }
-        ]
-      },
-      {
         "id": "af07c3908dd6d754",
         "type": "tabs",
-        "dimension": 38.30911492734479,
         "children": [
           {
             "id": "e943463dbd83992b",
@@ -256,12 +236,12 @@
   },
   "active": "ecc301ffe7db4c3b",
   "lastOpenFiles": [
-    "Mathematics/Theory of Computation/2. Nondeterministic Finite Automata.md",
+    "Textbook/Introduction to the Theory of Computation.pdf",
     "Mathematics/Theory of Computation/3. Regular Expression.md",
+    "Mathematics/Theory of Computation/2. Nondeterministic Finite Automata.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Attached Files/Pasted image 20250204004007.png",
     "Attached Files/Pasted image 20250204003943.png",
-    "Textbook/Introduction to the Theory of Computation.pdf",
     "Computer Science/Computer Organization and Arch/5. Program Translation (Based on C).md",
     "Attached Files/Pasted image 20250203235226.png",
     "Attached Files/Pasted image 20250203210122.png",
