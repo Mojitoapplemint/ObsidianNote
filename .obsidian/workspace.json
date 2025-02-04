@@ -39,12 +39,14 @@
             "id": "f67c8d3497f123bc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf"
+                "file": "Mathematics/Linear Algebra/6. Vector Space.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Computer Organization and Design RISC V Edition The HardwareSoftware Interface"
+              "icon": "lucide-file",
+              "title": "6. Vector Space"
             }
           },
           {
@@ -235,10 +237,12 @@
   },
   "active": "ecc301ffe7db4c3b",
   "lastOpenFiles": [
+    "Mathematics/Linear Algebra/6. Vector Space.md",
+    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
+    "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Theory of Computation/3. Regular Expression.md",
     "Textbook/Introduction to the Theory of Computation.pdf",
     "Mathematics/Theory of Computation/2. Nondeterministic Finite Automata.md",
-    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Attached Files/Pasted image 20250204004007.png",
     "Attached Files/Pasted image 20250204003943.png",
     "Computer Science/Computer Organization and Arch/5. Program Translation (Based on C).md",
@@ -249,7 +253,6 @@
     "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
     "Computer Science/Computer Organization and Arch/3. Procedures.md",
     "Computer Science/Computer Organization and Arch/Untitled.md",
-    "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Untitled.md",
     "Computer Science/Computer Organization and Arch/4. Character Data.md",
     "Attached Files/Pasted image 20250202155128.png",
