@@ -6,7 +6,7 @@
       {
         "id": "af07c3908dd6d754",
         "type": "tabs",
-        "dimension": 52.97225891677675,
+        "dimension": 67.50330250990753,
         "children": [
           {
             "id": "e943463dbd83992b",
@@ -54,7 +54,7 @@
       {
         "id": "d03fd7a0bbe68cd1",
         "type": "tabs",
-        "dimension": 47.02774108322325,
+        "dimension": 32.496697490092465,
         "children": [
           {
             "id": "9eb404e1eb6c2550",
@@ -230,6 +230,7 @@
   },
   "active": "9eb404e1eb6c2550",
   "lastOpenFiles": [
+    "Attached Files/Pasted image 20250203235226.png",
     "Attached Files/Pasted image 20250203210122.png",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Computer Organization and Arch/5. Program Translation (Based on C).md",
@@ -274,7 +275,6 @@
     "Personal/IS 24FALL - DES w. RL Paper/Oliehoek12RLBook.pdf",
     "Attached Files/Pasted image 20250127161554.png",
     "Attached Files/Pasted image 20250127001911.png",
-    "Attached Files/Pasted image 20250126222655.png",
     "Computer Science/Reinforcement Learning 1/Papers/DecPOMDP-survey-final.pdf"
   ]
 }
