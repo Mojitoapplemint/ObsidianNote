@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -216,11 +216,13 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9eb404e1eb6c2550",
+  "active": "f67c8d3497f123bc",
   "lastOpenFiles": [
+    "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Computer Science/Computer Organization and Arch/3. Procedures.md",
     "Computer Science/Computer Organization and Arch/Untitled.md",
     "Computer Science/Computer Organization and Arch/6. Compiler.md",
@@ -233,7 +235,6 @@
     "Attached Files/Pasted image 20250202155128.png",
     "Attached Files/Pasted image 20250202152728.png",
     "Attached Files/Pasted image 20250202152245.png",
-    "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Attached Files/Pasted image 20250202113505.png",
     "Attached Files/Pasted image 20250202113449.png",
     "Textbook/Introduction to Reinforcement Learning.pdf",
