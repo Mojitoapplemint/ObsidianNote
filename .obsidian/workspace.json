@@ -4,28 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "af07c3908dd6d754",
-        "type": "tabs",
-        "dimension": 53.61216730038022,
-        "children": [
-          {
-            "id": "e943463dbd83992b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Computer Organization and Design RISC V Edition The HardwareSoftware Interface"
-            }
-          }
-        ]
-      },
-      {
         "id": "4f46c5708a424c8c",
         "type": "tabs",
-        "dimension": 46.38783269961978,
         "children": [
           {
             "id": "ecc301ffe7db4c3b",
@@ -155,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -255,11 +236,49 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
+  "floating": {
+    "id": "dcad296a0901d13e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "86682e365cf0996c",
+        "type": "window",
+        "children": [
+          {
+            "id": "86cb8e40c0af0f51",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e943463dbd83992b",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Computer Organization and Design RISC V Edition The HardwareSoftware Interface"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 854,
+        "height": 1019,
+        "maximize": false,
+        "zoom": 0.5
+      }
+    ]
+  },
   "active": "d40be03e7955eff0",
   "lastOpenFiles": [
+    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
+    "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Untitled.md",
     "To-do List.md",
-    "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Computer Science/Reinforcement Learning 1/Papers/1301.3836v1.pdf",
     "Computer Science/Reinforcement Learning 1/MARL/3. Multi-Agent Reinforcement Learning.md",
     "Computer Science/Reinforcement Learning 1/MARL/2. Solutions to the Game.md",
@@ -280,12 +299,10 @@
     "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
     "Computer Science/Algorithm/2. Asymptotic Notation.md",
     "Computer Science/Algorithm/1. Introduction.md",
-    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Mathematics/Theory of Computation/3. Regular Expression.md",
     "Textbook/Introduction to the Theory of Computation.pdf",
-    "Mathematics/Theory of Computation/2. Nondeterministic Finite Automata.md",
     "Attached Files/Pasted image 20250204004007.png",
     "Attached Files/Pasted image 20250204003943.png",
     "Attached Files/Pasted image 20250203235226.png",
