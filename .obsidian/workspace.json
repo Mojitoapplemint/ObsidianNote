@@ -4,28 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "43fd3d248d0caaf5",
-        "type": "tabs",
-        "dimension": 67.10700132100396,
-        "children": [
-          {
-            "id": "b09261e3b5b9a88a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Computer Organization and Design RISC V Edition The HardwareSoftware Interface"
-            }
-          }
-        ]
-      },
-      {
         "id": "4f46c5708a424c8c",
         "type": "tabs",
-        "dimension": 32.89299867899604,
         "children": [
           {
             "id": "ecc301ffe7db4c3b",
@@ -270,10 +250,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
+  "floating": {
+    "id": "dcad296a0901d13e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "af93f67fda493fe6",
+        "type": "window",
+        "children": [
+          {
+            "id": "4ddd84f8d96c3254",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b09261e3b5b9a88a",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Computer Organization and Design RISC V Edition The HardwareSoftware Interface"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 853,
+        "y": 0,
+        "width": 854,
+        "height": 1019,
+        "maximize": false,
+        "zoom": 0.5
+      }
+    ]
+  },
   "active": "b09261e3b5b9a88a",
   "lastOpenFiles": [
-    "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
+    "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Computer Science/Computer Organization and Arch/5. Program Translation (Based on C).md",
     "Computer Science/Computer Organization and Arch/3. Procedures.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
