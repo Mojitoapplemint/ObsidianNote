@@ -53,14 +53,12 @@
             "id": "3426e14fdb60ba59",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Computer Science/Computer Organization and Arch/4. Character Data.md",
-                "mode": "source",
-                "source": false
+                "file": "Textbook/Introduction to the Theory of Computation.pdf"
               },
-              "icon": "lucide-file",
-              "title": "4. Character Data"
+              "icon": "lucide-file-text",
+              "title": "Introduction to the Theory of Computation"
             }
           },
           {
@@ -149,8 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -287,13 +284,13 @@
       }
     ]
   },
-  "active": "3426e14fdb60ba59",
+  "active": "c57e60c07883afd8",
   "lastOpenFiles": [
+    "Computer Science/Computer Organization and Arch/4. Character Data.md",
     "Computer Science/Computer Organization and Arch/3. Procedures.md",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
     "Computer Science/Computer Organization and Arch/5. Program Translation (Based on C).md",
-    "Computer Science/Computer Organization and Arch/4. Character Data.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Untitled.md",
