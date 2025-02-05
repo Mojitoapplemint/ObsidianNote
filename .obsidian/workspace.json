@@ -4,8 +4,28 @@
     "type": "split",
     "children": [
       {
+        "id": "43fd3d248d0caaf5",
+        "type": "tabs",
+        "dimension": 56.27476882430648,
+        "children": [
+          {
+            "id": "b09261e3b5b9a88a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Computer Organization and Design RISC V Edition The HardwareSoftware Interface"
+            }
+          }
+        ]
+      },
+      {
         "id": "4f46c5708a424c8c",
         "type": "tabs",
+        "dimension": 43.72523117569353,
         "children": [
           {
             "id": "ecc301ffe7db4c3b",
@@ -75,30 +95,6 @@
               },
               "icon": "lucide-file",
               "title": "5. Program Translation (Based on C)"
-            }
-          },
-          {
-            "id": "eef1dfdcf2a4dcbd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Computer Organization and Design RISC V Edition The HardwareSoftware Interface"
-            }
-          },
-          {
-            "id": "b09261e3b5b9a88a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Computer Organization and Design RISC V Edition The HardwareSoftware Interface"
             }
           },
           {
@@ -173,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -273,52 +270,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "dcad296a0901d13e",
-    "type": "floating",
-    "children": [
-      {
-        "id": "86682e365cf0996c",
-        "type": "window",
-        "children": [
-          {
-            "id": "86cb8e40c0af0f51",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e943463dbd83992b",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Computer Organization and Design RISC V Edition The HardwareSoftware Interface"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 854,
-        "height": 1019,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
-  },
   "active": "d40be03e7955eff0",
   "lastOpenFiles": [
-    "Mathematics/Linear Algebra/7. Linear Transformation.md",
-    "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
-    "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
-    "Computer Science/Computer Organization and Arch/3. Procedures.md",
-    "Computer Science/Computer Organization and Arch/4. Character Data.md",
+    "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Computer Science/Computer Organization and Arch/5. Program Translation (Based on C).md",
+    "Computer Science/Computer Organization and Arch/3. Procedures.md",
+    "Mathematics/Linear Algebra/7. Linear Transformation.md",
+    "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
+    "Computer Science/Computer Organization and Arch/4. Character Data.md",
     "Untitled.md",
     "To-do List.md",
     "Computer Science/Reinforcement Learning 1/Papers/1301.3836v1.pdf",
