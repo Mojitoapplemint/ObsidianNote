@@ -6,7 +6,7 @@
       {
         "id": "43fd3d248d0caaf5",
         "type": "tabs",
-        "dimension": 56.27476882430648,
+        "dimension": 67.10700132100396,
         "children": [
           {
             "id": "b09261e3b5b9a88a",
@@ -25,7 +25,7 @@
       {
         "id": "4f46c5708a424c8c",
         "type": "tabs",
-        "dimension": 43.72523117569353,
+        "dimension": 32.89299867899604,
         "children": [
           {
             "id": "ecc301ffe7db4c3b",
@@ -270,10 +270,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d40be03e7955eff0",
+  "active": "b09261e3b5b9a88a",
   "lastOpenFiles": [
-    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
+    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Computer Organization and Arch/5. Program Translation (Based on C).md",
     "Computer Science/Computer Organization and Arch/3. Procedures.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
