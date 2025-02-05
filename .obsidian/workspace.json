@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Computer Organization and Arch/0. Introduction.md",
+                "file": "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Introduction"
+              "title": "1. Computer Abstractions and Technology"
             }
           },
           {
@@ -237,6 +237,7 @@
   },
   "active": "ecc301ffe7db4c3b",
   "lastOpenFiles": [
+    "Computer Science/Computer Organization and Arch/0. Introduction.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
@@ -279,7 +280,6 @@
     "Mathematics/Linear Algebra/2. Linear System.md",
     "Mathematics/Linear Algebra/Markov Chain.md",
     "Computer Science/Reinforcement Learning 1/Dec-POMDP/Design Idea.md",
-    "Computer Science/Reinforcement Learning 1/MARL/2. Solutions to the Game.md",
     "Attached Files/Pasted image 20250128120424.png",
     "Personal/IS 24FALL - DES w. RL Paper/Oliehoek12RLBook.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/DecPOMDP-survey-final.pdf"
