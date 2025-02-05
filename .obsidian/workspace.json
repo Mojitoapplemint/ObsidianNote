@@ -77,8 +77,7 @@
               "title": "5. Program Translation (Based on C)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -273,13 +272,13 @@
       }
     ]
   },
-  "active": "d40be03e7955eff0",
+  "active": "ecc301ffe7db4c3b",
   "lastOpenFiles": [
+    "Computer Science/Computer Organization and Arch/5. Program Translation (Based on C).md",
+    "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
     "Computer Science/Computer Organization and Arch/3. Procedures.md",
-    "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
-    "Computer Science/Computer Organization and Arch/5. Program Translation (Based on C).md",
     "Computer Science/Computer Organization and Arch/4. Character Data.md",
     "Untitled.md",
     "To-do List.md",
