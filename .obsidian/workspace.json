@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -310,8 +310,9 @@
       }
     ]
   },
-  "active": "5dbd387d9bbc41c4",
+  "active": "d40be03e7955eff0",
   "lastOpenFiles": [
+    "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
@@ -336,7 +337,6 @@
     "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
     "Computer Science/Algorithm/2. Asymptotic Notation.md",
     "Computer Science/Algorithm/1. Introduction.md",
-    "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Mathematics/Theory of Computation/3. Regular Expression.md",
     "Textbook/Introduction to the Theory of Computation.pdf",
