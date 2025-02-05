@@ -6,19 +6,18 @@
       {
         "id": "af07c3908dd6d754",
         "type": "tabs",
+        "dimension": 56.671070013210034,
         "children": [
           {
             "id": "e943463dbd83992b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Computer Science/Computer Organization and Arch/6. Compiler.md",
-                "mode": "source",
-                "source": false
+                "file": "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf"
               },
-              "icon": "lucide-file",
-              "title": "6. Compiler"
+              "icon": "lucide-file-text",
+              "title": "Computer Organization and Design RISC V Edition The HardwareSoftware Interface"
             }
           },
           {
@@ -50,20 +49,6 @@
             }
           },
           {
-            "id": "ecc301ffe7db4c3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Computer Abstractions and Technology"
-            }
-          },
-          {
             "id": "c29458ff8634afe4",
             "type": "leaf",
             "state": {
@@ -77,8 +62,28 @@
               "title": "2. Nondeterministic Finite Automata"
             }
           }
-        ],
-        "currentTab": 3
+        ]
+      },
+      {
+        "id": "4f46c5708a424c8c",
+        "type": "tabs",
+        "dimension": 43.32892998678996,
+        "children": [
+          {
+            "id": "ecc301ffe7db4c3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Computer Abstractions and Technology"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +140,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -237,10 +243,12 @@
   },
   "active": "ecc301ffe7db4c3b",
   "lastOpenFiles": [
+    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
+    "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
+    "Computer Science/Computer Organization and Arch/6. Compiler.md",
     "Computer Science/Computer Organization and Arch/0. Introduction.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Linear Algebra/6. Vector Space.md",
-    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Mathematics/Theory of Computation/3. Regular Expression.md",
     "Textbook/Introduction to the Theory of Computation.pdf",
     "Mathematics/Theory of Computation/2. Nondeterministic Finite Automata.md",
@@ -249,9 +257,7 @@
     "Computer Science/Computer Organization and Arch/5. Program Translation (Based on C).md",
     "Attached Files/Pasted image 20250203235226.png",
     "Attached Files/Pasted image 20250203210122.png",
-    "Computer Science/Computer Organization and Arch/6. Compiler.md",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
-    "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
     "Computer Science/Computer Organization and Arch/3. Procedures.md",
     "Computer Science/Computer Organization and Arch/Untitled.md",
     "Untitled.md",
@@ -279,7 +285,6 @@
     "Computer Science/Reinforcement Learning 1/Papers/SeukenZilberstein 2008.pdf",
     "Mathematics/Linear Algebra/2. Linear System.md",
     "Mathematics/Linear Algebra/Markov Chain.md",
-    "Computer Science/Reinforcement Learning 1/Dec-POMDP/Design Idea.md",
     "Attached Files/Pasted image 20250128120424.png",
     "Personal/IS 24FALL - DES w. RL Paper/Oliehoek12RLBook.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/DecPOMDP-survey-final.pdf"
