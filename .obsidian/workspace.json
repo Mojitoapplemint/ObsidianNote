@@ -88,9 +88,21 @@
               "icon": "lucide-file-text",
               "title": "Computer Organization and Design RISC V Edition The HardwareSoftware Interface"
             }
+          },
+          {
+            "id": "b09261e3b5b9a88a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Computer Organization and Design RISC V Edition The HardwareSoftware Interface"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -284,14 +296,14 @@
       }
     ]
   },
-  "active": "eef1dfdcf2a4dcbd",
+  "active": "b09261e3b5b9a88a",
   "lastOpenFiles": [
-    "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
+    "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
+    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Computer Organization and Arch/3. Procedures.md",
     "Computer Science/Computer Organization and Arch/4. Character Data.md",
     "Computer Science/Computer Organization and Arch/5. Program Translation (Based on C).md",
-    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Untitled.md",
     "To-do List.md",
     "Computer Science/Reinforcement Learning 1/Papers/1301.3836v1.pdf",
