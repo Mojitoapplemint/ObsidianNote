@@ -282,20 +282,20 @@
         "y": 0,
         "width": 854,
         "height": 1019,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0.5
       }
     ]
   },
   "active": "b09261e3b5b9a88a",
   "lastOpenFiles": [
-    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
-    "Computer Science/Computer Organization and Arch/5. Program Translation (Based on C).md",
+    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
+    "Computer Science/Computer Organization and Arch/4. Character Data.md",
     "Computer Science/Computer Organization and Arch/3. Procedures.md",
+    "Computer Science/Computer Organization and Arch/5. Program Translation (Based on C).md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
-    "Computer Science/Computer Organization and Arch/4. Character Data.md",
     "Untitled.md",
     "To-do List.md",
     "Computer Science/Reinforcement Learning 1/Papers/1301.3836v1.pdf",
