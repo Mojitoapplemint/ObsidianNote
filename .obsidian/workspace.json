@@ -6,7 +6,7 @@
       {
         "id": "af07c3908dd6d754",
         "type": "tabs",
-        "dimension": 53.61216730038023,
+        "dimension": 53.61216730038022,
         "children": [
           {
             "id": "e943463dbd83992b",
@@ -25,7 +25,7 @@
       {
         "id": "4f46c5708a424c8c",
         "type": "tabs",
-        "dimension": 46.38783269961977,
+        "dimension": 46.38783269961978,
         "children": [
           {
             "id": "ecc301ffe7db4c3b",
@@ -97,7 +97,8 @@
               "title": "5. Program Translation (Based on C)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -255,16 +255,32 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ecc301ffe7db4c3b",
+  "active": "d40be03e7955eff0",
   "lastOpenFiles": [
+    "Untitled.md",
+    "To-do List.md",
+    "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
+    "Computer Science/Reinforcement Learning 1/Papers/1301.3836v1.pdf",
+    "Computer Science/Reinforcement Learning 1/MARL/3. Multi-Agent Reinforcement Learning.md",
+    "Computer Science/Reinforcement Learning 1/MARL/2. Solutions to the Game.md",
+    "Computer Science/Reinforcement Learning 1/MARL/1. Models of Multi-Agent Interaction.md",
+    "Computer Science/Reinforcement Learning 1/Dec-POMDP/Infinite Horizon Dec-POMDPs.md",
+    "Computer Science/Reinforcement Learning 1/Dec-POMDP/Design Idea.md",
+    "Computer Science/Reinforcement Learning 1/Dec-POMDP/1. Definition and Structure of Dec-POMDP.md",
+    "Computer Science/Data Structure and Algorithm/Data Structure and Algorithm.md",
+    "Computer Science/Computer Organization and Arch/Untitled.md",
+    "Computer Science/Computer Organization and Arch/6. Compiler.md",
     "Computer Science/Computer Organization and Arch/5. Program Translation (Based on C).md",
     "Computer Science/Computer Organization and Arch/4. Character Data.md",
     "Computer Science/Computer Organization and Arch/3. Procedures.md",
-    "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
-    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
-    "Computer Science/Computer Organization and Arch/6. Compiler.md",
     "Computer Science/Computer Organization and Arch/0. Introduction.md",
+    "Computer Science/Algorithm/5. Dynamic Programming.md",
+    "Computer Science/Algorithm/4. Greedy Algorithm.md",
+    "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
+    "Computer Science/Algorithm/2. Asymptotic Notation.md",
+    "Computer Science/Algorithm/1. Introduction.md",
+    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Mathematics/Theory of Computation/3. Regular Expression.md",
@@ -274,8 +290,6 @@
     "Attached Files/Pasted image 20250204003943.png",
     "Attached Files/Pasted image 20250203235226.png",
     "Attached Files/Pasted image 20250203210122.png",
-    "Computer Science/Computer Organization and Arch/Untitled.md",
-    "Untitled.md",
     "Attached Files/Pasted image 20250202155128.png",
     "Attached Files/Pasted image 20250202152728.png",
     "Attached Files/Pasted image 20250202152245.png",
@@ -286,21 +300,8 @@
     "Textbook/Advanced Linear and Matrix Algebra.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Personal/IS 24FALL - DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
-    "Computer Science/Reinforcement Learning 1/MARL/3. Multi-Agent Reinforcement Learning.md",
-    "Computer Science/Reinforcement Learning 1/SARL/1. Reinforcement Learning Fundamental.md",
-    "Computer Science/System Porgramming/5. Introduction of C.md",
-    "Mathematics/Differential Equation/1. Ordinary Differential Equation.md",
-    "Mathematics/Differential Equation/2. Growth and Decay.md",
-    "Mathematics/Differential Equation/3. Separable Equations.md",
-    "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
-    "Computer Science/System Porgramming/6. C Techniques and Functions.md",
-    "Computer Science/System Porgramming/7. C Memory Management.md",
-    "Computer Science/Reinforcement Learning 1/MARL/1. Models of Multi-Agent Interaction.md",
     "Computer Science/Reinforcement Learning 1/Papers/SeukenZilberstein 2008.pdf",
-    "Mathematics/Linear Algebra/2. Linear System.md",
-    "Mathematics/Linear Algebra/Markov Chain.md",
     "Attached Files/Pasted image 20250128120424.png",
-    "Personal/IS 24FALL - DES w. RL Paper/Oliehoek12RLBook.pdf",
-    "Computer Science/Reinforcement Learning 1/Papers/DecPOMDP-survey-final.pdf"
+    "Personal/IS 24FALL - DES w. RL Paper/Oliehoek12RLBook.pdf"
   ]
 }
