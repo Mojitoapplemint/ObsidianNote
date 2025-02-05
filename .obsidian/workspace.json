@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -282,18 +282,18 @@
         "y": 0,
         "width": 854,
         "height": 1019,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0.5
       }
     ]
   },
-  "active": "b09261e3b5b9a88a",
+  "active": "44e345500bd183eb",
   "lastOpenFiles": [
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
-    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
-    "Computer Science/Computer Organization and Arch/4. Character Data.md",
     "Computer Science/Computer Organization and Arch/3. Procedures.md",
+    "Computer Science/Computer Organization and Arch/4. Character Data.md",
     "Computer Science/Computer Organization and Arch/5. Program Translation (Based on C).md",
+    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
     "Untitled.md",
