@@ -61,8 +61,7 @@
               "title": "3. Regular Expression"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,12 +219,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d2f9f975e7225da9",
+  "active": "3426e14fdb60ba59",
   "lastOpenFiles": [
-    "Mathematics/Theory of Computation/2. Nondeterministic Finite Automata.md",
-    "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
     "Mathematics/Theory of Computation/3. Regular Expression.md",
     "Textbook/Introduction to the Theory of Computation.pdf",
+    "Mathematics/Theory of Computation/2. Nondeterministic Finite Automata.md",
+    "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
     "Computer Science/Computer Organization and Arch/4. Character Data.md",
     "Computer Science/Computer Organization and Arch/3. Procedures.md",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
@@ -250,7 +249,6 @@
     "Computer Science/Algorithm/4. Greedy Algorithm.md",
     "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
     "Computer Science/Algorithm/2. Asymptotic Notation.md",
-    "Computer Science/Algorithm/1. Introduction.md",
     "Attached Files/Pasted image 20250204004007.png",
     "Attached Files/Pasted image 20250204003943.png",
     "Attached Files/Pasted image 20250203235226.png",
