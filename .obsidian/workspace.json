@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -220,12 +220,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8318bc9bf87d14e7",
+  "active": "d2f9f975e7225da9",
   "lastOpenFiles": [
-    "Mathematics/Theory of Computation/3. Regular Expression.md",
-    "Textbook/Introduction to the Theory of Computation.pdf",
     "Mathematics/Theory of Computation/2. Nondeterministic Finite Automata.md",
     "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
+    "Mathematics/Theory of Computation/3. Regular Expression.md",
+    "Textbook/Introduction to the Theory of Computation.pdf",
     "Computer Science/Computer Organization and Arch/4. Character Data.md",
     "Computer Science/Computer Organization and Arch/3. Procedures.md",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
