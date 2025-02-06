@@ -60,6 +60,18 @@
               "icon": "lucide-file",
               "title": "3. Regular Expression"
             }
+          },
+          {
+            "id": "0412af0e0e55fb5c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Textbook/Introduction to the Theory of Computation.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Introduction to the Theory of Computation"
+            }
           }
         ]
       }
