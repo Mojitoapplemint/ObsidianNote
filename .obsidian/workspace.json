@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -180,6 +181,8 @@
   },
   "active": "b5f51e881bf780a2",
   "lastOpenFiles": [
+    "Mathematics/Complex Analysis/1. Basics of Complex Numbers.md",
+    "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Untitled 1.md",
     "Textbook/Introduction to the Theory of Computation.pdf",
     "Mathematics/Theory of Computation/3. Regular Expression.md",
@@ -191,7 +194,6 @@
     "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
     "Computer Science/Computer Organization and Arch/5. Program Translation (Based on C).md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
-    "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Untitled.md",
     "To-do List.md",
     "Computer Science/Reinforcement Learning 1/Papers/1301.3836v1.pdf",
@@ -208,7 +210,6 @@
     "Computer Science/Algorithm/5. Dynamic Programming.md",
     "Computer Science/Algorithm/4. Greedy Algorithm.md",
     "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
-    "Computer Science/Algorithm/2. Asymptotic Notation.md",
     "Attached Files/Pasted image 20250204004007.png",
     "Attached Files/Pasted image 20250204003943.png",
     "Attached Files/Pasted image 20250203235226.png",
