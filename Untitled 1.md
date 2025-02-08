@@ -108,4 +108,21 @@ Let $B=\{ E_{i,j}\text{ | }1\leq i,j\leq n \}=\{ E_{11}\dots E_{1n}, E_{21}\dots
 
 Observe that $\text{dim}(B)=n^{2}$
 
-Since $\mathbb{F}$ is a field, standard basis for $\mathbb{F}$ would be $\{ 1 \}$
+Let $D=\{ 1 \}$, then $D$ is a standard matrix of output vector space $\mathbb{F}$
+
+Consider $[T]_{D\leftarrow B}$
+
+$=\Big[[T(E_{11})]_{D}, [T(E_{12})]_{D}\dots[T(E_{nn})]_{D}\Big]$
+
+Since outputs of $T$ are some scalar $c\in \mathbb{F}$ and $D$ is standard basis of $\mathbb{F}$, $[T(E_{ij})]_{D}=T(E_{ij})$
+
+$\therefore[T]_{D\leftarrow B}=\Big[T(E_{11})\text{ | }T(E_{12})\text{ | }\dots T(E_{nn})\Big]$
+
+Let $A\in \mathcal{M}_{c}(\mathbb{F})$ and consider $T(A)$
+
+$T(A)=[T(A)]_{D}=[T]_{D\leftarrow B}\cdot[A]_{B}$
+
+Since $[T]_{D\leftarrow B}$ has size of $1\times n^{2}$ and $[A]_{B}$ is coordinate vector with length of $n^{2}$, $[T]_{D\leftarrow B}\cdot[A]_{B}$ is simply a dot product
+
+Let $[A]_{B}=[a_{11}, a_{12}\dots a_{nn}]$. Then, $[T]_{D\leftarrow B}\cdot[A]_{B}=T(E_{11})\cdot a_{11}+T(E_{12})\cdot a_{12}\dots T(E_{nn})\cdot a_{nn}=\sum^{n}_{i=1}\left( \sum^{n}_{j=0} T(E_{i,j})\cdot a_{ij} \right)$
+
