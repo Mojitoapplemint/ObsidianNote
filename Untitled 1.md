@@ -43,10 +43,30 @@ $\text{span}\Big(\begin{bmatrix}0\\-2\\0\\0\end{bmatrix},\begin{bmatrix}0\\-2\\0
 
 Since $\begin{bmatrix}1\\0\\1\\-1\end{bmatrix}, \begin{bmatrix}0\\1\\0\\0\end{bmatrix}$ are linearly independent, the basis of $\text{range}([T]_{B})$ is $\Big\{ \begin{bmatrix}1\\0\\1\\-1\end{bmatrix}, \begin{bmatrix}0\\1\\0\\0\end{bmatrix} \Big\}$
 
-This then unvectorized as follows:
+Since this is the basis based on standard matrix of $T$, we need to unvectorize it as follows:
 
 $\begin{bmatrix}1\\0\\1\\-1\end{bmatrix}= \begin{bmatrix}1&0\\0&0\end{bmatrix}+ \begin{bmatrix}0&0\\1&0\end{bmatrix}- \begin{bmatrix}0&0\\0&1\end{bmatrix}= \begin{bmatrix}1&0\\1&-1\end{bmatrix}$
 
 $\begin{bmatrix}0\\1\\0\\0\end{bmatrix}= \begin{bmatrix}0&1\\0&0\end{bmatrix}$
 
 Therefore, the basis of $\text{range}(T)$ is $\Big\{ \begin{bmatrix}1&0\\1&-1\end{bmatrix} , \begin{bmatrix}0&1\\0&0\end{bmatrix}\Big\}$
+
+ii) Basis of $\text{null}(T)=\{ \vec{v}\in \mathcal{M}_{2}(\mathbb{C})\text{ | } T(\vec{v})=0\}$
+
+Consider $\text{null}([T]_{B})=\begin{bmatrix}0&0&2&0&|&0\\-2&-2&0&2&|&0\\0&0&2&0&|&0\\0&0&-2&0&|&0\end{bmatrix}$
+
+From part a),
+
+$\begin{bmatrix}0&0&2&0&|&0\\-2&-2&0&2&|&0\\0&0&2&0&|&0\\0&0&-2&0&|&0\end{bmatrix}\xrightarrow{\text{Row Operations}}\begin{bmatrix}-2&-2&0&2&|&0\\0&0&2&0&|&0\\0&0&0&0&|&0\\0&0&0&0&|&0\end{bmatrix}$
+
+$-x_{1}-x_{2}+x_{4}=0 \implies x_{1}=-x_{2}+x_{4}$, $x_{3}=0$, $x_{2}$ and $x_{4}$ are free. Thus
+$\vec{x}=\begin{bmatrix}x_{1}\\x_{2}\\x_{3}\\x_{4}\end{bmatrix}=\begin{bmatrix}-x_{2}+x_{4}\\x_{2}\\0\\x_{4}\end{bmatrix}=x_{2}\cdot\begin{bmatrix}-1\\1\\0\\0\end{bmatrix}+x_{4}\cdot \begin{bmatrix}1\\0\\0\\1\end{bmatrix}=\text{span}\Big(\begin{bmatrix}-1\\1\\0\\0\end{bmatrix}, \begin{bmatrix}1\\0\\0\\1\end{bmatrix}\Big)$
+
+Since $\begin{bmatrix}-1\\1\\0\\0\end{bmatrix}, \begin{bmatrix}1\\0\\0\\1\end{bmatrix}$ are linearly independent, the basis of $\text{null}([T_{B}])$ is $\Big\{ \begin{bmatrix}-1\\1\\0\\0\end{bmatrix}, \begin{bmatrix}1\\0\\0\\1\end{bmatrix} \Big\}$.
+
+Since this is the basis based on standard matrix of $T$, we need to unvectorize it as follows:
+
+$\begin{bmatrix}-1\\1\\0\\0\end{bmatrix}=-1\cdot\begin{bmatrix}1&0\\0&0\end{bmatrix}+\begin{bmatrix}0&1\\0&0\end{bmatrix}=\begin{bmatrix}1&0\\0&0\end{bmatrix}$
+$\begin{bmatrix}1\\0\\0\\1\end{bmatrix}$
+
+
