@@ -104,3 +104,8 @@ $\therefore X=c\begin{bmatrix}-1&1\\-1&1\end{bmatrix}$ where $c\in\mathbb{C}$ (e
 
 No. 3 
 
+Let $B=\{ E_{i,j}\text{ | }1\leq i,j\leq n \}=\{ E_{11}\dots E_{1n}, E_{21}\dots E_{2n}, E_{31}\dots E_{nn} \}$, then $B$ is standard basis for $\mathcal{M}_{n}(\mathbb{F})$ 
+
+Observe that $\text{dim}(B)=n^{2}$
+
+Since $\mathbb{F}$ is a field, standard basis for $\mathbb{F}$ would be $\{ 1 \}$
