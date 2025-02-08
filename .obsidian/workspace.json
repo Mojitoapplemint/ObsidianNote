@@ -25,14 +25,12 @@
             "id": "c28e6b7da97515dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Mathematics/Linear Algebra/7. Linear Transformation.md",
-                "mode": "source",
-                "source": false
+                "file": "Textbook/Introduction to linear and matrix algebra.pdf"
               },
-              "icon": "lucide-file",
-              "title": "7. Linear Transformation"
+              "icon": "lucide-file-text",
+              "title": "Introduction to linear and matrix algebra"
             }
           },
           {
@@ -107,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -209,8 +208,8 @@
   },
   "active": "c28e6b7da97515dd",
   "lastOpenFiles": [
-    "Mathematics/Linear Algebra/5. Matrix Advance.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
+    "Mathematics/Linear Algebra/5. Matrix Advance.md",
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
     "Mathematics/Linear Algebra/4. Matrices.md",
