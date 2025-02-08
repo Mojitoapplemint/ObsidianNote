@@ -66,7 +66,22 @@ Since $\begin{bmatrix}-1\\1\\0\\0\end{bmatrix}, \begin{bmatrix}1\\0\\0\\1\end{bm
 
 Since this is the basis based on standard matrix of $T$, we need to unvectorize it as follows:
 
-$\begin{bmatrix}-1\\1\\0\\0\end{bmatrix}=-1\cdot\begin{bmatrix}1&0\\0&0\end{bmatrix}+\begin{bmatrix}0&1\\0&0\end{bmatrix}=\begin{bmatrix}1&0\\0&0\end{bmatrix}$
-$\begin{bmatrix}1\\0\\0\\1\end{bmatrix}$
+$\begin{bmatrix}-1\\1\\0\\0\end{bmatrix}=-1\cdot\begin{bmatrix}1&0\\0&0\end{bmatrix}+\begin{bmatrix}0&1\\0&0\end{bmatrix}=\begin{bmatrix}-1&1\\0&0\end{bmatrix}$
 
+$\begin{bmatrix}1\\0\\0\\1\end{bmatrix}=\begin{bmatrix}1&0\\0&0\end{bmatrix}+\begin{bmatrix}0&0\\0&1\end{bmatrix}=\begin{bmatrix}1&0\\0&1\end{bmatrix}$
 
+Therefore, the basis of $\text{null}([T]_{B})=\Big\{ \begin{bmatrix}-1&1\\0&0\end{bmatrix}, \begin{bmatrix}1&0\\0&1\end{bmatrix} \Big\}$
+
+d)
+Consider $\det([T]_{B}-\lambda I)$
+
+$\begin{vmatrix}-\lambda&0&2&0\\-2&-2-\lambda&0&2\\0&0&2-\lambda&0\\0&0&-2&-\lambda\end{vmatrix}=(-\lambda)\begin{vmatrix}-2-\lambda&0&2\\0&2-\lambda&0\\0&-2&-\lambda\end{vmatrix}+2\begin{vmatrix}-2&-2-\lambda&2\\0&0&0\\0&0&-\lambda\end{vmatrix}$
+
+Since $\begin{bmatrix}-2&-2-\lambda&2\\0&0&0\\0&0&-\lambda\end{bmatrix}$ has zero row, its determinant is zero.
+
+$=(-\lambda)\begin{vmatrix}-2-\lambda&0&2\\0&2-\lambda&0\\0&-2&-\lambda\end{vmatrix}=(-\lambda)(-2-\lambda)\begin{vmatrix}2-\lambda&0\\-2&-\lambda\end{vmatrix}=(-\lambda)(-2-\lambda)(2-\lambda)(-\lambda)=-\lambda^{2}(2+\lambda)(2-\lambda)$
+Therefore, eigenvalues are 0,-2, and 2.
+
+e)
+
+Consider $$
