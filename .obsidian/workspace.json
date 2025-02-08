@@ -25,12 +25,14 @@
             "id": "c28e6b7da97515dd",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Textbook/Introduction to linear and matrix algebra.pdf"
+                "file": "Mathematics/Linear Algebra/7. Linear Transformation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Introduction to linear and matrix algebra"
+              "icon": "lucide-file",
+              "title": "7. Linear Transformation"
             }
           },
           {
@@ -39,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Linear Algebra/5. Matrix Advance.md",
+                "file": "Mathematics/Linear Algebra/6. Vector Space.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Matrix Advance"
+              "title": "6. Vector Space"
             }
           }
         ],
@@ -105,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -208,10 +209,11 @@
   },
   "active": "c28e6b7da97515dd",
   "lastOpenFiles": [
-    "Mathematics/Linear Algebra/7. Linear Transformation.md",
-    "Mathematics/Linear Algebra/5. Matrix Advance.md",
+    "Textbook/Introduction to linear and matrix algebra.pdf",
     "Mathematics/Linear Algebra/6. Vector Space.md",
+    "Mathematics/Linear Algebra/5. Matrix Advance.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
+    "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Linear Algebra/4. Matrices.md",
     "Mathematics/Linear Algebra/1. Vector Fundamentals.md",
     "Mathematics/Complex Analysis/1. Basics of Complex Numbers.md",
@@ -236,7 +238,6 @@
     "Computer Science/Reinforcement Learning 1/Dec-POMDP/Design Idea.md",
     "Computer Science/Reinforcement Learning 1/Dec-POMDP/1. Definition and Structure of Dec-POMDP.md",
     "Computer Science/Data Structure and Algorithm/Data Structure and Algorithm.md",
-    "Computer Science/Computer Organization and Arch/Untitled.md",
     "Attached Files/Pasted image 20250204004007.png",
     "Attached Files/Pasted image 20250204003943.png",
     "Attached Files/Pasted image 20250203235226.png",
@@ -252,7 +253,6 @@
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Personal/IS 24FALL - DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/SeukenZilberstein 2008.pdf",
-    "Attached Files/Pasted image 20250128120424.png",
-    "Personal/IS 24FALL - DES w. RL Paper/Oliehoek12RLBook.pdf"
+    "Attached Files/Pasted image 20250128120424.png"
   ]
 }
