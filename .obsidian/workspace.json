@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Linear Algebra/5. Matrix Advance.md",
+                "file": "Mathematics/Linear Algebra/7. Linear Transformation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Matrix Advance"
+              "title": "7. Linear Transformation"
             }
           },
           {
@@ -209,9 +209,9 @@
   },
   "active": "c28e6b7da97515dd",
   "lastOpenFiles": [
+    "Mathematics/Linear Algebra/5. Matrix Advance.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Linear Algebra/6. Vector Space.md",
-    "Mathematics/Linear Algebra/5. Matrix Advance.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
     "Mathematics/Linear Algebra/4. Matrices.md",
     "Mathematics/Linear Algebra/1. Vector Fundamentals.md",
