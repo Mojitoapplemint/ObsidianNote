@@ -53,7 +53,7 @@ Therefore, the basis of $\text{range}(T)$ is $\Big\{ \begin{bmatrix}1&0\\1&-1\en
 
 ii) Basis of $\text{null}(T)=\{ \vec{v}\in \mathcal{M}_{2}(\mathbb{C})\text{ | } T(\vec{v})=0\}$
 
-Consider $\text{null}([T]_{B})=\begin{bmatrix}0&0&2&0&|&0\\-2&-2&0&2&|&0\\0&0&2&0&|&0\\0&0&-2&0&|&0\end{bmatrix}$
+Consider $\text{null}([T]_{B})$
 
 From part a),
 
@@ -84,4 +84,12 @@ Therefore, eigenvalues are 0,-2, and 2.
 
 e)
 
-Consider $$
+Consider $\Big[[T]_{B}-2I\text{ | }\vec{0}\Big]$
+$\begin{bmatrix}-2&0&2&0&|&0\\-2&-4&0&2&|&0\\0&0&0&0&|&0\\0&0&-2&-2&|&0\end{bmatrix}\xrightarrow{R_{1}+R_{4}}\begin{bmatrix}-2&0&0&-2&|&0\\-2&-4&0&2&|&0\\0&0&0&0&|&0\\0&0&-2&-2&|&0\end{bmatrix}\xrightarrow{R_{2}-R_{1}}\begin{bmatrix}-2&0&0&-2&|&0\\0&-4&0&4&|&0\\0&0&0&0&|&0\\0&0&-2&-2&|&0\end{bmatrix}$
+$\xrightarrow{R_{3}\leftrightarrow R_{4}}\begin{bmatrix}-2&0&0&-2&|&0\\0&-4&0&4&|&0\\0&0&-2&-2&|&0\\0&0&0&0&|&0\end{bmatrix}\xrightarrow{-\frac{1}{2}R_{1}\text{ , } \frac{1}{4}R_{2}\text{ , } -\frac{1}{2}R_{3}}\begin{bmatrix}1&0&0&1&|&0\\0&-1&0&1&|&0\\0&0&1&1&|&0\\0&0&0&0&|&0\end{bmatrix}$
+
+
+$x_{1}=-x_{4}, x_{2}=x_{4}, x_{3}=-x_{4}$ and $x_{4}$ is free. Thus, $\vec{x}=x_{4}\cdot\text{span}\Big(\begin{bmatrix}-1\\1\\-1\\1\end{bmatrix}\Big)$
+
+Again, since this is calculated based on standard matrix, 
+
