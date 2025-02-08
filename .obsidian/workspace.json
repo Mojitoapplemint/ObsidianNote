@@ -48,6 +48,18 @@
               "icon": "lucide-file",
               "title": "6. Vector Space"
             }
+          },
+          {
+            "id": "9f3ef073e194b86c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Textbook/Introduction to linear and matrix algebra.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Introduction to linear and matrix algebra"
+            }
           }
         ],
         "currentTab": 1
@@ -107,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -209,11 +222,11 @@
   },
   "active": "c28e6b7da97515dd",
   "lastOpenFiles": [
-    "Textbook/Introduction to linear and matrix algebra.pdf",
     "Mathematics/Linear Algebra/6. Vector Space.md",
-    "Mathematics/Linear Algebra/5. Matrix Advance.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
+    "Textbook/Introduction to linear and matrix algebra.pdf",
+    "Mathematics/Linear Algebra/5. Matrix Advance.md",
     "Mathematics/Linear Algebra/4. Matrices.md",
     "Mathematics/Linear Algebra/1. Vector Fundamentals.md",
     "Mathematics/Complex Analysis/1. Basics of Complex Numbers.md",
