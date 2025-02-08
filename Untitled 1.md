@@ -84,12 +84,23 @@ Therefore, eigenvalues are 0,-2, and 2.
 
 e)
 
+If $T(X)=2X$, then $[T]_{B}\cdot[X]_{B}=2[X]_{B}$. Then $[T]_{B}\cdot[X]_{B}-2[X]_{B}=0\implies([T]_{B}-2I)[X]_{B}=\vec{0}$
+- This implies that $[X]_{B}$ is solution for $\Big[[T]_{B}-2I\text{ | }\vec{0}\Big]$
+
 Consider $\Big[[T]_{B}-2I\text{ | }\vec{0}\Big]$
 $\begin{bmatrix}-2&0&2&0&|&0\\-2&-4&0&2&|&0\\0&0&0&0&|&0\\0&0&-2&-2&|&0\end{bmatrix}\xrightarrow{R_{1}+R_{4}}\begin{bmatrix}-2&0&0&-2&|&0\\-2&-4&0&2&|&0\\0&0&0&0&|&0\\0&0&-2&-2&|&0\end{bmatrix}\xrightarrow{R_{2}-R_{1}}\begin{bmatrix}-2&0&0&-2&|&0\\0&-4&0&4&|&0\\0&0&0&0&|&0\\0&0&-2&-2&|&0\end{bmatrix}$
 $\xrightarrow{R_{3}\leftrightarrow R_{4}}\begin{bmatrix}-2&0&0&-2&|&0\\0&-4&0&4&|&0\\0&0&-2&-2&|&0\\0&0&0&0&|&0\end{bmatrix}\xrightarrow{-\frac{1}{2}R_{1}\text{ , } \frac{1}{4}R_{2}\text{ , } -\frac{1}{2}R_{3}}\begin{bmatrix}1&0&0&1&|&0\\0&-1&0&1&|&0\\0&0&1&1&|&0\\0&0&0&0&|&0\end{bmatrix}$
 
 
-$x_{1}=-x_{4}, x_{2}=x_{4}, x_{3}=-x_{4}$ and $x_{4}$ is free. Thus, $\vec{x}=x_{4}\cdot\text{span}\Big(\begin{bmatrix}-1\\1\\-1\\1\end{bmatrix}\Big)$
+$x_{1}=-x_{4}, x_{2}=x_{4}, x_{3}=-x_{4}$ and $x_{4}$ is free. Thus, $[X]_{B}=\text{span}\Big(\begin{bmatrix}-1\\1\\-1\\1\end{bmatrix}\Big)$
 
-Again, since this is calculated based on standard matrix, 
+This is standard unvectorized as
+
+$-\begin{bmatrix}1&0\\0&0\end{bmatrix}+\begin{bmatrix}0&1\\0&0\end{bmatrix}-\begin{bmatrix}0&0\\1&0\end{bmatrix}+\begin{bmatrix}0&0\\0&1\end{bmatrix}=\begin{bmatrix}-1&1\\-1&1\end{bmatrix}$
+
+
+$\therefore X=c\begin{bmatrix}-1&1\\-1&1\end{bmatrix}$ where $c\in\mathbb{C}$ (e.g. $\begin{bmatrix}-1&1\\-1&1\end{bmatrix}$)
+
+
+No. 3 
 
