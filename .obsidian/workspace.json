@@ -53,14 +53,12 @@
             "id": "a5e9e7f69e0739f7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Computer Science/Reinforcement Learning 1/Dec-POMDP/Design Idea.md",
-                "mode": "source",
-                "source": false
+                "file": "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Design Idea"
+              "icon": "lucide-file-text",
+              "title": "marl-book"
             }
           },
           {
@@ -235,6 +233,7 @@
   },
   "active": "a5e9e7f69e0739f7",
   "lastOpenFiles": [
+    "Computer Science/Reinforcement Learning 1/Dec-POMDP/Design Idea.md",
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Untitled 1.md",
     "Computer Science/Git & GitHub.md",
@@ -263,7 +262,6 @@
     "Computer Science/Reinforcement Learning 1/MARL/2. Solutions to the Game.md",
     "Computer Science/Reinforcement Learning 1/MARL/1. Models of Multi-Agent Interaction.md",
     "Computer Science/Reinforcement Learning 1/Dec-POMDP/Infinite Horizon Dec-POMDPs.md",
-    "Computer Science/Reinforcement Learning 1/Dec-POMDP/Design Idea.md",
     "Computer Science/Reinforcement Learning 1/Dec-POMDP/1. Definition and Structure of Dec-POMDP.md",
     "Attached Files/Pasted image 20250204004007.png",
     "Attached Files/Pasted image 20250204003943.png",
