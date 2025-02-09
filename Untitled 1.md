@@ -124,5 +124,18 @@ $T(A)=[T(A)]_{D}=[T]_{D\leftarrow B}\cdot[A]_{B}$
 
 Since $[T]_{D\leftarrow B}$ has size of $1\times n^{2}$ and $[A]_{B}$ is coordinate vector with length of $n^{2}$, $[T]_{D\leftarrow B}\cdot[A]_{B}$ is simply a dot product
 
-Let $[A]_{B}=[a_{11}, a_{12}\dots a_{nn}]$. Then, $[T]_{D\leftarrow B}\cdot[A]_{B}=T(E_{11})\cdot a_{11}+T(E_{12})\cdot a_{12}\dots T(E_{nn})\cdot a_{nn}=\sum^{n}_{i=1}\left( \sum^{n}_{j=0} T(E_{i,j})\cdot a_{ij} \right)$
+Let $[A]_{B}=[a_{11}, a_{12}\dots a_{nn}]$. Then, $[T]_{D\leftarrow B}\cdot[A]_{B}=T(E_{11})\cdot a_{11}+T(E_{12})\cdot a_{12}\dots T(E_{nn})\cdot a_{nn}=\displaystyle\sum^{n}_{i=1}\left( \sum^{n}_{j=0} T(E_{i,j})\cdot a_{ij} \right)$
+
+Consider $\text{tr}(XA)$.
+
+Then each entry of $XA$, let's call it $(XA)_{i,j}$, is a dot product of $i$ row of $X$ and $j$'th column of $A$. Since trace is sum of diagonal entries, let's express each diagonal entries with corresponding dot product
+
+$(XA)_{1,1}=\sum^{n}_{i=1}X_{1,i}\cdot A_{i,1}$
+
+$(XA)_{2,2}=\sum^{n}_{i=1}X_{2,i}\cdot A_{i,2}$
+
+$\vdots$
+
+$(XA)_{n,n}=\sum^{n}_{i=1}X_{n,i}\cdot A_{i,n}$
+
 

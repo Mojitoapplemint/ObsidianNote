@@ -230,17 +230,16 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "dd8b7a9307476dd6",
   "lastOpenFiles": [
+    "Mathematics/Linear Algebra/6. Vector Space.md",
+    "Untitled 1.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Linear Algebra/Markov Chain.md",
     "Untitled.md",
-    "Mathematics/Linear Algebra/6. Vector Space.md",
-    "Untitled 1.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
     "Textbook/Introduction to linear and matrix algebra.pdf",
     "Mathematics/Linear Algebra/5. Matrix Advance.md",
