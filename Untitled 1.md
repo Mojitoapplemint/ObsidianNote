@@ -138,4 +138,7 @@ $\vdots$
 
 $(XA)_{n,n}=\sum^{n}_{i=1}X_{n,i}\cdot A_{i,n}$
 
-
+Then,
+$\text{tr}(XA)=(XA)_{1,1}+(XA)_{2,2}\dots(XA)_{n,n}$
+$=\sum^{n}_{i=1}X_{1,i}\cdot A_{i,1}+\sum^{n}_{i=1}X_{2,i}\cdot A_{i,2}\dots\sum^{n}_{i=1}X_{n,i}\cdot A_{i,n}$
+$=\sum^{n}_{i=0}\left( \sum^{n}_{j=0} X_{i,j}\cdot A_{i,j} \right)$
