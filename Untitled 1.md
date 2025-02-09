@@ -126,6 +126,8 @@ Since $[T]_{D\leftarrow B}$ has size of $1\times n^{2}$ and $[A]_{B}$ is coordin
 
 Let $[A]_{B}=(a_{11}, a_{12}\dots a_{nn})$. Then, $[T]_{D\leftarrow B}\cdot[A]_{B}=T(E_{11})\cdot a_{11}+T(E_{12})\cdot a_{12}\dots T(E_{nn})\cdot a_{nn}=\displaystyle\sum^{n}_{i=1}\left( \sum^{n}_{j=0} T(E_{i,j})\cdot a_{ij} \right)$
 
+$\therefore T(A)=\displaystyle\sum^{n}_{i=1}\left( \sum^{n}_{j=0} T(E_{i,j})\cdot a_{ij} \right)\dots(1)$
+
 Consider $\text{tr}(XA)$.
 
 Then each entry of $XA$, let's call it $(XA)_{i,j}$, is a dot product of $i$ row of $X$ and $j$'th column of $A$. Since trace is sum of diagonal entries, let's express each diagonal entries with corresponding dot product
@@ -144,5 +146,10 @@ $=\sum^{n}_{i=1}X_{1,i}\cdot A_{i,1}+\sum^{n}_{i=1}X_{2,i}\cdot A_{i,2}\dots\sum
 $=\sum^{n}_{i=0}\left( \sum^{n}_{j=0} X_{i,j}\cdot A_{i,j} \right)$
 
 Since $A\in \mathcal{M}_{n}(\mathbb{F})$ and $B$ is a standard basis of $\mathcal{M}_{n}(\mathbb{F})$, $A_{i,j}=a_{i,j}$
-$\therefore\text{tr}(XA)=$
+$\therefore\text{tr}(XA)=\displaystyle\sum^{n}_{i=0}\left( \sum^{n}_{j=0} X_{i,j}\cdot a_{i,j} \right)\dots(2)$
 
+Consider $(1)$ and $(2)$
+
+We can define $X$ such that $X_{i,j}=T(E_{i,j})$. Then, $\forall \text{ }A\in \mathcal{M}_{n}(\mathbb{F}),\quad \text{tr}(XA)=\displaystyle\sum^{n}_{i=0}\left( \sum^{n}_{j=0} X_{i,j}\cdot a_{i,j} \right)=\displaystyle\sum^{n}_{i=1}\left( \sum^{n}_{j=0} T(E_{i,j})\cdot a_{ij} \right)=T(A)$ 
+
+$\therefore \exists \text{ }X$ such that $\text{tr}(XA)=T(A)$
