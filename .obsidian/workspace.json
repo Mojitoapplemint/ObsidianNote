@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -231,10 +231,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dd8b7a9307476dd6",
+  "active": "a5e9e7f69e0739f7",
   "lastOpenFiles": [
-    "Mathematics/Differential Equation/3. Separable Equations.md",
+    "Textbook/Introduction to linear and matrix algebra.pdf",
     "Mathematics/Differential Equation/2. Growth and Decay.md",
+    "Mathematics/Differential Equation/3. Separable Equations.md",
     "Mathematics/Differential Equation/1. Ordinary Differential Equation.md",
     "Untitled 1.md",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
@@ -245,7 +246,6 @@
     "Mathematics/Linear Algebra/Markov Chain.md",
     "Untitled.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
-    "Textbook/Introduction to linear and matrix algebra.pdf",
     "Mathematics/Linear Algebra/5. Matrix Advance.md",
     "Mathematics/Linear Algebra/4. Matrices.md",
     "Mathematics/Linear Algebra/1. Vector Fundamentals.md",
@@ -263,7 +263,6 @@
     "To-do List.md",
     "Computer Science/Reinforcement Learning 1/Papers/1301.3836v1.pdf",
     "Computer Science/Reinforcement Learning 1/MARL/3. Multi-Agent Reinforcement Learning.md",
-    "Computer Science/Reinforcement Learning 1/MARL/2. Solutions to the Game.md",
     "Attached Files/Pasted image 20250204004007.png",
     "Attached Files/Pasted image 20250204003943.png",
     "Attached Files/Pasted image 20250203235226.png",
