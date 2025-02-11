@@ -4,91 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "ec0d7ddfaf096274",
+        "id": "da9f56d6d19b4ab7",
         "type": "tabs",
+        "dimension": 62.54953764861294,
         "children": [
           {
-            "id": "b5f51e881bf780a2",
+            "id": "9897af73f3e1e9d8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Mathematics/Linear Algebra/2. Linear System.md",
-                "mode": "source",
-                "source": false
+                "file": "Textbook/Introduction to the Theory of Computation.pdf"
               },
-              "icon": "lucide-file",
-              "title": "2. Linear System"
+              "icon": "lucide-file-text",
+              "title": "Introduction to the Theory of Computation"
             }
-          },
-          {
-            "id": "c28e6b7da97515dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Linear Algebra/7. Linear Transformation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7. Linear Transformation"
-            }
-          },
-          {
-            "id": "dd8b7a9307476dd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Differential Equation/2. Growth and Decay.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. Growth and Decay"
-            }
-          },
+          }
+        ]
+      },
+      {
+        "id": "ec0d7ddfaf096274",
+        "type": "tabs",
+        "dimension": 37.45046235138705,
+        "children": [
           {
             "id": "a5e9e7f69e0739f7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "marl-book"
-            }
-          },
-          {
-            "id": "9f3ef073e194b86c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Textbook/Introduction to linear and matrix algebra.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Introduction to linear and matrix algebra"
-            }
-          },
-          {
-            "id": "4bbf1ef1c65059cb",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Differential Equation/3. Separable Equations.md",
+                "file": "Mathematics/Theory of Computation/4..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Separable Equations"
+              "title": "4."
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -245,13 +199,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4bbf1ef1c65059cb",
+  "active": "9897af73f3e1e9d8",
   "lastOpenFiles": [
+    "Mathematics/Theory of Computation/4..md",
+    "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
+    "Mathematics/Differential Equation/3. Separable Equations.md",
     "Mathematics/Differential Equation/2. Growth and Decay.md",
     "Computer Science/Computer Organization and Arch/7..md",
-    "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Textbook/Introduction to linear and matrix algebra.pdf",
-    "Mathematics/Differential Equation/3. Separable Equations.md",
     "Mathematics/Differential Equation/1. Ordinary Differential Equation.md",
     "Untitled 1.md",
     "Computer Science/Reinforcement Learning 1/Dec-POMDP/Design Idea.md",
@@ -275,9 +230,7 @@
     "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
     "Computer Science/Computer Organization and Arch/5. Program Translation (Based on C).md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
-    "To-do List.md",
     "Computer Science/Reinforcement Learning 1/Papers/1301.3836v1.pdf",
-    "Computer Science/Reinforcement Learning 1/MARL/3. Multi-Agent Reinforcement Learning.md",
     "Attached Files/Pasted image 20250204004007.png",
     "Attached Files/Pasted image 20250204003943.png",
     "Attached Files/Pasted image 20250203235226.png",
