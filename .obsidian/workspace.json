@@ -34,8 +34,7 @@
               "title": "Latex Suite Personal Setting"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "ec0d7ddfaf096274",
@@ -214,11 +213,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0e6dfe3187aa6af6",
+  "active": "a5e9e7f69e0739f7",
   "lastOpenFiles": [
-    "Mathematics/Theory of Computation/4. Context-Free Grammar.md",
     "Textbook/Introduction to the Theory of Computation.pdf",
     "Personal/Latex Suite Personal Setting.md",
+    "Mathematics/Theory of Computation/4. Context-Free Grammar.md",
     "Mathematics/Differential Equation/3. Separable Equations.md",
     "Mathematics/Differential Equation/1. Ordinary Differential Equation.md",
     "Mathematics/Differential Equation/2. Growth and Decay.md",
