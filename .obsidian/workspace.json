@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -231,11 +231,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d8a1033c436ebdf5",
+  "active": "fc3ec1fcde331991",
   "lastOpenFiles": [
+    "Mathematics/Theory of Computation/3. Regular Expression.md",
     "Mathematics/Theory of Computation/4. Context-Free Grammar.md",
     "Textbook/Introduction to the Theory of Computation.pdf",
-    "Mathematics/Theory of Computation/3. Regular Expression.md",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Mathematics/Theory of Computation/2. Nondeterministic Finite Automata.md",
     "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
