@@ -34,8 +34,7 @@
               "title": "3. Separable Equations"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "ec0d7ddfaf096274",
@@ -48,12 +47,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Theory of Computation/4..md",
+                "file": "Mathematics/Theory of Computation/4. Context-Free Grammar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4."
+              "title": "4. Context-Free Grammar"
             }
           }
         ]
@@ -113,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -213,13 +213,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0e6dfe3187aa6af6",
+  "active": "a5e9e7f69e0739f7",
   "lastOpenFiles": [
-    "Mathematics/Differential Equation/1. Ordinary Differential Equation.md",
-    "Mathematics/Differential Equation/3. Separable Equations.md",
-    "Mathematics/Differential Equation/2. Growth and Decay.md",
     "Textbook/Introduction to the Theory of Computation.pdf",
-    "Mathematics/Theory of Computation/4..md",
+    "Mathematics/Differential Equation/3. Separable Equations.md",
+    "Mathematics/Differential Equation/1. Ordinary Differential Equation.md",
+    "Mathematics/Differential Equation/2. Growth and Decay.md",
+    "Mathematics/Theory of Computation/4. Context-Free Grammar.md",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Computer Science/Computer Organization and Arch/7..md",
     "Textbook/Introduction to linear and matrix algebra.pdf",
