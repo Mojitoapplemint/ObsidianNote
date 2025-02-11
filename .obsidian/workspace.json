@@ -33,8 +33,21 @@
               "icon": "lucide-file",
               "title": "Latex Suite Personal Setting"
             }
+          },
+          {
+            "id": "fc3ec1fcde331991",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "marl-book"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "ec0d7ddfaf096274",
@@ -213,11 +226,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a5e9e7f69e0739f7",
+  "active": "fc3ec1fcde331991",
   "lastOpenFiles": [
+    "Computer Science/Reinforcement Learning 1/Dec-POMDP/Design Idea.md",
+    "Mathematics/Theory of Computation/4. Context-Free Grammar.md",
     "Textbook/Introduction to the Theory of Computation.pdf",
     "Personal/Latex Suite Personal Setting.md",
-    "Mathematics/Theory of Computation/4. Context-Free Grammar.md",
     "Mathematics/Differential Equation/3. Separable Equations.md",
     "Mathematics/Differential Equation/1. Ordinary Differential Equation.md",
     "Mathematics/Differential Equation/2. Growth and Decay.md",
@@ -225,7 +239,6 @@
     "Computer Science/Computer Organization and Arch/7..md",
     "Textbook/Introduction to linear and matrix algebra.pdf",
     "Untitled 1.md",
-    "Computer Science/Reinforcement Learning 1/Dec-POMDP/Design Idea.md",
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Computer Science/Git & GitHub.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
