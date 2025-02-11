@@ -19,6 +19,8 @@
     {trigger: "any", replacement: "\\forall \\text{ }", options: "mA"},
     {trigger: "ext", replacement: "\\exists \text{ }", options: "MA"},
     {trigger: "[[a-zA-Z]][[0-9i]]", replacement: "[[0]]_{[[1]]}", options: "rmA"},
+    {trigger: "R>", replacement: "\\Rightarrow", options: "mA"},
+    {trigger: "xR>", replacement: "\\xRightarrow{$0}", options: "mA"},
     {trigger: "f", replacement: "f($0)", options: "mA"},
     {trigger: "g", replacement: "g($0)", options: "mA"},
     {trigger: "pi", replacement: "\\pi", options: "mA"},
