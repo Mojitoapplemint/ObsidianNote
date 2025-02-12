@@ -58,9 +58,21 @@
               "icon": "lucide-file-text",
               "title": "Advanced Linear and Matrix Algebra"
             }
+          },
+          {
+            "id": "9c89fd2d5f6df27b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Textbook/Advanced Linear and Matrix Algebra.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Advanced Linear and Matrix Algebra"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -213,18 +225,17 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4fa5f1be8f42fbb0",
+  "active": "9c89fd2d5f6df27b",
   "lastOpenFiles": [
+    "Textbook/Advanced Linear and Matrix Algebra.pdf",
     "Mathematics/Linear Algebra/8. Inner Product.md",
     "Computer Science/Reinforcement Learning 1/MARL/1. Models of Multi-Agent Interaction.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Theory of Computation/3. Regular Expression.md",
     "Mathematics/Theory of Computation/4. Context-Free Grammar.md",
-    "Textbook/Advanced Linear and Matrix Algebra.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Textbook/Advanced Linear and Matrix Algebra 1.pdf",
     "Computer Science/Reinforcement Learning 1/MARL/2. Solutions to the Game.md",
@@ -249,7 +260,6 @@
     "Mathematics/Linear Algebra/5. Matrix Advance.md",
     "Mathematics/Linear Algebra/4. Matrices.md",
     "Mathematics/Linear Algebra/1. Vector Fundamentals.md",
-    "Mathematics/Complex Analysis/1. Basics of Complex Numbers.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/1301.3836v1.pdf",
     "Attached Files/Pasted image 20250204004007.png",
