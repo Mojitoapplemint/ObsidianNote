@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Theory of Computation/4. Pumping Lemma.md",
+                "file": "Mathematics/Linear Algebra/2. Linear System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Pumping Lemma"
+              "title": "2. Linear System"
             }
           },
           {
@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -244,13 +243,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8ceed4b7e8b18561",
+  "active": "0e6dfe3187aa6af6",
   "lastOpenFiles": [
+    "Mathematics/Theory of Computation/4. Pumping Lemma.md",
     "Textbook/Advanced Linear and Matrix Algebra.pdf",
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
     "Textbook/Introduction to the Theory of Computation.pdf",
-    "Mathematics/Theory of Computation/4. Pumping Lemma.md",
     "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
     "Mathematics/Theory of Computation/3. Regular Expression.md",
     "Mathematics/Theory of Computation/2. Nondeterministic Finite Automata.md",
