@@ -40,12 +40,14 @@
             "id": "4fa5f1be8f42fbb0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Textbook/Advanced Linear and Matrix Algebra.pdf"
+                "file": "Mathematics/Linear Algebra/7. Linear Transformation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Advanced Linear and Matrix Algebra"
+              "icon": "lucide-file",
+              "title": "7. Linear Transformation"
             }
           },
           {
@@ -151,8 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -254,8 +255,8 @@
   },
   "active": "4fa5f1be8f42fbb0",
   "lastOpenFiles": [
-    "Mathematics/Linear Algebra/6. Vector Space.md",
     "Textbook/Advanced Linear and Matrix Algebra.pdf",
+    "Mathematics/Linear Algebra/6. Vector Space.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
     "Mathematics/Theory of Computation/4. Pumping Lemma.md",
     "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
