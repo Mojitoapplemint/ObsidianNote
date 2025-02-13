@@ -6,7 +6,7 @@
       {
         "id": "da9f56d6d19b4ab7",
         "type": "tabs",
-        "dimension": 70.14531043593131,
+        "dimension": 65.32364597093792,
         "children": [
           {
             "id": "9897af73f3e1e9d8",
@@ -73,12 +73,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "acedba176e03b44a",
         "type": "tabs",
-        "dimension": 29.854689564068693,
+        "dimension": 34.67635402906209,
         "children": [
           {
             "id": "63540995607e06fc",
@@ -252,7 +252,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8ceed4b7e8b18561",
+  "active": "4fa5f1be8f42fbb0",
   "lastOpenFiles": [
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Textbook/Advanced Linear and Matrix Algebra.pdf",
