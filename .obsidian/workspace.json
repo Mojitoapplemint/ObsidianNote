@@ -6,7 +6,6 @@
       {
         "id": "da9f56d6d19b4ab7",
         "type": "tabs",
-        "dimension": 56.73712021136063,
         "children": [
           {
             "id": "9897af73f3e1e9d8",
@@ -71,15 +70,7 @@
               "icon": "lucide-file-text",
               "title": "Advanced Linear and Matrix Algebra"
             }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "6d4f70d74b986e89",
-        "type": "tabs",
-        "dimension": 43.26287978863937,
-        "children": [
+          },
           {
             "id": "63540995607e06fc",
             "type": "leaf",
@@ -94,7 +85,8 @@
               "title": "6. Vector Space"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
