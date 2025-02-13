@@ -70,7 +70,14 @@
               "icon": "lucide-file-text",
               "title": "Advanced Linear and Matrix Algebra"
             }
-          },
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "acedba176e03b44a",
+        "type": "tabs",
+        "children": [
           {
             "id": "63540995607e06fc",
             "type": "leaf",
@@ -85,8 +92,7 @@
               "title": "6. Vector Space"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -243,11 +250,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0e6dfe3187aa6af6",
+  "active": "4fa5f1be8f42fbb0",
   "lastOpenFiles": [
-    "Mathematics/Theory of Computation/4. Pumping Lemma.md",
-    "Textbook/Advanced Linear and Matrix Algebra.pdf",
     "Mathematics/Linear Algebra/6. Vector Space.md",
+    "Textbook/Advanced Linear and Matrix Algebra.pdf",
+    "Mathematics/Linear Algebra/2. Linear System.md",
+    "Mathematics/Theory of Computation/4. Pumping Lemma.md",
     "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
     "Textbook/Introduction to the Theory of Computation.pdf",
     "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
@@ -272,7 +280,6 @@
     "Untitled 1.md",
     "Mathematics/Linear Algebra/Markov Chain.md",
     "Untitled.md",
-    "Mathematics/Linear Algebra/2. Linear System.md",
     "Mathematics/Linear Algebra/5. Matrix Advance.md",
     "Mathematics/Linear Algebra/4. Matrices.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
