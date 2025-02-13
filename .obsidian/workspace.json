@@ -79,14 +79,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Textbook/Introduction to the Theory of Computation.pdf"
+                "file": "Textbook/Advanced Linear and Matrix Algebra.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Introduction to the Theory of Computation"
+              "title": "Advanced Linear and Matrix Algebra"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -243,12 +243,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c89fd2d5f6df27b",
+  "active": "5adf85259ea8e070",
   "lastOpenFiles": [
-    "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
     "Textbook/Introduction to the Theory of Computation.pdf",
-    "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Textbook/Advanced Linear and Matrix Algebra.pdf",
+    "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
+    "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
     "Mathematics/Theory of Computation/4. Pumping Lemma.md",
