@@ -72,6 +72,18 @@
               "icon": "lucide-file-text",
               "title": "Advanced Linear and Matrix Algebra"
             }
+          },
+          {
+            "id": "5adf85259ea8e070",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Textbook/Introduction to the Theory of Computation.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Introduction to the Theory of Computation"
+            }
           }
         ]
       }
@@ -130,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -233,13 +244,13 @@
   },
   "active": "9897af73f3e1e9d8",
   "lastOpenFiles": [
+    "Textbook/Introduction to the Theory of Computation.pdf",
+    "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Textbook/Advanced Linear and Matrix Algebra.pdf",
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
     "Mathematics/Theory of Computation/4. Pumping Lemma.md",
-    "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
-    "Textbook/Introduction to the Theory of Computation.pdf",
     "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
     "Mathematics/Theory of Computation/3. Regular Expression.md",
     "Mathematics/Theory of Computation/2. Nondeterministic Finite Automata.md",
