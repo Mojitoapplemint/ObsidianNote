@@ -85,7 +85,8 @@
               "title": "Introduction to the Theory of Computation"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -242,10 +243,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9897af73f3e1e9d8",
+  "active": "9c89fd2d5f6df27b",
   "lastOpenFiles": [
-    "Textbook/Introduction to the Theory of Computation.pdf",
     "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
+    "Textbook/Introduction to the Theory of Computation.pdf",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Textbook/Advanced Linear and Matrix Algebra.pdf",
     "Mathematics/Linear Algebra/6. Vector Space.md",
