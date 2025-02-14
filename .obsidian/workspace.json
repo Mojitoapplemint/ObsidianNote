@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -230,11 +230,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0e6dfe3187aa6af6",
+  "active": "8ceed4b7e8b18561",
   "lastOpenFiles": [
-    "Mathematics/Linear Algebra/6. Vector Space.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Textbook/Advanced Linear and Matrix Algebra.pdf",
+    "Mathematics/Linear Algebra/6. Vector Space.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
     "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
     "Textbook/Introduction to the Theory of Computation.pdf",
