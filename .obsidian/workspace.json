@@ -63,10 +63,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf"
+                "file": "Textbook/Introduction to the Theory of Computation.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "OliehoekAmato16book"
+              "title": "Introduction to the Theory of Computation"
             }
           }
         ],
@@ -229,6 +229,7 @@
   },
   "active": "6a52ee03713c9474",
   "lastOpenFiles": [
+    "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Partial Observation.md",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Mathematics/Linear Algebra/6. Vector Space.md",
@@ -272,7 +273,6 @@
     "Attached Files/Pasted image 20250202113505.png",
     "Attached Files/Pasted image 20250202113449.png",
     "Textbook/Introduction to Reinforcement Learning.pdf",
-    "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Personal/IS 24FALL - DES w. RL Paper/DES ReinforcementLearning 2005.pdf"
   ]
 }
