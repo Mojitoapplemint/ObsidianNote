@@ -18,4 +18,20 @@ $$\forall \text{ }a\in A, s\in S:\sum_{o_{i}\in O_{i}}\mathcal{O}_{i}(a,s,o_{i})
 **Note)** POSG is more generalized concept of Dec-POMDP. Dec-POMDP is simply POSG where all agents share the reward function
 
 # Observation Function
-At each time $t$, each agent $i\in I$ receives an observation $o^{t}_{i}\in O_{i}$
+At each time $t$, each agent $i\in I$ receives an observation $o^{t}_{i}\in O_{i}$ with probability given by its observation function, $\mathcal{O}_{i}(a^{t-1}, s^{t},o^{t}_{i})$
+- Observation is also written as $\mathcal{O}_{i}(o^{t}_{i}\text{ | }a^{t-1}, s^{t})$ to emphasize that the probability is conditioned on the state $s^{t}$ and joint action $a^{t-1}$
+
+The observation functions in POSG can be used to represent diverse observability conditions of interest
+- There is no such "the obesrvation function," it varies depends on the problem 
+
+Ex)
+1. Stochastic game : $o^{t}_{i}=(s^{t}, a^{t-1})$
+	- Fully observation
+2. Unobserved actions of other agents
+	- Agents may observe the state and their own previous action, but not the previous of other agents
+	- $o^{t}_{i}=(s^{t}, a^{t-1}_{i})$
+3. **Limited View Region**
+	- Agents may observe a subset of the state and joint action (i.e. agents have limited view of their surrounding environment)
+	- $o^{t}_{i}=(\bar{s}^{t}, \bar{a}^{t})$ where $\bar{s}^{t}\subset s^{t}$ and $\bar{a}^{t}\subset a^{t}$
+
+As a result, "Partial Observation" in Dec-POMDP is not static but diverse depends on the problem. The Cat and Mouse Problem can be interpreted as a Limited View Region example introduced above.
