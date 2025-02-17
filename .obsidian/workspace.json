@@ -4,23 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "da9f56d6d19b4ab7",
+        "id": "0e964cf920c57c10",
         "type": "tabs",
         "children": [
           {
             "id": "9897af73f3e1e9d8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Mathematics/Linear Algebra/6. Vector Space.md",
-                "mode": "source",
-                "source": false
+                "file": "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf"
               },
-              "icon": "lucide-file",
-              "title": "6. Vector Space"
+              "icon": "lucide-file-text",
+              "title": "marl-book"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "da9f56d6d19b4ab7",
+        "type": "tabs",
+        "children": [
           {
             "id": "0e6dfe3187aa6af6",
             "type": "leaf",
@@ -86,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -246,10 +250,12 @@
   },
   "active": "6a52ee03713c9474",
   "lastOpenFiles": [
+    "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
+    "Mathematics/Linear Algebra/6. Vector Space.md",
     "Partial Observation.md",
+    "Attached Files/Pasted image 20250216221735.png",
     "Textbook/Advanced Linear and Matrix Algebra.pdf",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
-    "Mathematics/Linear Algebra/6. Vector Space.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
     "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
     "Textbook/Introduction to the Theory of Computation.pdf",
@@ -259,7 +265,6 @@
     "Mathematics/Theory of Computation/2. Nondeterministic Finite Automata.md",
     "Mathematics/Linear Algebra/8. Inner Product.md",
     "Computer Science/Reinforcement Learning 1/MARL/1. Models of Multi-Agent Interaction.md",
-    "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Textbook/Advanced Linear and Matrix Algebra 1.pdf",
     "Computer Science/Reinforcement Learning 1/MARL/2. Solutions to the Game.md",
     "Computer Science/Reinforcement Learning 1/MARL/3. Multi-Agent Reinforcement Learning.md",
@@ -276,7 +281,6 @@
     "Mathematics/Linear Algebra/Markov Chain.md",
     "Untitled.md",
     "Mathematics/Linear Algebra/5. Matrix Advance.md",
-    "Mathematics/Linear Algebra/4. Matrices.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/1301.3836v1.pdf",
     "Attached Files/Pasted image 20250204004007.png",
@@ -290,7 +294,6 @@
     "Attached Files/Pasted image 20250202113449.png",
     "Textbook/Introduction to Reinforcement Learning.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
-    "Personal/IS 24FALL - DES w. RL Paper/DES ReinforcementLearning 2005.pdf",
-    "Attached Files/Pasted image 20250128120424.png"
+    "Personal/IS 24FALL - DES w. RL Paper/DES ReinforcementLearning 2005.pdf"
   ]
 }
