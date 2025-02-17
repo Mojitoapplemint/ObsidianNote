@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "0e964cf920c57c10",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9897af73f3e1e9d8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "marl-book"
-            }
-          }
-        ]
-      },
-      {
         "id": "da9f56d6d19b4ab7",
         "type": "tabs",
         "children": [
@@ -79,14 +61,12 @@
             "id": "6a52ee03713c9474",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Partial Observation.md",
-                "mode": "source",
-                "source": false
+                "file": "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Partial Observation"
+              "icon": "lucide-file-text",
+              "title": "OliehoekAmato16book"
             }
           }
         ],
@@ -147,8 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -250,9 +229,9 @@
   },
   "active": "6a52ee03713c9474",
   "lastOpenFiles": [
+    "Partial Observation.md",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Mathematics/Linear Algebra/6. Vector Space.md",
-    "Partial Observation.md",
     "Attached Files/Pasted image 20250216221735.png",
     "Textbook/Advanced Linear and Matrix Algebra.pdf",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
