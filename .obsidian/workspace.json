@@ -66,9 +66,21 @@
               "icon": "lucide-file",
               "title": "6. Push Down Automata (PDA)"
             }
+          },
+          {
+            "id": "bec7a03f7fefc9dc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -221,11 +233,10 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4b174330af38ff1b",
+  "active": "bec7a03f7fefc9dc",
   "lastOpenFiles": [
     "Textbook/Introduction to the Theory of Computation.pdf",
     "Personal/Latex Suite Personal Setting.md",
