@@ -143,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -245,6 +246,8 @@
   },
   "active": "4b174330af38ff1b",
   "lastOpenFiles": [
+    "Attached Files/Pasted image 20250219224642.png",
+    "Attached Files/Pasted image 20250219224158.png",
     "Attached Files/Pasted image 20250219215916.png",
     "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
     "Mathematics/Theory of Computation/6. Push Down Automata (PDA).md",
@@ -287,8 +290,6 @@
     "Attached Files/Pasted image 20250202155128.png",
     "Attached Files/Pasted image 20250202152728.png",
     "Attached Files/Pasted image 20250202152245.png",
-    "Attached Files/Pasted image 20250202113505.png",
-    "Attached Files/Pasted image 20250202113449.png",
     "Textbook/Introduction to Reinforcement Learning.pdf",
     "Personal/IS 24FALL - DES w. RL Paper/DES ReinforcementLearning 2005.pdf"
   ]
