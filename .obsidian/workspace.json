@@ -61,21 +61,16 @@
             "id": "6a52ee03713c9474",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Textbook/Introduction to the Theory of Computation.pdf"
+                "file": "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Introduction to the Theory of Computation"
+              "icon": "lucide-file",
+              "title": "5. Context-Free Grammar"
             }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "65b9a1eb8b84a023",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "4b174330af38ff1b",
             "type": "leaf",
@@ -90,7 +85,8 @@
               "title": "6. Push Down Automata (PDA)"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -147,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -244,7 +239,8 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "4b174330af38ff1b",
@@ -281,7 +277,6 @@
     "Untitled 1.md",
     "Mathematics/Linear Algebra/Markov Chain.md",
     "Untitled.md",
-    "Mathematics/Linear Algebra/5. Matrix Advance.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/1301.3836v1.pdf",
     "Attached Files/Pasted image 20250204004007.png",
