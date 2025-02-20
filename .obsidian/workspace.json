@@ -4,6 +4,24 @@
     "type": "split",
     "children": [
       {
+        "id": "060362013b379b64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8424c508bfd08086",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Textbook/Introduction to the Theory of Computation.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Introduction to the Theory of Computation"
+            }
+          }
+        ]
+      },
+      {
         "id": "da9f56d6d19b4ab7",
         "type": "tabs",
         "children": [
@@ -19,42 +37,6 @@
               },
               "icon": "lucide-file",
               "title": "7. Linear Transformation"
-            }
-          },
-          {
-            "id": "8ceed4b7e8b18561",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Textbook/Advanced Linear and Matrix Algebra.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Advanced Linear and Matrix Algebra"
-            }
-          },
-          {
-            "id": "9c89fd2d5f6df27b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Textbook/Advanced Linear and Matrix Algebra.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Advanced Linear and Matrix Algebra"
-            }
-          },
-          {
-            "id": "5adf85259ea8e070",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Textbook/Advanced Linear and Matrix Algebra.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Advanced Linear and Matrix Algebra"
             }
           },
           {
@@ -86,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -246,12 +228,17 @@
   },
   "active": "4b174330af38ff1b",
   "lastOpenFiles": [
+    "Attached Files/Pasted image 20250219225648.png",
+    "Attached Files/Pasted image 20250219225624.png",
+    "Attached Files/Pasted image 20250219225529.png",
+    "Attached Files/Pasted image 20250219225522.png",
+    "Textbook/Introduction to the Theory of Computation.pdf",
+    "Mathematics/Theory of Computation/6. Push Down Automata (PDA).md",
+    "Attached Files/Pasted image 20250219224713.png",
     "Attached Files/Pasted image 20250219224642.png",
     "Attached Files/Pasted image 20250219224158.png",
     "Attached Files/Pasted image 20250219215916.png",
     "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
-    "Mathematics/Theory of Computation/6. Push Down Automata (PDA).md",
-    "Textbook/Introduction to the Theory of Computation.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Partial Observation.md",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
@@ -285,11 +272,6 @@
     "Computer Science/Reinforcement Learning 1/Papers/1301.3836v1.pdf",
     "Attached Files/Pasted image 20250204004007.png",
     "Attached Files/Pasted image 20250204003943.png",
-    "Attached Files/Pasted image 20250203235226.png",
-    "Attached Files/Pasted image 20250203210122.png",
-    "Attached Files/Pasted image 20250202155128.png",
-    "Attached Files/Pasted image 20250202152728.png",
-    "Attached Files/Pasted image 20250202152245.png",
     "Textbook/Introduction to Reinforcement Learning.pdf",
     "Personal/IS 24FALL - DES w. RL Paper/DES ReinforcementLearning 2005.pdf"
   ]
