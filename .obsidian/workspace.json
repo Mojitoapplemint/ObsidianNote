@@ -6,6 +6,7 @@
       {
         "id": "060362013b379b64",
         "type": "tabs",
+        "dimension": 57.992073976221924,
         "children": [
           {
             "id": "8424c508bfd08086",
@@ -24,6 +25,7 @@
       {
         "id": "da9f56d6d19b4ab7",
         "type": "tabs",
+        "dimension": 42.00792602377807,
         "children": [
           {
             "id": "0e6dfe3187aa6af6",
@@ -66,21 +68,9 @@
               "icon": "lucide-file",
               "title": "6. Push Down Automata (PDA)"
             }
-          },
-          {
-            "id": "bec7a03f7fefc9dc",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,7 +127,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -233,10 +224,11 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bec7a03f7fefc9dc",
+  "active": "4b174330af38ff1b",
   "lastOpenFiles": [
     "Textbook/Introduction to the Theory of Computation.pdf",
     "Personal/Latex Suite Personal Setting.md",
