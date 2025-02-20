@@ -125,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -228,20 +227,20 @@
   },
   "active": "4b174330af38ff1b",
   "lastOpenFiles": [
+    "Textbook/Introduction to the Theory of Computation.pdf",
+    "Personal/Latex Suite Personal Setting.md",
+    "Mathematics/Theory of Computation/6. Push Down Automata (PDA).md",
     "Attached Files/Pasted image 20250220000026.png",
     "Attached Files/Pasted image 20250219235756.png",
     "Attached Files/Pasted image 20250219234412.png",
     "Attached Files/Pasted image 20250219234356.png",
     "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
-    "Mathematics/Theory of Computation/6. Push Down Automata (PDA).md",
     "Attached Files/Pasted image 20250219225648.png",
     "Attached Files/Pasted image 20250219225624.png",
     "Attached Files/Pasted image 20250219225529.png",
     "Attached Files/Pasted image 20250219225522.png",
-    "Textbook/Introduction to the Theory of Computation.pdf",
     "Attached Files/Pasted image 20250219224713.png",
     "Attached Files/Pasted image 20250219224642.png",
-    "Attached Files/Pasted image 20250219224158.png",
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Partial Observation.md",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
@@ -259,7 +258,6 @@
     "Computer Science/Reinforcement Learning 1/MARL/2. Solutions to the Game.md",
     "Computer Science/Reinforcement Learning 1/MARL/3. Multi-Agent Reinforcement Learning.md",
     "Computer Science/Reinforcement Learning 1/SARL/1. Reinforcement Learning Fundamental.md",
-    "Personal/Latex Suite Personal Setting.md",
     "Computer Science/Git & GitHub.md",
     "Computer Science/Reinforcement Learning 1/Dec-POMDP/Design Idea.md",
     "Mathematics/Differential Equation/3. Separable Equations.md",
