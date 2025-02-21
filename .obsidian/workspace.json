@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,8 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -220,10 +219,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2cab0554141284c1",
+  "active": "4b174330af38ff1b",
   "lastOpenFiles": [
-    "Mathematics/Linear Algebra/6. Vector Space.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
+    "Mathematics/Linear Algebra/6. Vector Space.md",
     "Mathematics/Linear Algebra/8. Inner Product.md",
     "Textbook/Introduction to the Theory of Computation.pdf",
     "Mathematics/Theory of Computation/6. Push Down Automata (PDA).md",
