@@ -4,28 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "0d880452d3e19331",
-        "type": "tabs",
-        "dimension": 53.96301188903567,
-        "children": [
-          {
-            "id": "8bca5557785464ef",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Textbook/Advanced Linear and Matrix Algebra.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Advanced Linear and Matrix Algebra"
-            }
-          }
-        ]
-      },
-      {
         "id": "060362013b379b64",
         "type": "tabs",
-        "dimension": 46.03698811096433,
         "children": [
           {
             "id": "12c1bdb55c549747",
