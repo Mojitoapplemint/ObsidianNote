@@ -4,8 +4,28 @@
     "type": "split",
     "children": [
       {
+        "id": "0d880452d3e19331",
+        "type": "tabs",
+        "dimension": 59.44517833553501,
+        "children": [
+          {
+            "id": "8bca5557785464ef",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Textbook/Advanced Linear and Matrix Algebra.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Advanced Linear and Matrix Algebra"
+            }
+          }
+        ]
+      },
+      {
         "id": "060362013b379b64",
         "type": "tabs",
+        "dimension": 40.554821664464995,
         "children": [
           {
             "id": "12c1bdb55c549747",
@@ -39,12 +59,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Linear Algebra/7. Linear Transformation.md",
+                "file": "Mathematics/Linear Algebra/8. Inner Product.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Linear Transformation"
+              "title": "8. Inner Product"
             }
           },
           {
@@ -62,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +139,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -219,13 +240,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4b174330af38ff1b",
+  "active": "2cab0554141284c1",
   "lastOpenFiles": [
-    "Mathematics/Linear Algebra/7. Linear Transformation.md",
-    "Mathematics/Linear Algebra/6. Vector Space.md",
+    "Textbook/Advanced Linear and Matrix Algebra.pdf",
     "Mathematics/Linear Algebra/8. Inner Product.md",
-    "Textbook/Introduction to the Theory of Computation.pdf",
+    "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Theory of Computation/6. Push Down Automata (PDA).md",
+    "Mathematics/Linear Algebra/6. Vector Space.md",
+    "Textbook/Introduction to the Theory of Computation.pdf",
     "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
     "Personal/Latex Suite Personal Setting.md",
     "Attached Files/Pasted image 20250220000026.png",
@@ -241,7 +263,6 @@
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Partial Observation.md",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
-    "Textbook/Advanced Linear and Matrix Algebra.pdf",
     "Mathematics/Linear Algebra/2. Linear System.md",
     "Mathematics/Theory of Computation/4. Pumping Lemma.md",
     "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
