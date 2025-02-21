@@ -60,6 +60,18 @@
               "icon": "lucide-file",
               "title": "6. Vector Space"
             }
+          },
+          {
+            "id": "4d4a953a2b235d20",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Textbook/Advanced Linear and Matrix Algebra.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Advanced Linear and Matrix Algebra"
+            }
           }
         ],
         "currentTab": 2
@@ -223,10 +235,10 @@
   "active": "2cab0554141284c1",
   "lastOpenFiles": [
     "Mathematics/Linear Algebra/6. Vector Space.md",
+    "Textbook/Advanced Linear and Matrix Algebra.pdf",
     "Mathematics/Linear Algebra/8. Inner Product.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Theory of Computation/6. Push Down Automata (PDA).md",
-    "Textbook/Advanced Linear and Matrix Algebra.pdf",
     "Textbook/Introduction to the Theory of Computation.pdf",
     "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
     "Personal/Latex Suite Personal Setting.md",
