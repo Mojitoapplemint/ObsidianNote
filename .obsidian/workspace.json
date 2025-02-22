@@ -4,6 +4,24 @@
     "type": "split",
     "children": [
       {
+        "id": "f85f69c795a4f176",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adb3c76f7fd90551",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Computer Organization and Design RISC V Edition The HardwareSoftware Interface"
+            }
+          }
+        ]
+      },
+      {
         "id": "060362013b379b64",
         "type": "tabs",
         "children": [
@@ -55,12 +73,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Linear Algebra/6. Vector Space.md",
+                "file": "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. Vector Space"
+              "title": "2. RISC-V Instructions"
             }
           },
           {
@@ -74,20 +92,9 @@
               "icon": "lucide-file-text",
               "title": "Advanced Linear and Matrix Algebra"
             }
-          },
-          {
-            "id": "adb3c76f7fd90551",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Computer Organization and Design RISC V Edition The HardwareSoftware Interface"
-            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -144,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -245,8 +251,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "12c1bdb55c549747",
+  "active": "c9148aa3ae9b05c6",
   "lastOpenFiles": [
+    "Computer Science/Computer Organization and Arch/3. Procedures.md",
+    "Mathematics/Linear Algebra/6. Vector Space.md",
+    "Computer Science/Computer Organization and Arch/7. Arithmetic for Computer.md",
     "Computer Science/Computer Organization and Arch/6. Compiler.md",
     "Attached Files/Pasted image 20250222144827.png",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
@@ -254,12 +263,10 @@
     "Attached Files/Pasted image 20250222135515.png",
     "Mathematics/Complex Analysis/1. Basics of Complex Numbers.md",
     "Computer Science/Computer Organization and Arch/5. Program Translation (Based on C).md",
-    "Computer Science/Computer Organization and Arch/7. Arithmetic for Computer.md",
     "Textbook/Introduction to the Theory of Computation.pdf",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Linear Algebra/8. Inner Product.md",
     "Textbook/Advanced Linear and Matrix Algebra.pdf",
-    "Mathematics/Linear Algebra/6. Vector Space.md",
     "Mathematics/Theory of Computation/6. Push Down Automata (PDA).md",
     "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
     "Personal/Latex Suite Personal Setting.md",
