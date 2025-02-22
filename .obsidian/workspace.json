@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "d4fb0aa68e5b7a39",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "adb3c76f7fd90551",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Computer Organization and Design RISC V Edition The HardwareSoftware Interface"
-            }
-          }
-        ]
-      },
-      {
         "id": "060362013b379b64",
         "type": "tabs",
         "children": [
