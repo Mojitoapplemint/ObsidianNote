@@ -4,9 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "f85f69c795a4f176",
+        "id": "d4fb0aa68e5b7a39",
         "type": "tabs",
-        "dimension": 60.36988110964333,
         "children": [
           {
             "id": "adb3c76f7fd90551",
@@ -25,7 +24,6 @@
       {
         "id": "060362013b379b64",
         "type": "tabs",
-        "dimension": 39.63011889035667,
         "children": [
           {
             "id": "12c1bdb55c549747",
@@ -255,23 +253,23 @@
   },
   "active": "12c1bdb55c549747",
   "lastOpenFiles": [
-    "Attached Files/Pasted image 20250222152102.png",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Computer Organization and Arch/7. Arithmetic for Computer.md",
-    "Attached Files/Pasted image 20250222151401.png",
+    "Computer Science/Computer Organization and Arch/6. Compiler.md",
+    "Computer Science/Computer Organization and Arch/5. Program Translation (Based on C).md",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
+    "Textbook/Advanced Linear and Matrix Algebra.pdf",
+    "Attached Files/Pasted image 20250222152102.png",
+    "Attached Files/Pasted image 20250222151401.png",
     "Computer Science/Computer Organization and Arch/3. Procedures.md",
     "Mathematics/Linear Algebra/6. Vector Space.md",
-    "Computer Science/Computer Organization and Arch/6. Compiler.md",
     "Attached Files/Pasted image 20250222144827.png",
     "Attached Files/Pasted image 20250222144513.png",
     "Attached Files/Pasted image 20250222135515.png",
     "Mathematics/Complex Analysis/1. Basics of Complex Numbers.md",
-    "Computer Science/Computer Organization and Arch/5. Program Translation (Based on C).md",
     "Textbook/Introduction to the Theory of Computation.pdf",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Linear Algebra/8. Inner Product.md",
-    "Textbook/Advanced Linear and Matrix Algebra.pdf",
     "Mathematics/Theory of Computation/6. Push Down Automata (PDA).md",
     "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
     "Personal/Latex Suite Personal Setting.md",
@@ -280,7 +278,6 @@
     "Attached Files/Pasted image 20250219234412.png",
     "Attached Files/Pasted image 20250219234356.png",
     "Attached Files/Pasted image 20250219225648.png",
-    "Attached Files/Pasted image 20250219225624.png",
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Partial Observation.md",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
