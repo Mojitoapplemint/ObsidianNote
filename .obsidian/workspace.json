@@ -69,10 +69,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Textbook/Advanced Linear and Matrix Algebra.pdf"
+                "file": "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Advanced Linear and Matrix Algebra"
+              "title": "Computer Organization and Design RISC V Edition The HardwareSoftware Interface"
             }
           }
         ]
@@ -235,12 +235,13 @@
   },
   "active": "12c1bdb55c549747",
   "lastOpenFiles": [
+    "Attached Files/Pasted image 20250222174642.png",
+    "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
+    "Textbook/Advanced Linear and Matrix Algebra.pdf",
     "Computer Science/Computer Organization and Arch/7. Arithmetic for Computer.md",
     "Computer Science/Computer Organization and Arch/6. Compiler.md",
     "Computer Science/Computer Organization and Arch/5. Program Translation (Based on C).md",
-    "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
-    "Textbook/Advanced Linear and Matrix Algebra.pdf",
     "Attached Files/Pasted image 20250222152102.png",
     "Attached Files/Pasted image 20250222151401.png",
     "Computer Science/Computer Organization and Arch/3. Procedures.md",
