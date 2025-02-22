@@ -6,6 +6,7 @@
       {
         "id": "f85f69c795a4f176",
         "type": "tabs",
+        "dimension": 60.36988110964333,
         "children": [
           {
             "id": "adb3c76f7fd90551",
@@ -24,6 +25,7 @@
       {
         "id": "060362013b379b64",
         "type": "tabs",
+        "dimension": 39.63011889035667,
         "children": [
           {
             "id": "12c1bdb55c549747",
@@ -93,8 +95,7 @@
               "title": "Advanced Linear and Matrix Algebra"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -251,14 +253,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c9148aa3ae9b05c6",
+  "active": "12c1bdb55c549747",
   "lastOpenFiles": [
+    "Attached Files/Pasted image 20250222152102.png",
+    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
+    "Computer Science/Computer Organization and Arch/7. Arithmetic for Computer.md",
+    "Attached Files/Pasted image 20250222151401.png",
+    "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Computer Science/Computer Organization and Arch/3. Procedures.md",
     "Mathematics/Linear Algebra/6. Vector Space.md",
-    "Computer Science/Computer Organization and Arch/7. Arithmetic for Computer.md",
     "Computer Science/Computer Organization and Arch/6. Compiler.md",
     "Attached Files/Pasted image 20250222144827.png",
-    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Attached Files/Pasted image 20250222144513.png",
     "Attached Files/Pasted image 20250222135515.png",
     "Mathematics/Complex Analysis/1. Basics of Complex Numbers.md",
@@ -276,7 +281,6 @@
     "Attached Files/Pasted image 20250219234356.png",
     "Attached Files/Pasted image 20250219225648.png",
     "Attached Files/Pasted image 20250219225624.png",
-    "Attached Files/Pasted image 20250219225529.png",
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Partial Observation.md",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
@@ -293,8 +297,6 @@
     "Computer Science/Git & GitHub.md",
     "Computer Science/Reinforcement Learning 1/Dec-POMDP/Design Idea.md",
     "Mathematics/Differential Equation/3. Separable Equations.md",
-    "Mathematics/Differential Equation/1. Ordinary Differential Equation.md",
-    "Mathematics/Differential Equation/2. Growth and Decay.md",
     "Textbook/Introduction to linear and matrix algebra.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/1301.3836v1.pdf",
     "Textbook/Introduction to Reinforcement Learning.pdf",
