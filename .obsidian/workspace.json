@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Computer Organization and Arch/6. Compiler.md",
+                "file": "Computer Science/Computer Organization and Arch/7. Arithmetic for Computer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. Compiler"
+              "title": "7. Arithmetic for Computer"
             }
           },
           {
@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -245,11 +245,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c9148aa3ae9b05c6",
+  "active": "4b174330af38ff1b",
   "lastOpenFiles": [
+    "Computer Science/Computer Organization and Arch/6. Compiler.md",
+    "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Computer Science/Reinforcement Learning 1/MARL/3. Multi-Agent Reinforcement Learning.md",
     "Computer Science/Computer Organization and Arch/5. Program Translation (Based on C).md",
-    "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Computer Science/Reinforcement Learning 1/Dec-POMDP/1. Definition and Structure of Dec-POMDP.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Reinforcement Learning 1/MARL/2. Solutions to the Game.md",
@@ -258,7 +259,6 @@
     "Computer Science/Computer Organization and Arch/7. Arithmetic for Computer.md",
     "Attached Files/Pasted image 20250222175349.png",
     "Attached Files/Pasted image 20250222175317.png",
-    "Computer Science/Computer Organization and Arch/6. Compiler.md",
     "Attached Files/Pasted image 20250222175234.png",
     "Textbook/Introduction to the Theory of Computation.pdf",
     "Attached Files/Pasted image 20250222174642.png",
