@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -246,8 +246,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4b174330af38ff1b",
+  "active": "c9148aa3ae9b05c6",
   "lastOpenFiles": [
+    "Mathematics/Linear Algebra/8. Inner Product.md",
     "Attached Files/Pasted image 20250224180934.png",
     "Mathematics/Linear Algebra/Markov Chain.md",
     "Computer Science/Computer Organization and Arch/7. Arithmetic for Computer.md",
@@ -275,11 +276,9 @@
     "Attached Files/Pasted image 20250222135515.png",
     "Mathematics/Complex Analysis/1. Basics of Complex Numbers.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
-    "Mathematics/Linear Algebra/8. Inner Product.md",
     "Mathematics/Theory of Computation/6. Push Down Automata (PDA).md",
     "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
     "Personal/Latex Suite Personal Setting.md",
-    "Attached Files/Pasted image 20250220000026.png",
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Partial Observation.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
