@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -246,14 +246,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c9148aa3ae9b05c6",
+  "active": "2cab0554141284c1",
   "lastOpenFiles": [
+    "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Mathematics/Linear Algebra/8. Inner Product.md",
     "Attached Files/Pasted image 20250224180934.png",
     "Mathematics/Linear Algebra/Markov Chain.md",
     "Computer Science/Computer Organization and Arch/7. Arithmetic for Computer.md",
     "Computer Science/Computer Organization and Arch/6. Compiler.md",
-    "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Computer Science/Reinforcement Learning 1/MARL/3. Multi-Agent Reinforcement Learning.md",
     "Computer Science/Computer Organization and Arch/5. Program Translation (Based on C).md",
     "Computer Science/Reinforcement Learning 1/Dec-POMDP/1. Definition and Structure of Dec-POMDP.md",
