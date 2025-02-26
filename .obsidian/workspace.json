@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Linear Algebra/8. Inner Product.md",
+                "file": "Computer Science/Computer Organization and Arch/8. Parallellism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. Inner Product"
+              "title": "8. Parallellism"
             }
           },
           {
@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -274,11 +273,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4d4a953a2b235d20",
+  "active": "4b174330af38ff1b",
   "lastOpenFiles": [
-    "Mathematics/Linear Algebra/8. Inner Product.md",
-    "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Computer Science/Computer Organization and Arch/7. Arithmetic for Computer.md",
+    "Computer Science/Computer Organization and Arch/8. Parallellism.md",
+    "Mathematics/Linear Algebra/8. Inner Product.md",
+    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
+    "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
     "Mathematics/Theory of Computation/6. Push Down Automata (PDA).md",
     "Partial Observation.md",
@@ -289,7 +290,6 @@
     "Computer Science/Computer Organization and Arch/6. Compiler.md",
     "Computer Science/Computer Organization and Arch/5. Program Translation (Based on C).md",
     "Computer Science/Reinforcement Learning 1/Dec-POMDP/1. Definition and Structure of Dec-POMDP.md",
-    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Reinforcement Learning 1/MARL/2. Solutions to the Game.md",
     "Computer Science/Reinforcement Learning 1/MARL/1. Models of Multi-Agent Interaction.md",
     "Attached Files/Pasted image 20250222175349.png",
