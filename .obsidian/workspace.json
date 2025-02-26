@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -173,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -273,8 +274,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "55fb65d2d7bea120",
+  "active": "4d4a953a2b235d20",
   "lastOpenFiles": [
+    "Mathematics/Linear Algebra/8. Inner Product.md",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Computer Science/Computer Organization and Arch/7. Arithmetic for Computer.md",
     "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
@@ -282,7 +284,6 @@
     "Partial Observation.md",
     "Computer Science/Reinforcement Learning 1/MARL/3. Multi-Agent Reinforcement Learning.md",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
-    "Mathematics/Linear Algebra/8. Inner Product.md",
     "Attached Files/Pasted image 20250224180934.png",
     "Mathematics/Linear Algebra/Markov Chain.md",
     "Computer Science/Computer Organization and Arch/6. Compiler.md",
