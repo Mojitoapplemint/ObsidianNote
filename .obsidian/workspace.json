@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Theory of Computation/3. Regular Expression.md",
+                "file": "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Regular Expression"
+              "title": "2. RISC-V Instructions"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -180,6 +181,7 @@
   },
   "active": "567f603056e10fc6",
   "lastOpenFiles": [
+    "Mathematics/Theory of Computation/3. Regular Expression.md",
     "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
     "Untitled.md",
     "Untitled 1.md",
@@ -220,7 +222,6 @@
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Mathematics/Linear Algebra/2. Linear System.md",
     "Mathematics/Theory of Computation/4. Pumping Lemma.md",
-    "Mathematics/Theory of Computation/3. Regular Expression.md",
     "Textbook/Advanced Linear and Matrix Algebra 1.pdf",
     "Textbook/Introduction to linear and matrix algebra.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/1301.3836v1.pdf",
