@@ -46,9 +46,21 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2025-02-28 18.29.31.excalidraw"
             }
+          },
+          {
+            "id": "afd44f1a7291f8aa",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Computer Science/Reinforcement Learning 1/Papers/SeukenZilberstein 2008.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "SeukenZilberstein 2008"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -105,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -206,12 +217,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7f5627e85108f197",
+  "active": "afd44f1a7291f8aa",
   "lastOpenFiles": [
+    "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
+    "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
+    "Computer Science/Reinforcement Learning 1/Papers/DecPOMDP-survey-final.pdf",
+    "Personal/IS 24FALL - DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
+    "Personal/IS 24FALL - DES w. RL Paper/Yamasaki_and_Ushio_Notation_translated (6).pdf",
+    "Personal/IS 24FALL - DES w. RL Paper/DecPOMDP-survey-final.pdf",
+    "Mathematics/Linear Algebra/8. Inner Product.md",
     "Attached Files/Pasted image 20250228183404.png",
     "Attached Files/Pasted image 20250228183047.png",
     "Excalidraw/Drawing 2025-02-28 18.29.31.excalidraw.md",
-    "Mathematics/Linear Algebra/8. Inner Product.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Personal/사이드 프로젝트 아이디어.md",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
@@ -221,7 +238,6 @@
     "Untitled 1.md",
     "Computer Science/Computer Organization and Arch/7. Arithmetic for Computer.md",
     "Computer Science/Reinforcement Learning 1/Dec-POMDP/1. Definition and Structure of Dec-POMDP.md",
-    "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Computer Science/Computer Organization and Arch/5. Program Translation (Based on C).md",
     "Mathematics/Theory of Computation/6. Push Down Automata (PDA).md",
     "Computer Science/Computer Organization and Arch/8. Parallellism.md",
@@ -245,14 +261,9 @@
     "Attached Files/Pasted image 20250222151401.png",
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Attached Files/Pasted image 20250222144827.png",
-    "Attached Files/Pasted image 20250222144513.png",
     "Mathematics/Complex Analysis/1. Basics of Complex Numbers.md",
-    "Mathematics/Linear Algebra/7. Linear Transformation.md",
-    "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Textbook/Advanced Linear and Matrix Algebra 1.pdf",
     "Textbook/Introduction to linear and matrix algebra.pdf",
-    "Computer Science/Reinforcement Learning 1/Papers/1301.3836v1.pdf",
-    "Textbook/Introduction to Reinforcement Learning.pdf",
-    "Personal/IS 24FALL - DES w. RL Paper/DES ReinforcementLearning 2005.pdf"
+    "Computer Science/Reinforcement Learning 1/Papers/1301.3836v1.pdf"
   ]
 }
