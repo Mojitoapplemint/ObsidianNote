@@ -34,6 +34,18 @@
               "icon": "lucide-file",
               "title": "8. Inner Product"
             }
+          },
+          {
+            "id": "ae8bd88ff18b6821",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-02-28 18.29.31.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-02-28 18.29.31.excalidraw"
+            }
           }
         ],
         "currentTab": 1
@@ -196,6 +208,10 @@
   },
   "active": "7f5627e85108f197",
   "lastOpenFiles": [
+    "Attached Files/Pasted image 20250228183404.png",
+    "Attached Files/Pasted image 20250228183047.png",
+    "Excalidraw/Drawing 2025-02-28 18.29.31.excalidraw.md",
+    "Mathematics/Linear Algebra/8. Inner Product.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Personal/사이드 프로젝트 아이디어.md",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
@@ -203,7 +219,6 @@
     "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
     "Untitled.md",
     "Untitled 1.md",
-    "Mathematics/Linear Algebra/8. Inner Product.md",
     "Computer Science/Computer Organization and Arch/7. Arithmetic for Computer.md",
     "Computer Science/Reinforcement Learning 1/Dec-POMDP/1. Definition and Structure of Dec-POMDP.md",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
@@ -231,10 +246,8 @@
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Attached Files/Pasted image 20250222144827.png",
     "Attached Files/Pasted image 20250222144513.png",
-    "Attached Files/Pasted image 20250222135515.png",
     "Mathematics/Complex Analysis/1. Basics of Complex Numbers.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
-    "Personal/Latex Suite Personal Setting.md",
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Textbook/Advanced Linear and Matrix Algebra 1.pdf",
     "Textbook/Introduction to linear and matrix algebra.pdf",
