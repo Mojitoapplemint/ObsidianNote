@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2. RISC-V Instructions"
             }
+          },
+          {
+            "id": "7f5627e85108f197",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Computer Organization and Design RISC V Edition The HardwareSoftware Interface"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,8 +192,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "567f603056e10fc6",
+  "active": "7f5627e85108f197",
   "lastOpenFiles": [
+    "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
+    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Mathematics/Theory of Computation/3. Regular Expression.md",
     "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
     "Untitled.md",
@@ -188,11 +203,9 @@
     "Mathematics/Linear Algebra/8. Inner Product.md",
     "Computer Science/Computer Organization and Arch/7. Arithmetic for Computer.md",
     "Computer Science/Reinforcement Learning 1/Dec-POMDP/1. Definition and Structure of Dec-POMDP.md",
-    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Computer Science/Computer Organization and Arch/5. Program Translation (Based on C).md",
     "Mathematics/Theory of Computation/6. Push Down Automata (PDA).md",
-    "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Computer Science/Computer Organization and Arch/8. Parallellism.md",
     "Computer Science/Computer Organization and Arch/3. Procedures.md",
     "Computer Science/Computer Organization and Arch/4. Character Data.md",
@@ -221,7 +234,6 @@
     "Personal/Latex Suite Personal Setting.md",
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Mathematics/Linear Algebra/2. Linear System.md",
-    "Mathematics/Theory of Computation/4. Pumping Lemma.md",
     "Textbook/Advanced Linear and Matrix Algebra 1.pdf",
     "Textbook/Introduction to linear and matrix algebra.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/1301.3836v1.pdf",
