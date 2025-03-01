@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,11 +213,13 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "afd44f1a7291f8aa",
+  "active": "7f5627e85108f197",
   "lastOpenFiles": [
+    "Computer Science/Reinforcement Learning 1/Papers/SeukenZilberstein 2008.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/DecPOMDP-survey-final.pdf",
@@ -262,7 +264,6 @@
     "Attached Files/Pasted image 20250222144827.png",
     "Mathematics/Complex Analysis/1. Basics of Complex Numbers.md",
     "Textbook/Advanced Linear and Matrix Algebra 1.pdf",
-    "Textbook/Introduction to linear and matrix algebra.pdf",
-    "Computer Science/Reinforcement Learning 1/Papers/1301.3836v1.pdf"
+    "Textbook/Introduction to linear and matrix algebra.pdf"
   ]
 }
