@@ -58,9 +58,21 @@
               "icon": "lucide-file-text",
               "title": "SeukenZilberstein 2008"
             }
+          },
+          {
+            "id": "df8f12aa1b7deb76",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Textbook/Advanced Linear and Matrix Algebra.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Advanced Linear and Matrix Algebra"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -217,8 +229,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7f5627e85108f197",
+  "active": "df8f12aa1b7deb76",
   "lastOpenFiles": [
+    "Mathematics/Linear Algebra/8. Inner Product.md",
     "Computer Science/Reinforcement Learning 1/Papers/SeukenZilberstein 2008.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
@@ -226,7 +239,6 @@
     "Personal/IS 24FALL - DES w. RL Paper/Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning.md",
     "Personal/IS 24FALL - DES w. RL Paper/Yamasaki_and_Ushio_Notation_translated (6).pdf",
     "Personal/IS 24FALL - DES w. RL Paper/DecPOMDP-survey-final.pdf",
-    "Mathematics/Linear Algebra/8. Inner Product.md",
     "Attached Files/Pasted image 20250228183404.png",
     "Attached Files/Pasted image 20250228183047.png",
     "Excalidraw/Drawing 2025-02-28 18.29.31.excalidraw.md",
@@ -263,7 +275,6 @@
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Attached Files/Pasted image 20250222144827.png",
     "Mathematics/Complex Analysis/1. Basics of Complex Numbers.md",
-    "Textbook/Advanced Linear and Matrix Algebra 1.pdf",
-    "Textbook/Introduction to linear and matrix algebra.pdf"
+    "Textbook/Advanced Linear and Matrix Algebra 1.pdf"
   ]
 }
