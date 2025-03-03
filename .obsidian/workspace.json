@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Linear Algebra/9..md",
+                "file": "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9."
+              "title": "9. Special Linear Transformation"
             }
           },
           {
@@ -224,7 +224,7 @@
   "active": "567f603056e10fc6",
   "lastOpenFiles": [
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
-    "Mathematics/Linear Algebra/9..md",
+    "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
     "Personal/사이드 프로젝트 아이디어.md",
     "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
     "Mathematics/Theory of Computation/2. Nondeterministic Finite Automata.md",
