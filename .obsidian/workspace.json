@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Theory of Computation/3. Regular Expression.md",
+                "file": "Mathematics/Linear Algebra/7. Linear Transformation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Regular Expression"
+              "title": "7. Linear Transformation"
             }
           },
           {
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -221,8 +221,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b8334d6bb96ec36f",
+  "active": "4ec92a8bef293d60",
   "lastOpenFiles": [
+    "Mathematics/Theory of Computation/3. Regular Expression.md",
+    "Mathematics/Linear Algebra/8. Inner Product.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Computer Science/OO Design/Module2/2-3 Liskov Substitution Principle.md",
@@ -233,7 +235,6 @@
     "Computer Science/OO Design/Module2/2-2 Open-Closed Principle.md",
     "Computer Science/OO Design/Module2/2-1 Single Responsibility Principle.md",
     "Computer Science/OO Design/Module2/1 MVC(Model, View, Controller).md",
-    "Mathematics/Theory of Computation/3. Regular Expression.md",
     "Mathematics/Theory of Computation/4. Pumping Lemma.md",
     "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
     "Mathematics/Theory of Computation/2. Nondeterministic Finite Automata.md",
@@ -244,7 +245,6 @@
     "Attached Files/Pasted image 20250301191003.png",
     "Mathematics/Theory of Computation/6. Push Down Automata (PDA).md",
     "Textbook/Advanced Linear and Matrix Algebra.pdf",
-    "Mathematics/Linear Algebra/8. Inner Product.md",
     "Computer Science/Reinforcement Learning 1/Papers/SeukenZilberstein 2008.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
