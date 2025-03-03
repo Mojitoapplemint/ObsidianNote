@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
+                "file": "Computer Science/Computer Organization and Arch/8. Parallellism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. Special Linear Transformation"
+              "title": "8. Parallellism"
             }
           },
           {
@@ -120,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -223,8 +222,8 @@
   },
   "active": "567f603056e10fc6",
   "lastOpenFiles": [
-    "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
+    "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Personal/사이드 프로젝트 아이디어.md",
     "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
     "Mathematics/Theory of Computation/2. Nondeterministic Finite Automata.md",
