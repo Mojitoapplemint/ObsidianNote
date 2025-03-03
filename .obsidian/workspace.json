@@ -11,14 +11,12 @@
             "id": "567f603056e10fc6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Personal/사이드 프로젝트 아이디어.md",
-                "mode": "source",
-                "source": false
+                "file": "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf"
               },
-              "icon": "lucide-file",
-              "title": "사이드 프로젝트 아이디어"
+              "icon": "lucide-file-text",
+              "title": "marl-book"
             }
           },
           {
@@ -63,8 +61,7 @@
               "title": "1. Deterministic Finite Automata"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,13 +218,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b8334d6bb96ec36f",
+  "active": "567f603056e10fc6",
   "lastOpenFiles": [
+    "Personal/사이드 프로젝트 아이디어.md",
+    "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
     "Mathematics/Theory of Computation/2. Nondeterministic Finite Automata.md",
     "Computer Science/OO Design/Module4/Refactoring Recipes.md",
     "Computer Science/OO Design/Module4/Code Smell.md",
     "Mathematics/Linear Algebra/8. Inner Product.md",
-    "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
     "Computer Science/Reinforcement Learning 1/SARL/Q-Learning.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Theory of Computation/3. Regular Expression.md",
@@ -258,7 +256,6 @@
     "Attached Files/Pasted image 20250228183047.png",
     "Excalidraw/Drawing 2025-02-28 18.29.31.excalidraw.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
-    "Personal/사이드 프로젝트 아이디어.md",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Untitled.md",
     "Untitled 1.md",
