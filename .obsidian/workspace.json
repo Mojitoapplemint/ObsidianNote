@@ -55,16 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Linear Algebra/8. Inner Product.md",
+                "file": "Computer Science/OO Design/Module4/Refactoring Recipes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. Inner Product"
+              "title": "Refactoring Recipes"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -221,18 +221,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4ec92a8bef293d60",
+  "active": "b8334d6bb96ec36f",
   "lastOpenFiles": [
-    "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
+    "Computer Science/OO Design/Module4/Code Smell.md",
+    "Computer Science/OO Design/Module4/Refactoring Recipes.md",
+    "Mathematics/Linear Algebra/8. Inner Product.md",
     "Mathematics/Theory of Computation/2. Nondeterministic Finite Automata.md",
+    "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
     "Computer Science/Reinforcement Learning 1/SARL/Q-Learning.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Theory of Computation/3. Regular Expression.md",
-    "Mathematics/Linear Algebra/8. Inner Product.md",
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Computer Science/OO Design/Module2/2-3 Liskov Substitution Principle.md",
-    "Computer Science/OO Design/Module4/Code Smell.md",
-    "Computer Science/OO Design/Module4/Refactoring Recipes.md",
     "Computer Science/OO Design/Object-Oriented Design.md",
     "Computer Science/OO Design/Code Refactoring.md",
     "Computer Science/OO Design/Module2/2-2 Open-Closed Principle.md",
