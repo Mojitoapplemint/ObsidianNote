@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/OO Design/Module4/Refactoring Recipes.md",
+                "file": "Mathematics/Linear Algebra/8. Inner Product.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Refactoring Recipes"
+              "title": "8. Inner Product"
             }
           },
           {
@@ -194,6 +194,7 @@
   },
   "active": "567f603056e10fc6",
   "lastOpenFiles": [
+    "Computer Science/OO Design/Module4/Refactoring Recipes.md",
     "Computer Science/OO Design/Module4/Code Smell.md",
     "Mathematics/Theory of Computation/7. Pumping Lemma for CFG.md",
     "Mathematics/Theory of Computation/2. Nondeterministic Finite Automata.md",
@@ -206,7 +207,6 @@
     "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Personal/사이드 프로젝트 아이디어.md",
-    "Computer Science/OO Design/Module4/Refactoring Recipes.md",
     "Mathematics/Linear Algebra/8. Inner Product.md",
     "Computer Science/Reinforcement Learning 1/SARL/Q-Learning.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
