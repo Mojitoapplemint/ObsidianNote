@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
+                "file": "Mathematics/Theory of Computation/7. Non-Context Free Languages.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Basic Logic Fundamentals"
+              "title": "7. Non-Context Free Languages"
             }
           },
           {
@@ -222,6 +222,7 @@
   },
   "active": "567f603056e10fc6",
   "lastOpenFiles": [
+    "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Computer Science/Computer Organization and Arch/8. Parallellism.md",
     "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
@@ -261,7 +262,6 @@
     "Excalidraw/Drawing 2025-02-28 18.29.31.excalidraw.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
-    "Untitled.md",
     "Attached Files/Pasted image 20250224180934.png",
     "Attached Files/Pasted image 20250222175349.png",
     "Attached Files/Pasted image 20250222175317.png",
