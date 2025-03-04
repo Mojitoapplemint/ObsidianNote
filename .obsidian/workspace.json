@@ -35,8 +35,7 @@
               "title": "1. Models of Multi-Agent Interaction"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,8 +193,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f24cb6b0664dad6a",
+  "active": "567f603056e10fc6",
   "lastOpenFiles": [
+    "Computer Science/Reinforcement Learning 1/MARL/1. Models of Multi-Agent Interaction.md",
     "Partial Observation.md",
     "Mathematics/Theory of Computation/7. Pumping Lemma for CFG.md",
     "Mathematics/Theory of Computation/4. Pumping Lemma.md",
@@ -234,7 +234,6 @@
     "Personal/IS 24FALL - DES w. RL Paper/DecPOMDP-survey-final.pdf",
     "Attached Files/Pasted image 20250228183404.png",
     "Attached Files/Pasted image 20250228183047.png",
-    "Excalidraw/Drawing 2025-02-28 18.29.31.excalidraw.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Attached Files/Pasted image 20250224180934.png",
     "Attached Files/Pasted image 20250222175349.png",
