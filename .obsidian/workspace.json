@@ -37,12 +37,14 @@
             "id": "a8783fe7d6e79127",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Personal/IS 24FALL - DES w. RL Paper/Oliehoek12RLBook.pdf"
+                "file": "Mathematics/Theory of Computation/3. Regular Expression.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Oliehoek12RLBook"
+              "icon": "lucide-file",
+              "title": "3. Regular Expression"
             }
           }
         ],
@@ -205,6 +207,9 @@
   },
   "active": "a8783fe7d6e79127",
   "lastOpenFiles": [
+    "Mathematics/Theory of Computation/2. Nondeterministic Finite Automata.md",
+    "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
+    "Personal/IS 24FALL - DES w. RL Paper/Oliehoek12RLBook.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/DecPOMDP-survey-final.pdf",
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
@@ -213,7 +218,6 @@
     "Computer Science/OO Design/Module4/Refactoring Recipes.md",
     "Computer Science/OO Design/Module4/Code Smell.md",
     "Mathematics/Theory of Computation/7. Pumping Lemma for CFG.md",
-    "Mathematics/Theory of Computation/2. Nondeterministic Finite Automata.md",
     "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
     "Mathematics/Theory of Computation/4. Pumping Lemma.md",
     "Computer Science/Reinforcement Learning 1/MARL/1. Models of Multi-Agent Interaction.md",
@@ -232,7 +236,6 @@
     "Computer Science/OO Design/Module2/2-2 Open-Closed Principle.md",
     "Computer Science/OO Design/Module2/2-1 Single Responsibility Principle.md",
     "Computer Science/OO Design/Module2/1 MVC(Model, View, Controller).md",
-    "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
     "Textbook/Introduction to the Theory of Computation.pdf",
     "Attached Files/Pasted image 20250301191229.png",
     "Attached Files/Pasted image 20250301191020.png",
@@ -248,7 +251,6 @@
     "Attached Files/Pasted image 20250222175349.png",
     "Attached Files/Pasted image 20250222175317.png",
     "Attached Files/Pasted image 20250222175234.png",
-    "Attached Files/Pasted image 20250222174642.png",
-    "Textbook/Advanced Linear and Matrix Algebra 1.pdf"
+    "Attached Files/Pasted image 20250222174642.png"
   ]
 }
