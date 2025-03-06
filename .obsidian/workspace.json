@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Reinforcement Learning 1/MARL/1. Models of Multi-Agent Interaction.md",
+                "file": "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Models of Multi-Agent Interaction"
+              "title": "1. Deterministic Finite Automata"
             }
           },
           {
@@ -207,6 +207,9 @@
   },
   "active": "a8783fe7d6e79127",
   "lastOpenFiles": [
+    "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
+    "Computer Science/Reinforcement Learning 1/MARL/1. Models of Multi-Agent Interaction.md",
+    "Mathematics/Theory of Computation/3. Regular Expression.md",
     "Mathematics/Theory of Computation/2. Nondeterministic Finite Automata.md",
     "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
     "Personal/IS 24FALL - DES w. RL Paper/Oliehoek12RLBook.pdf",
@@ -218,9 +221,7 @@
     "Computer Science/OO Design/Module4/Refactoring Recipes.md",
     "Computer Science/OO Design/Module4/Code Smell.md",
     "Mathematics/Theory of Computation/7. Pumping Lemma for CFG.md",
-    "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
     "Mathematics/Theory of Computation/4. Pumping Lemma.md",
-    "Computer Science/Reinforcement Learning 1/MARL/1. Models of Multi-Agent Interaction.md",
     "Partial Observation.md",
     "Computer Science/Computer Organization and Arch/8. Parallellism.md",
     "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
@@ -228,7 +229,6 @@
     "Personal/사이드 프로젝트 아이디어.md",
     "Computer Science/Reinforcement Learning 1/SARL/Q-Learning.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
-    "Mathematics/Theory of Computation/3. Regular Expression.md",
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Computer Science/OO Design/Module2/2-3 Liskov Substitution Principle.md",
     "Computer Science/OO Design/Object-Oriented Design.md",
