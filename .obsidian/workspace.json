@@ -11,14 +11,12 @@
             "id": "567f603056e10fc6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
-                "mode": "source",
-                "source": false
+                "file": "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf"
               },
-              "icon": "lucide-file",
-              "title": "1. Basic Logic Fundamentals"
+              "icon": "lucide-file-text",
+              "title": "OliehoekAmato16book"
             }
           },
           {
@@ -34,8 +32,21 @@
               "icon": "lucide-file",
               "title": "1. Models of Multi-Agent Interaction"
             }
+          },
+          {
+            "id": "a8783fe7d6e79127",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Personal/IS 24FALL - DES w. RL Paper/Oliehoek12RLBook.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Oliehoek12RLBook"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,8 +203,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "567f603056e10fc6",
+  "active": "a8783fe7d6e79127",
   "lastOpenFiles": [
+    "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
+    "Computer Science/Reinforcement Learning 1/Papers/DecPOMDP-survey-final.pdf",
+    "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Untitled.md",
     "Mathematics/Linear Algebra/8. Inner Product.md",
     "Computer Science/OO Design/Module4/Refactoring Recipes.md",
@@ -204,7 +218,6 @@
     "Mathematics/Theory of Computation/4. Pumping Lemma.md",
     "Computer Science/Reinforcement Learning 1/MARL/1. Models of Multi-Agent Interaction.md",
     "Partial Observation.md",
-    "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Computer Science/Computer Organization and Arch/8. Parallellism.md",
     "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
@@ -224,11 +237,8 @@
     "Attached Files/Pasted image 20250301191229.png",
     "Attached Files/Pasted image 20250301191020.png",
     "Attached Files/Pasted image 20250301191003.png",
-    "Mathematics/Theory of Computation/6. Push Down Automata (PDA).md",
     "Textbook/Advanced Linear and Matrix Algebra.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/SeukenZilberstein 2008.pdf",
-    "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
-    "Computer Science/Reinforcement Learning 1/Papers/DecPOMDP-survey-final.pdf",
     "Personal/IS 24FALL - DES w. RL Paper/Yamasaki_and_Ushio_Notation_translated (6).pdf",
     "Personal/IS 24FALL - DES w. RL Paper/DecPOMDP-survey-final.pdf",
     "Attached Files/Pasted image 20250228183404.png",
