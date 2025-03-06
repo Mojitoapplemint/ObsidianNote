@@ -46,9 +46,21 @@
               "icon": "lucide-file",
               "title": "3. Regular Expression"
             }
+          },
+          {
+            "id": "7bd99f9dc9a4113b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "marl-book"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -205,8 +217,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f24cb6b0664dad6a",
+  "active": "7bd99f9dc9a4113b",
   "lastOpenFiles": [
+    "Computer Science/Reinforcement Learning 1/MARL/2. Solutions to the Game.md",
     "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
     "Mathematics/Theory of Computation/3. Regular Expression.md",
     "Mathematics/Theory of Computation/7. Pumping Lemma for CFG.md",
