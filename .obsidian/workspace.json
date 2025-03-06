@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
+                "file": "Computer Science/Reinforcement Learning 1/MARL/2. Solutions to the Game.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Context-Free Grammar"
+              "title": "2. Solutions to the Game"
             }
           },
           {
@@ -207,8 +207,8 @@
   },
   "active": "f24cb6b0664dad6a",
   "lastOpenFiles": [
-    "Mathematics/Theory of Computation/3. Regular Expression.md",
     "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
+    "Mathematics/Theory of Computation/3. Regular Expression.md",
     "Mathematics/Theory of Computation/7. Pumping Lemma for CFG.md",
     "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
     "Mathematics/Theory of Computation/2. Nondeterministic Finite Automata.md",
