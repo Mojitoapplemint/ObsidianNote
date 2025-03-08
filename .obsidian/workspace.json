@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -232,13 +232,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8cf7d742102dd988",
+  "active": "7bd99f9dc9a4113b",
   "lastOpenFiles": [
+    "Computer Science/Reinforcement Learning 1/MARL/2. Solutions to the Game.md",
+    "Untitled.md",
+    "Computer Science/Reinforcement Learning 1/SARL/2. Multi-Armed Bandits.md",
     "To-do List.md",
     "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
     "Mathematics/Theory of Computation/3. Regular Expression.md",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
-    "Computer Science/Reinforcement Learning 1/MARL/2. Solutions to the Game.md",
     "Mathematics/Theory of Computation/7. Pumping Lemma for CFG.md",
     "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
     "Mathematics/Theory of Computation/2. Nondeterministic Finite Automata.md",
@@ -247,7 +249,6 @@
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/DecPOMDP-survey-final.pdf",
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
-    "Untitled.md",
     "Mathematics/Linear Algebra/8. Inner Product.md",
     "Computer Science/OO Design/Module4/Refactoring Recipes.md",
     "Computer Science/OO Design/Module4/Code Smell.md",
@@ -263,7 +264,6 @@
     "Computer Science/OO Design/Object-Oriented Design.md",
     "Computer Science/OO Design/Code Refactoring.md",
     "Computer Science/OO Design/Module2/2-2 Open-Closed Principle.md",
-    "Computer Science/OO Design/Module2/2-1 Single Responsibility Principle.md",
     "Textbook/Introduction to the Theory of Computation.pdf",
     "Attached Files/Pasted image 20250301191229.png",
     "Attached Files/Pasted image 20250301191020.png",
