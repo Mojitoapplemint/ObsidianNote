@@ -51,12 +51,14 @@
             "id": "8cf7d742102dd988",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.9"
+                "file": "Computer Science/Reinforcement Learning 1/SARL/2. Multi-Armed Bandits.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "icon": "lucide-file",
+              "title": "2. Multi-Armed Bandits"
             }
           },
           {
@@ -104,8 +106,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "complement",
-                "matchingCase": false,
+                "query": "exploi",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -125,7 +127,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
