@@ -48,6 +48,18 @@
             }
           },
           {
+            "id": "8cf7d742102dd988",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          },
+          {
             "id": "7bd99f9dc9a4113b",
             "type": "leaf",
             "state": {
@@ -60,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -217,7 +229,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a8783fe7d6e79127",
+  "active": "8cf7d742102dd988",
   "lastOpenFiles": [
     "To-do List.md",
     "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
