@@ -11,12 +11,14 @@
             "id": "567f603056e10fc6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf"
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "OliehoekAmato16book"
+              "icon": "lucide-file",
+              "title": "Untitled 1"
             }
           },
           {
@@ -73,8 +75,7 @@
               "title": "marl-book"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,24 +228,25 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c57e60c07883afd8",
+  "active": "567f603056e10fc6",
   "lastOpenFiles": [
+    "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
+    "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Computer Science/Reinforcement Learning 1/MARL/2. Solutions to the Game.md",
     "Untitled.md",
     "Computer Science/Reinforcement Learning 1/SARL/2. Multi-Armed Bandits.md",
     "To-do List.md",
     "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
     "Mathematics/Theory of Computation/3. Regular Expression.md",
-    "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Mathematics/Theory of Computation/7. Pumping Lemma for CFG.md",
     "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
     "Mathematics/Theory of Computation/2. Nondeterministic Finite Automata.md",
     "Computer Science/Reinforcement Learning 1/MARL/1. Models of Multi-Agent Interaction.md",
     "Personal/IS 24FALL - DES w. RL Paper/Oliehoek12RLBook.pdf",
-    "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/DecPOMDP-survey-final.pdf",
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Mathematics/Linear Algebra/8. Inner Product.md",
@@ -261,7 +263,6 @@
     "Computer Science/OO Design/Module2/2-3 Liskov Substitution Principle.md",
     "Computer Science/OO Design/Object-Oriented Design.md",
     "Computer Science/OO Design/Code Refactoring.md",
-    "Computer Science/OO Design/Module2/2-2 Open-Closed Principle.md",
     "Textbook/Introduction to the Theory of Computation.pdf",
     "Attached Files/Pasted image 20250301191229.png",
     "Attached Files/Pasted image 20250301191020.png",
