@@ -127,8 +127,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -232,7 +231,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7bd99f9dc9a4113b",
+  "active": "c57e60c07883afd8",
   "lastOpenFiles": [
     "Computer Science/Reinforcement Learning 1/MARL/2. Solutions to the Game.md",
     "Untitled.md",
