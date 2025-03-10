@@ -75,8 +75,7 @@
               "title": "marl-book"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,13 +232,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a8783fe7d6e79127",
+  "active": "567f603056e10fc6",
   "lastOpenFiles": [
+    "Untitled.md",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Untitled 1.md",
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Computer Science/Reinforcement Learning 1/MARL/2. Solutions to the Game.md",
-    "Untitled.md",
     "Computer Science/Reinforcement Learning 1/SARL/2. Multi-Armed Bandits.md",
     "To-do List.md",
     "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
