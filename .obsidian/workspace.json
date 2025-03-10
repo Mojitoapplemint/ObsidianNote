@@ -75,7 +75,8 @@
               "title": "marl-book"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -228,13 +229,15 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "567f603056e10fc6",
+  "active": "a8783fe7d6e79127",
   "lastOpenFiles": [
-    "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
+    "Untitled 1.md",
+    "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Computer Science/Reinforcement Learning 1/MARL/2. Solutions to the Game.md",
     "Untitled.md",
     "Computer Science/Reinforcement Learning 1/SARL/2. Multi-Armed Bandits.md",
@@ -261,7 +264,6 @@
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Computer Science/OO Design/Module2/2-3 Liskov Substitution Principle.md",
     "Computer Science/OO Design/Object-Oriented Design.md",
-    "Computer Science/OO Design/Code Refactoring.md",
     "Textbook/Introduction to the Theory of Computation.pdf",
     "Attached Files/Pasted image 20250301191229.png",
     "Attached Files/Pasted image 20250301191020.png",
