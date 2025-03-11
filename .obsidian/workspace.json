@@ -89,7 +89,8 @@
               "title": "OliehoekAmato16book"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -246,8 +247,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "567f603056e10fc6",
+  "active": "6f6a4ed3fe6b15b2",
   "lastOpenFiles": [
+    "Mathematics/Theory of Computation/3. Regular Expression.md",
     "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
     "Untitled 1.md",
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
@@ -257,7 +259,6 @@
     "Computer Science/Reinforcement Learning 1/MARL/2. Solutions to the Game.md",
     "Computer Science/Reinforcement Learning 1/SARL/2. Multi-Armed Bandits.md",
     "To-do List.md",
-    "Mathematics/Theory of Computation/3. Regular Expression.md",
     "Mathematics/Theory of Computation/7. Pumping Lemma for CFG.md",
     "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
     "Mathematics/Theory of Computation/2. Nondeterministic Finite Automata.md",
