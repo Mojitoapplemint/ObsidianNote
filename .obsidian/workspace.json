@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "6. Push Down Automata (PDA)"
             }
+          },
+          {
+            "id": "0cb70cdf4046cbdd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Textbook/Introduction to the Theory of Computation.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Introduction to the Theory of Computation"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,10 +191,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1f14eb3b22944e41",
+  "active": "0cb70cdf4046cbdd",
   "lastOpenFiles": [
-    "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
+    "Textbook/Introduction to Reinforcement Learning.pdf",
     "Mathematics/Theory of Computation/6. Push Down Automata (PDA).md",
+    "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
     "Mathematics/Theory of Computation/4. Pumping Lemma for RL.md",
     "Mathematics/Theory of Computation/3. Regular Expression.md",
     "Textbook/Introduction to the Theory of Computation.pdf",
@@ -193,7 +207,6 @@
     "Computer Science/OO Design/Module1/2-1. Class Diagram.md",
     "Computer Science/OO Design/Module1/2. UML Indoctrination.md",
     "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
-    "Textbook/Introduction to Reinforcement Learning.pdf",
     "Mathematics/Theory of Computation/2. Nondeterministic Finite Automata.md",
     "Untitled 1.md",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
@@ -211,7 +224,6 @@
     "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
     "Personal/사이드 프로젝트 아이디어.md",
     "Computer Science/Reinforcement Learning 1/SARL/Q-Learning.md",
-    "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Attached Files/Pasted image 20250301191229.png",
     "Attached Files/Pasted image 20250301191020.png",
     "Attached Files/Pasted image 20250301191003.png",
