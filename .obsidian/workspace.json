@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
+                "file": "Mathematics/Theory of Computation/7. Pumping Lemma for CFG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Context-Free Grammar"
+              "title": "7. Pumping Lemma for CFG"
             }
           },
           {
@@ -221,10 +221,10 @@
   },
   "active": "b10b6dad0809ef14",
   "lastOpenFiles": [
-    "Mathematics/Theory of Computation/6. Push Down Automata (PDA).md",
-    "Mathematics/Theory of Computation/7. Pumping Lemma for CFG.md",
     "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
     "Mathematics/Theory of Computation/4. Pumping Lemma for RL.md",
+    "Mathematics/Theory of Computation/6. Push Down Automata (PDA).md",
+    "Mathematics/Theory of Computation/7. Pumping Lemma for CFG.md",
     "Mathematics/Theory of Computation/2. Nondeterministic Finite Automata.md",
     "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
     "Mathematics/Theory of Computation/3. Regular Expression.md",
