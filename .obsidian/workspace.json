@@ -37,14 +37,12 @@
             "id": "b10b6dad0809ef14",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "icon": "lucide-file-text",
+              "title": "marl-book"
             }
           },
           {
@@ -60,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -218,9 +216,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0673b55a35289f74",
+  "active": "b10b6dad0809ef14",
   "lastOpenFiles": [
     "Untitled.md",
+    "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Mathematics/Theory of Computation/2. Nondeterministic Finite Automata.md",
     "Textbook/Introduction to the Theory of Computation.pdf",
     "Untitled 1.md",
@@ -237,7 +236,6 @@
     "Computer Science/Reinforcement Learning 1/MARL/2. Solutions to the Game.md",
     "Computer Science/OO Design/Module1/2-1. Class Diagram.md",
     "Computer Science/OO Design/Module1/2. UML Indoctrination.md",
-    "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "To-do List.md",
     "Computer Science/Reinforcement Learning 1/MARL/1. Models of Multi-Agent Interaction.md",
     "Personal/IS 24FALL - DES w. RL Paper/Oliehoek12RLBook.pdf",
