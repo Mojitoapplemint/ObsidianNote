@@ -27,10 +27,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Textbook/Introduction to the Theory of Computation.pdf"
+                "file": "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Introduction to the Theory of Computation"
+              "title": "OliehoekAmato16book"
             }
           },
           {
@@ -57,7 +57,8 @@
               "title": "marl-book"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,15 +215,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1f14eb3b22944e41",
+  "active": "0cb70cdf4046cbdd",
   "lastOpenFiles": [
+    "Textbook/Introduction to the Theory of Computation.pdf",
+    "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
+    "Untitled 1.md",
     "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
     "Mathematics/Theory of Computation/6. Push Down Automata (PDA).md",
-    "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Untitled.md",
     "Mathematics/Theory of Computation/2. Nondeterministic Finite Automata.md",
-    "Textbook/Introduction to the Theory of Computation.pdf",
-    "Untitled 1.md",
     "Mathematics/Theory of Computation/7. Pumping Lemma for CFG.md",
     "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
     "Mathematics/Theory of Computation/4. Pumping Lemma for RL.md",
