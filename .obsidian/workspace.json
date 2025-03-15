@@ -49,12 +49,14 @@
             "id": "0673b55a35289f74",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf"
+                "file": "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "marl-book"
+              "icon": "lucide-file",
+              "title": "9. Special Linear Transformation"
             }
           },
           {
@@ -221,14 +223,15 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "0673b55a35289f74",
   "lastOpenFiles": [
+    "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Textbook/Introduction to the Theory of Computation.pdf",
-    "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Untitled 1.md",
     "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
     "Mathematics/Theory of Computation/6. Push Down Automata (PDA).md",
