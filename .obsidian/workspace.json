@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
+                "file": "Computer Science/Computer Organization and Arch/8. Subword Parallellism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. Matrix Decomposition"
+              "title": "8. Subword Parallellism"
             }
           },
           {
@@ -205,9 +205,11 @@
   },
   "active": "0673b55a35289f74",
   "lastOpenFiles": [
+    "Computer Science/Computer Organization and Arch/7. Arithmetic for Computer.md",
+    "Computer Science/Computer Organization and Arch/8. Subword Parallellism.md",
+    "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
     "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
     "Mathematics/Linear Algebra/8. Inner Product.md",
-    "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
     "Untitled 1.md",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
@@ -234,7 +236,6 @@
     "Computer Science/OO Design/Module4/Refactoring Recipes.md",
     "Computer Science/OO Design/Module4/Code Smell.md",
     "Partial Observation.md",
-    "Computer Science/Computer Organization and Arch/8. Parallellism.md",
     "Personal/사이드 프로젝트 아이디어.md",
     "Attached Files/Pasted image 20250301191229.png",
     "Attached Files/Pasted image 20250301191020.png",
