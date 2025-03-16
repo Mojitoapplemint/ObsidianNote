@@ -22,30 +22,6 @@
             }
           },
           {
-            "id": "0cb70cdf4046cbdd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "OliehoekAmato16book"
-            }
-          },
-          {
-            "id": "b10b6dad0809ef14",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "marl-book"
-            }
-          },
-          {
             "id": "0673b55a35289f74",
             "type": "leaf",
             "state": {
@@ -70,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -230,12 +205,13 @@
   },
   "active": "0673b55a35289f74",
   "lastOpenFiles": [
-    "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
-    "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
+    "Mathematics/Linear Algebra/8. Inner Product.md",
+    "Untitled 1.md",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
+    "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
+    "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
     "Textbook/Introduction to the Theory of Computation.pdf",
-    "Untitled 1.md",
     "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
     "Mathematics/Theory of Computation/6. Push Down Automata (PDA).md",
     "Untitled.md",
@@ -255,13 +231,11 @@
     "Personal/IS 24FALL - DES w. RL Paper/Oliehoek12RLBook.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/DecPOMDP-survey-final.pdf",
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
-    "Mathematics/Linear Algebra/8. Inner Product.md",
     "Computer Science/OO Design/Module4/Refactoring Recipes.md",
     "Computer Science/OO Design/Module4/Code Smell.md",
     "Partial Observation.md",
     "Computer Science/Computer Organization and Arch/8. Parallellism.md",
     "Personal/사이드 프로젝트 아이디어.md",
-    "Computer Science/Reinforcement Learning 1/SARL/Q-Learning.md",
     "Attached Files/Pasted image 20250301191229.png",
     "Attached Files/Pasted image 20250301191020.png",
     "Attached Files/Pasted image 20250301191003.png",
