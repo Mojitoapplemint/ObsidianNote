@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,10 +218,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0bc4cf1f27199173",
+  "active": "0673b55a35289f74",
   "lastOpenFiles": [
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
+    "Untitled 1.md",
     "Attached Files/Pasted image 20250316181505.png",
     "Attached Files/Pasted image 20250316181411.png",
     "Attached Files/Pasted image 20250316181301.png",
@@ -237,7 +238,6 @@
     "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
     "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
     "Mathematics/Linear Algebra/8. Inner Product.md",
-    "Untitled 1.md",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Textbook/Introduction to the Theory of Computation.pdf",
