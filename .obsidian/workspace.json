@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -205,6 +206,9 @@
   },
   "active": "0673b55a35289f74",
   "lastOpenFiles": [
+    "Attached Files/Pasted image 20250316152937.png",
+    "Attached Files/Pasted image 20250316152652.png",
+    "Attached Files/Pasted image 20250316152526.png",
     "Attached Files/Pasted image 20250316152420.png",
     "Attached Files/Pasted image 20250316152357.png",
     "Attached Files/Pasted image 20250316152259.png",
@@ -247,9 +251,6 @@
     "Textbook/Advanced Linear and Matrix Algebra.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/SeukenZilberstein 2008.pdf",
     "Personal/IS 24FALL - DES w. RL Paper/Yamasaki_and_Ushio_Notation_translated (6).pdf",
-    "Personal/IS 24FALL - DES w. RL Paper/DecPOMDP-survey-final.pdf",
-    "Attached Files/Pasted image 20250228183404.png",
-    "Attached Files/Pasted image 20250228183047.png",
-    "Attached Files/Pasted image 20250224180934.png"
+    "Personal/IS 24FALL - DES w. RL Paper/DecPOMDP-survey-final.pdf"
   ]
 }
