@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Computer Organization and Arch/8. Subword Parallellism.md",
+                "file": "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. Subword Parallellism"
+              "title": "9. Processor and Datapath"
             }
           },
           {
@@ -206,6 +206,9 @@
   },
   "active": "0673b55a35289f74",
   "lastOpenFiles": [
+    "Computer Science/Computer Organization and Arch/8. Subword Parallellism.md",
+    "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
+    "Attached Files/Pasted image 20250316153456.png",
     "Attached Files/Pasted image 20250316152937.png",
     "Attached Files/Pasted image 20250316152652.png",
     "Attached Files/Pasted image 20250316152526.png",
@@ -215,7 +218,6 @@
     "Attached Files/Pasted image 20250316152206.png",
     "Attached Files/Pasted image 20250316150709.png",
     "Computer Science/Computer Organization and Arch/7. Arithmetic for Computer.md",
-    "Computer Science/Computer Organization and Arch/8. Subword Parallellism.md",
     "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
     "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
     "Mathematics/Linear Algebra/8. Inner Product.md",
@@ -246,8 +248,6 @@
     "Computer Science/OO Design/Module4/Code Smell.md",
     "Partial Observation.md",
     "Attached Files/Pasted image 20250301191229.png",
-    "Attached Files/Pasted image 20250301191020.png",
-    "Attached Files/Pasted image 20250301191003.png",
     "Textbook/Advanced Linear and Matrix Algebra.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/SeukenZilberstein 2008.pdf",
     "Personal/IS 24FALL - DES w. RL Paper/Yamasaki_and_Ushio_Notation_translated (6).pdf",
