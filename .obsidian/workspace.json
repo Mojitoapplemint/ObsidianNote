@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
+                "file": "Mathematics/Linear Algebra/8. Inner Product.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. Matrix Decomposition"
+              "title": "8. Inner Product"
             }
           },
           {
@@ -205,11 +205,11 @@
   },
   "active": "0673b55a35289f74",
   "lastOpenFiles": [
+    "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
     "Mathematics/Linear Algebra/8. Inner Product.md",
     "Untitled 1.md",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
-    "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
     "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
     "Textbook/Introduction to the Theory of Computation.pdf",
     "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
