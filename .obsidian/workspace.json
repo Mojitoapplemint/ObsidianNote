@@ -51,16 +51,18 @@
             "id": "22f00fd0c68ee0c2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf"
+                "file": "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Computer Organization and Design RISC V Edition The HardwareSoftware Interface"
+              "icon": "lucide-file",
+              "title": "9. Processor and Datapath"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -218,8 +220,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0673b55a35289f74",
+  "active": "22f00fd0c68ee0c2",
   "lastOpenFiles": [
+    "Attached Files/Pasted image 20250316202404.png",
+    "Computer Science/Computer Organization and Arch/10. Pipeline.md",
+    "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
+    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Attached Files/Pasted image 20250316200847.png",
     "Attached Files/Pasted image 20250316200433.png",
     "Attached Files/Pasted image 20250316195944.png",
@@ -230,9 +236,6 @@
     "Attached Files/Pasted image 20250316193732.png",
     "Attached Files/Pasted image 20250316193722.png",
     "Attached Files/Pasted image 20250316193711.png",
-    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
-    "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
-    "Attached Files/Pasted image 20250316193537.png",
     "Untitled 1.md",
     "Computer Science/Computer Organization and Arch/8. Subword Parallellism.md",
     "Computer Science/Computer Organization and Arch/7. Arithmetic for Computer.md",
@@ -262,7 +265,6 @@
     "Computer Science/Reinforcement Learning 1/Papers/DecPOMDP-survey-final.pdf",
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Computer Science/OO Design/Module4/Refactoring Recipes.md",
-    "Computer Science/OO Design/Module4/Code Smell.md",
     "Textbook/Advanced Linear and Matrix Algebra.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/SeukenZilberstein 2008.pdf",
     "Personal/IS 24FALL - DES w. RL Paper/Yamasaki_and_Ushio_Notation_translated (6).pdf"
