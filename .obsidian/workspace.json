@@ -75,8 +75,7 @@
               "title": "8. Inner Product"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,10 +232,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0673b55a35289f74",
+  "active": "1f14eb3b22944e41",
   "lastOpenFiles": [
-    "Textbook/Introduction to the Theory of Computation.pdf",
     "Mathematics/Theory of Computation/8. Turing Machine.md",
+    "Textbook/Introduction to the Theory of Computation.pdf",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Untitled 1.md",
     "Personal/Latex Suite Personal Setting.md",
