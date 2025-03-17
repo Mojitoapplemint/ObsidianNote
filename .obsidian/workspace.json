@@ -75,7 +75,8 @@
               "title": "8. Inner Product"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,12 +233,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1f14eb3b22944e41",
+  "active": "0673b55a35289f74",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "Textbook/Introduction to the Theory of Computation.pdf",
     "Mathematics/Theory of Computation/8. Turing Machine.md",
-    "Personal/Latex Suite Personal Setting.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
+    "Untitled 1.md",
+    "Personal/Latex Suite Personal Setting.md",
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Mathematics/Linear Algebra/8. Inner Product.md",
     "Untitled.md",
@@ -264,7 +266,6 @@
     "Computer Science/Computer Organization and Arch/7. Arithmetic for Computer.md",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
-    "Textbook/Introduction to the Theory of Computation.pdf",
     "Mathematics/Theory of Computation/6. Push Down Automata (PDA).md",
     "Mathematics/Theory of Computation/7. Pumping Lemma for CFG.md",
     "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
@@ -274,7 +275,6 @@
     "Computer Science/Reinforcement Learning 1/SARL/2. Multi-Armed Bandits.md",
     "Computer Science/Reinforcement Learning 1/MARL/2. Solutions to the Game.md",
     "Computer Science/OO Design/Module1/2-1. Class Diagram.md",
-    "Computer Science/OO Design/Module1/2. UML Indoctrination.md",
     "Personal/IS 24FALL - DES w. RL Paper/Oliehoek12RLBook.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/DecPOMDP-survey-final.pdf",
     "Textbook/Advanced Linear and Matrix Algebra.pdf",
