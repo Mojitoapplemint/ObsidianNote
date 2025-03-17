@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
+                "file": "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. Special Linear Transformation"
+              "title": "1. Deterministic Finite Automata"
             }
           },
           {
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -235,13 +235,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "22f00fd0c68ee0c2",
+  "active": "0673b55a35289f74",
   "lastOpenFiles": [
-    "Mathematics/Linear Algebra/7. Linear Transformation.md",
-    "Mathematics/Linear Algebra/6. Vector Space.md",
-    "Untitled 1.md",
+    "Mathematics/Theory of Computation/3. Regular Expression.md",
+    "Mathematics/Theory of Computation/2. Nondeterministic Finite Automata.md",
     "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
+    "Mathematics/Linear Algebra/6. Vector Space.md",
     "Mathematics/Linear Algebra/8. Inner Product.md",
+    "Mathematics/Linear Algebra/7. Linear Transformation.md",
+    "Untitled 1.md",
     "Mathematics/Complex Analysis/1. Basics of Complex Numbers.md",
     "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
     "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
@@ -265,11 +267,9 @@
     "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
     "Mathematics/Theory of Computation/6. Push Down Automata (PDA).md",
     "Untitled.md",
-    "Mathematics/Theory of Computation/2. Nondeterministic Finite Automata.md",
     "Mathematics/Theory of Computation/7. Pumping Lemma for CFG.md",
     "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
     "Mathematics/Theory of Computation/4. Pumping Lemma for RL.md",
-    "Mathematics/Theory of Computation/3. Regular Expression.md",
     "Textbook/Introduction to Reinforcement Learning.pdf",
     "Computer Science/Reinforcement Learning 1/Dec-POMDP/1. Definition and Structure of Dec-POMDP.md",
     "Computer Science/Reinforcement Learning 1/SARL/2. Multi-Armed Bandits.md",
