@@ -11,14 +11,12 @@
             "id": "1f14eb3b22944e41",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "source": false
+                "file": "Textbook/Introduction to the Theory of Computation.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Untitled 1"
+              "icon": "lucide-file-text",
+              "title": "Introduction to the Theory of Computation"
             }
           },
           {
@@ -77,8 +75,7 @@
               "title": "8. Inner Product"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,18 +232,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0673b55a35289f74",
+  "active": "1f14eb3b22944e41",
   "lastOpenFiles": [
     "Untitled 1.md",
     "Mathematics/Theory of Computation/8. Turing Machine.md",
+    "Personal/Latex Suite Personal Setting.md",
+    "Mathematics/Linear Algebra/7. Linear Transformation.md",
+    "Mathematics/Linear Algebra/6. Vector Space.md",
+    "Mathematics/Linear Algebra/8. Inner Product.md",
     "Untitled.md",
     "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
     "Mathematics/Theory of Computation/3. Regular Expression.md",
     "Mathematics/Theory of Computation/2. Nondeterministic Finite Automata.md",
     "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
-    "Mathematics/Linear Algebra/6. Vector Space.md",
-    "Mathematics/Linear Algebra/8. Inner Product.md",
-    "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Complex Analysis/1. Basics of Complex Numbers.md",
     "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
     "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
@@ -277,7 +275,6 @@
     "Computer Science/Reinforcement Learning 1/MARL/2. Solutions to the Game.md",
     "Computer Science/OO Design/Module1/2-1. Class Diagram.md",
     "Computer Science/OO Design/Module1/2. UML Indoctrination.md",
-    "To-do List.md",
     "Personal/IS 24FALL - DES w. RL Paper/Oliehoek12RLBook.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/DecPOMDP-survey-final.pdf",
     "Textbook/Advanced Linear and Matrix Algebra.pdf",
