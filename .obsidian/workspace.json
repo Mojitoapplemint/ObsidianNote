@@ -39,12 +39,14 @@
             "id": "0bc4cf1f27199173",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf"
+                "file": "Mathematics/Linear Algebra/7. Linear Transformation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Computer Organization and Design RISC V Edition The HardwareSoftware Interface"
+              "icon": "lucide-file",
+              "title": "7. Linear Transformation"
             }
           },
           {
@@ -53,16 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
+                "file": "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. Processor and Datapath"
+              "title": "9. Special Linear Transformation"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -220,12 +221,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "22f00fd0c68ee0c2",
+  "active": "0bc4cf1f27199173",
   "lastOpenFiles": [
+    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
+    "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
+    "Mathematics/Linear Algebra/8. Inner Product.md",
+    "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
+    "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
     "Attached Files/Pasted image 20250316202404.png",
     "Computer Science/Computer Organization and Arch/10. Pipeline.md",
-    "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
-    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Attached Files/Pasted image 20250316200847.png",
     "Attached Files/Pasted image 20250316200433.png",
     "Attached Files/Pasted image 20250316195944.png",
@@ -235,13 +239,9 @@
     "Attached Files/Pasted image 20250316193747.png",
     "Attached Files/Pasted image 20250316193732.png",
     "Attached Files/Pasted image 20250316193722.png",
-    "Attached Files/Pasted image 20250316193711.png",
     "Untitled 1.md",
     "Computer Science/Computer Organization and Arch/8. Subword Parallellism.md",
     "Computer Science/Computer Organization and Arch/7. Arithmetic for Computer.md",
-    "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
-    "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
-    "Mathematics/Linear Algebra/8. Inner Product.md",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Textbook/Introduction to the Theory of Computation.pdf",
