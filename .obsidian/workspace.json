@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -235,14 +235,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0673b55a35289f74",
+  "active": "22f00fd0c68ee0c2",
   "lastOpenFiles": [
-    "Mathematics/Linear Algebra/6. Vector Space.md",
-    "Mathematics/Linear Algebra/8. Inner Product.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
-    "Mathematics/Complex Analysis/1. Basics of Complex Numbers.md",
-    "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
+    "Mathematics/Linear Algebra/6. Vector Space.md",
     "Untitled 1.md",
+    "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
+    "Mathematics/Linear Algebra/8. Inner Product.md",
+    "Mathematics/Complex Analysis/1. Basics of Complex Numbers.md",
     "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
     "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
