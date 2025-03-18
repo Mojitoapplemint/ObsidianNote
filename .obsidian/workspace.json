@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Theory of Computation/8. Turing Machine.md",
+                "file": "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. Turing Machine"
+              "title": "9. Processor and Datapath"
             }
           }
         ]
@@ -174,19 +174,21 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "1f14eb3b22944e41",
   "lastOpenFiles": [
+    "Attached Files/Pasted image 20250318153949.png",
+    "Computer Science/Computer Organization and Arch/10. Instruction-Level Parallelism(ILP).md",
+    "Mathematics/Theory of Computation/8. Turing Machine.md",
     "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
     "Attached Files/Pasted image 20250318111037.png",
     "Attached Files/Pasted image 20250318110517.png",
-    "Computer Science/Computer Organization and Arch/10. Instruction-Level Parallelism(ILP).md",
     "Textbook/Introduction to the Theory of Computation.pdf",
     "Mathematics/Linear Algebra/11. Positive (Semi) Definite Matrix.md",
     "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
-    "Mathematics/Theory of Computation/8. Turing Machine.md",
     "Attached Files/Pasted image 20250317212046.png",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Untitled 1.md",
