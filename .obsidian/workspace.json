@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
+                "file": "Mathematics/Theory of Computation/8. Turing Machine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. Processor and Datapath"
+              "title": "8. Turing Machine"
             }
           }
         ]
@@ -180,10 +180,10 @@
   },
   "active": "1f14eb3b22944e41",
   "lastOpenFiles": [
+    "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
     "Attached Files/Pasted image 20250318111037.png",
     "Attached Files/Pasted image 20250318110517.png",
     "Computer Science/Computer Organization and Arch/10. Instruction-Level Parallelism(ILP).md",
-    "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
     "Textbook/Introduction to the Theory of Computation.pdf",
     "Mathematics/Linear Algebra/11. Positive (Semi) Definite Matrix.md",
     "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
@@ -209,7 +209,6 @@
     "Attached Files/Pasted image 20250316195914.png",
     "Attached Files/Pasted image 20250316195725.png",
     "Attached Files/Pasted image 20250316193932.png",
-    "Attached Files/Pasted image 20250316193747.png",
     "Computer Science/Computer Organization and Arch/8. Subword Parallellism.md",
     "Computer Science/Computer Organization and Arch/7. Arithmetic for Computer.md",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
