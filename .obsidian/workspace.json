@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
+                "file": "Mathematics/Linear Algebra/11. Positive (Semi) Definite Matrix.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. Matrix Decomposition"
+              "title": "11. Positive (Semi) Definite Matrix"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "joint",
+                "query": "vartheta",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +129,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -234,6 +235,8 @@
   },
   "active": "0673b55a35289f74",
   "lastOpenFiles": [
+    "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
+    "Mathematics/Linear Algebra/11. Positive (Semi) Definite Matrix.md",
     "Mathematics/Theory of Computation/8. Turing Machine.md",
     "Attached Files/Pasted image 20250317212046.png",
     "Textbook/Introduction to the Theory of Computation.pdf",
@@ -249,7 +252,6 @@
     "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
     "Mathematics/Complex Analysis/1. Basics of Complex Numbers.md",
     "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
-    "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Attached Files/Pasted image 20250316202404.png",
     "Computer Science/Computer Organization and Arch/10. Pipeline.md",
