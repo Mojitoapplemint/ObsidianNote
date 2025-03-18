@@ -62,6 +62,18 @@
               "icon": "lucide-file",
               "title": "10. Instruction-Level Parallelism(ILP)"
             }
+          },
+          {
+            "id": "a0175033b9164fc4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Computer Organization and Design RISC V Edition The HardwareSoftware Interface"
+            }
           }
         ],
         "currentTab": 3
@@ -224,10 +236,11 @@
   },
   "active": "7d1a4e26bd629baa",
   "lastOpenFiles": [
-    "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
     "Computer Science/Computer Organization and Arch/8. Subword Parallellism.md",
-    "Computer Science/Computer Organization and Arch/7. Arithmetic for Computer.md",
+    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Computer Organization and Arch/10. Instruction-Level Parallelism(ILP).md",
+    "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
+    "Computer Science/Computer Organization and Arch/7. Arithmetic for Computer.md",
     "Attached Files/Pasted image 20250318164547.png",
     "Attached Files/Pasted image 20250318163251.png",
     "Attached Files/Pasted image 20250318153949.png",
@@ -249,7 +262,6 @@
     "Mathematics/Theory of Computation/2. Nondeterministic Finite Automata.md",
     "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
     "Mathematics/Complex Analysis/1. Basics of Complex Numbers.md",
-    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Attached Files/Pasted image 20250316202404.png",
     "Computer Science/Computer Organization and Arch/10. Pipeline.md",
     "Attached Files/Pasted image 20250316200847.png",
