@@ -20,8 +20,51 @@
               "icon": "lucide-file",
               "title": "9. Processor and Datapath"
             }
+          },
+          {
+            "id": "e41c167b38b718fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Computer Organization and Arch/7. Arithmetic for Computer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7. Arithmetic for Computer"
+            }
+          },
+          {
+            "id": "70194df8f430a5d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Computer Organization and Arch/8. Subword Parallellism.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8. Subword Parallellism"
+            }
+          },
+          {
+            "id": "7d1a4e26bd629baa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Computer Organization and Arch/10. Instruction-Level Parallelism(ILP).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10. Instruction-Level Parallelism(ILP)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,14 +222,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1f14eb3b22944e41",
+  "active": "e41c167b38b718fa",
   "lastOpenFiles": [
+    "Computer Science/Computer Organization and Arch/8. Subword Parallellism.md",
+    "Computer Science/Computer Organization and Arch/10. Instruction-Level Parallelism(ILP).md",
+    "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
+    "Computer Science/Computer Organization and Arch/7. Arithmetic for Computer.md",
     "Attached Files/Pasted image 20250318164547.png",
     "Attached Files/Pasted image 20250318163251.png",
     "Attached Files/Pasted image 20250318153949.png",
-    "Computer Science/Computer Organization and Arch/10. Instruction-Level Parallelism(ILP).md",
     "Mathematics/Theory of Computation/8. Turing Machine.md",
-    "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
     "Attached Files/Pasted image 20250318111037.png",
     "Attached Files/Pasted image 20250318110517.png",
     "Textbook/Introduction to the Theory of Computation.pdf",
@@ -210,9 +255,6 @@
     "Attached Files/Pasted image 20250316200847.png",
     "Attached Files/Pasted image 20250316200433.png",
     "Attached Files/Pasted image 20250316195944.png",
-    "Attached Files/Pasted image 20250316195914.png",
-    "Computer Science/Computer Organization and Arch/8. Subword Parallellism.md",
-    "Computer Science/Computer Organization and Arch/7. Arithmetic for Computer.md",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Mathematics/Theory of Computation/6. Push Down Automata (PDA).md",
