@@ -63,7 +63,8 @@
               "title": "10. Instruction-Level Parallelism(ILP)"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -221,12 +222,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1f14eb3b22944e41",
+  "active": "7d1a4e26bd629baa",
   "lastOpenFiles": [
+    "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
     "Computer Science/Computer Organization and Arch/8. Subword Parallellism.md",
     "Computer Science/Computer Organization and Arch/7. Arithmetic for Computer.md",
     "Computer Science/Computer Organization and Arch/10. Instruction-Level Parallelism(ILP).md",
-    "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
     "Attached Files/Pasted image 20250318164547.png",
     "Attached Files/Pasted image 20250318163251.png",
     "Attached Files/Pasted image 20250318153949.png",
