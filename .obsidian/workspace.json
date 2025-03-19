@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -247,10 +247,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7d1a4e26bd629baa",
+  "active": "70194df8f430a5d2",
   "lastOpenFiles": [
-    "Computer Science/Computer Organization and Arch/10. Instruction-Level Parallelism(ILP).md",
+    "Computer Science/Computer Organization and Arch/8. Subword Parallellism.md",
     "Computer Science/Computer Organization and Arch/7. Arithmetic for Computer.md",
+    "Computer Science/Computer Organization and Arch/10. Instruction-Level Parallelism(ILP).md",
     "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
     "Computer Science/Git & GitHub.md",
     "Computer Science/System Porgramming/4. Globing and Regular Expression.md",
@@ -259,7 +260,6 @@
     "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
-    "Computer Science/Computer Organization and Arch/8. Subword Parallellism.md",
     "Attached Files/Pasted image 20250318230018.png",
     "Attached Files/Pasted image 20250318225411.png",
     "Attached Files/Pasted image 20250318164547.png",
