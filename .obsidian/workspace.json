@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -246,13 +246,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1f14eb3b22944e41",
+  "active": "a0175033b9164fc4",
   "lastOpenFiles": [
-    "Attached Files/Pasted image 20250318230018.png",
-    "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
-    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
-    "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
     "Computer Science/Computer Organization and Arch/10. Instruction-Level Parallelism(ILP).md",
+    "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
+    "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
+    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
+    "Attached Files/Pasted image 20250318230018.png",
     "Attached Files/Pasted image 20250318225411.png",
     "Computer Science/Computer Organization and Arch/8. Subword Parallellism.md",
     "Computer Science/Computer Organization and Arch/7. Arithmetic for Computer.md",
@@ -280,7 +280,6 @@
     "Attached Files/Pasted image 20250316202404.png",
     "Computer Science/Computer Organization and Arch/10. Pipeline.md",
     "Attached Files/Pasted image 20250316200847.png",
-    "Attached Files/Pasted image 20250316200433.png",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Mathematics/Theory of Computation/6. Push Down Automata (PDA).md",
