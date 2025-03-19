@@ -79,16 +79,18 @@
             "id": "1653ae3afacdc56e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf"
+                "file": "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Computer Organization and Design RISC V Edition The HardwareSoftware Interface"
+              "icon": "lucide-file",
+              "title": "1. Computer Abstractions and Technology"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -245,14 +247,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "70194df8f430a5d2",
+  "active": "a0175033b9164fc4",
   "lastOpenFiles": [
-    "Computer Science/Computer Organization and Arch/7. Arithmetic for Computer.md",
-    "Computer Science/Computer Organization and Arch/8. Subword Parallellism.md",
+    "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
+    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
     "Computer Science/Computer Organization and Arch/10. Instruction-Level Parallelism(ILP).md",
-    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
+    "Computer Science/Computer Organization and Arch/7. Arithmetic for Computer.md",
+    "Computer Science/Computer Organization and Arch/8. Subword Parallellism.md",
     "Attached Files/Pasted image 20250318230018.png",
     "Attached Files/Pasted image 20250318225411.png",
     "Attached Files/Pasted image 20250318164547.png",
