@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
+                "file": "Computer Science/Computer Organization and Arch/10. Instruction-Level Parallelism(ILP).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. Processor and Datapath"
+              "title": "10. Instruction-Level Parallelism(ILP)"
             }
           },
           {
@@ -249,10 +249,10 @@
   },
   "active": "70194df8f430a5d2",
   "lastOpenFiles": [
-    "Computer Science/Computer Organization and Arch/8. Subword Parallellism.md",
-    "Computer Science/Computer Organization and Arch/7. Arithmetic for Computer.md",
-    "Computer Science/Computer Organization and Arch/10. Instruction-Level Parallelism(ILP).md",
     "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
+    "Computer Science/Computer Organization and Arch/7. Arithmetic for Computer.md",
+    "Computer Science/Computer Organization and Arch/8. Subword Parallellism.md",
+    "Computer Science/Computer Organization and Arch/10. Instruction-Level Parallelism(ILP).md",
     "Computer Science/Git & GitHub.md",
     "Computer Science/System Porgramming/4. Globing and Regular Expression.md",
     "Computer Science/OO Design/Module4/Code Smell.md",
