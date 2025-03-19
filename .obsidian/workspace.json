@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/System Porgramming/4. Globing and Regular Expression.md",
+                "file": "Computer Science/Git & GitHub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Globing and Regular Expression"
+              "title": "Git & GitHub"
             }
           }
         ],
@@ -249,6 +249,7 @@
   },
   "active": "1653ae3afacdc56e",
   "lastOpenFiles": [
+    "Computer Science/System Porgramming/4. Globing and Regular Expression.md",
     "Computer Science/OO Design/Module4/Code Smell.md",
     "Computer Science/OO Design/Module4/Refactoring Recipes.md",
     "Computer Science/Computer Organization and Arch/10. Instruction-Level Parallelism(ILP).md",
@@ -288,7 +289,6 @@
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Mathematics/Theory of Computation/6. Push Down Automata (PDA).md",
     "Mathematics/Theory of Computation/7. Pumping Lemma for CFG.md",
-    "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
     "Textbook/Introduction to Reinforcement Learning.pdf",
     "Personal/IS 24FALL - DES w. RL Paper/Oliehoek12RLBook.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/DecPOMDP-survey-final.pdf",
