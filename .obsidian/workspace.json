@@ -74,6 +74,18 @@
               "icon": "lucide-file-text",
               "title": "Computer Organization and Design RISC V Edition The HardwareSoftware Interface"
             }
+          },
+          {
+            "id": "1653ae3afacdc56e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Computer Organization and Design RISC V Edition The HardwareSoftware Interface"
+            }
           }
         ],
         "currentTab": 4
@@ -236,10 +248,10 @@
   },
   "active": "a0175033b9164fc4",
   "lastOpenFiles": [
-    "Computer Science/Computer Organization and Arch/7. Arithmetic for Computer.md",
-    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Computer Organization and Arch/10. Instruction-Level Parallelism(ILP).md",
+    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
+    "Computer Science/Computer Organization and Arch/7. Arithmetic for Computer.md",
     "Computer Science/Computer Organization and Arch/8. Subword Parallellism.md",
     "Attached Files/Pasted image 20250318164547.png",
     "Attached Files/Pasted image 20250318163251.png",
