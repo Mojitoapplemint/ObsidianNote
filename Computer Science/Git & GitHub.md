@@ -1,4 +1,4 @@
-	# 보조 웹사이트
+# 보조 웹사이트
 [보조 웹사이트(얄코)](https://www.yalco.kr/lectures/git-github/)
 [보조 유튜브 영상(얄코)](https://www.youtube.com/watch?v=1I3hMwQU6GU&t=168s)
 # 깃이란?
