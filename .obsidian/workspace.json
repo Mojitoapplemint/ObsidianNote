@@ -79,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "73d603b28403cf44",
@@ -267,18 +267,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "efc5a298b7175230",
+  "active": "d7f149abe6cf4c01",
   "lastOpenFiles": [
-    "Mathematics/Linear Algebra/5. Matrix Advance.md",
-    "Mathematics/Linear Algebra/8. Inner Product.md",
-    "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
     "Textbook/Advanced Linear and Matrix Algebra.pdf",
+    "Mathematics/Linear Algebra/8. Inner Product.md",
+    "Mathematics/Linear Algebra/7. Linear Transformation.md",
+    "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
+    "Mathematics/Linear Algebra/5. Matrix Advance.md",
     "Mathematics/Linear Algebra/4. Matrices.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
     "Mathematics/Complex Analysis/1. Basics of Complex Numbers.md",
     "Mathematics/Linear Algebra/11. Positive (Semi) Definite Matrix.md",
     "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
-    "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Mathematics/Linear Algebra/3. Subspace.md",
     "Computer Science/Git & GitHub.md",
