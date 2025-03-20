@@ -11,14 +11,12 @@
             "id": "e41c167b38b718fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Mathematics/Linear Algebra/8. Inner Product.md",
-                "mode": "source",
-                "source": false
+                "file": "Textbook/Advanced Linear and Matrix Algebra.pdf"
               },
-              "icon": "lucide-file",
-              "title": "8. Inner Product"
+              "icon": "lucide-file-text",
+              "title": "Advanced Linear and Matrix Algebra"
             }
           },
           {
@@ -146,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -248,6 +247,7 @@
   },
   "active": "e41c167b38b718fa",
   "lastOpenFiles": [
+    "Mathematics/Linear Algebra/8. Inner Product.md",
     "Computer Science/Git & GitHub.md",
     "Computer Science/Computer Organization and Arch/10. Instruction-Level Parallelism(ILP).md",
     "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
@@ -275,7 +275,6 @@
     "Untitled 1.md",
     "Personal/Latex Suite Personal Setting.md",
     "Mathematics/Linear Algebra/6. Vector Space.md",
-    "Mathematics/Linear Algebra/8. Inner Product.md",
     "Untitled.md",
     "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
     "Mathematics/Theory of Computation/3. Regular Expression.md",
