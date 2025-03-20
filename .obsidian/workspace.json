@@ -79,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "73d603b28403cf44",
@@ -100,6 +100,18 @@
           },
           {
             "id": "a628463be818cf15",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Textbook/Advanced Linear and Matrix Algebra.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Advanced Linear and Matrix Algebra"
+            }
+          },
+          {
+            "id": "62bfec35179f86de",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -267,14 +279,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e41c167b38b718fa",
+  "active": "e6db84acc7c38aa3",
   "lastOpenFiles": [
+    "Textbook/Advanced Linear and Matrix Algebra.pdf",
+    "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
+    "Mathematics/Linear Algebra/8. Inner Product.md",
     "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Linear Algebra/6. Vector Space.md",
-    "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
-    "Textbook/Advanced Linear and Matrix Algebra.pdf",
-    "Mathematics/Linear Algebra/8. Inner Product.md",
     "Mathematics/Linear Algebra/5. Matrix Advance.md",
     "Mathematics/Linear Algebra/4. Matrices.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
