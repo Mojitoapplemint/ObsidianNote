@@ -97,6 +97,18 @@
               "icon": "lucide-file-text",
               "title": "Advanced Linear and Matrix Algebra"
             }
+          },
+          {
+            "id": "a628463be818cf15",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Textbook/Advanced Linear and Matrix Algebra.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Advanced Linear and Matrix Algebra"
+            }
           }
         ]
       }
@@ -155,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -256,10 +267,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d7f149abe6cf4c01",
+  "active": "e41c167b38b718fa",
   "lastOpenFiles": [
-    "Mathematics/Complex Analysis/1. Basics of Complex Numbers.md",
+    "Textbook/Advanced Linear and Matrix Algebra.pdf",
     "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
+    "Mathematics/Complex Analysis/1. Basics of Complex Numbers.md",
     "Mathematics/Linear Algebra/11. Positive (Semi) Definite Matrix.md",
     "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
     "Mathematics/Linear Algebra/8. Inner Product.md",
@@ -269,7 +281,6 @@
     "Mathematics/Linear Algebra/5. Matrix Advance.md",
     "Mathematics/Linear Algebra/3. Subspace.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
-    "Textbook/Advanced Linear and Matrix Algebra.pdf",
     "Computer Science/Git & GitHub.md",
     "Computer Science/Computer Organization and Arch/10. Instruction-Level Parallelism(ILP).md",
     "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
@@ -294,7 +305,6 @@
     "Untitled 1.md",
     "Personal/Latex Suite Personal Setting.md",
     "Untitled.md",
-    "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
     "Attached Files/Pasted image 20250316202404.png",
     "Attached Files/Pasted image 20250316200847.png",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
