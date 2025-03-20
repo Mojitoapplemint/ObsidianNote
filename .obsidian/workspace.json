@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e41c167b38b718fa",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Textbook/Advanced Linear and Matrix Algebra.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Advanced Linear and Matrix Algebra"
-            }
-          },
-          {
             "id": "52bdc03bbdffc46d",
             "type": "leaf",
             "state": {
@@ -33,8 +21,25 @@
               "title": "8. Inner Product"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "73d603b28403cf44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e41c167b38b718fa",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Textbook/Advanced Linear and Matrix Algebra.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Advanced Linear and Matrix Algebra"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,10 +197,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "52bdc03bbdffc46d",
+  "active": "e41c167b38b718fa",
   "lastOpenFiles": [
-    "Textbook/Advanced Linear and Matrix Algebra.pdf",
     "Mathematics/Linear Algebra/8. Inner Product.md",
+    "Textbook/Advanced Linear and Matrix Algebra.pdf",
     "Computer Science/Git & GitHub.md",
     "Computer Science/Computer Organization and Arch/10. Instruction-Level Parallelism(ILP).md",
     "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
