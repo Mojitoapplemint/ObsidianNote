@@ -65,7 +65,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "73d603b28403cf44",
@@ -242,8 +242,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7ef24f1d5aa3cde9",
+  "active": "efc5a298b7175230",
   "lastOpenFiles": [
+    "Mathematics/Linear Algebra/11. Positive (Semi) Definite Matrix.md",
     "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
     "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
     "Mathematics/Linear Algebra/8. Inner Product.md",
@@ -274,7 +275,6 @@
     "Attached Files/Pasted image 20250318111037.png",
     "Attached Files/Pasted image 20250318110517.png",
     "Textbook/Introduction to the Theory of Computation.pdf",
-    "Mathematics/Linear Algebra/11. Positive (Semi) Definite Matrix.md",
     "Attached Files/Pasted image 20250317212046.png",
     "Untitled 1.md",
     "Personal/Latex Suite Personal Setting.md",
