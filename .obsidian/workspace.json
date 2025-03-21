@@ -6,7 +6,7 @@
       {
         "id": "54bba635b326e64a",
         "type": "tabs",
-        "dimension": 54.49010654490107,
+        "dimension": 72.5891677675033,
         "children": [
           {
             "id": "52bdc03bbdffc46d",
@@ -93,12 +93,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "73d603b28403cf44",
         "type": "tabs",
-        "dimension": 45.50989345509893,
+        "dimension": 27.410832232496695,
         "children": [
           {
             "id": "e41c167b38b718fa",
@@ -294,16 +294,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e41c167b38b718fa",
+  "active": "3595e3e30e4836eb",
   "lastOpenFiles": [
-    "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
-    "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
-    "Mathematics/Linear Algebra/11. Positive (Semi) Definite Matrix.md",
-    "Mathematics/Linear Algebra/8. Inner Product.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
+    "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
+    "Mathematics/Linear Algebra/11. Positive (Semi) Definite Matrix.md",
+    "Textbook/Advanced Linear and Matrix Algebra.pdf",
+    "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
+    "Mathematics/Linear Algebra/8. Inner Product.md",
     "Mathematics/Linear Algebra/4. Matrices.md",
     "Mathematics/Linear Algebra/5. Matrix Advance.md",
-    "Textbook/Advanced Linear and Matrix Algebra.pdf",
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
     "Mathematics/Complex Analysis/1. Basics of Complex Numbers.md",
