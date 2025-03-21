@@ -93,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       },
       {
         "id": "73d603b28403cf44",
@@ -294,14 +294,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3595e3e30e4836eb",
+  "active": "e6db84acc7c38aa3",
   "lastOpenFiles": [
-    "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
+    "Mathematics/Linear Algebra/8. Inner Product.md",
+    "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Linear Algebra/11. Positive (Semi) Definite Matrix.md",
     "Textbook/Advanced Linear and Matrix Algebra.pdf",
     "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
-    "Mathematics/Linear Algebra/8. Inner Product.md",
     "Mathematics/Linear Algebra/4. Matrices.md",
     "Mathematics/Linear Algebra/5. Matrix Advance.md",
     "Mathematics/Linear Algebra/6. Vector Space.md",
