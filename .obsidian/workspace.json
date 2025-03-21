@@ -136,7 +136,8 @@
               "title": "Advanced Linear and Matrix Algebra"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -293,7 +294,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e41c167b38b718fa",
+  "active": "a628463be818cf15",
   "lastOpenFiles": [
     "Mathematics/Linear Algebra/11. Positive (Semi) Definite Matrix.md",
     "Textbook/Advanced Linear and Matrix Algebra.pdf",
