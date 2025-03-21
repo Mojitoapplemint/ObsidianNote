@@ -37,20 +37,6 @@
             }
           },
           {
-            "id": "d7f149abe6cf4c01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "9. Special Linear Transformation"
-            }
-          },
-          {
             "id": "e6db84acc7c38aa3",
             "type": "leaf",
             "state": {
@@ -62,6 +48,20 @@
               },
               "icon": "lucide-file",
               "title": "10. Matrix Decomposition"
+            }
+          },
+          {
+            "id": "d7f149abe6cf4c01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9. Special Linear Transformation"
             }
           },
           {
@@ -294,11 +294,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a628463be818cf15",
+  "active": "d7f149abe6cf4c01",
   "lastOpenFiles": [
+    "Textbook/Advanced Linear and Matrix Algebra.pdf",
     "Mathematics/Linear Algebra/5. Matrix Advance.md",
     "Mathematics/Linear Algebra/4. Matrices.md",
-    "Textbook/Advanced Linear and Matrix Algebra.pdf",
     "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
     "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
     "Mathematics/Linear Algebra/8. Inner Product.md",
