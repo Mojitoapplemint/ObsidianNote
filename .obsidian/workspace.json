@@ -44,9 +44,21 @@
               "icon": "lucide-file",
               "title": "3. Regular Expression"
             }
+          },
+          {
+            "id": "60961266c63d31be",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Textbook/Introduction to the Theory of Computation.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Introduction to the Theory of Computation"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -203,11 +215,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2ae36f77510a7463",
+  "active": "60961266c63d31be",
   "lastOpenFiles": [
+    "Mathematics/Theory of Computation/3. Regular Expression.md",
     "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
     "Mathematics/Theory of Computation/4. Pumping Lemma for RL.md",
-    "Mathematics/Theory of Computation/3. Regular Expression.md",
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Mathematics/Linear Algebra/8. Inner Product.md",
