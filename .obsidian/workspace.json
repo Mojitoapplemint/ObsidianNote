@@ -58,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,11 +212,13 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "60961266c63d31be",
+  "active": "54b64e44778764fe",
   "lastOpenFiles": [
+    "Textbook/Introduction to the Theory of Computation.pdf",
     "Mathematics/Theory of Computation/3. Regular Expression.md",
     "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
     "Mathematics/Theory of Computation/4. Pumping Lemma for RL.md",
@@ -253,9 +255,7 @@
     "Mathematics/Theory of Computation/8. Turing Machine.md",
     "Attached Files/Pasted image 20250318111037.png",
     "Attached Files/Pasted image 20250318110517.png",
-    "Textbook/Introduction to the Theory of Computation.pdf",
     "Attached Files/Pasted image 20250317212046.png",
-    "Untitled 1.md",
     "Attached Files/Pasted image 20250316202404.png",
     "Attached Files/Pasted image 20250316200847.png",
     "Textbook/Introduction to Reinforcement Learning.pdf",
