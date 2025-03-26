@@ -231,9 +231,12 @@
   },
   "active": "2ae36f77510a7463",
   "lastOpenFiles": [
+    "Mathematics/Linear Algebra/4. Matrices.md",
+    "Mathematics/Linear Algebra/12. Diagonal.md",
+    "Mathematics/Linear Algebra/11. Positive (Semi) Definite Matrix.md",
+    "Mathematics/Linear Algebra/Untitled",
     "Attached Files/Pasted image 20250326141044.png",
     "Excalidraw/Drawing 2025-03-26 14.06.32.excalidraw.md",
-    "Mathematics/Linear Algebra/11. Positive (Semi) Definite Matrix.md",
     "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
     "Mathematics/Theory of Computation/3. Regular Expression.md",
     "Textbook/Introduction to the Theory of Computation.pdf",
@@ -245,7 +248,6 @@
     "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Linear Algebra/5. Matrix Advance.md",
-    "Mathematics/Linear Algebra/4. Matrices.md",
     "Textbook/Advanced Linear and Matrix Algebra.pdf",
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
@@ -271,11 +273,9 @@
     "Attached Files/Pasted image 20250318110517.png",
     "Attached Files/Pasted image 20250317212046.png",
     "Attached Files/Pasted image 20250316202404.png",
-    "Attached Files/Pasted image 20250316200847.png",
     "Textbook/Introduction to Reinforcement Learning.pdf",
     "Personal/IS 24FALL - DES w. RL Paper/Oliehoek12RLBook.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/DecPOMDP-survey-final.pdf",
-    "Computer Science/Reinforcement Learning 1/Papers/SeukenZilberstein 2008.pdf",
-    "Personal/IS 24FALL - DES w. RL Paper/Yamasaki_and_Ushio_Notation_translated (6).pdf"
+    "Computer Science/Reinforcement Learning 1/Papers/SeukenZilberstein 2008.pdf"
   ]
 }
