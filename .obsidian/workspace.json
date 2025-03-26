@@ -46,6 +46,18 @@
             }
           },
           {
+            "id": "2ed6e4e902ef1eaa",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-03-26 14.06.32.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-03-26 14.06.32.excalidraw"
+            }
+          },
+          {
             "id": "60961266c63d31be",
             "type": "leaf",
             "state": {
@@ -213,13 +225,16 @@
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "2ae36f77510a7463",
   "lastOpenFiles": [
-    "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
+    "Attached Files/Pasted image 20250326141044.png",
+    "Excalidraw/Drawing 2025-03-26 14.06.32.excalidraw.md",
     "Mathematics/Linear Algebra/11. Positive (Semi) Definite Matrix.md",
+    "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
     "Mathematics/Theory of Computation/3. Regular Expression.md",
     "Textbook/Introduction to the Theory of Computation.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
@@ -252,7 +267,6 @@
     "Attached Files/Pasted image 20250318164547.png",
     "Attached Files/Pasted image 20250318163251.png",
     "Attached Files/Pasted image 20250318153949.png",
-    "Mathematics/Theory of Computation/8. Turing Machine.md",
     "Attached Files/Pasted image 20250318111037.png",
     "Attached Files/Pasted image 20250318110517.png",
     "Attached Files/Pasted image 20250317212046.png",
