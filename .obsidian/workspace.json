@@ -75,12 +75,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Algorithm/5. Dynamic Programming.md",
+                "file": "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Dynamic Programming"
+              "title": "2. RISC-V Instructions"
             }
           }
         ],
@@ -243,9 +243,9 @@
   },
   "active": "9057f6257c0c6741",
   "lastOpenFiles": [
+    "Computer Science/Algorithm/5. Dynamic Programming.md",
     "Computer Science/Algorithm/4. Greedy Algorithm.md",
     "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
-    "Computer Science/Algorithm/5. Dynamic Programming.md",
     "Textbook/Introduction to the Theory of Computation.pdf",
     "Mathematics/Linear Algebra/11. Positive (Semi) Definite Matrix.md",
     "Attached Files/Pasted image 20250326152652.png",
