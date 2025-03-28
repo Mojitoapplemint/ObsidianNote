@@ -61,12 +61,14 @@
             "id": "60961266c63d31be",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Textbook/Introduction to the Theory of Computation.pdf"
+                "file": "Mathematics/Linear Algebra/12. Singular Value Decomposition.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Introduction to the Theory of Computation"
+              "icon": "lucide-file",
+              "title": "12. Singular Value Decomposition"
             }
           },
           {
@@ -82,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,7 +141,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -239,19 +242,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "60961266c63d31be",
+  "active": "2ae36f77510a7463",
   "lastOpenFiles": [
+    "Mathematics/Linear Algebra/12. Singular Value Decomposition.md",
+    "Mathematics/Linear Algebra/11. Positive (Semi) Definite Matrix.md",
+    "Textbook/Introduction to the Theory of Computation.pdf",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Computer Science/Algorithm/5. Dynamic Programming.md",
     "Computer Science/Algorithm/4. Greedy Algorithm.md",
     "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
-    "Textbook/Introduction to the Theory of Computation.pdf",
-    "Mathematics/Linear Algebra/11. Positive (Semi) Definite Matrix.md",
     "Attached Files/Pasted image 20250326152652.png",
     "Attached Files/Pasted image 20250326152634.png",
     "Mathematics/Linear Algebra/4. Matrices.md",
-    "Mathematics/Linear Algebra/12. Diagonal.md",
     "Mathematics/Linear Algebra/Untitled",
     "Attached Files/Pasted image 20250326141044.png",
     "Excalidraw/Drawing 2025-03-26 14.06.32.excalidraw.md",
