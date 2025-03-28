@@ -84,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -242,10 +242,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2ae36f77510a7463",
+  "active": "60961266c63d31be",
   "lastOpenFiles": [
-    "Mathematics/Linear Algebra/12. Singular Value Decomposition.md",
     "Mathematics/Linear Algebra/11. Positive (Semi) Definite Matrix.md",
+    "Mathematics/Linear Algebra/12. Singular Value Decomposition.md",
     "Textbook/Introduction to the Theory of Computation.pdf",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
