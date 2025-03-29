@@ -84,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -241,10 +241,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9057f6257c0c6741",
+  "active": "60961266c63d31be",
   "lastOpenFiles": [
-    "Mathematics/Theory of Computation/3. Regular Expression.md",
     "Textbook/Introduction to the Theory of Computation.pdf",
+    "Mathematics/Theory of Computation/3. Regular Expression.md",
     "Textbook/Introduction to Reinforcement Learning.pdf",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
