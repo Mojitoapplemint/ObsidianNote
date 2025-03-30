@@ -84,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -241,14 +241,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "60961266c63d31be",
+  "active": "9057f6257c0c6741",
   "lastOpenFiles": [
-    "Textbook/Introduction to the Theory of Computation.pdf",
     "Mathematics/Theory of Computation/3. Regular Expression.md",
+    "Mathematics/Theory of Computation/2. Nondeterministic Finite Automata.md",
+    "Textbook/Introduction to the Theory of Computation.pdf",
     "Textbook/Introduction to Reinforcement Learning.pdf",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
-    "Mathematics/Theory of Computation/2. Nondeterministic Finite Automata.md",
     "Mathematics/Theory of Computation/4. Pumping Lemma for RL.md",
     "Mathematics/Linear Algebra/1. Vector Fundamentals.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
