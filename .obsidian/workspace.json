@@ -23,12 +23,23 @@
             "id": "54b64e44778764fe",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "kanban",
               "state": {
-                "file": "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf"
+                "file": "To-do List.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "OliehoekAmato16book"
+              "icon": "lucide-trello",
+              "title": "To-do List"
             }
           },
           {
@@ -243,6 +254,10 @@
   },
   "active": "54b64e44778764fe",
   "lastOpenFiles": [
+    "Partial Observation.md",
+    "To-do List.md",
+    "Untitled 1.md",
+    "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Textbook/Introduction to the Theory of Computation.pdf",
     "Mathematics/Theory of Computation/3. Regular Expression.md",
     "Mathematics/Theory of Computation/2. Nondeterministic Finite Automata.md",
@@ -265,7 +280,6 @@
     "Attached Files/Pasted image 20250326141044.png",
     "Excalidraw/Drawing 2025-03-26 14.06.32.excalidraw.md",
     "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
-    "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Mathematics/Linear Algebra/8. Inner Product.md",
@@ -276,8 +290,6 @@
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Mathematics/Complex Analysis/1. Basics of Complex Numbers.md",
     "Mathematics/Linear Algebra/3. Subspace.md",
-    "Computer Science/Git & GitHub.md",
-    "Computer Science/Computer Organization and Arch/10. Instruction-Level Parallelism(ILP).md",
     "Attached Files/Pasted image 20250318230018.png",
     "Attached Files/Pasted image 20250318225411.png",
     "Attached Files/Pasted image 20250318164547.png",
