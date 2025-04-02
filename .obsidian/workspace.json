@@ -23,23 +23,14 @@
             "id": "54b64e44778764fe",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "To-do List.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "To-do List"
+              "icon": "lucide-file",
+              "title": "1. Deterministic Finite Automata"
             }
           },
           {
@@ -254,8 +245,9 @@
   },
   "active": "54b64e44778764fe",
   "lastOpenFiles": [
-    "Partial Observation.md",
     "To-do List.md",
+    "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
+    "Partial Observation.md",
     "Untitled 1.md",
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Textbook/Introduction to the Theory of Computation.pdf",
@@ -281,7 +273,6 @@
     "Excalidraw/Drawing 2025-03-26 14.06.32.excalidraw.md",
     "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
     "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
-    "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Mathematics/Linear Algebra/8. Inner Product.md",
     "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
@@ -289,7 +280,6 @@
     "Textbook/Advanced Linear and Matrix Algebra.pdf",
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Mathematics/Complex Analysis/1. Basics of Complex Numbers.md",
-    "Mathematics/Linear Algebra/3. Subspace.md",
     "Attached Files/Pasted image 20250318230018.png",
     "Attached Files/Pasted image 20250318225411.png",
     "Attached Files/Pasted image 20250318164547.png",
