@@ -85,8 +85,7 @@
               "title": "Introduction to the Theory of Computation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -243,8 +242,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "54b64e44778764fe",
+  "active": "aca018470fcc6cc3",
   "lastOpenFiles": [
+    "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
     "To-do List.md",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Partial Observation.md",
@@ -255,7 +255,6 @@
     "Mathematics/Theory of Computation/2. Nondeterministic Finite Automata.md",
     "Textbook/Introduction to Reinforcement Learning.pdf",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
-    "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
     "Mathematics/Theory of Computation/4. Pumping Lemma for RL.md",
     "Mathematics/Linear Algebra/1. Vector Fundamentals.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
