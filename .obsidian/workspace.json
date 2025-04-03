@@ -11,12 +11,14 @@
             "id": "aca018470fcc6cc3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf"
+                "file": "Partial Observation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "marl-book"
+              "icon": "lucide-file",
+              "title": "Partial Observation"
             }
           },
           {
@@ -244,9 +246,9 @@
   },
   "active": "aca018470fcc6cc3",
   "lastOpenFiles": [
+    "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
     "To-do List.md",
-    "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Partial Observation.md",
     "Untitled 1.md",
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
