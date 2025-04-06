@@ -55,7 +55,8 @@
               "title": "9. Decidability"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,11 +214,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "aca018470fcc6cc3",
+  "active": "fc8d9d77d3cecbdf",
   "lastOpenFiles": [
+    "Mathematics/Theory of Computation/8. Turing Machine.md",
     "Textbook/Introduction to the Theory of Computation.pdf",
     "Mathematics/Theory of Computation/9. Decidability.md",
-    "Mathematics/Theory of Computation/8. Turing Machine.md",
     "Mathematics/Linear Algebra/13. Application of SVD.md",
     "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
     "Mathematics/Linear Algebra/12. Singular Value Decomposition.md",
