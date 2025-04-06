@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,10 +204,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fc8d9d77d3cecbdf",
+  "active": "b5c6b1dd44facb4d",
   "lastOpenFiles": [
-    "Textbook/Introduction to the Theory of Computation.pdf",
     "Mathematics/Theory of Computation/9. Decidability.md",
+    "Textbook/Introduction to the Theory of Computation.pdf",
     "Mathematics/Theory of Computation/8. Turing Machine.md",
     "Mathematics/Linear Algebra/13. Application of SVD.md",
     "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
