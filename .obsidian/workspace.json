@@ -55,8 +55,7 @@
               "title": "9. Decidability"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,7 +213,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fc8d9d77d3cecbdf",
+  "active": "aca018470fcc6cc3",
   "lastOpenFiles": [
     "Textbook/Introduction to the Theory of Computation.pdf",
     "Mathematics/Theory of Computation/9. Decidability.md",
