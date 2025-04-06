@@ -19,8 +19,21 @@
               "icon": "lucide-file-text",
               "title": "Introduction to the Theory of Computation"
             }
+          },
+          {
+            "id": "b5c6b1dd44facb4d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Textbook/Introduction to the Theory of Computation.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Introduction to the Theory of Computation"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3087703eb4b43d6c",
@@ -216,9 +229,9 @@
   },
   "active": "fc8d9d77d3cecbdf",
   "lastOpenFiles": [
-    "Mathematics/Theory of Computation/8. Turing Machine.md",
     "Textbook/Introduction to the Theory of Computation.pdf",
     "Mathematics/Theory of Computation/9. Decidability.md",
+    "Mathematics/Theory of Computation/8. Turing Machine.md",
     "Mathematics/Linear Algebra/13. Application of SVD.md",
     "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
     "Mathematics/Linear Algebra/12. Singular Value Decomposition.md",
