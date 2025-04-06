@@ -35,10 +35,26 @@
             "id": "773a822c72fd7d12",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Computer Organization and Arch/10. Instruction-Level Parallelism(ILP).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "10. Instruction-Level Parallelism(ILP)"
+            }
+          },
+          {
+            "id": "d41f64575c3e4d51",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Computer Organization and Design RISC V Edition The HardwareSoftware Interface"
             }
           }
         ],
@@ -99,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -201,6 +218,8 @@
   },
   "active": "773a822c72fd7d12",
   "lastOpenFiles": [
+    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
+    "Computer Science/Computer Organization and Arch/10. Instruction-Level Parallelism(ILP).md",
     "Mathematics/Theory of Computation/9. Decidability.md",
     "Attached Files/Pasted image 20250406034448.png",
     "Mathematics/Theory of Computation/8. Turing Machine.md",
@@ -217,7 +236,6 @@
     "Mathematics/Theory of Computation/3. Regular Expression.md",
     "Mathematics/Theory of Computation/2. Nondeterministic Finite Automata.md",
     "Textbook/Introduction to Reinforcement Learning.pdf",
-    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Mathematics/Theory of Computation/4. Pumping Lemma for RL.md",
     "Mathematics/Linear Algebra/1. Vector Fundamentals.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
@@ -235,7 +253,6 @@
     "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
     "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
     "Mathematics/Linear Algebra/8. Inner Product.md",
-    "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
     "Textbook/Advanced Linear and Matrix Algebra.pdf",
     "Attached Files/Pasted image 20250318230018.png",
     "Attached Files/Pasted image 20250318225411.png",
