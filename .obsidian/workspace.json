@@ -58,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -216,7 +216,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "147c5897a5ddf123",
+  "active": "d41f64575c3e4d51",
   "lastOpenFiles": [
     "Computer Science/Computer Organization and Arch/11. Memory.md",
     "Computer Science/Computer Organization and Arch/10. Instruction-Level Parallelism(ILP).md",
