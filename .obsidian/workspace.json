@@ -58,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -216,10 +216,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "773a822c72fd7d12",
+  "active": "d41f64575c3e4d51",
   "lastOpenFiles": [
-    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Computer Organization and Arch/10. Instruction-Level Parallelism(ILP).md",
+    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Mathematics/Theory of Computation/9. Decidability.md",
     "Attached Files/Pasted image 20250406034448.png",
     "Mathematics/Theory of Computation/8. Turing Machine.md",
