@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -230,10 +230,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d41f64575c3e4d51",
+  "active": "147c5897a5ddf123",
   "lastOpenFiles": [
-    "Computer Science/Computer Organization and Arch/0. Introduction.md",
     "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
+    "Computer Science/Computer Organization and Arch/0. Introduction.md",
     "Computer Science/System Porgramming/Basic Bash Script Info.md",
     "Computer Science/Computer Organization and Arch/11. Memory.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
