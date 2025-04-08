@@ -58,6 +58,18 @@
               "icon": "lucide-file",
               "title": "11. Memory"
             }
+          },
+          {
+            "id": "4f47ba1e003980f7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Computer Organization and Design RISC V Edition The HardwareSoftware Interface"
+            }
           }
         ],
         "currentTab": 3
@@ -117,7 +129,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -219,12 +232,13 @@
   },
   "active": "147c5897a5ddf123",
   "lastOpenFiles": [
+    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
+    "Computer Science/System Porgramming/9. Opening and Closing Files.md",
+    "Computer Science/Computer Organization and Arch/11. Memory.md",
     "Computer Science/System Porgramming/Basic Bash Script Info.md",
     "Computer Science/System Porgramming/2. Command Line Interface.md",
     "Computer Science/System Porgramming/1. Computer Arcitecture.md",
     "Computer Science/System Porgramming/10. Compilation Tools.md",
-    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
-    "Computer Science/Computer Organization and Arch/11. Memory.md",
     "Computer Science/Computer Organization and Arch/10. Instruction-Level Parallelism(ILP).md",
     "Attached Files/Pasted image 20250407032955.png",
     "Mathematics/Theory of Computation/9. Decidability.md",
@@ -250,10 +264,8 @@
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Computer Science/Algorithm/5. Dynamic Programming.md",
     "Computer Science/Algorithm/4. Greedy Algorithm.md",
-    "Computer Science/Algorithm/3. Divide-and-Conquer Algorithms.md",
     "Attached Files/Pasted image 20250326152652.png",
     "Attached Files/Pasted image 20250326152634.png",
-    "Mathematics/Linear Algebra/4. Matrices.md",
     "Mathematics/Linear Algebra/Untitled",
     "Attached Files/Pasted image 20250326141044.png",
     "Textbook/Advanced Linear and Matrix Algebra.pdf",
