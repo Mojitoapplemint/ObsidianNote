@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Computer Organization and Arch/11. Memory.md",
+                "file": "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. Memory"
+              "title": "1. Computer Abstractions and Technology"
             }
           },
           {
@@ -129,8 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -232,10 +231,10 @@
   },
   "active": "147c5897a5ddf123",
   "lastOpenFiles": [
-    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
-    "Computer Science/Computer Organization and Arch/11. Memory.md",
-    "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
     "Computer Science/Computer Organization and Arch/0. Introduction.md",
+    "Computer Science/Computer Organization and Arch/11. Memory.md",
+    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
+    "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
     "Computer Science/System Porgramming/Basic Bash Script Info.md",
     "Computer Science/System Porgramming/9. Opening and Closing Files.md",
     "Computer Science/System Porgramming/2. Command Line Interface.md",
