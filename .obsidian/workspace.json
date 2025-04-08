@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -217,12 +217,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d41f64575c3e4d51",
+  "active": "147c5897a5ddf123",
   "lastOpenFiles": [
+    "Computer Science/System Porgramming/Basic Bash Script Info.md",
     "Computer Science/System Porgramming/2. Command Line Interface.md",
     "Computer Science/System Porgramming/1. Computer Arcitecture.md",
     "Computer Science/System Porgramming/10. Compilation Tools.md",
-    "Computer Science/System Porgramming/Basic Bash Script Info.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Computer Organization and Arch/11. Memory.md",
     "Computer Science/Computer Organization and Arch/10. Instruction-Level Parallelism(ILP).md",
