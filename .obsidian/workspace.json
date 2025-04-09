@@ -97,16 +97,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Linear Algebra/4. Matrices.md",
+                "file": "Mathematics/Linear Algebra/6. Vector Space.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Matrices"
+              "title": "6. Vector Space"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -163,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -263,11 +264,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "dcb7dbaa47657e7c",
+  "active": "cf3ccbfae0ebb335",
   "lastOpenFiles": [
+    "Mathematics/Linear Algebra/4. Matrices.md",
     "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
-    "Mathematics/Linear Algebra/4. Matrices.md",
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Computer Science/Computer Organization and Arch/5. Program Translation (Based on C).md",
