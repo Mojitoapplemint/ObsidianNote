@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
+                "file": "Computer Science/Computer Organization and Arch/3. Procedures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. RISC-V Instructions"
+              "title": "3. Procedures"
             }
           },
           {
@@ -231,6 +231,7 @@
   },
   "active": "147c5897a5ddf123",
   "lastOpenFiles": [
+    "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
     "Computer Science/Computer Organization and Arch/0. Introduction.md",
     "Computer Science/Computer Organization and Arch/11. Memory.md",
@@ -262,7 +263,6 @@
     "Mathematics/Linear Algebra/1. Vector Fundamentals.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
     "Mathematics/Linear Algebra/11. Positive (Semi) Definite Matrix.md",
-    "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Attached Files/Pasted image 20250326152652.png",
     "Attached Files/Pasted image 20250326152634.png",
     "Mathematics/Linear Algebra/Untitled",
