@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -264,13 +264,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "cf3ccbfae0ebb335",
+  "active": "ea21916f7890d86a",
   "lastOpenFiles": [
+    "Mathematics/Linear Algebra/6. Vector Space.md",
+    "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Linear Algebra/4. Matrices.md",
     "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
-    "Mathematics/Linear Algebra/6. Vector Space.md",
-    "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Computer Science/Computer Organization and Arch/5. Program Translation (Based on C).md",
     "Computer Science/Computer Organization and Arch/3. Procedures.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
