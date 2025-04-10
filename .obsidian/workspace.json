@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Introductory Logic/5. Dilemmas(DL).md",
+                "file": "Personal/Introductory Logic/4. Conditional Proofs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Dilemmas(DL)"
+              "title": "4. Conditional Proofs"
             }
           }
         ],
@@ -321,6 +321,7 @@
   },
   "active": "eacae03cbec08703",
   "lastOpenFiles": [
+    "Personal/Introductory Logic/5. Dilemmas(DL).md",
     "Personal/Introductory Logic/6. Reductio Arugment.md",
     "Personal/Introductory Logic/9. Asyllogistic Logic.md",
     "Personal/Introductory Logic/8. Syllogistic Logic.md",
@@ -348,7 +349,6 @@
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Computer Science/Computer Organization and Arch/5. Program Translation (Based on C).md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
-    "Mathematics/Linear Algebra/4. Matrices.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Attached Files/Pasted image 20250407032955.png",
     "Attached Files/Pasted image 20250406034448.png",
