@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -319,14 +319,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4d2799f9ba0efd14",
+  "active": "77ec0ff292c34125",
   "lastOpenFiles": [
+    "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
     "Computer Science/Computer Organization and Arch/8. Subword Parallellism.md",
     "Computer Science/Computer Organization and Arch/7. Arithmetic for Computer.md",
     "Computer Science/Computer Organization and Arch/6. Compiler.md",
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Computer Science/Computer Organization and Arch/10. Instruction-Level Parallelism(ILP).md",
-    "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
     "Computer Science/Computer Organization and Arch/11. Memory.md",
     "Personal/Introductory Logic/4. Conditional Proofs.md",
     "Personal/Introductory Logic/5. Dilemmas(DL).md",
