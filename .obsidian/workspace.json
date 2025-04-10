@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -305,8 +305,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "54c9eaa75574d5b4",
+  "active": "4d2799f9ba0efd14",
   "lastOpenFiles": [
+    "Computer Science/Computer Organization and Arch/8. Subword Parallellism.md",
     "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
     "Computer Science/Computer Organization and Arch/11. Memory.md",
     "Personal/Introductory Logic/4. Conditional Proofs.md",
@@ -329,7 +330,6 @@
     "Introductory Logic",
     "Personal/Introductory Logic/2. Conditional.md",
     "Personal/Introductory Logic/1. Arguments Fundamental.md",
-    "Computer Science/Computer Organization and Arch/8. Subword Parallellism.md",
     "Computer Science/Computer Organization and Arch/7. Arithmetic for Computer.md",
     "Computer Science/Computer Organization and Arch/6. Compiler.md",
     "Computer Science/Computer Organization and Arch/10. Instruction-Level Parallelism(ILP).md",
