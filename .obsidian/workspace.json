@@ -146,9 +146,23 @@
               "icon": "lucide-file",
               "title": "11. Memory"
             }
+          },
+          {
+            "id": "eacae03cbec08703",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Introductory Logic/5. Dilemmas(DL).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5. Dilemmas(DL)"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -205,8 +219,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -306,38 +319,40 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "54c9eaa75574d5b4",
+  "active": "eacae03cbec08703",
   "lastOpenFiles": [
+    "Personal/Introductory Logic/6. Reductio Arugment.md",
+    "Personal/Introductory Logic/9. Asyllogistic Logic.md",
+    "Personal/Introductory Logic/8. Syllogistic Logic.md",
+    "Personal/Introductory Logic/7. Statement Logic as Formal System.md",
+    "Personal/Introductory Logic/3. Various Arguments.md",
+    "Introductory Logic/Assignment/Homework Set 1.md",
+    "Introductory Logic/Assignment",
+    "Introductory Logic/8. Syllogistic Logic.md",
+    "Introductory Logic/7. Statement Logic as Formal System.md",
+    "Introductory Logic/5. Dilemmas(DL).md",
+    "Introductory Logic/6. Reductio Arugment.md",
+    "Introductory Logic/4. Conditional Proofs.md",
+    "Introductory Logic/3. Various Arguments.md",
+    "Introductory Logic/2. Conditional.md",
+    "Introductory Logic/1. Arguments Fundamental.md",
+    "Introductory Logic",
+    "Personal/Introductory Logic/2. Conditional.md",
+    "Personal/Introductory Logic/1. Arguments Fundamental.md",
+    "Computer Science/Computer Organization and Arch/8. Subword Parallellism.md",
     "Computer Science/Computer Organization and Arch/7. Arithmetic for Computer.md",
     "Computer Science/Computer Organization and Arch/6. Compiler.md",
     "Computer Science/Computer Organization and Arch/11. Memory.md",
     "Computer Science/Computer Organization and Arch/10. Instruction-Level Parallelism(ILP).md",
     "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
-    "Computer Science/Computer Organization and Arch/8. Subword Parallellism.md",
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Computer Science/Computer Organization and Arch/5. Program Translation (Based on C).md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Linear Algebra/4. Matrices.md",
-    "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
-    "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
-    "Computer Science/Computer Organization and Arch/3. Procedures.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
-    "Computer Science/Computer Organization and Arch/4. Character Data.md",
-    "Computer Science/Computer Organization and Arch/0. Introduction.md",
-    "Computer Science/System Porgramming/Basic Bash Script Info.md",
-    "Computer Science/System Porgramming/9. Opening and Closing Files.md",
-    "Computer Science/System Porgramming/2. Command Line Interface.md",
-    "Computer Science/System Porgramming/1. Computer Arcitecture.md",
-    "Computer Science/System Porgramming/10. Compilation Tools.md",
     "Attached Files/Pasted image 20250407032955.png",
-    "Mathematics/Theory of Computation/9. Decidability.md",
     "Attached Files/Pasted image 20250406034448.png",
-    "Mathematics/Theory of Computation/8. Turing Machine.md",
     "Textbook/Introduction to the Theory of Computation.pdf",
-    "Mathematics/Linear Algebra/13. Application of SVD.md",
-    "Mathematics/Theory of Computation/1. Deterministic Finite Automata.md",
-    "Mathematics/Linear Algebra/12. Singular Value Decomposition.md",
-    "Computer Science/Reinforcement Learning 1/SARL/3. Finite Markov Decision Process.md",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Textbook/Introduction to Reinforcement Learning.pdf",
@@ -351,8 +366,6 @@
     "Attached Files/Pasted image 20250318164547.png",
     "Attached Files/Pasted image 20250318163251.png",
     "Attached Files/Pasted image 20250318153949.png",
-    "Personal/IS 24FALL - DES w. RL Paper/Oliehoek12RLBook.pdf",
-    "Computer Science/Reinforcement Learning 1/Papers/DecPOMDP-survey-final.pdf",
-    "Computer Science/Reinforcement Learning 1/Papers/SeukenZilberstein 2008.pdf"
+    "Personal/IS 24FALL - DES w. RL Paper/Oliehoek12RLBook.pdf"
   ]
 }
