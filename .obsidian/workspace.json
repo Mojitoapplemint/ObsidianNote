@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -319,11 +319,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4c909d5f87118c41",
+  "active": "7ad7ba0e6d2d3f75",
   "lastOpenFiles": [
+    "Computer Science/Computer Organization and Arch/8. Subword Parallellism.md",
+    "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Computer Science/Computer Organization and Arch/10. Instruction-Level Parallelism(ILP).md",
     "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
-    "Computer Science/Computer Organization and Arch/8. Subword Parallellism.md",
     "Computer Science/Computer Organization and Arch/11. Memory.md",
     "Personal/Introductory Logic/4. Conditional Proofs.md",
     "Personal/Introductory Logic/5. Dilemmas(DL).md",
@@ -348,7 +349,6 @@
     "Computer Science/Computer Organization and Arch/7. Arithmetic for Computer.md",
     "Computer Science/Computer Organization and Arch/6. Compiler.md",
     "Mathematics/Linear Algebra/6. Vector Space.md",
-    "Computer Science/Computer Organization and Arch/5. Program Translation (Based on C).md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Attached Files/Pasted image 20250407032955.png",
     "Attached Files/Pasted image 20250406034448.png",
