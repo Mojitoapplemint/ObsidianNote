@@ -160,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -317,18 +317,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "77ec0ff292c34125",
+  "active": "f33c66b4752e56fe",
   "lastOpenFiles": [
-    "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
-    "Computer Science/Computer Organization and Arch/8. Subword Parallellism.md",
     "Computer Science/Computer Organization and Arch/7. Arithmetic for Computer.md",
+    "Computer Science/Computer Organization and Arch/8. Subword Parallellism.md",
+    "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
+    "Computer Science/Computer Organization and Arch/10. Instruction-Level Parallelism(ILP).md",
+    "Computer Science/Computer Organization and Arch/11. Memory.md",
+    "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
     "Computer Science/Computer Organization and Arch/6. Compiler.md",
     "Computer Science/Computer Organization and Arch/5. Program Translation (Based on C).md",
     "Computer Science/Computer Organization and Arch/3. Procedures.md",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
-    "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
-    "Computer Science/Computer Organization and Arch/10. Instruction-Level Parallelism(ILP).md",
-    "Computer Science/Computer Organization and Arch/11. Memory.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Mathematics/Linear Algebra/12. Singular Value Decomposition.md",
     "Mathematics/Linear Algebra/11. Positive (Semi) Definite Matrix.md",
