@@ -147,8 +147,7 @@
               "title": "11. Memory"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -306,8 +305,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f33c66b4752e56fe",
+  "active": "f1988058de9c6229",
   "lastOpenFiles": [
+    "Computer Science/Computer Organization and Arch/11. Memory.md",
     "Mathematics/Linear Algebra/12. Singular Value Decomposition.md",
     "Mathematics/Linear Algebra/11. Positive (Semi) Definite Matrix.md",
     "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
@@ -316,7 +316,6 @@
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
     "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
-    "Computer Science/Computer Organization and Arch/11. Memory.md",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Computer Science/Computer Organization and Arch/3. Procedures.md",
     "Computer Science/Computer Organization and Arch/5. Program Translation (Based on C).md",
