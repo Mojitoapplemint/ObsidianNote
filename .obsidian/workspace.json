@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -306,10 +306,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d1e83d2cd030e228",
+  "active": "54c9eaa75574d5b4",
   "lastOpenFiles": [
-    "Computer Science/Computer Organization and Arch/3. Procedures.md",
+    "Computer Science/Computer Organization and Arch/7. Arithmetic for Computer.md",
+    "Computer Science/Computer Organization and Arch/6. Compiler.md",
     "Computer Science/Computer Organization and Arch/5. Program Translation (Based on C).md",
+    "Computer Science/Computer Organization and Arch/3. Procedures.md",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
     "Computer Science/Computer Organization and Arch/11. Memory.md",
@@ -320,8 +322,6 @@
     "Mathematics/Linear Algebra/8. Inner Product.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
-    "Computer Science/Computer Organization and Arch/6. Compiler.md",
-    "Computer Science/Computer Organization and Arch/7. Arithmetic for Computer.md",
     "Computer Science/Computer Organization and Arch/8. Subword Parallellism.md",
     "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
     "Computer Science/Computer Organization and Arch/10. Instruction-Level Parallelism(ILP).md",
