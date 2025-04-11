@@ -146,9 +146,21 @@
               "icon": "lucide-file",
               "title": "11. Memory"
             }
+          },
+          {
+            "id": "3753f242a358a255",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Computer Organization and Design RISC V Edition The HardwareSoftware Interface"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -205,8 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -306,8 +317,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "77ec0ff292c34125",
+  "active": "f33c66b4752e56fe",
   "lastOpenFiles": [
+    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
+    "Computer Science/Computer Organization and Arch/10. Instruction-Level Parallelism(ILP).md",
     "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
     "Computer Science/Computer Organization and Arch/8. Subword Parallellism.md",
     "Computer Science/Computer Organization and Arch/7. Arithmetic for Computer.md",
@@ -324,8 +337,6 @@
     "Mathematics/Linear Algebra/8. Inner Product.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
-    "Computer Science/Computer Organization and Arch/10. Instruction-Level Parallelism(ILP).md",
-    "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Personal/Introductory Logic/4. Conditional Proofs.md",
     "Personal/Introductory Logic/5. Dilemmas(DL).md",
@@ -334,7 +345,6 @@
     "Personal/Introductory Logic/8. Syllogistic Logic.md",
     "Personal/Introductory Logic/7. Statement Logic as Formal System.md",
     "Personal/Introductory Logic/3. Various Arguments.md",
-    "Introductory Logic/Assignment/Homework Set 1.md",
     "Introductory Logic/Assignment",
     "Introductory Logic",
     "Attached Files/Pasted image 20250407032955.png",
