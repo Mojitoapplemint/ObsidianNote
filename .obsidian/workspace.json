@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -320,13 +320,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4c909d5f87118c41",
+  "active": "f33c66b4752e56fe",
   "lastOpenFiles": [
+    "Computer Science/Computer Organization and Arch/10. Instruction-Level Parallelism(ILP).md",
+    "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
+    "Mathematics/Linear Algebra/8. Inner Product.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
-    "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
     "Computer Science/Computer Organization and Arch/8. Subword Parallellism.md",
-    "Computer Science/Computer Organization and Arch/10. Instruction-Level Parallelism(ILP).md",
     "Computer Science/Computer Organization and Arch/7. Arithmetic for Computer.md",
     "Computer Science/Computer Organization and Arch/11. Memory.md",
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
@@ -350,7 +351,6 @@
     "Introductory Logic/1. Arguments Fundamental.md",
     "Introductory Logic",
     "Personal/Introductory Logic/2. Conditional.md",
-    "Personal/Introductory Logic/1. Arguments Fundamental.md",
     "Attached Files/Pasted image 20250407032955.png",
     "Attached Files/Pasted image 20250406034448.png",
     "Textbook/Introduction to the Theory of Computation.pdf",
