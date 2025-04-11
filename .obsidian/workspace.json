@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Linear Algebra/7. Linear Transformation.md",
+                "file": "Mathematics/Linear Algebra/8. Inner Product.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Linear Transformation"
+              "title": "8. Inner Product"
             }
           }
         ],
@@ -322,6 +322,7 @@
   },
   "active": "4c909d5f87118c41",
   "lastOpenFiles": [
+    "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
     "Computer Science/Computer Organization and Arch/8. Subword Parallellism.md",
