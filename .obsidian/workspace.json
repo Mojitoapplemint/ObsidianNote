@@ -161,8 +161,7 @@
               "title": "8. Inner Product"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -320,18 +319,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f33c66b4752e56fe",
+  "active": "f1988058de9c6229",
   "lastOpenFiles": [
-    "Computer Science/Computer Organization and Arch/10. Instruction-Level Parallelism(ILP).md",
-    "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
+    "Computer Science/Computer Organization and Arch/11. Memory.md",
     "Mathematics/Linear Algebra/8. Inner Product.md",
+    "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
+    "Computer Science/Computer Organization and Arch/3. Procedures.md",
+    "Computer Science/Computer Organization and Arch/5. Program Translation (Based on C).md",
+    "Computer Science/Computer Organization and Arch/6. Compiler.md",
+    "Computer Science/Computer Organization and Arch/7. Arithmetic for Computer.md",
+    "Computer Science/Computer Organization and Arch/8. Subword Parallellism.md",
+    "Computer Science/Computer Organization and Arch/9. Processor and Datapath.md",
+    "Computer Science/Computer Organization and Arch/10. Instruction-Level Parallelism(ILP).md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
-    "Computer Science/Computer Organization and Arch/8. Subword Parallellism.md",
-    "Computer Science/Computer Organization and Arch/7. Arithmetic for Computer.md",
-    "Computer Science/Computer Organization and Arch/11. Memory.md",
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
-    "Computer Science/Computer Organization and Arch/6. Compiler.md",
     "Personal/Introductory Logic/4. Conditional Proofs.md",
     "Personal/Introductory Logic/5. Dilemmas(DL).md",
     "Personal/Introductory Logic/6. Reductio Arugment.md",
@@ -347,10 +349,7 @@
     "Introductory Logic/6. Reductio Arugment.md",
     "Introductory Logic/4. Conditional Proofs.md",
     "Introductory Logic/3. Various Arguments.md",
-    "Introductory Logic/2. Conditional.md",
-    "Introductory Logic/1. Arguments Fundamental.md",
     "Introductory Logic",
-    "Personal/Introductory Logic/2. Conditional.md",
     "Attached Files/Pasted image 20250407032955.png",
     "Attached Files/Pasted image 20250406034448.png",
     "Textbook/Introduction to the Theory of Computation.pdf",
