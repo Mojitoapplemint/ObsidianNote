@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -306,10 +306,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e226cce6c65328ec",
+  "active": "d1e83d2cd030e228",
   "lastOpenFiles": [
-    "Computer Science/Computer Organization and Arch/5. Program Translation (Based on C).md",
     "Computer Science/Computer Organization and Arch/3. Procedures.md",
+    "Computer Science/Computer Organization and Arch/5. Program Translation (Based on C).md",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
     "Computer Science/Computer Organization and Arch/11. Memory.md",
