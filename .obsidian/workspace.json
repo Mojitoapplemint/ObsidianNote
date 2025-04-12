@@ -48,9 +48,65 @@
               "icon": "lucide-file",
               "title": "9. Special Linear Transformation"
             }
+          },
+          {
+            "id": "ab66b3dcd82066a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10. Matrix Decomposition"
+            }
+          },
+          {
+            "id": "2a18ef1c0e2466ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Linear Algebra/11. Positive (Semi) Definite Matrix.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11. Positive (Semi) Definite Matrix"
+            }
+          },
+          {
+            "id": "f10edae00801944d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Linear Algebra/12. Singular Value Decomposition.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12. Singular Value Decomposition"
+            }
+          },
+          {
+            "id": "2600851ffb7c086e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Linear Algebra/13. Application of SVD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "13. Application of SVD"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -208,10 +264,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "71e9f1e7cf37f212",
+  "active": "2600851ffb7c086e",
   "lastOpenFiles": [
-    "Mathematics/Linear Algebra/8. Inner Product.md",
+    "Mathematics/Linear Algebra/12. Singular Value Decomposition.md",
+    "Mathematics/Linear Algebra/13. Application of SVD.md",
+    "Mathematics/Linear Algebra/11. Positive (Semi) Definite Matrix.md",
+    "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
     "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
+    "Mathematics/Linear Algebra/8. Inner Product.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
@@ -225,9 +285,6 @@
     "Computer Science/Computer Organization and Arch/3. Procedures.md",
     "Computer Science/Computer Organization and Arch/1. Computer Abstractions and Technology.md",
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
-    "Mathematics/Linear Algebra/12. Singular Value Decomposition.md",
-    "Mathematics/Linear Algebra/11. Positive (Semi) Definite Matrix.md",
-    "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
     "Personal/Introductory Logic/4. Conditional Proofs.md",
@@ -236,7 +293,6 @@
     "Personal/Introductory Logic/9. Asyllogistic Logic.md",
     "Personal/Introductory Logic/8. Syllogistic Logic.md",
     "Personal/Introductory Logic/7. Statement Logic as Formal System.md",
-    "Personal/Introductory Logic/3. Various Arguments.md",
     "Introductory Logic/Assignment",
     "Introductory Logic",
     "Attached Files/Pasted image 20250407032955.png",
