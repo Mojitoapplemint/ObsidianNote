@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "c7613ec53878d862",
@@ -164,8 +164,7 @@
               "title": "1. Basics of Complex Numbers"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -323,11 +322,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2beb9f7b722bec0d",
+  "active": "f10edae00801944d",
   "lastOpenFiles": [
+    "Textbook/Advanced Linear and Matrix Algebra.pdf",
     "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
     "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
-    "Textbook/Advanced Linear and Matrix Algebra.pdf",
     "Mathematics/Linear Algebra/8. Inner Product.md",
     "Mathematics/Complex Analysis/1. Basics of Complex Numbers.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
