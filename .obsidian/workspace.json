@@ -136,8 +136,7 @@
               "title": "Advanced Linear and Matrix Algebra"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -295,8 +294,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "31e46f3dfe94bbfd",
+  "active": "59ada183b891c044",
   "lastOpenFiles": [
+    "Mathematics/Linear Algebra/8. Inner Product.md",
     "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
     "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
     "Textbook/Advanced Linear and Matrix Algebra.pdf",
@@ -305,7 +305,6 @@
     "Mathematics/Linear Algebra/13. Application of SVD.md",
     "Mathematics/Linear Algebra/4. Matrices.md",
     "Mathematics/Complex Analysis/1. Basics of Complex Numbers.md",
-    "Mathematics/Linear Algebra/8. Inner Product.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
