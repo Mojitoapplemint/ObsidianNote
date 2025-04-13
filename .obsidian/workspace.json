@@ -134,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -291,10 +291,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2a18ef1c0e2466ec",
+  "active": "ab66b3dcd82066a9",
   "lastOpenFiles": [
-    "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
     "Mathematics/Linear Algebra/11. Positive (Semi) Definite Matrix.md",
+    "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
     "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
     "Mathematics/Linear Algebra/12. Singular Value Decomposition.md",
     "Mathematics/Linear Algebra/13. Application of SVD.md",
