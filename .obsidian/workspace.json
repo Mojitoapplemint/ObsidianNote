@@ -164,7 +164,8 @@
               "title": "1. Basics of Complex Numbers"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -322,7 +323,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "59ada183b891c044",
+  "active": "2beb9f7b722bec0d",
   "lastOpenFiles": [
     "Mathematics/Linear Algebra/12. Singular Value Decomposition.md",
     "Mathematics/Linear Algebra/13. Application of SVD.md",
