@@ -149,8 +149,23 @@
               "icon": "lucide-file-text",
               "title": "Advanced Linear and Matrix Algebra"
             }
+          },
+          {
+            "id": "5275115e3f9ec5c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Complex Analysis/1. Basics of Complex Numbers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Basics of Complex Numbers"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -308,18 +323,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ab66b3dcd82066a9",
+  "active": "2beb9f7b722bec0d",
   "lastOpenFiles": [
-    "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
-    "Mathematics/Linear Algebra/8. Inner Product.md",
-    "Mathematics/Linear Algebra/7. Linear Transformation.md",
-    "Textbook/Advanced Linear and Matrix Algebra.pdf",
     "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
+    "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
+    "Textbook/Advanced Linear and Matrix Algebra.pdf",
+    "Mathematics/Linear Algebra/8. Inner Product.md",
+    "Mathematics/Complex Analysis/1. Basics of Complex Numbers.md",
+    "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Linear Algebra/12. Singular Value Decomposition.md",
     "Mathematics/Linear Algebra/11. Positive (Semi) Definite Matrix.md",
     "Mathematics/Linear Algebra/13. Application of SVD.md",
     "Mathematics/Linear Algebra/4. Matrices.md",
-    "Mathematics/Complex Analysis/1. Basics of Complex Numbers.md",
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Computer Organization and Arch/11. Memory.md",
