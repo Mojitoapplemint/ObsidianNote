@@ -104,9 +104,23 @@
               "icon": "lucide-file",
               "title": "13. Application of SVD"
             }
+          },
+          {
+            "id": "cd06445e1936b2e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Complex Analysis/1. Basics of Complex Numbers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Basics of Complex Numbers"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -163,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ea82c962bd26e10b",
@@ -264,13 +277,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ab66b3dcd82066a9",
+  "active": "cd06445e1936b2e5",
   "lastOpenFiles": [
+    "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
     "Mathematics/Linear Algebra/11. Positive (Semi) Definite Matrix.md",
     "Mathematics/Linear Algebra/12. Singular Value Decomposition.md",
     "Mathematics/Linear Algebra/13. Application of SVD.md",
     "Mathematics/Complex Analysis/1. Basics of Complex Numbers.md",
-    "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
     "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
     "Mathematics/Linear Algebra/8. Inner Product.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
