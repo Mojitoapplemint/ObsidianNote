@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       },
       {
         "id": "c7613ec53878d862",
@@ -335,10 +335,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "59ada183b891c044",
+  "active": "35176ae642bb7554",
   "lastOpenFiles": [
-    "Mathematics/Linear Algebra/4. Matrices.md",
     "Textbook/Advanced Linear and Matrix Algebra.pdf",
+    "Mathematics/Linear Algebra/4. Matrices.md",
     "Mathematics/Linear Algebra/11. Positive (Semi) Definite Matrix.md",
     "Mathematics/Linear Algebra/13. Application of SVD.md",
     "Mathematics/Linear Algebra/12. Singular Value Decomposition.md",
