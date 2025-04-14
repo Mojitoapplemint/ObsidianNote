@@ -6,6 +6,7 @@
       {
         "id": "a5bfdbbbc303a7db",
         "type": "tabs",
+        "dimension": 38.660578386605785,
         "children": [
           {
             "id": "3753f242a358a255",
@@ -139,19 +140,18 @@
       {
         "id": "c7613ec53878d862",
         "type": "tabs",
+        "dimension": 61.339421613394215,
         "children": [
           {
             "id": "59ada183b891c044",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Mathematics/Theory of Computation/8. Turing Machine.md",
-                "mode": "source",
-                "source": false
+                "file": "Textbook/Introduction to the Theory of Computation.pdf"
               },
-              "icon": "lucide-file",
-              "title": "8. Turing Machine"
+              "icon": "lucide-file-text",
+              "title": "Introduction to the Theory of Computation"
             }
           },
           {
@@ -353,9 +353,9 @@
   },
   "active": "59ada183b891c044",
   "lastOpenFiles": [
+    "Mathematics/Theory of Computation/8. Turing Machine.md",
     "Mathematics/Theory of Computation/9. Decidability.md",
     "Textbook/Introduction to the Theory of Computation.pdf",
-    "Mathematics/Theory of Computation/8. Turing Machine.md",
     "Textbook/Advanced Linear and Matrix Algebra.pdf",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Linear Algebra/4. Matrices.md",
