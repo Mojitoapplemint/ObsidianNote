@@ -194,7 +194,8 @@
               "title": "4. Matrices"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -351,11 +352,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "59ada183b891c044",
+  "active": "aa1a3bdb50385251",
   "lastOpenFiles": [
-    "Textbook/Advanced Linear and Matrix Algebra.pdf",
+    "Textbook/Introduction to the Theory of Computation.pdf",
     "Mathematics/Theory of Computation/9. Decidability.md",
     "Mathematics/Theory of Computation/8. Turing Machine.md",
+    "Textbook/Advanced Linear and Matrix Algebra.pdf",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Linear Algebra/4. Matrices.md",
     "Mathematics/Linear Algebra/11. Positive (Semi) Definite Matrix.md",
@@ -384,7 +386,6 @@
     "Introductory Logic",
     "Attached Files/Pasted image 20250407032955.png",
     "Attached Files/Pasted image 20250406034448.png",
-    "Textbook/Introduction to the Theory of Computation.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
     "Textbook/Introduction to Reinforcement Learning.pdf",
