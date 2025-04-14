@@ -126,12 +126,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Theory of Computation/9. Decidability.md",
+                "file": "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. Decidability"
+              "title": "5. Context-Free Grammar"
             }
           }
         ],
@@ -351,13 +351,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "59ada183b891c044",
+  "active": "aa1a3bdb50385251",
   "lastOpenFiles": [
     "Mathematics/Theory of Computation/9. Decidability.md",
-    "Textbook/Introduction to the Theory of Computation.pdf",
-    "Textbook/Advanced Linear and Matrix Algebra.pdf",
-    "Mathematics/Theory of Computation/8. Turing Machine.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
+    "Textbook/Introduction to the Theory of Computation.pdf",
+    "Mathematics/Theory of Computation/8. Turing Machine.md",
+    "Textbook/Advanced Linear and Matrix Algebra.pdf",
+    "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
     "Mathematics/Linear Algebra/4. Matrices.md",
     "Mathematics/Linear Algebra/11. Positive (Semi) Definite Matrix.md",
     "Mathematics/Linear Algebra/13. Application of SVD.md",
@@ -380,7 +381,6 @@
     "Computer Science/Computer Organization and Arch/2. RISC-V Instructions.md",
     "Mathematics/Linear Algebra/2. Linear System.md",
     "Mathematics/Discrete Math/1. Basic Logic Fundamentals.md",
-    "Personal/Introductory Logic/4. Conditional Proofs.md",
     "Introductory Logic/Assignment",
     "Introductory Logic",
     "Attached Files/Pasted image 20250407032955.png",
