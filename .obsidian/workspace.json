@@ -194,8 +194,7 @@
               "title": "4. Matrices"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -352,10 +351,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "aa1a3bdb50385251",
+  "active": "59ada183b891c044",
   "lastOpenFiles": [
-    "Textbook/Introduction to the Theory of Computation.pdf",
     "Mathematics/Theory of Computation/9. Decidability.md",
+    "Textbook/Introduction to the Theory of Computation.pdf",
     "Mathematics/Theory of Computation/8. Turing Machine.md",
     "Textbook/Advanced Linear and Matrix Algebra.pdf",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
