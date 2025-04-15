@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -264,8 +264,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2a18ef1c0e2466ec",
+  "active": "f10edae00801944d",
   "lastOpenFiles": [
+    "Mathematics/Linear Algebra/11. Positive (Semi) Definite Matrix.md",
+    "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
     "Mathematics/Linear Algebra/12. Singular Value Decomposition.md",
     "Mathematics/Linear Algebra/6. Vector Space.md",
     "Textbook/Advanced Linear and Matrix Algebra.pdf",
@@ -276,11 +278,9 @@
     "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
     "Mathematics/Theory of Computation/8. Turing Machine.md",
-    "Mathematics/Linear Algebra/11. Positive (Semi) Definite Matrix.md",
     "Mathematics/Linear Algebra/13. Application of SVD.md",
     "Mathematics/Linear Algebra/9. Special Linear Transformation.md",
     "Mathematics/Linear Algebra/8. Inner Product.md",
-    "Mathematics/Linear Algebra/10. Matrix Decomposition.md",
     "Textbook/Computer Organization and Design RISC V Edition The HardwareSoftware Interface.pdf",
     "Computer Science/Computer Organization and Arch/11. Memory.md",
     "Computer Science/Computer Organization and Arch/10. Instruction-Level Parallelism(ILP).md",
