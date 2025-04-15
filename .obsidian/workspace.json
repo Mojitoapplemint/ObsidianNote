@@ -143,18 +143,6 @@
         "dimension": 61.339421613394215,
         "children": [
           {
-            "id": "59ada183b891c044",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Textbook/Introduction to the Theory of Computation.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Introduction to the Theory of Computation"
-            }
-          },
-          {
             "id": "2beb9f7b722bec0d",
             "type": "leaf",
             "state": {
@@ -194,7 +182,8 @@
               "title": "4. Matrices"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -226,7 +215,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nullity",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -247,7 +236,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -351,14 +341,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "59ada183b891c044",
+  "active": "f59ac781cd062602",
   "lastOpenFiles": [
+    "Textbook/Advanced Linear and Matrix Algebra.pdf",
+    "Textbook/Introduction to the Theory of Computation.pdf",
     "Mathematics/Theory of Computation/9. Decidability.md",
     "Mathematics/Theory of Computation/5. Context-Free Grammar.md",
     "Mathematics/Linear Algebra/7. Linear Transformation.md",
-    "Textbook/Introduction to the Theory of Computation.pdf",
     "Mathematics/Theory of Computation/8. Turing Machine.md",
-    "Textbook/Advanced Linear and Matrix Algebra.pdf",
     "Mathematics/Linear Algebra/4. Matrices.md",
     "Mathematics/Linear Algebra/11. Positive (Semi) Definite Matrix.md",
     "Mathematics/Linear Algebra/13. Application of SVD.md",
