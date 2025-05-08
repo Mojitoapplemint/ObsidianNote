@@ -8,5 +8,6 @@
   "obsidian-kanban",
   "better-export-pdf",
   "obsidian-pandoc",
-  "obsidian-export-image"
+  "obsidian-export-image",
+  "obsidian-regex-replace"
 ]
