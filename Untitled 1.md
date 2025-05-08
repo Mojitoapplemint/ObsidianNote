@@ -25,17 +25,26 @@ $\huge{2}.$ 다음 명제들의 진리값을 구하고, 진리값이 참이라�
 1) 바다와 접하고 있지 않은 나라가 존재한다.
 
 
-2) $n+5=2$인 정수 $n$이 존재한다
+2) $\exists \text{ }x\in \mathbb{Z}, \quad x+5=2$     ($n+5=2$인 정수 $n$이 존재한다)
 
 
-3) $\exists \text{ }x\in \mathbb{N}, \quad$
+3) 소수이면서 짝수인 자연수 $p$ 가 존재한다
 
 
-4) $\forall \text{ }x\in \mathbb{R}, \quad x^{2}>0$
+4) $\exists \text{ }x\in \mathbb{N}, \quad x+5=2$    ($x+5=2$인 자연수 $x$이 존재한다)
 
 
-5) $|y|=y$ 를 만족하는 음의 실수 $y$는 존재하지 않는다
+5) 파인애플을 피자를 좋아하는 사람이 존재한다
 
 
-6) $\forall \text{ }k\in \mathbb{N},\quad k+1>k$    (모든 자연수 $k$에 대하여, $k+1>k$이다)
+6) $\exists \text{ }y\in \mathbb{R}, \quad y^{2}=-1$
+
+
+---
+$\huge 3.$ 다음 명제들의 부정을 구하시오.
+
+1) 모든 정수 $n$에 대하여 $2n$은 짝수이다
+
+
+2) $\forall \text{ }x\in \mathbb{R}, \quad x^{2}>0$    (임의의 실수 $x$에 대하여 $x^{2}>0$이다)
 
