@@ -10,13 +10,18 @@ $\huge1.$ 다음 명제들의 진리값을 구하고, 진리값이 참이라면 
 3) $\forall \text{ }x\in \mathbb{R}, \quad x^{2}>0$    (임의의 실수 $x$에 대하여 $x^{2}>0$이다)
 
 
+
 4) $|y|=y$ 를 만족하는 음의 실수 $y$는 존재하지 않는다
+
 
 
 5) $\forall \text{ }k\in \mathbb{N},\quad k+1>k$    (모든 자연수 $k$에 대하여, $k+1>k$이다)
 
 
-6) $\forall \text{ }z\in \mathbb{R},\quad (z$ 이 짝수$)\to(ㅋ)$
+
+6) 명제 $\text{Even}(x)$: "$x$는 짝수이다", 라고 할 때,  $\forall \text{ }z\in \mathbb{N},\quad \text{Even}(z)\to\text{Even}(z^{2})$ 
+	 (모든 자연수 $z$ 에 대하여, 만약 $z$가 짝수이라면, $z^{2}$도 짝수이다)
+
 
 
 ---
@@ -28,16 +33,20 @@ $\huge{2}.$ 다음 명제들의 진리값을 구하고, 진리값이 참이라�
 2) $\exists \text{ }x\in \mathbb{Z}, \quad x+5=2$     ($n+5=2$인 정수 $n$이 존재한다)
 
 
-3) 소수이면서 짝수인 자연수 $p$ 가 존재한다
+
+3) $\exists \text{ }x\in \mathbb{N}, \quad x+5=2$    ($x+5=2$인 자연수 $x$이 존재한다)
 
 
-4) $\exists \text{ }x\in \mathbb{N}, \quad x+5=2$    ($x+5=2$인 자연수 $x$이 존재한다)
+
+4) 소수이면서 짝수인 자연수 $p$ 가 존재한다
 
 
-5) $\exists \text{ }y\in \mathbb{R}, \quad y^{2}=-1$
+
+5) $\exists \text{ }y\in \mathbb{R}, \quad y^{2}=-1$    ($y^{2}=-1$인 실수 $y$가 존재한다)
 
 
-6) $ext$
+
+6) $\exists \text{ }$
 
 
 ---
