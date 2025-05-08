@@ -76,6 +76,18 @@
             }
           },
           {
+            "id": "d90231680976c0e2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
+          },
+          {
             "id": "f10edae00801944d",
             "type": "leaf",
             "state": {
@@ -114,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -271,7 +283,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2a18ef1c0e2466ec",
+  "active": "d90231680976c0e2",
   "lastOpenFiles": [
     "Textbook/Discrete Mathematics With Graph Theory 3ed (2005).pdf",
     "Computer Science/Web-Development Bootcamp/The internet.md",
