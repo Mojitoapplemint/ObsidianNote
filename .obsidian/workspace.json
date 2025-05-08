@@ -79,12 +79,14 @@
             "id": "d90231680976c0e2",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "Untitled 1"
             }
           },
           {
@@ -285,6 +287,7 @@
   },
   "active": "d90231680976c0e2",
   "lastOpenFiles": [
+    "Textbook/A First Course in Complex Analysis.pdf",
     "Textbook/Discrete Mathematics With Graph Theory 3ed (2005).pdf",
     "Computer Science/Web-Development Bootcamp/The internet.md",
     "Mathematics/Linear Algebra/11. Positive (Semi) Definite Matrix.md",
@@ -322,7 +325,6 @@
     "Attached Files/Pasted image 20250406034448.png",
     "Computer Science/Reinforcement Learning 1/Papers/marl-book.pdf",
     "Computer Science/Reinforcement Learning 1/Papers/OliehoekAmato16book.pdf",
-    "Textbook/Introduction to Reinforcement Learning.pdf",
     "Attached Files/Pasted image 20250326152652.png",
     "Attached Files/Pasted image 20250326152634.png",
     "Attached Files/Pasted image 20250326141044.png",
