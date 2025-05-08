@@ -6,5 +6,7 @@
   "quick-latex",
   "obsidian-outliner",
   "obsidian-kanban",
-  "better-export-pdf"
+  "better-export-pdf",
+  "obsidian-pandoc",
+  "obsidian-export-image"
 ]

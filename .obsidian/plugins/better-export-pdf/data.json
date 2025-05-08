@@ -13,7 +13,7 @@
   "enabledCss": false,
   "concurrency": "5",
   "prevConfig": {
-    "pageSize": "A4",
+    "pageSize": "Tabloid",
     "marginType": "1",
     "showTitle": true,
     "open": true,
@@ -23,8 +23,8 @@
     "marginBottom": "10",
     "marginLeft": "10",
     "marginRight": "10",
-    "displayHeader": true,
-    "displayFooter": true,
+    "displayHeader": false,
+    "displayFooter": false,
     "cssSnippet": "0"
   }
 }
